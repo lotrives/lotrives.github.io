@@ -42,12 +42,6 @@ Aquí termina la prueba que he aprovechado, como decía, para algo que me parece
 
 Esta web es el archivo de [lotrives.substack.com](https://lotrives.substack.com). Autor: [José Manuel Grau Navarro](https://substack.com/@jmgraunavarro)
 
-<p class="post-tags">
-  <strong>Etiquetas:</strong>
-  <a href="{{ page.url }}#gmail">Gmail</a>, 
-  <a href="{{ page.url }}#spam">spam</a>
-</p>
-
 <style>
 .post-figure { margin: 1.25rem 0; text-align: center; }
 .post-figure img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
