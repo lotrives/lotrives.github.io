@@ -9,11 +9,10 @@ layout: default
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ page.date | date: "%-d %b %Y" | downcase }}
       </time>
-      {%- if page.author -%}
-        <span class="post-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
-          <span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span>
-        </span>
-      {%- endif -%}
+      <span class="sep"> — </span>
+      <span class="post-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <span class="p-author h-card" itemprop="name">{{ site.author | escape }}</span>
+      </span>
     </p>
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
   </header>
