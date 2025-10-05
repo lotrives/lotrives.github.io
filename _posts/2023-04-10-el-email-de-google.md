@@ -30,7 +30,7 @@ Con buen criterio, Google envía esos *emails* al buzón de *spam* (basura).
 
 Sin embargo, ¿no le sería posible a Google evitar por completo que <span class="break-email">info@r639u11mpx2rmawdwmcp.iyprswtrrgw8nam.5gy6izb1q7xsov0d0j.com</span> y otras muchas direcciones aparecieran en nuestros buzones, ni siquiera en el buzón de *spam*?
 
-*Queda aquí la petición.*
+Queda aquí la petición.
 
 No puedo escribir a Google porque no sé dónde hacerlo. En el *link* a continuación hay mucha lectura, pero tal vez poca ayuda a los efectos de esta entrada:
 
