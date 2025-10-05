@@ -20,17 +20,17 @@ Publicación original: [El email de Google en Substack](https://lotrives.substac
 
 Esta es una sencilla nota de prueba en *Substack*. Pero ya de paso aprovecho para lanzar una petición.
 
-Parece un fenómeno universal que, si una persona tiene un *email semántico de Google* (es decir, del estilo: *joseperez@gmail.com*), al cabo de un tiempo, de no demasiado tiempo, empiezan a lloverle correos basura con remitentes del estilo:
+Parece un fenómeno universal que, si una persona tiene un *email* semántico de Google (es decir, del estilo: *joseperez@gmail.com*), al cabo de un tiempo, de no demasiado tiempo, empiezan a lloverle correos basura con remitentes del estilo:
 
 <span class="break-email">info@r639u11mpx2rmawdwmcp.iyprswtrrgw8nam.5gy6izb1q7xsov0d0j.com</span>
 
-A lo peor, con cualquier *email* aunque no sea semántico (del estilo: *0987xy@gmail.com*) acontece lo mismo.
+A lo peor, con cualquier *email* aunque no sea semántico (del estilo: 0987xy@gmail.com) acontece lo mismo.
 
 Con buen criterio, Google envía esos *emails* al buzón de *spam* (basura).
 
 Sin embargo, ¿no le sería posible a Google evitar por completo que <span class="break-email">info@r639u11mpx2rmawdwmcp.iyprswtrrgw8nam.5gy6izb1q7xsov0d0j.com</span> y otras muchas direcciones aparecieran en nuestros buzones, ni siquiera en el buzón de *spam*?
 
-*Queda aquí la petición.*
+Queda aquí la petición.
 
 No puedo escribir a Google porque no sé dónde hacerlo. En el *link* a continuación hay mucha lectura, pero tal vez poca ayuda a los efectos de esta entrada:
 
