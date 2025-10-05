@@ -4,6 +4,8 @@ lang: "es"
 theme: minima
 show_excerpts: true
 
+author: "José Manuel Grau Navarro"
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
