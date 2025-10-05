@@ -1,0 +1,26 @@
+---
+---
+
+@import "minima"; /* Carga primero el CSS del tema */
+
+/* —— Ajustes tipo Substack —— */
+
+/* Columna de lectura cómoda */
+.wrapper { max-width: 760px; padding: 0 1.25rem; }
+
+/* Tipografía y ritmo */
+body { line-height: 1.72; }
+.post-content p { margin: 0 0 1.05rem; }
+
+/* Títulos sobrios */
+h1, .post-title { font-weight: 600; letter-spacing: -0.01em; }
+
+/* Ocultar el “Posts” de la portada */
+.home .page-heading { display: none; }
+
+/* En pantallas pequeñas, un pelín más de aire */
+@media (max-width: 680px) {
+  .wrapper { padding: 0 1rem; }
+  h1, .post-title { font-size: 1.6rem; }
+  .post-content { font-size: 1.02rem; }
+}
