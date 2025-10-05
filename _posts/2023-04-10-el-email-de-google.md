@@ -13,13 +13,25 @@ Publicación original: [El email de Google en Substack](https://lotrives.substac
 
 ### El email de Google
 
-A veces un mensaje aparentemente trivial muestra el modo en que una época entera cambia. Google anuncia que su servicio de correo electrónico, Gmail, cumple veinte años, y uno no puede evitar recordar los primeros días en que recibir una invitación para crear una cuenta era casi un privilegio. 
+Esta es una sencilla nota de prueba en Substack. Pero ya de paso aprovecho para lanzar una petición.
 
-Hoy Gmail es un espacio cotidiano, casi invisible. En él se mezclan cartas personales, notificaciones automáticas, boletines y restos de una vida que ya no distinguimos entre lo íntimo y lo público. Google no solo organiza nuestra bandeja de entrada: ha terminado organizando parte de nuestra memoria.
+Parece un fenómeno universal que si una persona tiene un email semántico de Google (es decir, del estilo: joseperez@gmail.com), al cabo de un tiempo, de no demasiado tiempo, empiezan a lloverle correos basura con remitentes del estilo:
 
-Las herramientas que usamos para comunicarnos acaban moldeando la forma en que pensamos. Lo que antes era espera y silencio —el tiempo entre una carta y su respuesta— se ha transformado en una presencia constante. El correo electrónico, que nació con la promesa de acelerar la comunicación, ha terminado por borrar la frontera entre el trabajo y el descanso.
+info@r639u11mpx2rmawdwmcp.iyprswtrrgw8nam.5gy6izb1q7xsov0d0j.com
 
-Quizá la enseñanza del “email de Google” no sea tecnológica, sino humana: nos recuerda que cada novedad que adoptamos cambia algo en nosotros, incluso cuando creemos que solo estamos abriendo una cuenta más.
+A lo peor, con cualquier email aunque no sea semántico (del estilo: 0987xy@gmail.com) acontece lo mismo.
+
+Con buen criterio, Google envía esos emails al buzón de spam (basura).
+
+Sin embargo, ¿no le sería posible a Google evitar por completo que info@r639u11mpx2rmawdwmcp.iyprswtrrgw8nam.5gy6izb1q7xsov0d0j.com y otras muchas direcciones aparecieran en nuestros buzones, ni siquiera en el buzón de spam?
+
+Queda aquí la petición.
+
+No puedo escribir a Google porque no sé dónde hacerlo. En el link a continuación hay mucha lectura, pero tal vez poca ayuda a los efectos de esta entrada.
+
+[https://about.google/intl/ALL_mx/contact-google/](https://about.google/intl/ALL_mx/contact-google/)
+
+Aquí termina la prueba que he aprovechado, como decía, para algo que me parece muy necesario corregir.
 
 ---
 
