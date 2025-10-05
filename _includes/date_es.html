@@ -1,10 +1,12 @@
 {% comment %}
 Fecha en español: "10 abril 2023".
 Funciona en GitHub Pages sin plugins.
+Admite page.date (post) o include.date (listados).
 {% endcomment %}
 
-{% assign m_str = page.date | date: "%-m" %}
+{% assign src_date = include.date | default: page.date %}
+{% assign m_str = src_date | date: "%-m" %}
 {% assign m = m_str | plus: 0 %}
 {% assign idx = m | minus: 1 %}
 {% assign meses = "enero,febrero,marzo,abril,mayo,junio,julio,agosto,septiembre,octubre,noviembre,diciembre" | split: "," %}
-{{ page.date | date: "%-d" }} {{ meses[idx] }} {{ page.date | date: "%Y" }}
+{{ src_date | date: "%-d" }} {{ meses[idx] }} {{ src_date | date: "%Y" }}
