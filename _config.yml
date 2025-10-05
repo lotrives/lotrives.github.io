@@ -1,0 +1,10 @@
+title: "Lotrives"
+description: "Crónicas sobre lo humano y lo divino · Archivo de lotrives.substack.com"
+lang: "es"
+theme: minima
+show_excerpts: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
