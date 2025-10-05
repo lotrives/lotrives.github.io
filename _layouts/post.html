@@ -16,23 +16,23 @@ layout: default
   </div>
 
   <footer class="post-footer">
-    {% if page.categories %}
+    {%- if page.categories and page.categories.size > 0 -%}
       <p class="post-categories">
         <strong>Categorías:</strong>
-        {% for category in page.categories %}
+        {%- for category in page.categories -%}
           <a href="{{ site.baseurl }}/categories/{{ category | slugify }}/">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
-        {% endfor %}
+        {%- endfor -%}
       </p>
-    {% endif %}
+    {%- endif -%}
 
-    {% if page.tags %}
+    {%- if page.tags and page.tags.size > 0 -%}
       <p class="post-tags">
         <strong>Etiquetas:</strong>
-        {% for tag in page.tags %}
+        {%- for tag in page.tags -%}
           <a href="{{ site.baseurl }}/tags/{{ tag | slugify }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
-        {% endfor %}
+        {%- endfor -%}
       </p>
-    {% endif %}
+    {%- endif -%}
   </footer>
 
 </article>
