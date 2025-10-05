@@ -1,0 +1,8 @@
+{% comment %}
+Convierte la fecha de publicación al formato español sin depender de plugins externos.
+Usa el mes en texto (enero, febrero, etc.).
+{% endcomment %}
+
+{% assign m = page.date | date: "%-m" | plus: 0 %}
+{% assign meses = "enero,febrero,marzo,abril,mayo,junio,julio,agosto,septiembre,octubre,noviembre,diciembre" | split: "," %}
+{{ page.date | date: "%-d" }} {{ meses[m-1] }} {{ page.date | date: "%Y" }}
