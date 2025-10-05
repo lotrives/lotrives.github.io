@@ -21,4 +21,7 @@ title: Lotrives
 .post-meta { color:#6b7280; margin:0 0 .5rem 0; }
 .post-title { margin:.25rem 0 1rem 0; font-weight:800; }
 .post-excerpt { margin-top:.5rem; }
+
+/* Oculta cualquier bloque de categorías o etiquetas en listados o posts */
+.post-categories, .post-tags { display: none !important; }
 </style>
