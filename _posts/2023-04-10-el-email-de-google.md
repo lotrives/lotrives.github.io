@@ -43,7 +43,7 @@ Aquí termina la prueba que he aprovechado, como decía, para algo que me parece
 Esta web es el archivo de [lotrives.substack.com](https://lotrives.substack.com). Autor: [José Manuel Grau Navarro](https://substack.com/@jmgraunavarro)
 
 <!-- Etiquetas manuales que NO llevan a 404 (enlazan a este mismo post) -->
-<p class="manual-tags"><strong>Etiquetas:</strong> <a href="{{ page.url }}">Gmail</a>, <a href="{{ page.url }}">spam</a></p>
+<p class="manual-tags"><strong>Etiquetas:</strong> <a href="{{ page.url }}">Gmail</a></p>
 
 <style>
 /* Imagen y pie */
