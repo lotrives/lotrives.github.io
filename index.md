@@ -19,3 +19,5 @@ permalink: /
 
   <p style="margin-top:1.5rem;">Puedes explorar el contenido por <a href="/temas/">temas</a> o consultar el <a href="/archivo/">archivo completo</a>. Para recibir las nuevas publicaciones, suscríbete a la <a href="/newsletter/">newsletter</a>.</p>
 </section>
+Última actualización: 4 de noviembre de 2025
+
