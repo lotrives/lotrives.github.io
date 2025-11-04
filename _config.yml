@@ -1,0 +1,32 @@
+title: Lotrives
+author:
+  name: José Manuel Grau Navarro
+description: >-
+  Lotrives. Una mirada al mundo que somos
+
+url: "https://lotrives.github.io"
+baseurl: ""
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+show_excerpts: true
+timezone: Europe/Madrid
+lang: es
+
+social_links:
+  substack: https://lotrives.substack.com
+  github: lotrives
+
+header_pages:
+  - acerca.md
+  - newsletter.md
+  - temas.md
+  - archivo.md
