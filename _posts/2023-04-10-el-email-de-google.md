@@ -5,7 +5,7 @@ date: 2023-04-10 08:00:00 +0200
 author: José Manuel Grau Navarro
 canonical_url: https://lotrives.substack.com/p/el-email-de-google
 description: "Ideas para mejorar el correo electrónico de Google."
-tags: [Gmail, spam]
+tags: [Gmail]
 ---
 
 Publicación original: [El email de Google en Substack](https://lotrives.substack.com/p/el-email-de-google)
