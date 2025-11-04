@@ -16,3 +16,16 @@ baseurl: ""
 # Opcional: idioma y formato de fecha
 lang: "es"
 show_excerpts: true
+
+# --- Lotrives: logo, favicon y previsualización social ---
+logo: /assets/images/logo.png
+
+# Usaremos el mismo archivo temporalmente como favicon; luego
+# añadiremos las etiquetas <link> en el head para que todos
+# los navegadores lo detecten sin problemas.
+favicon: /assets/images/logo.png
+
+# Imagen por defecto para Open Graph / X (Twitter)
+social:
+  image: /assets/images/logo.png
+  twitter_card: summary_large_image
