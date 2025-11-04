@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'es' }}">
+  <head>
+    {%- include head.html -%}
+    {%- include head-custom.html -%}
+  </head>
+  <body>
+    <header>
+      <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+    </header>
+    <main class="page-content" aria-label="Content">
+      {{ content }}
+    </main>
+    <footer>
+      <p>{{ site.description }}</p>
+    </footer>
+  </body>
+</html>
