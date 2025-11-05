@@ -17,8 +17,9 @@ Más sobre [Andrés Ollero](https://www.nuevarevista.net/andres-ollero-y-la-demo
 
 <br>
 
-<strong>Etiquetas:</strong>
-<a href="{{ site.baseurl }}/tags/#andres-ollero">Andrés Ollero</a>,
-<a href="{{ site.baseurl }}/tags/#lecturas">Lecturas</a>
+Etiquetas:
+{% for tag in page.tags %}
+  <a href="{{ '/etiquetas/#' | append: tag | slugify: 'latin' | relative_url }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+{% endfor %}
 
 José Manuel Grau Navarro
