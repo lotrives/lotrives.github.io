@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cuaderno de notas · Noviembre de 2025"
-excerpt: "¿No será que son los políticos, al rehuir sus responsabilidades, quienes fuerzan a los jueces a resolver problemas de los preferirían mantenerse al margen?"
+excerpt: "«¿No será que son los políticos, al rehuir sus responsabilidades, quienes fuerzan a los jueces a resolver problemas de los preferirían mantenerse al margen?»"
 tags: [Andrés Ollero, Lecturas]
 ---
 
@@ -25,4 +25,4 @@ Más sobre [Andrés Ollero](https://www.nuevarevista.net/andres-ollero-y-la-demo
 {%- endfor -%}
 </p>
 
-<h5>Autor: José Manuel Grau Navarro
+<h4>Autor: José Manuel Grau Navarro
