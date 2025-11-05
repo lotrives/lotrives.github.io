@@ -5,7 +5,7 @@ permalink: /acerca/
 description: "Lotrives es la web personal de José Manuel Grau Navarro, donde ofrece su mirada al mundo que somos para comprender mejor a las personas, la sociedad y la Iglesia"
 ---
 
-**Lotrives** es la nueva web de José Manuel Grau Navarro. Nace a partir del fondo que ya posee en [lotrives.substack.com](https://lotrives.substack.com)
+**Lotrives** es la nueva web de José Manuel Grau Navarro. Nace a partir del fondo que ya posee en [lotrives.substack.com](https://lotrives.substack.com).
 
 Lotrives ofrece su «mirada al mundo que somos» para comprender mejor a las personas, la sociedad y la Iglesia. Es el *alter ego* de José Manuel Grau Navarro, director de *Nueva Revista*, doctor en Periodismo (Universidad de Navarra) y licenciado en Ciencias Físicas (Universidad Complutense de Madrid). Ha sido corresponsal de *ABC* en Viena y Varsovia, y director de Comunicación del Ministerio de Educación y Cultura.
 
@@ -19,10 +19,13 @@ Para recibir las nuevas publicaciones, suscríbete a la [newsletter](/newsletter
 
 ---
 
+
 ### Libros de Lotrives
 [https://www.amazon.com/author/jmgraunavarro](https://www.amazon.com/author/jmgraunavarro)
 
 ### Contacto  
 [X](https://x.com/jmgraunavarro) · [LinkedIn](https://www.linkedin.com/in/jose-manuel-grau-navarro)
+
+
 
 © Lotrives · © José Manuel Grau Navarro
