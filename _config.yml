@@ -2,8 +2,7 @@ title: Lotrives
 description: "Una mirada al mundo que somos"
 theme: minima
 
-author:
-  name: "José Manuel Grau Navarro"
+author: "José Manuel Grau Navarro"
 
 header_pages:
   - acerca.md
