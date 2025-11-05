@@ -1,31 +1,20 @@
-title: "Lotrives"
-author: "José Manuel Grau Navarro"
+title: Lotrives
 description: "Una mirada al mundo que somos"
-
 theme: minima
 
-# Opcional: configuración de enlaces y posts
-markdown: kramdown
+# Menú simple (no pongas index.md aquí)
+header_pages:
+  - acerca.md
+  - archivo.md
+  - newsletter.md
+  - temas.md
+
+# Opcionales recomendados (compatibles con GitHub Pages)
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-# Datos del sitio
-url: "https://lotrives.github.io"
-baseurl: ""
-
-# Opcional: idioma y formato de fecha
-lang: "es"
-show_excerpts: true
-
-# --- Lotrives: logo, favicon y previsualización social ---
-logo: /assets/images/logo.png
-
-# Usaremos el mismo archivo temporalmente como favicon; luego
-# añadiremos las etiquetas <link> en el head para que todos
-# los navegadores lo detecten sin problemas.
-favicon: /assets/images/logo.png
-
-# Imagen por defecto para Open Graph / X (Twitter)
-social:
-  image: /assets/images/logo.png
-  twitter_card: summary_large_image
+# Extras cómodos
+show_excerpts: true        # la home muestra el excerpt del post si lo hay
+timezone: Europe/Madrid
