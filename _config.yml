@@ -2,19 +2,19 @@ title: Lotrives
 description: "Una mirada al mundo que somos"
 theme: minima
 
-# Menú simple (no pongas index.md aquí)
+author:
+  name: "José Manuel Grau Navarro"
+
 header_pages:
   - acerca.md
   - archivo.md
   - newsletter.md
-  - temas.md
+  - etiquetas.md
 
-# Opcionales recomendados (compatibles con GitHub Pages)
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Extras cómodos
-show_excerpts: true        # la home muestra el excerpt del post si lo hay
+show_excerpts: true
 timezone: Europe/Madrid
