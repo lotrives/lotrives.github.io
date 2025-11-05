@@ -15,11 +15,10 @@ Sobre la politización de la justicia, se pregunta:
 
 Más sobre [Andrés Ollero](https://www.nuevarevista.net/andres-ollero-y-la-democracia-como-el-mentis-radical-al-relativismo/)
 
-<br>
-
-Etiquetas:
-{% for tag in page.tags %}
-  <a href="{{ '/etiquetas/#' | append: tag | slugify: 'latin' | relative_url }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
-{% endfor %}
+<p>Etiquetas:
+{%- for tag in page.tags -%}
+<a href="{{ '/etiquetas/' | relative_url }}#{{ tag | slugify: 'latin' }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless -%}
+{%- endfor -%}
+</p>
 
 José Manuel Grau Navarro
