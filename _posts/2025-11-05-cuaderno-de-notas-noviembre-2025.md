@@ -25,4 +25,4 @@ Más sobre [Andrés Ollero](https://www.nuevarevista.net/andres-ollero-y-la-demo
 {%- endfor -%}
 </p>
 
-<h4>Autor: José Manuel Grau Navarro
+Autor: José Manuel Grau Navarro
