@@ -19,9 +19,9 @@ Sobre la politización de la justicia, se pregunta: «¿No será que son los pol
 
 Más sobre [Andrés Ollero](https://www.nuevarevista.net/andres-ollero-y-la-democracia-como-el-mentis-radical-al-relativismo/)
 
-<p>Etiquetas: 
+<p>
 {%- for tag in page.tags -%}
-<a href="{{ '/etiquetas/' | relative_url }}#{{ tag | slugify: 'latin' }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless -%}
+<a href="{{ '/etiquetas/' | relative_url }}#{{ tag | slugify: 'latin' }}">#{{ tag }}</a>{% unless forloop.last %} · {% endunless -%}
 {%- endfor -%}
 </p>
 
