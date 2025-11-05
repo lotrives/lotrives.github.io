@@ -15,10 +15,3 @@ permalink: /newsletter/
     scrolling="no">
   </iframe>
 </div>
-
-<p style="margin-top:1rem; text-align:center;">
-  También puedes leer todas las entregas en 
-  <a href="https://lotrives.substack.com" target="_blank" rel="noopener">
-    lotrives.substack.com
-  </a>.
-</p>
