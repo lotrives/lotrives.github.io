@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Cuaderno de notas · Noviembre de 2025"
-excerpt: "«¿No será que son los políticos, al rehuir sus responsabilidades, quienes fuerzan a los jueces a resolver problemas de los preferirían mantenerse al margen?»"
+excerpt: "Escenas y fragmentos"
 tags: [Andrés Ollero, Lecturas]
 ---
 
-<h2>Escenas y fragmentos</h2>
+<h3>Escenas y fragmentos</h3>
 
 **Miércoles, 5 de noviembre de 2025**. Ayer me llegó este libro:
   

@@ -18,7 +18,8 @@ Puedes explorar el contenido por [etiquetas](/etiquetas/) o consultar el [archiv
 Para recibir las nuevas publicaciones, suscríbete a la [newsletter](/newsletter/).
 
 ### Libros de Lotrives
-[https://www.amazon.com/author/jmgraunavarro](https://www.amazon.com/author/jmgraunavarro)
+[Libros en Amazon](https://www.amazon.com/author/jmgraunavarro)
+
 
 ### Contacto  
 [X](https://x.com/jmgraunavarro) · [LinkedIn](https://www.linkedin.com/in/jose-manuel-grau-navarro)
