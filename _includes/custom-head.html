@@ -1,38 +1,54 @@
-<!-- _includes/custom-head.html -->
-<!-- Lunr: búsqueda en cliente (ligera, sin servidor) -->
-<script src="https://unpkg.com/lunr/lunr.min.js" defer></script>
-<!-- Tu script de búsqueda -->
-<script src="{{ '/assets/js/search.js' | relative_url }}" defer></script>
-
-<style>
-  /* Estilos mínimos, en línea con el look de minima */
-  .ltv-search-btn {
-    position: fixed; right: 1rem; top: 1rem; z-index: 9999;
-    background: transparent; border: 0; cursor: pointer; font-size: 1.1rem;
-    padding: .35rem .5rem; border-radius: .5rem;
-  }
-  .ltv-search-btn:focus { outline: 2px solid #999; }
-
-  .ltv-search-modal {
-    position: fixed; inset: 0; display: none; z-index: 10000;
-    background: rgba(0,0,0,.35);
-  }
-  .ltv-search-panel {
-    max-width: 680px; margin: 10vh auto; background: #fff; padding: 1rem 1rem 0 1rem;
-    border-radius: .75rem; box-shadow: 0 10px 30px rgba(0,0,0,.2);
-  }
-  .ltv-search-input {
-    width: 100%; font-size: 1rem; padding: .65rem .8rem; border: 1px solid #ddd; border-radius: .5rem;
-  }
-  .ltv-search-meta { font-size: .85rem; color: #666; margin: .5rem 0 0 0; }
-  .ltv-search-results { list-style: none; padding: 0; margin: .75rem 0 0 0; max-height: 60vh; overflow: auto; }
-  .ltv-search-results li { padding: .6rem 0; border-top: 1px solid #eee; }
-  .ltv-search-results a { text-decoration: none; }
-  .ltv-snippet { color:#555; font-size: .95rem; margin-top: .25rem; }
-  .ltv-close {
-    background: transparent; border: 0; font-size: 1.25rem; cursor: pointer; padding:.25rem .5rem; line-height:1;
-  }
-  @media (max-width: 480px) {
-    .ltv-search-panel { margin: 6vh .8rem; }
-  }
-</style>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2685.2">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Verdana}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Verdana; min-height: 15.0px}
+  </style>
+</head>
+<body>
+<p class="p1">&lt;!-- _includes/custom-head.html --&gt;</p>
+<p class="p1">&lt;!-- Lunr: búsqueda en cliente (ligera, sin servidor) --&gt;</p>
+<p class="p1">&lt;script src="https://unpkg.com/lunr/lunr.min.js" defer&gt;&lt;/script&gt;</p>
+<p class="p1">&lt;!-- Tu script de búsqueda --&gt;</p>
+<p class="p1">&lt;script src="{{ '/assets/js/search.js' | relative_url }}" defer&gt;&lt;/script&gt;</p>
+<p class="p2"><br></p>
+<p class="p1">&lt;style&gt;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>/* Estilos mínimos, en línea con el look de minima */</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.ltv-search-btn {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>position: fixed; right: 1rem; top: 1rem; z-index: 9999;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>background: transparent; border: 0; cursor: pointer; font-size: 1.1rem;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>padding: .35rem .5rem; border-radius: .5rem;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.ltv-search-btn:focus { outline: 2px solid #999; }</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">  </span>.ltv-search-modal {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>position: fixed; inset: 0; display: none; z-index: 10000;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>background: rgba(0,0,0,.35);</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.ltv-search-panel {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>max-width: 680px; margin: 10vh auto; background: #fff; padding: 1rem 1rem 0 1rem;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>border-radius: .75rem; box-shadow: 0 10px 30px rgba(0,0,0,.2);</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.ltv-search-input {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>width: 100%; font-size: 1rem; padding: .65rem .8rem; border: 1px solid #ddd; border-radius: .5rem;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.ltv-search-meta { font-size: .85rem; color: #666; margin: .5rem 0 0 0; }</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.ltv-search-results { list-style: none; padding: 0; margin: .75rem 0 0 0; max-height: 60vh; overflow: auto; }</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.ltv-search-results li { padding: .6rem 0; border-top: 1px solid #eee; }</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.ltv-search-results a { text-decoration: none; }</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.ltv-snippet { color:#555; font-size: .95rem; margin-top: .25rem; }</p>
+<p class="p1"><span class="Apple-converted-space">  </span>.ltv-close {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>background: transparent; border: 0; font-size: 1.25rem; cursor: pointer; padding:.25rem .5rem; line-height:1;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p1"><span class="Apple-converted-space">  </span>@media (max-width: 480px) {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>.ltv-search-panel { margin: 6vh .8rem; }</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p1">&lt;/style&gt;</p>
+</body>
+</html>

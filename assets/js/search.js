@@ -4,6 +4,7 @@
   document.addEventListener('DOMContentLoaded', init);
 
   function init() {
+    // 1) Botón de lupa fijo
     const btn = document.createElement('button');
     btn.className = 'ltv-search-btn';
     btn.setAttribute('aria-label', 'Abrir buscador');
@@ -11,6 +12,7 @@
     btn.innerHTML = '🔍';
     document.body.appendChild(btn);
 
+    // 2) Modal + panel
     const modal = document.createElement('div');
     modal.className = 'ltv-search-modal';
     modal.innerHTML = `
@@ -29,6 +31,7 @@
     const close = modal.querySelector('.ltv-close');
     const resultsEl = modal.querySelector('.ltv-search-results');
 
+    // 3) Eventos UI
     btn.addEventListener('click', open);
     close.addEventListener('click', closeModal);
     modal.addEventListener('click', (e) => { if (e.target === modal) closeModal(); });
@@ -48,6 +51,7 @@
       return tag === 'input' || tag === 'textarea' || ev.target.isContentEditable;
     }
 
+    // 4) Cargar índice
     let idx = null;
     let docs = [];
     fetch('{{ "/search.json" | relative_url }}')
@@ -61,8 +65,10 @@
           this.metadataWhitelist = ['position'];
           docs.forEach(d => this.add(d));
         });
-      });
+      })
+      .catch(() => { /* no rompe la página si falla */ });
 
+    // 5) Buscar en tiempo real
     let lastQuery = '';
     input.addEventListener('input', () => {
       const q = (input.value || '').trim();
@@ -88,13 +94,21 @@
       });
     });
 
+    // Utilidades
     function escapeHTML(str) {
       return (str || '').replace(/[&<>"']/g, (m) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
     }
     function makeSnippet(text, query, width) {
       text = (text || '').replace(/\s+/g, ' ').trim();
       const q = query.split(/\s+/)[0];
-      const i =
-
-ls -l assets/js/search.js
-
+      const i = text.toLowerCase().indexOf(q.toLowerCase());
+      if (i < 0) return escapeHTML(text.slice(0, width)) + (text.length > width ? '…' : '');
+      const start = Math.max(0, i - Math.floor(width/2));
+      const end   = Math.min(text.length, start + width);
+      const raw = (start > 0 ? '…' : '') + text.slice(start, end) + (end < text.length ? '…' : '');
+      const rx = new RegExp(`(${escapeRegExp(q)})`, 'ig');
+      return escapeHTML(raw).replace(rx, '<mark>$1</mark>');
+    }
+    function escapeRegExp(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
+  }
+})();
