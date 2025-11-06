@@ -30,13 +30,14 @@
   }
 
   async function buildIndex() {
-    // Usa relative_url para que funcione siempre
-    const jsonURL = "{{ '/search.json' | relative_url }}";
+    // IMPORTANTE: ruta absoluta, sin Liquid (Jekyll no procesa Liquid en /assets/)
+    const jsonURL = "/search.json";
     const res = await fetch(jsonURL, { cache: "no-store" });
-    documents = await res.json();
+    if (!res.ok) throw new Error("No se pudo cargar search.json");
+    const raw = await res.json();
 
-    // Prepara campos normalizados (sin tildes) para indexar
-    const docsForIndex = documents.map(d => ({
+    // Guarda versión completa y prepara campos normalizados
+    documents = raw.map(d => ({
       id: d.id,
       url: d.url,
       title: d.title || "",
@@ -51,22 +52,18 @@
 
     index = lunr(function () {
       this.ref("id");
-      // Campos “invisibles” normalizados para mejores matches
       this.field("_title", { boost: 8 });
       this.field("_tags", { boost: 5 });
       this.field("_content");
 
-      // Quita stemmer y stopwords (mejor para español sin paquete extra)
+      // Sin stemmer ni stopwords (mejor para español sin paquete extra)
       this.pipeline.remove(lunr.stemmer);
       this.pipeline.remove(lunr.stopWordFilter);
       this.searchPipeline.remove(lunr.stemmer);
       this.searchPipeline.remove(lunr.stopWordFilter);
 
-      docsForIndex.forEach(doc => this.add(doc));
+      documents.forEach(doc => this.add(doc));
     });
-
-    // Guarda versión completa (no normalizada) para pintar
-    documents = docsForIndex;
   }
 
   function render(results, q) {
@@ -125,7 +122,6 @@
 
   // Inicialización
   buildIndex().then(() => {
-    // Buscar al pulsar Enter o al escribir (tras breve pausa)
     let t;
     $input.addEventListener("keydown", (ev) => {
       if (ev.key === "Enter") doSearch($input.value);
@@ -135,5 +131,8 @@
       t = setTimeout(() => doSearch($input.value), 200);
     });
     $input.addEventListener("change", () => doSearch($input.value));
+  }).catch(err => {
+    // Si hubiera cualquier error de carga, lo mostramos en stats para detectarlo rápido
+    $stats.textContent = "Error al inicializar buscador: " + (err && err.message ? err.message : err);
   });
 })();
