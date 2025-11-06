@@ -9,6 +9,8 @@ header_pages:
   - archivo.md
   - newsletter.md
   - etiquetas.md
+  - buscar.md
+
 
 plugins:
   - jekyll-feed
