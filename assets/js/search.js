@@ -1,7 +1,7 @@
 (function () {
-  const $input = document.getElementById("search-input");
+  const $input   = document.getElementById("search-input");
   const $results = document.getElementById("search-results");
-  const $stats = document.getElementById("search-stats");
+  const $stats   = document.getElementById("search-stats");
 
   let index = null;
   let documents = [];
@@ -16,7 +16,9 @@
   }
 
   function escapeHTML(s) {
-    return s.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    return (s || "").replace(/[&<>"']/g, c => ({
+      '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+    }[c]));
   }
 
   function snippet(text, q, len = 160) {
@@ -30,13 +32,12 @@
   }
 
   async function buildIndex() {
-    // IMPORTANTE: ruta absoluta, sin Liquid (Jekyll no procesa Liquid en /assets/)
-    const jsonURL = "/search.json";
-    const res = await fetch(jsonURL, { cache: "no-store" });
+    // Ruta absoluta: /search.json (sin Liquid aquí)
+    const res = await fetch("/search.json", { cache: "no-store" });
     if (!res.ok) throw new Error("No se pudo cargar search.json");
     const raw = await res.json();
 
-    // Guarda versión completa y prepara campos normalizados
+    // Versiones completas + campos normalizados
     documents = raw.map(d => ({
       id: d.id,
       url: d.url,
@@ -52,11 +53,11 @@
 
     index = lunr(function () {
       this.ref("id");
-      this.field("_title", { boost: 8 });
-      this.field("_tags", { boost: 5 });
+      this.field("_title",   { boost: 8 });
+      this.field("_tags",    { boost: 5 });
       this.field("_content");
 
-      // Sin stemmer ni stopwords (mejor para español sin paquete extra)
+      // Sin stemmer ni stopwords (mejor para ES sin paquetes extra)
       this.pipeline.remove(lunr.stemmer);
       this.pipeline.remove(lunr.stopWordFilter);
       this.searchPipeline.remove(lunr.stemmer);
@@ -79,19 +80,19 @@
       const doc = documents.find(d => d.id === r.ref);
       if (!doc) return;
 
+      // <a> de punta a punta para que un clic baste
       const li = document.createElement("li");
-      li.style.margin = "0 0 1rem 0";
+      li.className = "sr-item";
       li.innerHTML = `
-        <a href="${doc.url}" style="font-weight:700; text-decoration:none;">
-          ${escapeHTML(doc.title || doc.url)}
+        <a class="sr-link" href="${doc.url}">
+          <strong>${escapeHTML(doc.title || doc.url)}</strong>
+          <br>
+          <small>${escapeHTML(snippet(doc._content || "", q))}</small>
+          ${doc._tags ? `
+            <div class="sr-tags">
+              ${escapeHTML(doc.tags).split(" ").filter(Boolean).map(t => `#${t}`).join(" · ")}
+            </div>` : ``}
         </a>
-        <div style="font-size:.9rem; color:#555; margin:.25rem 0;">
-          ${escapeHTML(snippet(doc._content || "", q))}
-        </div>
-        ${doc._tags ? `
-          <div style="font-size:.85rem; color:#666;">
-            ${escapeHTML(doc.tags).split(" ").filter(Boolean).map(t => `#${t}`).join(" · ")}
-          </div>` : ``}
       `;
       frag.appendChild(li);
     });
@@ -99,8 +100,11 @@
   }
 
   function buildQuery(q) {
-    // Tokeniza, elimina caracteres raros, aplica comodín por defecto
-    const tokens = norm(q).replace(/[^\p{L}\p{N}\s#*]/gu, " ").trim().split(/\s+/).filter(Boolean);
+    // Tokeniza, filtra y aplica comodín por defecto
+    const tokens = norm(q)
+      .replace(/[^\p{L}\p{N}\s#*]/gu, " ")
+      .trim().split(/\s+/).filter(Boolean);
+
     if (!tokens.length) return "";
     return tokens.map(token => {
       if (token.startsWith("#")) return token.slice(1) + "*";
@@ -115,7 +119,7 @@
       if (!query) { render([], q); return; }
       const results = index.search(query);
       render(results, q);
-    } catch (e) {
+    } catch (_) {
       render([], q);
     }
   }
@@ -132,7 +136,7 @@
     });
     $input.addEventListener("change", () => doSearch($input.value));
   }).catch(err => {
-    // Si hubiera cualquier error de carga, lo mostramos en stats para detectarlo rápido
     $stats.textContent = "Error al inicializar buscador: " + (err && err.message ? err.message : err);
   });
+
 })();
