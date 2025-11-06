@@ -6,13 +6,23 @@
   let index = null;
   let documents = [];
 
+  // Normaliza tildes y minúsculas para mejores coincidencias en español
+  function norm(s) {
+    return (s || "")
+      .toString()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .toLowerCase();
+  }
+
   function escapeHTML(s) {
     return s.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   }
 
   function snippet(text, q, len = 160) {
     if (!text) return "";
-    const i = text.toLowerCase().indexOf(q.toLowerCase());
+    const t = norm(text);
+    const i = t.indexOf(norm(q));
     if (i === -1) return text.slice(0, len) + (text.length > len ? "…" : "");
     const start = Math.max(0, i - Math.floor(len / 3));
     const end = Math.min(text.length, start + len);
@@ -20,22 +30,43 @@
   }
 
   async function buildIndex() {
-    const res = await fetch("/search.json", { cache: "no-store" });
+    // Usa relative_url para que funcione siempre
+    const jsonURL = "{{ '/search.json' | relative_url }}";
+    const res = await fetch(jsonURL, { cache: "no-store" });
     documents = await res.json();
+
+    // Prepara campos normalizados (sin tildes) para indexar
+    const docsForIndex = documents.map(d => ({
+      id: d.id,
+      url: d.url,
+      title: d.title || "",
+      tags: (d.tags || []).join(" "),
+      content: (d.title || "") + " " + (d.excerpt || "") + " " + (d.content || "")
+    })).map(d => ({
+      ...d,
+      _title: norm(d.title),
+      _tags: norm(d.tags),
+      _content: norm(d.content)
+    }));
 
     index = lunr(function () {
       this.ref("id");
-      this.field("title", { boost: 8 });
-      this.field("tags", { boost: 5 });
-      this.field("content");
+      // Campos “invisibles” normalizados para mejores matches
+      this.field("_title", { boost: 8 });
+      this.field("_tags", { boost: 5 });
+      this.field("_content");
 
-      documents.forEach(doc => this.add({
-        id: doc.id,
-        title: doc.title || "",
-        tags: (doc.tags || []).join(" "),
-        content: (doc.title || "") + " " + (doc.excerpt || "") + " " + (doc.content || "")
-      }));
+      // Quita stemmer y stopwords (mejor para español sin paquete extra)
+      this.pipeline.remove(lunr.stemmer);
+      this.pipeline.remove(lunr.stopWordFilter);
+      this.searchPipeline.remove(lunr.stemmer);
+      this.searchPipeline.remove(lunr.stopWordFilter);
+
+      docsForIndex.forEach(doc => this.add(doc));
     });
+
+    // Guarda versión completa (no normalizada) para pintar
+    documents = docsForIndex;
   }
 
   function render(results, q) {
@@ -47,7 +78,7 @@
     if (!results.length) return;
 
     const frag = document.createDocumentFragment();
-    results.slice(0, 30).forEach(r => {
+    results.slice(0, 50).forEach(r => {
       const doc = documents.find(d => d.id === r.ref);
       if (!doc) return;
 
@@ -58,11 +89,11 @@
           ${escapeHTML(doc.title || doc.url)}
         </a>
         <div style="font-size:.9rem; color:#555; margin:.25rem 0;">
-          ${escapeHTML(snippet(doc.excerpt || doc.content || "", q))}
+          ${escapeHTML(snippet(doc._content || "", q))}
         </div>
-        ${Array.isArray(doc.tags) && doc.tags.length ? `
+        ${doc._tags ? `
           <div style="font-size:.85rem; color:#666;">
-            ${doc.tags.map(t => `#${escapeHTML(t)}`).join(" · ")}
+            ${escapeHTML(doc.tags).split(" ").filter(Boolean).map(t => `#${t}`).join(" · ")}
           </div>` : ``}
       `;
       frag.appendChild(li);
@@ -70,16 +101,22 @@
     $results.appendChild(frag);
   }
 
+  function buildQuery(q) {
+    // Tokeniza, elimina caracteres raros, aplica comodín por defecto
+    const tokens = norm(q).replace(/[^\p{L}\p{N}\s#*]/gu, " ").trim().split(/\s+/).filter(Boolean);
+    if (!tokens.length) return "";
+    return tokens.map(token => {
+      if (token.startsWith("#")) return token.slice(1) + "*";
+      return token.endsWith("*") ? token : token + "*";
+    }).join(" ");
+  }
+
   function doSearch(q) {
     if (!q || !index) { render([], ""); return; }
     try {
-      // Permite búsquedas “normales” y también prefijos (cat*)
-      const safe = q.replace(/[^\p{L}\p{N}\s#*]/gu, " ").trim();
-      const results = index.search(safe.split(/\s+/).map(token => {
-        if (token.startsWith("#")) return token.slice(1) + "*";
-        if (!/[*]$/.test(token)) return token + "*";
-        return token;
-      }).join(" "));
+      const query = buildQuery(q);
+      if (!query) { render([], q); return; }
+      const results = index.search(query);
       render(results, q);
     } catch (e) {
       render([], q);
@@ -88,11 +125,15 @@
 
   // Inicialización
   buildIndex().then(() => {
-    // Buscar al pulsar Enter
+    // Buscar al pulsar Enter o al escribir (tras breve pausa)
+    let t;
     $input.addEventListener("keydown", (ev) => {
       if (ev.key === "Enter") doSearch($input.value);
     });
-    // Y también al perder foco
+    $input.addEventListener("input", () => {
+      clearTimeout(t);
+      t = setTimeout(() => doSearch($input.value), 200);
+    });
     $input.addEventListener("change", () => doSearch($input.value));
   });
 })();
