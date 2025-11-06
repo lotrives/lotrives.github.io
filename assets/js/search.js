@@ -6,7 +6,7 @@
   let index = null;
   let documents = [];
 
-  // Normaliza tildes y minúsculas para mejores coincidencias en español
+  // Normaliza tildes y minúsculas (mejor coincidencia en ES)
   function norm(s) {
     return (s || "")
       .toString()
@@ -32,12 +32,10 @@
   }
 
   async function buildIndex() {
-    // Ruta absoluta: /search.json (sin Liquid aquí)
     const res = await fetch("/search.json", { cache: "no-store" });
     if (!res.ok) throw new Error("No se pudo cargar search.json");
     const raw = await res.json();
 
-    // Versiones completas + campos normalizados
     documents = raw.map(d => ({
       id: d.id,
       url: d.url,
@@ -57,7 +55,7 @@
       this.field("_tags",    { boost: 5 });
       this.field("_content");
 
-      // Sin stemmer ni stopwords (mejor para ES sin paquetes extra)
+      // Sin stemmer/stopwords (mejor ES sin plugins)
       this.pipeline.remove(lunr.stemmer);
       this.pipeline.remove(lunr.stopWordFilter);
       this.searchPipeline.remove(lunr.stemmer);
@@ -69,10 +67,11 @@
 
   function render(results, q) {
     $results.innerHTML = "";
-    $stats.textContent = results.length
-      ? `${results.length} resultado(s) para “${q}”`
-      : (q ? `Sin resultados para “${q}”` : "");
-
+    if ($stats) {
+      $stats.textContent = results.length
+        ? `${results.length} resultado(s) para “${q}”`
+        : (q ? `Sin resultados para “${q}”` : "");
+    }
     if (!results.length) return;
 
     const frag = document.createDocumentFragment();
@@ -80,13 +79,11 @@
       const doc = documents.find(d => d.id === r.ref);
       if (!doc) return;
 
-      // <a> de punta a punta para que un clic baste
       const li = document.createElement("li");
       li.className = "sr-item";
       li.innerHTML = `
         <a class="sr-link" href="${doc.url}">
-          <strong>${escapeHTML(doc.title || doc.url)}</strong>
-          <br>
+          <strong>${escapeHTML(doc.title || doc.url)}</strong><br>
           <small>${escapeHTML(snippet(doc._content || "", q))}</small>
           ${doc._tags ? `
             <div class="sr-tags">
@@ -100,7 +97,6 @@
   }
 
   function buildQuery(q) {
-    // Tokeniza, filtra y aplica comodín por defecto
     const tokens = norm(q)
       .replace(/[^\p{L}\p{N}\s#*]/gu, " ")
       .trim().split(/\s+/).filter(Boolean);
@@ -124,19 +120,31 @@
     }
   }
 
-  // Inicialización
+  // --- Inicialización y eventos ---
   buildIndex().then(() => {
-    let t;
-    $input.addEventListener("keydown", (ev) => {
-      if (ev.key === "Enter") doSearch($input.value);
-    });
+    let debounceTimer;
+
+    // Buscar al teclear (con debounce)
     $input.addEventListener("input", () => {
-      clearTimeout(t);
-      t = setTimeout(() => doSearch($input.value), 200);
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => doSearch($input.value), 200);
     });
-    $input.addEventListener("change", () => doSearch($input.value));
+
+    // Enter dispara búsqueda inmediata
+    $input.addEventListener("keydown", (ev) => {
+      if (ev.key === "Enter") {
+        clearTimeout(debounceTimer);
+        doSearch($input.value);
+      }
+    });
+
+    // Al empezar a hacer clic en los resultados, cancelamos cualquier debounce
+    // para evitar re-render justo antes de navegar (fuente del “doble clic”).
+    $results.addEventListener("mousedown", () => {
+      clearTimeout(debounceTimer);
+    });
   }).catch(err => {
-    $stats.textContent = "Error al inicializar buscador: " + (err && err.message ? err.message : err);
+    if ($stats) $stats.textContent = "Error al inicializar buscador: " + (err && err.message ? err.message : err);
   });
 
 })();
