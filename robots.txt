@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lotrives.github.io/sitemap.xml
