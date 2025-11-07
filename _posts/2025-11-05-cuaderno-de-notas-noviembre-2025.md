@@ -33,3 +33,41 @@ Las contradicciones en ámbitos como este claman al cielo, porque dinamitan aspe
 </p>
 
 Autor: José Manuel Grau Navarro
+
+<!-- BLOQUE SUSCRIPCIÓN -->
+<p style="text-align:left; font-size:0.9rem; color:#555; margin-top:1.2rem;">
+  <a href="https://lotrives.substack.com/subscribe" target="_blank" rel="noopener"
+     style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">
+    Suscríbete a la Newsletter
+  </a>
+</p>
+
+<!-- BLOQUE COMPARTIR -->
+<p style="text-align:left; font-size:0.9rem; color:#555; margin-top:0.6rem;">
+  Compartir:
+  <a id="share-x" target="_blank" rel="noopener"
+     style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">
+     X
+  </a> ·
+  <a id="share-wa" target="_blank" rel="noopener"
+     style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">
+     WhatsApp
+  </a>
+</p>
+
+<script>
+(function() {
+  const url = "{{ page.url | absolute_url }}";
+  const title = "{{ page.title | escape }}";
+  const encodedUrl = encodeURIComponent(url);
+  const encodedText = encodeURIComponent(title + " – Lotrives");
+
+  // X (Twitter)
+  document.getElementById("share-x").href =
+    "https://twitter.com/intent/tweet?url=" + encodedUrl + "&text=" + encodedText;
+
+  // WhatsApp
+  document.getElementById("share-wa").href =
+    "https://wa.me/?text=" + encodedText + "%20" + encodedUrl;
+})();
+</script>
