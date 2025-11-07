@@ -4,14 +4,10 @@ title: Newsletter
 permalink: /newsletter/
 ---
 
-<!-- Formulario de suscripción de Substack -->
-<div style="display:flex; justify-content:center; margin:1rem 0;">
-  <iframe 
-    src="https://lotrives.substack.com/embed" 
-    width="100%" 
-    height="320" 
-    style="max-width:480px; border:1px solid #EEE; background:white;" 
-    frameborder="0" 
-    scrolling="no">
-  </iframe>
-</div>
+<p style="text-align:center; font-size:1.05rem; margin-top:1.5rem;">
+  <a href="https://lotrives.substack.com/subscribe"
+     target="_blank" rel="noopener"
+     style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">
+     Suscríbete a la <strong>newsletter de Lotrives</strong>
+  </a>
+</p>
