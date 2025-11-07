@@ -1,13 +1,22 @@
-title: Lotrives
+# ------------------------------
+#  CONFIGURACIÓN PRINCIPAL
+# ------------------------------
+title: "Lotrives"
 description: "Una mirada al mundo que somos"
-theme: minima
-
 author: "José Manuel Grau Navarro"
+theme: minima
+lang: "es"
+timezone: Europe/Madrid
 
-# 👇 Clave para que {{ page.url | absolute_url }} funcione bien
-url: https://lotrives.github.io
-baseurl: ""  # no pongas nada aquí (solo comillas)
+# ------------------------------
+#  DOMINIO (clave para URLs correctas)
+# ------------------------------
+url: "https://lotrives.github.io"
+baseurl: ""   # para sitios usuario/organización: dejar vacío
 
+# ------------------------------
+#  NAVEGACIÓN SUPERIOR
+# ------------------------------
 header_pages:
   - acerca.md
   - archivo.md
@@ -15,10 +24,23 @@ header_pages:
   - etiquetas.md
   - buscar.md
 
+# ------------------------------
+#  PUBLICACIÓN
+# ------------------------------
+show_excerpts: true
+permalink: /:year/:month/:day/:title/
+
+# ------------------------------
+#  PLUGINS OFICIALES (seguros)
+# ------------------------------
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 
-show_excerpts: true
-timezone: Europe/Madrid
+# ------------------------------
+#  META / SOCIAL (para tarjetas y atribución)
+# ------------------------------
+twitter_username: jmgraunavarro
+github_username: lotrives
+substack_url: "https://lotrives.substack.com"
