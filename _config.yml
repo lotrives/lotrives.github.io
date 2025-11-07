@@ -4,13 +4,16 @@ theme: minima
 
 author: "José Manuel Grau Navarro"
 
+# 👇 Clave para que {{ page.url | absolute_url }} funcione bien
+url: https://lotrives.github.io
+baseurl: ""  # no pongas nada aquí (solo comillas)
+
 header_pages:
   - acerca.md
   - archivo.md
   - newsletter.md
   - etiquetas.md
   - buscar.md
-
 
 plugins:
   - jekyll-feed
