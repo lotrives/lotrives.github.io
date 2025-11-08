@@ -1,52 +1,38 @@
-/* ====== Lotrives – Fix robusto del menú en Minima 3 ====== */
+/* ====== Lotrives – Fix menú en Minima 3 (SVG) ====== */
 
-/* 0) Asegurar que existe el botón en todos los anchos */
-.site-nav label[for="nav-trigger"] {
-  display: block !important;
-  width: 40px;
-  height: 40px;
-  cursor: pointer;
+/* Mostrar el botón hamburguesa en móvil */
+@media (max-width: 600px) {
+  .site-nav label[for="nav-trigger"] {
+    display: block !important;
+    cursor: pointer;
+  }
+  /* Ocultar items hasta abrir */
+  #nav-trigger ~ .nav-items { display: none; }
+  #nav-trigger:checked ~ .nav-items { display: block; }
 }
 
-/* 1) Icono hamburguesa sin fuentes externas (tres barras con box-shadow) */
-.site-nav .menu-icon {
-  position: relative;
+/* Icono hamburguesa basado en SVG de Minima: quitar fill y usar stroke */
+.site-nav .menu-icon svg {
+  display: block;
   width: 28px;
-  height: 2px;
-  margin: 12px 6px 0 6px;       /* centrado visual */
-  background: currentColor;      /* barra central */
-  box-shadow:
-    0 -8px 0 0 currentColor,     /* barra superior */
-    0  8px 0 0 currentColor;     /* barra inferior */
+  height: 22px;
+}
+.site-nav .menu-icon svg path {
+  fill: none !important;
+  stroke: currentColor !important;
+  stroke-width: 2 !important;
+  stroke-linecap: round;
+  stroke-linejoin: round;
 }
 
-/* 2) Estado “abierto” (cuando se marca el checkbox) – convierte en “X” */
-#nav-trigger:checked ~ label[for="nav-trigger"] .menu-icon {
-  background: transparent;
-  box-shadow: none;
-}
-#nav-trigger:checked ~ label[for="nav-trigger"] .menu-icon::before,
-#nav-trigger:checked ~ label[for="nav-trigger"] .menu-icon::after {
-  content: "";
-  position: absolute;
-  left: 6px;
-  right: 6px;
-  top: 20px;
-  height: 2px;
-  background: currentColor;
-  transform-origin: center;
-}
-#nav-trigger:checked ~ label[for="nav-trigger"] .menu-icon::before { transform: rotate(45deg); }
-#nav-trigger:checked ~ label[for="nav-trigger"] .menu-icon::after  { transform: rotate(-45deg); }
-
-/* 3) Lógica de apertura/cierre del panel por si el tema no la aplica antes */
-#nav-trigger ~ .nav-items { display: none; }
-#nav-trigger:checked ~ .nav-items { display: block; }
-
-/* 4) Enlaces del panel en columna, sin sangrías (funciona en todos los anchos) */
+/* Alinear los enlaces del panel en columna y sin sangrías */
 .site-nav .nav-items .nav-item,
-.site-nav .trigger .page-link {
+.site-nav .trigger .page-link,
+.site-nav .page-link {
   display: block !important;
   margin: 0 !important;
   padding: .5rem 0;
 }
+
+/* Asegurar contraste del icono en cualquier skin */
+.site-header, .site-nav { color: inherit; }
