@@ -1,31 +1,53 @@
-/* ===== Lotrives – Menú Minima 3 (fix iPhone + espaciado compacto) ===== */
+/* ===== Lotrives – Menú Minima 3 (iPhone fix final + espaciado compacto) ===== */
 
-/* 0) Ocultar por completo el checkbox (evita el cuadrito blanco en iPhone) */
+/* 0) Ocultar totalmente el checkbox (evita puntito visible en iOS) */
 .site-nav #nav-trigger {
   position: absolute !important;
+  left: -9999px !important;  /* sácalo del flujo */
+  top: auto !important;
   width: 1px !important;
   height: 1px !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+  border: 0 !important;
   margin: 0 !important;
   padding: 0 !important;
-  overflow: hidden !important;
   clip: rect(0 0 0 0) !important;
   clip-path: inset(50%) !important;
-  border: 0 !important;
   white-space: nowrap !important;
 }
 
-/* 1) Icono hamburguesa dibujado con CSS (sin fondo) */
+/* 1) Botón (label) sin marco, sin highlight y caja exacta */
+.site-nav #nav-trigger + label {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;              /* caja justa */
+  height: 34px;
+  margin: 0;
+  padding: 0;
+  background: transparent !important;
+  border: 0 !important;
+  outline: none !important;
+  box-shadow: none !important;
+  line-height: 0;
+  cursor: pointer;
+  -webkit-appearance: none !important;
+  appearance: none !important;
+  -webkit-tap-highlight-color: transparent; /* quita “marco” por tap en iOS */
+}
+
+/* 2) Icono hamburguesa SIN fondo (solo pseudo-elementos) */
 .site-nav .menu-icon {
   position: relative;
   display: inline-block;
-  width: 28px;
-  height: 22px;            /* área del icono */
+  width: 24px;              /* un poco más compacto y centrable */
+  height: 18px;
   background: transparent !important;
   vertical-align: middle;
 }
 
-/* Usamos ::before para 3 líneas (central + superior + inferior)
-   y ::after para la segunda barra de la “X” */
+/* Tres barras con ::before (top/center/bottom) y ::after para la “X” */
 .site-nav .menu-icon::before,
 .site-nav .menu-icon::after {
   content: "";
@@ -34,24 +56,24 @@
   height: 2px;
   background: currentColor;
   border-radius: 1px;
-  transition: transform .2s ease, top .2s ease, opacity .2s ease, box-shadow .2s ease;
+  transition: transform .2s ease, opacity .2s ease, box-shadow .2s ease;
 }
 
 .site-nav .menu-icon::before {
-  top: 10px; /* línea central */
+  top: 8px; /* barra central */
   box-shadow:
     0 -6px 0 0 currentColor,  /* superior */
     0  6px 0 0 currentColor;  /* inferior */
 }
 
 .site-nav .menu-icon::after {
-  opacity: 0;   /* oculta mientras está cerrado */
-  top: 10px;
+  top: 8px;
+  opacity: 0;                /* oculta mientras está cerrado */
 }
 
-/* 2) Estado ABIERTO: convertir en “X” */
+/* Estado ABIERTO: “X” limpia (sin marcos) */
 #nav-trigger:checked + label .menu-icon::before {
-  box-shadow: none;                /* quita top/bottom */
+  box-shadow: none;
   transform: rotate(45deg);
 }
 #nav-trigger:checked + label .menu-icon::after {
@@ -59,38 +81,22 @@
   transform: rotate(-45deg);
 }
 
-/* ===== Vista estrecha (móvil y navegador estrecho) ===== */
+/* ===== Vista estrecha (móvil y ventana estrecha) ===== */
 @media (max-width: 800px) {
-  /* Botón hamburguesa (label) – sin marcos ni “tap highlight” en iPhone */
-  .site-nav #nav-trigger + label {
-    display: inline-flex !important;
-    align-items: center;
-    justify-content: center;
-    width: 36px;
-    height: 36px;
-    padding: 0;
-    margin: 0;
-    background: transparent !important;
-    border: 0;
-    line-height: 0;
-    cursor: pointer;
-    -webkit-tap-highlight-color: transparent; /* <— elimina resalte en iOS */
-  }
-
-  /* Colapsar / expandir */
+  /* Colapsar / expandir panel */
   .site-nav #nav-trigger ~ .nav-items { display: none; margin: 0; padding: 0; }
   .site-nav #nav-trigger:checked ~ .nav-items { display: block; }
 
-  /* Enlaces en columna con espaciado compacto */
+  /* Enlaces en columna, espaciado compacto */
   .site-nav .nav-items .nav-item {
     display: block !important;
     margin: 0 !important;
-    padding: 0.18rem 0;  /* compacto */
+    padding: 0.18rem 0;   /* compacto */
     line-height: 1.15;
   }
 }
 
-/* ===== Vista ancha (escritorio normal) ===== */
+/* ===== Vista ancha (escritorio) ===== */
 @media (min-width: 801px) {
   .site-nav #nav-trigger + label { display: none !important; } /* sin botón */
   .site-nav .nav-items { display: block !important; }
