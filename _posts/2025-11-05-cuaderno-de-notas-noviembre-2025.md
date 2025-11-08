@@ -17,7 +17,7 @@ Critica Ollero también que se hable tanto de *derechos humanos* y que a la vez 
   
 Sobre la politización de la justicia, se pregunta: «¿No será que son los políticos, al rehuir sus responsabilidades, quienes fuerzan a los jueces a resolver problemas de los preferirían mantenerse al margen?»
 
-Más sobre [Andrés Ollero](https://www.nuevarevista.net/andres-ollero-y-la-democracia-como-el-mentis-radical-al-relativismo/)
+Más sobre [Andrés Ollero](https://www.nuevarevista.net/andres-ollero-y-la-democracia-como-el-mentis-radical-al-relativismo/).
 
 
 **Jueves, 6 de noviembre de 2025**. Lotrives conoce a un grupo considerable de médicos internos residentes (un *mir*, unos *mir*, según [Fundéu](https://www.fundeu.es/recomendacion/mir-se-escribe-en-minuscula-y-redonda-553/)) de primer año. Suelen tener 25 años, obtuvieron el Grado en Medicina en 2024 y comenzaron la especialización, lo que equivale a que empezaron a trabajar, en junio de este año. El horario de estos jóvenes, en la mayoría de los casos mujeres, comienza a las 8:00 un jueves como hoy. Pero con frecuencia, además de las guardias de día entero, deben cumplir guardias de tarde que alargan su jornada hasta las 22:00, perfectamente. Al día siguiente, en este caso, viernes, deben presentarse en el hospital que les corresponda otra vez a las 8:00, lo que supone en un lugar como Madrid que el despertador suene a las 6:30. No es algo que ocurre un día al mes, es habitual. Cuando están de guardia, atienden urgencias que no son de su especialidad, con recursos humanos escasos y escasa supervisión. No les da tiempo ni para comerse el bocadillo que se llevan de casa. La organización hospitalaria es mala y faltan médicos por todas partes.
@@ -33,6 +33,7 @@ Las contradicciones en ámbitos como este claman al cielo, porque dinamitan aspe
 </p>
 
 Autor: José Manuel Grau Navarro
+(Última actualización: 8/11/2025)
 
 <!-- BLOQUE SUSCRIPCIÓN -->
 <p style="text-align:left; font-size:0.9rem; color:#555; margin-top:1.2rem;">
