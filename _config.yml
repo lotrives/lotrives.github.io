@@ -3,10 +3,16 @@
 # ------------------------------
 title: "Lotrives"
 description: "Una mirada al mundo que somos"
-author: "José Manuel Grau Navarro"
-theme: minima
+author:
+  name: "José Manuel Grau Navarro"
 lang: "es"
 timezone: Europe/Madrid
+
+# ------------------------------
+#  THEME (Minima 3 por remote_theme)
+#  IMPORTANTE: elimina cualquier línea `theme: minima`
+# ------------------------------
+remote_theme: jekyll/minima@v3.0
 
 # ------------------------------
 #  DOMINIO (clave para URLs correctas)
@@ -15,19 +21,8 @@ url: "https://lotrives.github.io"
 baseurl: ""   # para sitios usuario/organización: dejar vacío
 
 # ------------------------------
-#  NAVEGACIÓN SUPERIOR
-# ------------------------------
-header_pages:
-  - acerca.md
-  - archivo.md
-  - newsletter.md
-  - etiquetas.md
-  - buscar.md
-
-# ------------------------------
 #  PUBLICACIÓN
 # ------------------------------
-show_excerpts: true
 permalink: /:year/:month/:day/:title/
 
 # ------------------------------
@@ -37,9 +32,46 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 # ------------------------------
-#  META / SOCIAL (para tarjetas y atribución)
+#  MINIMA v3 (opciones del tema)
+# ------------------------------
+minima:
+  # Navegación superior (equivale a `header_pages` en v2)
+  nav_pages:
+    - acerca.md
+    - archivo.md
+    - newsletter.md
+    - etiquetas.md
+    - buscar.md
+
+  # Mostrar extractos en la portada
+  show_excerpts: true
+
+  # Skin adaptativo (claro/oscuro automático). Puedes cambiar a "classic" si prefieres sólo claro.
+  skin: auto
+
+  # Enlaces sociales con iconos (el feed RSS se añade automáticamente al final)
+  social_links:
+    - title: "X"
+      icon: x-twitter
+      url: "https://twitter.com/jmgraunavarro"
+    - title: "GitHub"
+      icon: github
+      url: "https://github.com/lotrives"
+
+  # Asegura que el enlace al feed aparezca (por defecto es false, lo dejamos explícito)
+  hide_site_feed_link: false
+
+# ------------------------------
+#  META / SOCIAL (para SEO tag)
 # ------------------------------
 twitter_username: jmgraunavarro
 github_username: lotrives
+
+# ------------------------------
+#  RENDIMIENTO (CSS)
+# ------------------------------
+sass:
+  style: compressed
