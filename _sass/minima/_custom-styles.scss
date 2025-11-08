@@ -1,31 +1,44 @@
-/* ===== Lotrives – Menú Minima 3 (iPhone: sin marcos ni cajas) ===== */
+/* ===== Lotrives — Menú Minima 3 (iPhone sin marcos + espaciado cómodo) ===== */
 
-/* 0) Ocultar totalmente el checkbox (elimina el cuadrito residual) */
+/* 0) Ocultar el checkbox por completo (evita cuadritos residuales en iOS) */
 .site-nav #nav-trigger {
-  display: none !important;        /* <- más contundente en iOS */
+  position: absolute !important;
+  left: -9999px !important;
+  top: auto !important;
+  width: 1px !important;
+  height: 1px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  clip: rect(0 0 0 0) !important;
+  clip-path: inset(50%) !important;
+  border: 0 !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+  white-space: nowrap !important;
 }
 
-/* 1) Botón (label) sin marco, sin highlight y caja exacta */
+/* 1) Botón (label) sin marco/halo y caja precisa */
 .site-nav #nav-trigger + label {
   display: inline-flex !important;
   align-items: center;
   justify-content: center;
   width: 34px;
   height: 34px;
-  margin: 0;
-  padding: 0;
+  margin: 0 !important;
+  padding: 0 !important;
   background: transparent !important;
+  color: inherit !important;
   border: 0 !important;
   border-radius: 0 !important;
   outline: none !important;
   box-shadow: none !important;
-  line-height: 0;
+  line-height: 0 !important;
   cursor: pointer;
   -webkit-appearance: none !important;
   appearance: none !important;
-  -webkit-tap-highlight-color: transparent;  /* quita halo al tocar */
+  -webkit-tap-highlight-color: transparent !important;
 }
-/* Asegurar que tampoco aparece al interactuar */
 .site-nav #nav-trigger + label:hover,
 .site-nav #nav-trigger + label:active,
 .site-nav #nav-trigger + label:focus {
@@ -35,15 +48,17 @@
   box-shadow: none !important;
 }
 
-/* 2) Icono hamburguesa solo con pseudo-elementos (sin fondo) */
+/* 2) Icono hamburguesa SOLO con pseudo-elementos (sin fondo) */
 .site-nav .menu-icon {
   position: relative;
   display: inline-block;
   width: 24px;
   height: 18px;
-  background: transparent !important;  /* adiós bloque negro */
+  background: transparent !important;
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
   vertical-align: middle;
-  border: 0 !important;                 /* por si algún reset añade borde */
 }
 .site-nav .menu-icon::before,
 .site-nav .menu-icon::after {
@@ -57,7 +72,7 @@
 }
 /* Tres barras con ::before (central + superior + inferior) */
 .site-nav .menu-icon::before {
-  top: 8px; /* barra central */
+  top: 8px;
   box-shadow:
     0 -6px 0 0 currentColor,  /* superior */
     0  6px 0 0 currentColor;  /* inferior */
@@ -68,7 +83,7 @@
   opacity: 0;
 }
 
-/* 3) Estado ABIERTO: “X” limpia, sin marcos */
+/* 3) Estado ABIERTO: convertir en “X” */
 #nav-trigger:checked + label .menu-icon::before {
   box-shadow: none;
   transform: rotate(45deg);
@@ -78,21 +93,21 @@
   transform: rotate(-45deg);
 }
 
-/* ===== Vista estrecha (móvil y ventana estrecha) ===== */
+/* 4) Vista estrecha (móvil / navegador estrecho): colapsar y ESPACIADO CÓMODO */
 @media (max-width: 800px) {
-  /* Colapsar/expandir */
   .site-nav #nav-trigger ~ .nav-items { display: none; margin: 0; padding: 0; }
   .site-nav #nav-trigger:checked ~ .nav-items { display: block; }
-  /* Enlaces en columna compactos */
+
+  /* ⬇️ Aumentamos ligeramente el espacio (antes: 0.18rem y 1.15) */
   .site-nav .nav-items .nav-item {
     display: block !important;
     margin: 0 !important;
-    padding: 0.18rem 0;
-    line-height: 1.15;
+    padding: 0.30rem 0;   /* un punto más relajado */
+    line-height: 1.25;    /* lectura más cómoda en iPhone */
   }
 }
 
-/* ===== Vista ancha (escritorio) ===== */
+/* 5) Vista ancha (escritorio): horizontal como siempre */
 @media (min-width: 801px) {
   .site-nav #nav-trigger + label { display: none !important; }
   .site-nav .nav-items { display: block !important; }
