@@ -1,7 +1,7 @@
 title: "Lotrives"
-description: "Una mirada al mundo que somos"
+description: "Lotrives · Una mirada al mundo que somos"
 author:
-  name: "José Manuel Grau Navarro"
+  name: "© José Manuel Grau Navarro"
 lang: "es"
 timezone: Europe/Madrid
 
@@ -19,14 +19,21 @@ plugins:
   - jekyll-remote-theme
 
 minima:
+  # Menú de navegación principal (usar rutas absolutas)
   nav_pages:
-    - acerca.md
-    - archivo.md
-    - newsletter.md
-    - etiquetas.md
-    - buscar.md
+    - /acerca.md
+    - /archivo.md
+    - /buscar.md
+    - /etiquetas.md
+    - /newsletter.md
+
+  # Mostrar extractos de las entradas en la portada
   show_excerpts: true
+
+  # Modo claro/oscuro automático
   skin: auto
+
+  # Enlaces sociales (RSS se oculta al final)
   social_links:
     - title: "X"
       icon: x-twitter
@@ -34,10 +41,14 @@ minima:
     - title: "GitHub"
       icon: github
       url: "https://github.com/lotrives"
-  hide_site_feed_link: false
 
+  # Quitar "Subscribe" del pie
+  hide_site_feed_link: true
+
+# Metadatos sociales (para SEO)
 twitter_username: jmgraunavarro
 github_username: lotrives
 
+# Compresión CSS para mejorar la carga
 sass:
   style: compressed
