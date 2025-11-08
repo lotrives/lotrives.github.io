@@ -33,7 +33,6 @@ Las contradicciones en ámbitos como este claman al cielo, porque dinamitan aspe
 </p>
 
 Autor: José Manuel Grau Navarro
-(Última actualización: 8/11/2025)
 
 <!-- BLOQUE SUSCRIPCIÓN -->
 <p style="text-align:left; font-size:0.9rem; color:#555; margin-top:1.2rem;">
