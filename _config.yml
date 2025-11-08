@@ -5,6 +5,7 @@ author:
 lang: "es"
 timezone: Europe/Madrid
 
+# ⚠️ Forzamos Minima 3 a un commit estable (recomendación oficial)
 remote_theme: jekyll/minima@d4d779a
 
 url: "https://lotrives.github.io"
@@ -19,21 +20,18 @@ plugins:
   - jekyll-remote-theme
 
 minima:
-  # Menú de navegación principal (usar rutas absolutas)
+  # Navegación: usa los nombres EXACTOS de tus páginas y su ruta real
+  # Si están en la raíz, basta con el nombre; si están en carpetas, pon la ruta (ej.: /_pages/acerca.md)
   nav_pages:
-    - /acerca.md
-    - /archivo.md
-    - /buscar.md
-    - /etiquetas.md
-    - /newsletter.md
+    - acerca.md
+    - archivo.md
+    - buscar.md
+    - etiquetas.md
+    - newsletter.md
 
-  # Mostrar extractos de las entradas en la portada
   show_excerpts: true
-
-  # Modo claro/oscuro automático
   skin: auto
 
-  # Enlaces sociales (RSS se oculta al final)
   social_links:
     - title: "X"
       icon: x-twitter
@@ -42,13 +40,12 @@ minima:
       icon: github
       url: "https://github.com/lotrives"
 
-  # Quitar "Subscribe" del pie
+  # Oculta 'Subscribe' del pie
   hide_site_feed_link: true
 
-# Metadatos sociales (para SEO)
+# (Aún útiles para jekyll-seo-tag)
 twitter_username: jmgraunavarro
 github_username: lotrives
 
-# Compresión CSS para mejorar la carga
 sass:
   style: compressed
