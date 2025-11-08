@@ -1,6 +1,6 @@
-/* ===== Lotrives – Fix menú Minima 3 (solo móvil) ===== */
+/* ===== Lotrives – Fix hamburguesa y menú en Minima 3 ===== */
 
-/* Icono hamburguesa (SVG) correcto en todos los skins */
+/* 1) Asegurar que el SVG de la hamburguesa se vea (tres líneas) */
 .site-nav .menu-icon svg { width: 28px; height: 22px; display: block; }
 .site-nav .menu-icon svg path {
   fill: none !important;
@@ -10,22 +10,36 @@
   stroke-linejoin: round;
 }
 
-/* Solo en móvil: botón visible, panel colapsable y enlaces en columna */
-@media (max-width: 600px) {
-  /* Muestra el botón hamburguesa */
-  .site-nav label[for="nav-trigger"] { display: block !important; cursor: pointer; }
+/* 2) Lógica de apertura/cierre con el checkbox .nav-trigger / #nav-trigger */
+@media (max-width: 800px) {
+  /* Mostrar el botón (label) en móvil */
+  .site-nav .nav-trigger + label,
+  #nav-trigger + label {
+    display: block !important;
+    cursor: pointer;
+  }
 
-  /* Oculta panel por defecto y muéstralo al abrir (cubrimos .trigger y .nav-items) */
-  #nav-trigger ~ .trigger,
-  #nav-trigger ~ .nav-items { display: none; }
-  #nav-trigger:checked ~ .trigger,
-  #nav-trigger:checked ~ .nav-items { display: block; }
+  /* Ocultar el panel por defecto; mostrar al marcar */
+  .site-nav .nav-trigger ~ .trigger,
+  #nav-trigger ~ .trigger { display: none; }
+  .site-nav .nav-trigger:checked ~ .trigger,
+  #nav-trigger:checked ~ .trigger { display: block; }
 
-  /* Enlaces del panel en columna, sin sangrías */
-  .site-nav .trigger .page-link,
-  .site-nav .nav-items .page-link {
+  /* Enlaces del panel en columna y sin sangrías en móvil */
+  .site-nav .trigger .page-link {
     display: block !important;
     margin: 0 !important;
     padding: .5rem 0;
+  }
+}
+
+/* 3) En pantallas anchas, ocultar el botón y mantener menú horizontal */
+@media (min-width: 801px) {
+  .site-nav .nav-trigger + label,
+  #nav-trigger + label { display: none !important; }
+  .site-nav .trigger .page-link {
+    display: inline-block !important;
+    margin-right: 20px;
+    padding: 0;
   }
 }
