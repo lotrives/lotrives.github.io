@@ -1,6 +1,3 @@
-# ------------------------------
-#  CONFIGURACIÓN PRINCIPAL
-# ------------------------------
 title: "Lotrives"
 description: "Una mirada al mundo que somos"
 author:
@@ -8,51 +5,28 @@ author:
 lang: "es"
 timezone: Europe/Madrid
 
-# ------------------------------
-#  THEME (Minima 3 por remote_theme)
-#  IMPORTANTE: no dejes 'theme: minima' en ningún sitio
-# ------------------------------
-remote_theme: jekyll/minima@v3.0
+remote_theme: jekyll/minima@d4d779a
 
-# ------------------------------
-#  DOMINIO (clave para URLs correctas)
-# ------------------------------
 url: "https://lotrives.github.io"
 baseurl: ""
 
-# ------------------------------
-#  PUBLICACIÓN
-# ------------------------------
 permalink: /:year/:month/:day/:title/
 
-# ------------------------------
-#  PLUGINS OFICIALES
-# ------------------------------
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-remote-theme
 
-# ------------------------------
-#  OPCIONES DE MINIMA v3
-# ------------------------------
 minima:
-  # Navegación superior (en v3 se usa nav_pages, no header_pages)
   nav_pages:
     - acerca.md
     - archivo.md
     - newsletter.md
     - etiquetas.md
     - buscar.md
-
-  # Extractos en portada
   show_excerpts: true
-
-  # Modo claro/oscuro automático
   skin: auto
-
-  # Iconos sociales en el pie (RSS aparece solo al final)
   social_links:
     - title: "X"
       icon: x-twitter
@@ -60,18 +34,10 @@ minima:
     - title: "GitHub"
       icon: github
       url: "https://github.com/lotrives"
-
-  # Asegura mostrar el feed en el pie
   hide_site_feed_link: false
 
-# ------------------------------
-#  META / SOCIAL (para SEO tag)
-# ------------------------------
 twitter_username: jmgraunavarro
 github_username: lotrives
 
-# ------------------------------
-#  RENDIMIENTO (CSS)
-# ------------------------------
 sass:
   style: compressed
