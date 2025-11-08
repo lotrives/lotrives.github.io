@@ -1,36 +1,17 @@
-/* ===== Lotrives – Menú Minima 3 con <span class="menu-icon"> (sin SVG) ===== */
+/* ===== Lotrives – Menú Minima 3 (hamburguesa sin fondo + espaciado compacto) ===== */
 
-/* 1) Solo en móvil/tablet: mostrar botón, colapsar menú y apilar enlaces */
-@media (max-width: 800px) {
-  /* Mostrar el botón (label) en móvil */
-  .site-nav #nav-trigger + label { 
-    display: block !important; 
-    cursor: pointer; 
-  }
-
-  /* Ocultar el panel por defecto; mostrar al marcar */
-  .site-nav #nav-trigger ~ .nav-items { display: none; }
-  .site-nav #nav-trigger:checked ~ .nav-items { display: block; }
-
-  /* Enlaces del panel en columna, sin sangrías extra */
-  .site-nav .nav-items .nav-item {
-    display: block !important;
-    margin: 0 !important;
-    padding: .5rem 0;
-  }
-}
-
-/* 2) Icono hamburguesa dibujado con el propio <span.menu-icon> */
+/* Icono hamburguesa sin fondo (solo pseudo-elementos) */
 .site-nav .menu-icon {
   position: relative;
   display: inline-block;
   width: 28px;
-  height: 2px;                 /* barra central */
-  background: currentColor;    /* color hereda del texto del header */
+  height: 22px;            /* área del icono */
+  background: transparent !important;  /* <— adiós bloque negro en iPhone */
   vertical-align: middle;
 }
 
-/* barras superior e inferior */
+/* Usamos ::before para 3 líneas (top, middle, bottom) con box-shadow */
+/* y ::after solo para formar la "X" al abrir */
 .site-nav .menu-icon::before,
 .site-nav .menu-icon::after {
   content: "";
@@ -38,33 +19,65 @@
   left: 0; right: 0;
   height: 2px;
   background: currentColor;
-  transition: transform .2s ease, top .2s ease, opacity .2s ease;
+  border-radius: 1px;
+  transition: transform .2s ease, top .2s ease, bottom .2s ease, opacity .2s ease, box-shadow .2s ease;
 }
 
-/* separación vertical de las tres líneas */
-.site-nav .menu-icon::before { top: -8px; }
-.site-nav .menu-icon::after  { top:  8px; }
-
-/* Estado "abierto": convertir en aspa (X) */
-#nav-trigger:checked + label .menu-icon {
-  background: transparent;           /* oculta la barra central */
+/* Tres líneas: central + superior + inferior (sin fondo del span) */
+.site-nav .menu-icon::before {
+  top: 10px; /* línea central */
+  box-shadow:
+    0 -6px 0 0 currentColor,  /* línea superior */
+    0  6px 0 0 currentColor;  /* línea inferior */
 }
+
+/* Línea extra que usaremos para formar la "X" al abrir */
+.site-nav .menu-icon::after {
+  opacity: 0;   /* oculta mientras está cerrado */
+  top: 10px;
+}
+
+/* Estado ABIERTO: convertir en “X” sin bloques negros */
 #nav-trigger:checked + label .menu-icon::before {
-  top: 0;
+  box-shadow: none;                /* quita top/bottom */
   transform: rotate(45deg);
 }
 #nav-trigger:checked + label .menu-icon::after {
-  top: 0;
+  opacity: 1;
   transform: rotate(-45deg);
 }
 
-/* 3) En escritorio ancho: ocultar botón y mantener menú horizontal */
+/* ===== Vista estrecha (móvil y navegador estrecho) ===== */
+@media (max-width: 800px) {
+  /* Mostrar botón y colapsar/expandir */
+  .site-nav #nav-trigger + label {
+    display: inline-flex !important;
+    align-items: center;
+    justify-content: center;
+    padding: 6px;                 /* sin caja de fondo */
+    background: transparent !important;
+    line-height: 0;
+    cursor: pointer;
+  }
+  .site-nav #nav-trigger ~ .nav-items { display: none; margin: 0; padding: 0; }
+  .site-nav #nav-trigger:checked ~ .nav-items { display: block; }
+
+  /* Enlaces en columna con espaciado compacto (según pediste) */
+  .site-nav .nav-items .nav-item {
+    display: block !important;
+    margin: 0 !important;
+    padding: 0.18rem 0;  /* más compacto */
+    line-height: 1.15;
+  }
+}
+
+/* ===== Vista ancha (escritorio normal) ===== */
 @media (min-width: 801px) {
-  .site-nav #nav-trigger + label { display: none !important; }
+  .site-nav #nav-trigger + label { display: none !important; } /* sin botón en ancho */
   .site-nav .nav-items { display: block !important; }
   .site-nav .nav-items .nav-item {
     display: inline-block !important;
     margin-right: 20px;
-    padding: 0;
+    padding: 0;  /* sin extra vertical */
   }
 }
