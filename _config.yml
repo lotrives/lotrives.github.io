@@ -5,8 +5,8 @@ author:
 lang: "es"
 timezone: Europe/Madrid
 
-# Tema Minima 3 fijado a commit estable
-remote_theme: jekyll/minima@d4d779a
+# Tema Minima 3 fijado a commit con soporte real para hide_site_feed_link
+remote_theme: jekyll/minima@1722fcf
 
 url: "https://lotrives.github.io"
 baseurl: ""
@@ -44,7 +44,7 @@ minima:
       icon: github
       url: "https://github.com/lotrives"
 
-  # ⬇️ Esto oculta el enlace "Subscribe" (RSS/Atom) del pie
+  # ⬇️ Oculta el enlace y el icono RSS del pie
   hide_site_feed_link: true
 
 # Metadatos usados por jekyll-seo-tag
