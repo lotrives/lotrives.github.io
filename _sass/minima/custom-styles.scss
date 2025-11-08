@@ -1,0 +1,19 @@
+/* ============================================================
+   CORRECCIÓN MENÚ MÓVIL – MINIMA 3 (Lotrives)
+   ============================================================ */
+
+/* 1. Alinear los enlaces del menú en vista móvil */
+@media (max-width: 600px) {
+  .site-nav .page-link {
+    display: block;      /* cada página en su propia línea */
+    margin-right: 0;     /* sin sangría lateral */
+    padding: 0.5rem 0;   /* aire vertical */
+  }
+}
+
+/* 2. Asegurar que el icono “hamburguesa” se vea siempre */
+.site-nav .menu-icon .navicon,
+.site-nav .menu-icon .navicon::before,
+.site-nav .menu-icon .navicon::after {
+  background: currentColor !important; /* adopta color del texto actual */
+}
