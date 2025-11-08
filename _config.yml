@@ -10,7 +10,7 @@ timezone: Europe/Madrid
 
 # ------------------------------
 #  THEME (Minima 3 por remote_theme)
-#  IMPORTANTE: elimina cualquier línea `theme: minima`
+#  IMPORTANTE: no dejes 'theme: minima' en ningún sitio
 # ------------------------------
 remote_theme: jekyll/minima@v3.0
 
@@ -18,7 +18,7 @@ remote_theme: jekyll/minima@v3.0
 #  DOMINIO (clave para URLs correctas)
 # ------------------------------
 url: "https://lotrives.github.io"
-baseurl: ""   # para sitios usuario/organización: dejar vacío
+baseurl: ""
 
 # ------------------------------
 #  PUBLICACIÓN
@@ -26,7 +26,7 @@ baseurl: ""   # para sitios usuario/organización: dejar vacío
 permalink: /:year/:month/:day/:title/
 
 # ------------------------------
-#  PLUGINS OFICIALES (seguros)
+#  PLUGINS OFICIALES
 # ------------------------------
 plugins:
   - jekyll-feed
@@ -35,10 +35,10 @@ plugins:
   - jekyll-remote-theme
 
 # ------------------------------
-#  MINIMA v3 (opciones del tema)
+#  OPCIONES DE MINIMA v3
 # ------------------------------
 minima:
-  # Navegación superior (equivale a `header_pages` en v2)
+  # Navegación superior (en v3 se usa nav_pages, no header_pages)
   nav_pages:
     - acerca.md
     - archivo.md
@@ -46,13 +46,13 @@ minima:
     - etiquetas.md
     - buscar.md
 
-  # Mostrar extractos en la portada
+  # Extractos en portada
   show_excerpts: true
 
-  # Skin adaptativo (claro/oscuro automático). Puedes cambiar a "classic" si prefieres sólo claro.
+  # Modo claro/oscuro automático
   skin: auto
 
-  # Enlaces sociales con iconos (el feed RSS se añade automáticamente al final)
+  # Iconos sociales en el pie (RSS aparece solo al final)
   social_links:
     - title: "X"
       icon: x-twitter
@@ -61,7 +61,7 @@ minima:
       icon: github
       url: "https://github.com/lotrives"
 
-  # Asegura que el enlace al feed aparezca (por defecto es false, lo dejamos explícito)
+  # Asegura mostrar el feed en el pie
   hide_site_feed_link: false
 
 # ------------------------------
