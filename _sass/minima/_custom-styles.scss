@@ -1,22 +1,7 @@
-/* ====== Lotrives – Fix menú en Minima 3 (SVG) ====== */
+/* ===== Lotrives – Fix menú Minima 3 (solo móvil) ===== */
 
-/* Mostrar el botón hamburguesa en móvil */
-@media (max-width: 600px) {
-  .site-nav label[for="nav-trigger"] {
-    display: block !important;
-    cursor: pointer;
-  }
-  /* Ocultar items hasta abrir */
-  #nav-trigger ~ .nav-items { display: none; }
-  #nav-trigger:checked ~ .nav-items { display: block; }
-}
-
-/* Icono hamburguesa basado en SVG de Minima: quitar fill y usar stroke */
-.site-nav .menu-icon svg {
-  display: block;
-  width: 28px;
-  height: 22px;
-}
+/* Icono hamburguesa (SVG) correcto en todos los skins */
+.site-nav .menu-icon svg { width: 28px; height: 22px; display: block; }
 .site-nav .menu-icon svg path {
   fill: none !important;
   stroke: currentColor !important;
@@ -25,14 +10,22 @@
   stroke-linejoin: round;
 }
 
-/* Alinear los enlaces del panel en columna y sin sangrías */
-.site-nav .nav-items .nav-item,
-.site-nav .trigger .page-link,
-.site-nav .page-link {
-  display: block !important;
-  margin: 0 !important;
-  padding: .5rem 0;
-}
+/* Solo en móvil: botón visible, panel colapsable y enlaces en columna */
+@media (max-width: 600px) {
+  /* Muestra el botón hamburguesa */
+  .site-nav label[for="nav-trigger"] { display: block !important; cursor: pointer; }
 
-/* Asegurar contraste del icono en cualquier skin */
-.site-header, .site-nav { color: inherit; }
+  /* Oculta panel por defecto y muéstralo al abrir (cubrimos .trigger y .nav-items) */
+  #nav-trigger ~ .trigger,
+  #nav-trigger ~ .nav-items { display: none; }
+  #nav-trigger:checked ~ .trigger,
+  #nav-trigger:checked ~ .nav-items { display: block; }
+
+  /* Enlaces del panel en columna, sin sangrías */
+  .site-nav .trigger .page-link,
+  .site-nav .nav-items .page-link {
+    display: block !important;
+    margin: 0 !important;
+    padding: .5rem 0;
+  }
+}
