@@ -4,7 +4,7 @@ title: Etiquetas
 permalink: /etiquetas/
 ---
 
-<!-- Index of tags -->
+<!-- Índice de etiquetas -->
 <ul>
   {% assign tags = site.tags | sort %}
   {% for tag in tags %}
@@ -18,10 +18,10 @@ permalink: /etiquetas/
 
 <hr />
 
-<!-- List of posts under each tag -->
+<!-- Lista de entradas bajo cada etiqueta -->
 {% for tag in tags %}
   {% assign tag_name = tag[0] %}
-  <h2 id="{{ tag_name | slugify: 'latin' }}">{{ tag_name }}</h2>
+  <h4 id="{{ tag_name | slugify: 'latin' }}">{{ tag_name }}</h4>
   <ul>
     {% for post in tag[1] %}
       <li>
