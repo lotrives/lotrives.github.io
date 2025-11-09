@@ -20,6 +20,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 
+# Google Analytics 4 (ID de medición)
+google_analytics: G-BT8CB5X306
+
 minima:
   # Páginas del menú principal (nav)
   nav_pages:
