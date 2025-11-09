@@ -11,6 +11,7 @@ remote_theme: "jekyll/minima@5f61d94"
 url: "https://lotrives.github.io"
 baseurl: ""
 
+# Estructura de URLs de posts
 permalink: /:year/:month/:day/:title/
 
 plugins:
@@ -19,19 +20,36 @@ plugins:
   - jekyll-sitemap
 
 minima:
+  # Páginas del menú principal (nav)
   nav_pages:
     - acerca.md
     - archivo.md
     - buscar.md
     - etiquetas.md
     - newsletter.md
+
+  # Mostrar extractos en listados
   show_excerpts: true
-  hide_site_feed_link: true
-  # skin auto (claro/oscuro)
+
+  # Apariencia (claro/oscuro automático)
   skin: auto
 
+  # Enlaces sociales del footer (Font Awesome)
+  social_links:
+    - title: "X (Twitter)"
+      icon: x-twitter
+      url: "https://x.com/jmgraunavarro"
+    - title: "GitHub"
+      icon: github
+      url: "https://github.com/lotrives"
+
+  # Oculta el enlace e icono RSS del pie
+  hide_site_feed_link: true
+
+# Metadatos para jekyll-seo-tag
 twitter_username: "jmgraunavarro"
 github_username: "lotrives"
 
+# Compilación Sass en modo comprimido
 sass:
   style: compressed
