@@ -5,8 +5,8 @@ author:
 lang: "es"
 timezone: "Europe/Madrid"
 
-# Minima 3 moderno (commit estable con mejoras en nav móvil)
-remote_theme: "jekyll/minima@5f61d94"
+# Minima (último HEAD del repo)
+remote_theme: "jekyll/minima@master"
 
 url: "https://lotrives.github.io"
 baseurl: ""
@@ -20,7 +20,7 @@ plugins:
   - jekyll-sitemap
 
 minima:
-  # Páginas del menú principal (nav)
+  # Páginas del menú
   nav_pages:
     - acerca.md
     - archivo.md
@@ -28,13 +28,13 @@ minima:
     - etiquetas.md
     - newsletter.md
 
-  # Mostrar extractos en listados
+  # Extractos en listados
   show_excerpts: true
 
   # Apariencia (claro/oscuro automático)
   skin: auto
 
-  # Enlaces sociales del footer (Font Awesome)
+  # Iconos sociales en el pie (Font Awesome vía CDN, como documenta Minima)
   social_links:
     - title: "X (Twitter)"
       icon: x-twitter
@@ -43,7 +43,7 @@ minima:
       icon: github
       url: "https://github.com/lotrives"
 
-  # Oculta el enlace e icono RSS del pie
+  # Ocultar enlace/icono RSS en el pie
   hide_site_feed_link: true
 
 # Metadatos para jekyll-seo-tag
