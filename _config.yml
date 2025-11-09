@@ -54,3 +54,13 @@ github_username: "lotrives"
 # Compilación Sass en modo comprimido
 sass:
   style: compressed
+
+# Autor por defecto para todos los posts (metadatos SEO con jekyll-seo-tag)
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author:
+        name: "José Manuel Grau Navarro"
+        twitter: jmgraunavarro
