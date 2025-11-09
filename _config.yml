@@ -3,7 +3,7 @@ description: "Lotrives · Una mirada al mundo que somos"
 author:
   name: "© José Manuel Grau Navarro"
 lang: "es"
-timezone: Europe/Madrid
+timezone: "Europe/Madrid"
 
 # Tema Minima 3 fijado al commit estable
 remote_theme: jekyll/minima@1722fcf
@@ -18,7 +18,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-remote-theme
 
 minima:
   # Páginas del menú principal
@@ -31,9 +30,6 @@ minima:
 
   # Mostrar extractos en listados
   show_excerpts: true
-
-  # Tema claro/oscuro automático
-  skin: auto
 
   # Enlaces sociales del header y footer
   social_links:
@@ -48,8 +44,8 @@ minima:
   hide_site_feed_link: true
 
 # Metadatos para jekyll-seo-tag
-twitter_username: jmgraunavarro
-github_username: lotrives
+twitter_username: "jmgraunavarro"
+github_username: "lotrives"
 
 # Compilación Sass en modo comprimido
 sass:

@@ -1,14 +1,5 @@
 ---
 ---
 
-/* Lotrives – base limpia con Minima 3
-   Mantener este archivo como único punto de entrada de estilos.
-   Si más adelante añadimos overrides, van DESPUÉS de @import "minima";
-*/
-
-@import "minima";
-
-/* -------------------------------------------
-   (Opcional, dejar vacío por ahora)
-   Aquí podrías añadir overrides futuros.
-   ------------------------------------------- */
+@import "minima/skins/auto";
+@import "minima/initialize";
