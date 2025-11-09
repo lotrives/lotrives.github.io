@@ -1,0 +1,8 @@
+---
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'auto' }}",
+  "minima/initialize";
+
+/* Overrides del sitio (vacío por ahora) */
