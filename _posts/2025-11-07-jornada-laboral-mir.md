@@ -18,7 +18,12 @@ Hay ministros en España que hablan de rebajar la jornada laboral quizás cuando
 
 <br>
 
-Autor: José Manuel Grau Navarro
+<p style="text-align:left; font-size:0.9rem; color:#555; margin-top:1.5rem;">
+  Autor: <a href="{{ '/autor/jose-manuel-grau-navarro/' | relative_url }}"
+            style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">
+            José Manuel Grau Navarro
+         </a>
+</p>
 
 <!-- BLOQUE SUSCRIPCIÓN -->
 <p style="text-align:left; font-size:0.9rem; color:#555; margin-top:1.2rem;">
