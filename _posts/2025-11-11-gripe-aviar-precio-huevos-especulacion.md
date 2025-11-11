@@ -17,12 +17,12 @@ El pasado viernes, 7/11/2025, supimos que se han sacrificado 450.000 gallinas en
 
 1) Imagínese que usted quiere vender su piso y dispone de varias ofertas. ***Especula*** con el precio de su casa y al final opta por traspasarla a quien le pague más. 
 
-2) Imagínese que es propietario de una granja avícola. Desea aprovechar la escasez de oferta en estos momentos en Madrid y liquida a un mayor precio. ***Especula*** también. 
+2) Imagínese que es propietario de una granja avícola. Desea aprovechar la escasez de huevos en estos momentos en Madrid y liquida a un mayor precio. ***Especula*** también. 
 
 **¿Por qué se suele considerar 1) bueno y 2) malo?**
 ¿Hay una doble moral? ¿Hay factores que no se consideran aquí?
 
-Algunos economistas piensan que *especular* es el camino necesario para la vuelta a la normalidad en momentos de escasez, mejor que cualquier otro, aunque en el caso que nos atañe ayudaría que el Estado quitara el IVA a los huevos.
+Algunos economistas piensan que *especular* es el camino necesario para la vuelta a la normalidad en momentos de carencia, mejor que cualquier otro, aunque en el caso que nos atañe ayudaría que el Estado quitara el IVA a los huevos.
 
 Una lectura recomendada:
 
