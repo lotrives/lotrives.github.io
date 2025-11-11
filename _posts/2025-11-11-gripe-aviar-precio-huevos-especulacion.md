@@ -20,7 +20,7 @@ Algunos economistas piensan que *especular* es el camino para la vuelta a la nor
 
 Una lectura recomendada:
 
-[Henry Hazlitt](https://www.nuevarevista.net/henry-hazlitt-la-economia-en-una-leccion/). (2018). *La economía en una lección*. Prólogos de Javier Miley y Juan Ramón Rallo. Traducción de Marciano Villanueva Salas. Unión Editorial.
+[Henry Hazlitt](https://www.nuevarevista.net/henry-hazlitt-la-economia-en-una-leccion/). (2018). *La economía en una lección*. Prólogos de Javier Milei y Juan Ramón Rallo. Traducción de Marciano Villanueva Salas. Unión Editorial.
 
 Edición original: 
 Henry Hazlitt. (1946). *Economics in One Lesson*. Nueva York: Harper & Row.
