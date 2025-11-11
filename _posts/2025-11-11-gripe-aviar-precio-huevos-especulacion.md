@@ -75,7 +75,7 @@ Henry Hazlitt. (1946). *Economics in One Lesson*. Nueva York: Harper & Row.
 })();
 </script>
 
-<p style="text-align:left; font-size:0.9rem; color:#555; margin:0.6rem 0 0;">
+<p style="text-align:left; font-size:0.9rem; color:#555; margin:0.3rem 0 0;">
 {%- for tag in page.tags -%}
   <a href="{{ '/etiquetas/' | relative_url }}#{{ tag | slugify: 'latin' }}" target="_blank" rel="noopener"
      style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">#{{ tag }}</a>{% unless forloop.last %} · {% endunless %}
