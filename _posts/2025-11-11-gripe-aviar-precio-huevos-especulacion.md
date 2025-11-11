@@ -7,7 +7,7 @@ canonical_url: "https://lotrives.github.io/2025-11-11-gripe-aviar-precio-huevos-
 tags: [Cuaderno de notas 2025-11, Abusos, Especulación, Lecturas]
 ---
 
-El pasado viernes, 7/11/2025, supimos que se han sacrificado 450.000 gallinas en Valdemoro (Comunidad de Madrid), para intentar controlar un foco de gripe aviar.([El País](https://elpais.com/espana/madrid/2025-11-07/madrid-sacrifica-a-casi-medio-millon-de-gallinas-por-un-brote-de-gripe-aviar-en-valdemoro.html)). Por esa, y por otras medidas parecidas, el precio de una docena de huevos ha subido considerablemente. De ello se habla hoy por todas partes.
+El pasado viernes, 7/11/2025, supimos que se han sacrificado 450.000 gallinas en Valdemoro (Comunidad de Madrid), para intentar controlar un foco de gripe aviar (v. [El País](https://elpais.com/espana/madrid/2025-11-07/madrid-sacrifica-a-casi-medio-millon-de-gallinas-por-un-brote-de-gripe-aviar-en-valdemoro.html)). Por esa, y por otras medidas parecidas, el precio de una docena de huevos ha subido considerablemente. De ello se habla hoy por todas partes.
 
 1) Imagínese que usted quiere vender su piso y tiene varias ofertas. ***Especula*** con el precio de su casa y al final opta por venderla a quien le pague más. 
 
@@ -16,7 +16,7 @@ El pasado viernes, 7/11/2025, supimos que se han sacrificado 450.000 gallinas en
 **¿Por qué se suele considerar 1) bueno y 2) malo?**
 ¿Hay una doble moral? ¿Hay factores que no se consideran aquí?
 
-Algunos economistas consideran que *especular* es el camino para la vuelta a la normalidad, aunque en el caso que nos atañe ayudaría seguro que el Estado quitara el IVA a los huevos.
+Algunos economistas piensan que *especular* es el camino para la vuelta a la normalidad, aunque en el caso que nos atañe ayudaría seguro que el Estado quitara el IVA a los huevos.
 
 Una lectura recomendada:
 
