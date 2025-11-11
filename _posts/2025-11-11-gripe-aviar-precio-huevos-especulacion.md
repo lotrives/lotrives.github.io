@@ -41,8 +41,7 @@ Henry Hazlitt. (1946). *Economics in One Lesson*. Nueva York: Harper & Row.
 </p>
 
 <p style="text-align:left; font-size:0.9rem; color:#555; margin:0.2rem 0 0.6rem;">
-  _Foto: © Thegreenj, <a href="https://commons.wikimedia.org/wiki/File:Hen_chicken.jpg" target="_blank" rel="noopener"
-  style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">Wikimedia Commons — CC BY-SA 3.0 Unported / GFDL 1.2+</a>._
+  Foto: © [Thegreenj, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, vía Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hen_chicken.jpg)
 </p>
 
 <p style="text-align:left; font-size:0.9rem; color:#555; margin:0.6rem 0 0;">
