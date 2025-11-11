@@ -6,21 +6,23 @@ description: "Reflexión sobre la gripe aviar en Madrid y la percepción moral d
 canonical_url: "https://lotrives.github.io/2025-11-11-gripe-aviar-precio-huevos-especulacion/"
 tags: [Cuaderno de notas 2025-11, Abusos, Especulación, Lecturas]
 ---
+
 <a href="https://commons.wikimedia.org/wiki/File:Hen_chicken.jpg" target="_blank" rel="noopener"
    title="Photo by Thegreenj – CC BY-SA 3.0, via Wikimedia Commons">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hen_chicken.jpg/1280px-Hen_chicken.jpg"
        alt="Gallina (Hen chicken)" style="max-width:100%; height:auto;">
 </a>
-El pasado viernes, 7/11/2025, supimos que se han sacrificado 450.000 gallinas en Valdemoro (Comunidad de Madrid), para intentar controlar un foco de gripe aviar (v. [El País](https://elpais.com/espana/madrid/2025-11-07/madrid-sacrifica-a-casi-medio-millon-de-gallinas-por-un-brote-de-gripe-aviar-en-valdemoro.html)). Por esa, y por otras medidas parecidas, el precio de una docena de huevos ha subido considerablemente. De ello se habla hoy por todas partes.
 
-1) Imagínese que usted quiere vender su piso y tiene varias ofertas. ***Especula*** con el precio de su casa y al final opta por venderla a quien le pague más. 
+El pasado viernes, 7/11/2025, supimos que se han sacrificado 450.000 gallinas en Valdemoro (Comunidad de Madrid), para intentar controlar un foco de gripe aviar (v. [El País](https://elpais.com/espana/madrid/2025-11-07/madrid-sacrifica-a-casi-medio-millon-de-gallinas-por-un-brote-de-gripe-aviar-en-valdemoro.html)). Por esa, y por otras medidas parecidas, el precio de una docena de huevos ha subido considerablemente. De ello se habla hoy como asunto destacado del día.
 
-2) Imagínese que es propietario de una granja avícola. Opta por aprovechar la escasez de oferta en estos momentos en Madrid y vende a un mayor precio. ***Especula*** también. 
+1) Imagínese que usted quiere vender su piso y dispone de varias ofertas. ***Especula*** con el precio de su casa y al final opta por traspasarla a quien le pague más. 
+
+2) Imagínese que es propietario de una granja avícola. Desea aprovechar la escasez de oferta en estos momentos en Madrid y liquida a un mayor precio. ***Especula*** también. 
 
 **¿Por qué se suele considerar 1) bueno y 2) malo?**
 ¿Hay una doble moral? ¿Hay factores que no se consideran aquí?
 
-Algunos economistas piensan que *especular* es el camino para la vuelta a la normalidad, aunque en el caso que nos atañe ayudaría seguro que el Estado quitara el IVA a los huevos.
+Algunos economistas piensan que *especular* es el camino necesario para la vuelta a la normalidad en momentos de escasez, mejor que cualquier otro, aunque en el caso que nos atañe ayudaría que el Estado quitara el IVA a los huevos.
 
 Una lectura recomendada:
 
@@ -29,44 +31,30 @@ Una lectura recomendada:
 Edición original: 
 Henry Hazlitt. (1946). *Economics in One Lesson*. Nueva York: Harper & Row.
 
-<p>
-{%- for tag in page.tags -%}
-  <a href="{{ '/etiquetas/' | relative_url }}#{{ tag | slugify: 'latin' }}">#{{ tag }}</a>
-  {% unless forloop.last %} · {% endunless %}
-{%- endfor -%}
-</p>
+<hr style="margin:2rem 0 1rem; border:none; border-top:1px solid #ddd;">
 
-<br>
-
-<p style="text-align:left; font-size:0.9rem; color:#555; margin-top:1.5rem;">
+<p style="text-align:left; font-size:0.9rem; color:#555; margin:0.6rem 0;">
   Autor: <a href="{{ '/autor/jose-manuel-grau-navarro/' | relative_url }}"
             style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">
             José Manuel Grau Navarro
          </a>
 </p>
 
-<!-- BLOQUE SUSCRIPCIÓN -->
-<p style="text-align:left; font-size:0.9rem; color:#555; margin-top:1.2rem;">
+<p style="text-align:left; font-size:0.9rem; color:#555; margin:0.2rem 0 0.6rem;">
+  _Foto: © Thegreenj, <a href="https://commons.wikimedia.org/wiki/File:Hen_chicken.jpg" target="_blank" rel="noopener"
+  style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">Wikimedia Commons — CC BY-SA 3.0 Unported / GFDL 1.2+</a>._
+</p>
+
+<p style="text-align:left; font-size:0.9rem; color:#555; margin:0.6rem 0 0;">
   <a href="https://lotrives.substack.com/subscribe" target="_blank" rel="noopener"
-     style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">
-    Suscríbete a la Newsletter
-  </a>
-</p>
-
-<!-- BLOQUE COMPARTIR -->
-<p style="text-align:left; font-size:0.9rem; color:#555; margin-top:0.6rem;">
-  Compartir:
+     style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">Newsletter</a>
+  &nbsp;·&nbsp;
   <a id="share-x" target="_blank" rel="noopener"
-     style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">
-     X
-  </a> ·
+     style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">X</a>
+  &nbsp;·&nbsp;
   <a id="share-wa" target="_blank" rel="noopener"
-     style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">
-     WhatsApp
-  </a>
+     style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">WhatsApp</a>
 </p>
-
-<br>
 
 <script>
 (function() {
@@ -76,11 +64,20 @@ Henry Hazlitt. (1946). *Economics in One Lesson*. Nueva York: Harper & Row.
   const encodedText = encodeURIComponent(title + " – Lotrives");
 
   // X (Twitter)
-  document.getElementById("share-x").href =
-    "https://twitter.com/intent/tweet?url=" + encodedUrl + "&text=" + encodedText;
+  const x = document.getElementById("share-x");
+  if (x) x.href = "https://twitter.com/intent/tweet?url=" + encodedUrl + "&text=" + encodedText;
 
   // WhatsApp
-  document.getElementById("share-wa").href =
-    "https://wa.me/?text=" + encodedText + "%20" + encodedUrl;
+  const wa = document.getElementById("share-wa");
+  if (wa) wa.href = "https://wa.me/?text=" + encodedText + "%20" + encodedUrl;
 })();
 </script>
+
+<hr style="margin:1.2rem 0 0.8rem; border:none; border-top:1px dashed #ddd;">
+
+<p style="text-align:left; font-size:0.9rem; color:#555; margin:0;">
+{%- for tag in page.tags -%}
+  <a href="{{ '/etiquetas/' | relative_url }}#{{ tag | slugify: 'latin' }}"
+     style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">#{{ tag }}</a>{% unless forloop.last %} · {% endunless %}
+{%- endfor -%}
+</p>
