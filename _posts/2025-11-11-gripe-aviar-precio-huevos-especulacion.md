@@ -34,8 +34,8 @@ Henry Hazlitt. (1946). *Economics in One Lesson*. Nueva York: Harper & Row.
 
 ---
 
-Autor: [José Manuel Grau Navarro](https://lotrives.github.io/autor/jose-manuel-grau-navarro/)
+Autor: [José Manuel Grau Navarro](https://lotrives.github.io/autor/jose-manuel-grau-navarro/)  
 Foto: © [Thegreenj, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Hen_chicken.jpg), vía Wikimedia Commons  
 Suscríbete: [Newsletter](https://lotrives.substack.com/subscribe)  
-Comparte: [X](https://twitter.com/intent/tweet?url=https%3A%2F%2Flotrives.github.io%2F2025-11-11-gripe-aviar-precio-huevos-especulacion%2F&text=La%20gripe%20aviar%2C%20el%20precio%20de%20los%20huevos%20y%20la%20especulaci%C3%B3n%20%E2%80%93%20Lotrives) · [WhatsApp](https://wa.me/?text=La%20gripe%20aviar%2C%20el%20precio%20de%20los%20huevos%20y%20la%20especulaci%C3%B3n%20%E2%80%93%20Lotrives%20https%3A%2F%2Flotrives.github.io%2F2025-11-11-gripe-aviar-precio-huevos-especulacion%2F)  
+Comparte: [X](https://twitter.com/intent/tweet?url=https%3A%2F%2Flotrives.github.io%2F2025%2F11%2F11%2Fgripe-aviar-precio-huevos-especulacion%2F&text=La%20gripe%20aviar%2C%20el%20precio%20de%20los%20huevos%20y%20la%20especulaci%C3%B3n%20-%20Lotrives) · [WhatsApp](https://api.whatsapp.com/send?text=https%3A%2F%2Flotrives.github.io%2F2025%2F11%2F11%2Fgripe-aviar-precio-huevos-especulacion%2F)  
 Etiquetas: [#Cuaderno de notas 2025-11](https://lotrives.github.io/etiquetas/#cuaderno-de-notas-2025-11) · [#Abusos](https://lotrives.github.io/etiquetas/#abusos) · [#Especulación](https://lotrives.github.io/etiquetas/#especulacion) · [#Lecturas](https://lotrives.github.io/etiquetas/#lecturas)
