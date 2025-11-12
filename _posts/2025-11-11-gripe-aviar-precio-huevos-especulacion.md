@@ -4,7 +4,7 @@ title: "La gripe aviar, el precio de los huevos y la especulación"
 excerpt: "¿Es bueno especular con los precios?"
 description: "Reflexión sobre la gripe aviar en Madrid y la percepción moral de la especulación económica."
 canonical_url: "https://lotrives.github.io/2025-11-11-gripe-aviar-precio-huevos-especulacion/"
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hen_chicken.jpg/800px-Hen_chicken.jpg
+image: https://commons.wikimedia.org/w/index.php?title=File:Hen_chicken.jpg&oldid=930176816
 tags: [Cuaderno de notas 2025-11, Abusos, Especulación, Lecturas]
 ---
 
@@ -34,7 +34,7 @@ Henry Hazlitt. (1946). *Economics in One Lesson*. Nueva York: Harper & Row.
 
 ---
 
-Autor: [José Manuel Grau Navarro](https://lotrives.github.io/autor/jose-manuel-grau-navarro/) · 
+Autor: [José Manuel Grau Navarro](https://lotrives.github.io/autor/jose-manuel-grau-navarro/)
 Foto: © [Thegreenj, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Hen_chicken.jpg), vía Wikimedia Commons  
 Suscríbete: [Newsletter](https://lotrives.substack.com/subscribe)  
 Comparte: [X](https://twitter.com/intent/tweet?url=https%3A%2F%2Flotrives.github.io%2F2025-11-11-gripe-aviar-precio-huevos-especulacion%2F&text=La%20gripe%20aviar%2C%20el%20precio%20de%20los%20huevos%20y%20la%20especulaci%C3%B3n%20%E2%80%93%20Lotrives) · [WhatsApp](https://wa.me/?text=La%20gripe%20aviar%2C%20el%20precio%20de%20los%20huevos%20y%20la%20especulaci%C3%B3n%20%E2%80%93%20Lotrives%20https%3A%2F%2Flotrives.github.io%2F2025-11-11-gripe-aviar-precio-huevos-especulacion%2F)  
