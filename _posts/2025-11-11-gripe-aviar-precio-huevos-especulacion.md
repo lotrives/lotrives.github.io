@@ -31,53 +31,10 @@ Una lectura recomendada:
 Edición original:  
 Henry Hazlitt. (1946). *Economics in One Lesson*. Nueva York: Harper & Row.
 
-<hr style="margin:2rem 0 1rem; border:none; border-top:1px solid #ddd;">
+---
 
-<p style="text-align:left; font-size:0.9rem; color:#555; margin:0.6rem 0;">
-  Autor: <a href="{{ '/autor/jose-manuel-grau-navarro/' | relative_url }}" target="_blank" rel="noopener"
-            style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">
-            José Manuel Grau Navarro
-         </a>
-</p>
-
-<p style="text-align:left; font-size:0.9rem; color:#555; margin:0.2rem 0 0.6rem;">
-  Foto: © <a href="https://commons.wikimedia.org/wiki/File:Hen_chicken.jpg" target="_blank" rel="noopener"
-  style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">
-  Thegreenj, CC BY-SA 3.0
-  </a>, vía Wikimedia Commons
-</p>
-
-<p style="text-align:left; font-size:0.9rem; color:#555; margin:0.6rem 0 0;">
-  <a href="https://lotrives.substack.com/subscribe" target="_blank" rel="noopener"
-     style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">Newsletter</a>
-  &nbsp;·&nbsp;
-  <a id="share-x" target="_blank" rel="noopener"
-     style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">X</a>
-  &nbsp;·&nbsp;
-  <a id="share-wa" target="_blank" rel="noopener"
-     style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">WhatsApp</a>
-</p>
-
-<script>
-(function() {
-  const url = "{{ page.url | absolute_url }}";
-  const title = "{{ page.title | escape }}";
-  const encodedUrl = encodeURIComponent(url);
-  const encodedText = encodeURIComponent(title + " – Lotrives");
-
-  // X (Twitter)
-  const x = document.getElementById("share-x");
-  if (x) x.href = "https://twitter.com/intent/tweet?url=" + encodedUrl + "&text=" + encodedText;
-
-  // WhatsApp
-  const wa = document.getElementById("share-wa");
-  if (wa) wa.href = "https://wa.me/?text=" + encodedText + "%20" + encodedUrl;
-})();
-</script>
-
-<p style="text-align:left; font-size:0.9rem; color:#555; margin:0.3rem 0 0;">
-{%- for tag in page.tags -%}
-  <a href="{{ '/etiquetas/' | relative_url }}#{{ tag | slugify: 'latin' }}" target="_blank" rel="noopener"
-     style="text-decoration:none; border-bottom:1px dotted #999; color:inherit;">#{{ tag }}</a>{% unless forloop.last %} · {% endunless %}
-{%- endfor -%}
-</p>
+Autor: [José Manuel Grau Navarro](https://lotrives.github.io/autor/jose-manuel-grau-navarro/) · 
+Foto: © [Thegreenj, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Hen_chicken.jpg), vía Wikimedia Commons  
+Suscríbete: [Newsletter](https://lotrives.substack.com/subscribe)  
+Comparte: [X](https://twitter.com/intent/tweet?url=https%3A%2F%2Flotrives.github.io%2F2025-11-11-gripe-aviar-precio-huevos-especulacion%2F&text=La%20gripe%20aviar%2C%20el%20precio%20de%20los%20huevos%20y%20la%20especulaci%C3%B3n%20%E2%80%93%20Lotrives) · [WhatsApp](https://wa.me/?text=La%20gripe%20aviar%2C%20el%20precio%20de%20los%20huevos%20y%20la%20especulaci%C3%B3n%20%E2%80%93%20Lotrives%20https%3A%2F%2Flotrives.github.io%2F2025-11-11-gripe-aviar-precio-huevos-especulacion%2F)  
+Etiquetas: [#Cuaderno de notas 2025-11](https://lotrives.github.io/etiquetas/#cuaderno-de-notas-2025-11) · [#Abusos](https://lotrives.github.io/etiquetas/#abusos) · [#Especulación](https://lotrives.github.io/etiquetas/#especulacion) · [#Lecturas](https://lotrives.github.io/etiquetas/#lecturas)
