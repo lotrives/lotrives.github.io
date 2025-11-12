@@ -4,6 +4,7 @@ title: "La gripe aviar, el precio de los huevos y la especulación"
 excerpt: "¿Es bueno especular con los precios?"
 description: "Reflexión sobre la gripe aviar en Madrid y la percepción moral de la especulación económica."
 canonical_url: "https://lotrives.github.io/2025-11-11-gripe-aviar-precio-huevos-especulacion/"
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hen_chicken.jpg/800px-Hen_chicken.jpg
 tags: [Cuaderno de notas 2025-11, Abusos, Especulación, Lecturas]
 ---
 
