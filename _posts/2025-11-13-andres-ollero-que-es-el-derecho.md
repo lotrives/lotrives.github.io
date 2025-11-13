@@ -8,7 +8,7 @@ date: 2025-11-13
 last_modified: 2025-11-13
 author: "José Manuel Grau Navarro"
 image: "/assets/img/2025 11 13 Lotrives Andres Ollero que es el derecho featured.jpg"
-categories: [Sociedad]
+categories: [Cultura]
 tags: [Cuaderno de notas, Andrés Ollero]
 ---
 
