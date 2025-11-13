@@ -36,7 +36,7 @@ Más sobre <a href="https://www.nuevarevista.net/andres-ollero-y-la-democracia-c
   </a>
   <br>
   Comparte:
-  <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Flotrives.github.io%2F2025%2F11%2F13%2Fandres-ollero-que-es-el-derecho%2F&text=Andr%C3%A9s%20Ollero%3A%20%C2%ABQu%C3%A9%20es%20el%20derecho%C2%BB%3F%20-%20Lotrives"
+  <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Flotrives.github.io%2F2025%2F11%2F13%2Fandres-ollero-que-es-el-derecho%2F&text=Andr%C3%A9s%20Ollero%3A%20%C2%ABQu%C3%A9%20es%20el%20derecho%3F%C2%BB%20-%20Lotrives"
      target="_blank" rel="noopener">X</a>
   ·
   <a href="https://api.whatsapp.com/send?text=https%3A%2F%2Flotrives.github.io%2F2025%2F11%2F13%2Fandres-ollero-que-es-el-derecho%2F"
