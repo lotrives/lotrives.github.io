@@ -25,12 +25,14 @@ google_analytics: G-BT8CB5X306
 
 minima:
   # Páginas del menú principal (nav)
+  minima:
   nav_pages:
     - acerca.md
     - archivo.md
-    - buscar.md
+    - categorias.md
     - etiquetas.md
     - newsletter.md
+    - buscar.md
 
   # Mostrar extractos en listados
   show_excerpts: true
