@@ -44,12 +44,12 @@ permalink: /categorias/
 
 <hr>
 
-<h3 id="persona">Persona</h3>
+<h3 id="personas">Personas</h3>
 
-{% assign persona_posts = site.categories.Persona %}
-{% if persona_posts %}
+{% assign personas_posts = site.categories.Personas %}
+{% if personas_posts %}
 <ul>
-  {% for post in persona_posts %}
+  {% for post in personas_posts %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       <span style="font-size:0.85rem; color:#777;">
