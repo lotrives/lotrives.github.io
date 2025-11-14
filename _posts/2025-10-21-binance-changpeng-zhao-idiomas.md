@@ -36,7 +36,7 @@ Anoche pregunté a Grok, después de publicar en X el texto de arriba, que lo in
 El texto vincula esto a Changpeng Zhao (CZ), fundador de Binance, quien cumplió condena en EE.UU. por violaciones regulatorias y, pese a no dirigir formalmente la empresa, mantiene influencia significativa con más de 10 millones de seguidores en X; recientemente, CZ admitió en un post no dominar fluidamente ningún idioma al escribir sus memorias.
 El artículo usa la reflexión de CZ sobre sus "idiomas perdidos" como metáfora para criticar la opacidad y complejidad de los procesos KYC y bancarios de Binance, que convierten a usuarios españoles en clientes extranjeros inadvertidamente, destacando riesgos regulatorios y de privacidad».*
 
-**Obsérvese la invención del último párrafo de la IA**. De ninguna manera mi intención era emplear la *metáfora* de los *idiomas*, que se *pierden* en parte cuando uno no vive en el país de su lengua materna, para *criticar* la opacidad y complejidad ligadas a los riesgos regulatorios. Mi propósito era resaltar **la sinceridad de Changpeng Zhao** (CZ) sobre su dominio del inglés y del chino. Changpeng Zhao nació en China, estudió en Canadá y trabajó en los EE. UU. Ahora parece que reside en algún país árabe.
+**Obsérvese la invención de la última frase de la IA**. De ninguna manera mi intención era emplear la *metáfora* de los *idiomas*, que se *pierden* en parte cuando uno no vive en el país de su lengua materna, para *criticar* la opacidad y complejidad ligadas a los riesgos regulatorios. Mi propósito era resaltar **la sinceridad de Changpeng Zhao** (CZ) sobre su dominio del inglés y del chino. Changpeng Zhao nació en China, estudió en Canadá y trabajó en los EE. UU. Ahora parece que reside en algún país árabe.
 
 ---
 
