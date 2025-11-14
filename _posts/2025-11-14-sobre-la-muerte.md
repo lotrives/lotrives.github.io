@@ -7,10 +7,12 @@ canonical_url: "https://lotrives.github.io/2025/11/14/sobre-la-muerte/"
 date: 2025-11-14
 last_modified: 2025-11-14
 author: "José Manuel Grau Navarro"
-image: "/assets/img/2025 11 14 Lotrives sobre la muerte featured.jpg"
+image: "/assets/images/2025 11 14 Lotrives sobre la muerte featured.jpg"
 categories: [Sociedad]
 tags: [Joseph Ratzinger, Muerte, San Buenaventura, San Ambrosio, Peter Thiel]
 ---
+
+<img src="/assets/images/2025 11 14 Lotrives sobre la muerte featured.jpg" alt="Abtei im Eichwald, Caspar David Friedrich" />
 
 Martina Draft, Pablo Bilz y yo, Lotrives, nos hemos tomado una cerveza con una ensaladilla rusa hoy a las 14:00 en el bar El Paraíso, al salir del trabajo. Llovía. **Pablo** ha soltado una de sus simpáticas ocurrencias cuando se nos acercaba el camarero. «Si llueve, el agua es **redundante** en el mar», ha sentenciado muy serio. Nos hemos reído, pero luego nos ha dejado perplejos cuando ha confesado que juega al ajedrez virtualmente y le gana a <a href="https://www.nuevarevista.net/el-sueno-de-los-poderosos-de-vencer-a-la-muerte/" target="_blank" rel="noopener">Peter Thiel</a>, el multimillonario norteamericano que busca prolongar indefinidamente la vida en la tierra. Pablo no habla por hablar, así que le hemos creído. **Martina** le ha preguntado: «¿Vencerán la medicina y la técnica a la muerte y vivirremos todos eternamente?». Lo hemos dejado ahí.  
 
@@ -33,6 +35,12 @@ Las de Ratzinger proceden de:
   Autor:
   <a href="https://lotrives.github.io/autor/jose-manuel-grau-navarro/" target="_blank" rel="noopener">
     José Manuel Grau Navarro
+  </a>
+  <br>
+  Foto:
+  Imagen del óleo <em>Abtei im Eichwald</em> (<em>Abadía en el robledal</em>), de Caspar David Friedrich. Dominio público vía
+  <a href="https://upload.wikimedia.org/wikipedia/commons/8/86/Friedrich,_Caspar_David_-_Abtei_im_Eichwald_SMB-968249.jpg" target="_blank" rel="noopener">
+    Wikimedia Commons
   </a>
   <br>
   Suscríbete:
