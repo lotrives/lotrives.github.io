@@ -55,7 +55,12 @@ Las de Ratzinger proceden de:
   <a href="https://api.whatsapp.com/send?text=https%3A%2F%2Flotrives.github.io%2F2025%2F11%2F14%2Fsobre-la-muerte%2F"
      target="_blank" rel="noopener">WhatsApp</a>
   <br>
-  Etiquetas:
+Categoría:
+<a href="https://lotrives.github.io/categorias/#sociedad" target="_blank" rel="noopener">
+  Sociedad
+</a>
+<br>
+Etiquetas:
   <a href="https://lotrives.github.io/etiquetas/#joseph-ratzinger" target="_blank" rel="noopener">
     #Joseph Ratzinger
   </a>
