@@ -2,15 +2,17 @@
 layout: post
 title: "Binance, Changpeng Zhao y los idiomas"
 excerpt: "A propósito de las memorias de Changpeng Zhao (CZ)"
-description: "A propósito de las memorias de Changpeng Zhao (CZ) y del peculiar proceso de verificación y depósito para usuarios españoles."
+description: "Las memorias de Changpeng Zhao (CZ),su dominio o no dominio de idiomas y el proceso de verificación de usuarios en Binance."
 canonical_url: "https://lotrives.github.io/2025/10/21/binance-changpeng-zhao-idiomas/"
 date: 2025-10-21
-last_modified: 2025-11-13
+last_modified: 2025-11-15
 author: "José Manuel Grau Navarro"
-image: "/assets/img/2025 10 21 Lotrives Binance Changpeng Zhao featured.jpg"
+image: "/assets/images/2025 10 21 Lotrives Binance Changpeng Zhao featured.jpg"
 categories: [Personas]
 tags: [Cuaderno de notas, Binance, Changpeng Zhao, Criptomonedas, Cartera de valores]
 ---
+
+![Changpeng Zhao](/assets/images/2025 10 21 Lotrives Binance Changpeng Zhao featured.jpg)
 
 **Martes, 21 de octubre de 2025**  
 
@@ -36,6 +38,7 @@ Anoche pregunté a Grok, después de publicar en X el texto de arriba, que lo in
 El texto vincula esto a Changpeng Zhao (CZ), fundador de Binance, quien cumplió condena en EE.UU. por violaciones regulatorias y, pese a no dirigir formalmente la empresa, mantiene influencia significativa con más de 10 millones de seguidores en X; recientemente, CZ admitió en un post no dominar fluidamente ningún idioma al escribir sus memorias.
 El artículo usa la reflexión de CZ sobre sus "idiomas perdidos" como metáfora para criticar la opacidad y complejidad de los procesos KYC y bancarios de Binance, que convierten a usuarios españoles en clientes extranjeros inadvertidamente, destacando riesgos regulatorios y de privacidad».*
 
+
 **Obsérvese la invención de la última frase de la IA**. De ninguna manera mi intención era emplear la *metáfora* de los *idiomas*, que se *pierden* en parte cuando uno no vive en el país de su lengua materna, para *criticar* la opacidad y complejidad ligadas a los riesgos regulatorios. Mi propósito era resaltar **la sinceridad de Changpeng Zhao** (CZ) sobre su dominio del inglés y del chino. Changpeng Zhao nació en China, estudió en Canadá y trabajó en los EE. UU. Ahora parece que reside en algún país árabe.
 
 ---
@@ -45,6 +48,12 @@ El artículo usa la reflexión de CZ sobre sus "idiomas perdidos" como metáfora
   <a href="https://lotrives.github.io/autor/jose-manuel-grau-navarro/" target="_blank" rel="noopener">
     José Manuel Grau Navarro
   </a>
+  <br>
+  Foto:
+  Changpeng Zhao en 2022.
+  <a href="https://commons.wikimedia.org/wiki/File:2022_-_Press_Conferences_BE6_1696_(52471671342).jpg" target="_blank" rel="noopener">Web Summit</a>,
+  <a href="https://creativecommons.org/licenses/by/2.0" target="_blank" rel="noopener">CC BY 2.0</a>,
+  vía Wikimedia Commons
   <br>
   Suscríbete:
   <a href="https://lotrives.substack.com/subscribe" target="_blank" rel="noopener">
@@ -57,6 +66,11 @@ El artículo usa la reflexión de CZ sobre sus "idiomas perdidos" como metáfora
   ·
   <a href="https://api.whatsapp.com/send?text=https%3A%2F%2Flotrives.github.io%2F2025%2F10%2F21%2Fbinance-changpeng-zhao-idiomas%2F"
      target="_blank" rel="noopener">WhatsApp</a>
+  <br>
+  Categoría:
+  <a href="https://lotrives.github.io/categorias/#personas" target="_blank" rel="noopener">
+    Personas
+  </a>
   <br>
   Etiquetas:
   <a href="https://lotrives.github.io/etiquetas/#cuaderno-de-notas" target="_blank" rel="noopener">
