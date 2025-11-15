@@ -5,20 +5,17 @@ excerpt: "¿Es bueno especular con los precios?"
 description: "Reflexión sobre la gripe aviar en Madrid y la percepción moral de la especulación económica."
 canonical_url: "https://lotrives.github.io/2025-11-11-gripe-aviar-precio-huevos-especulacion/"
 date: 2025-11-11
-last_modified: 2025-11-13
+last_modified: 2025-11-15
 author: "José Manuel Grau Navarro"
-image: "/assets/img/2025 11 11 Lotrives gripe aviar huevos featured.jpg"
+image: "/assets/images/2025 11 11 Lotrives gripe aviar huevos featured.jpg"
 categories: [Sociedad]
 tags: [Cuaderno de notas, Abusos, Especulación, Lecturas]
 ---
 
-<a href="https://commons.wikimedia.org/wiki/File:Hen_chicken.jpg" target="_blank" rel="noopener"
-   title="Photo by Thegreenj – CC BY-SA 3.0, via Wikimedia Commons">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hen_chicken.jpg/1280px-Hen_chicken.jpg"
-       alt="Gallina (Hen chicken)" style="max-width:100%; height:auto;">
-</a>
+<img src="/assets/images/2025 11 11 Lotrives gripe aviar huevos featured.jpg"
+     alt="Gallina (Hen chicken)" style="max-width:100%; height:auto;">
 
-El pasado viernes, 7/11/2025, supimos que se han sacrificado 450.000 gallinas en Valdemoro (Comunidad de Madrid), para intentar controlar un foco de gripe aviar (v. <a href="https://elpais.com/espana/madrid/2025-11-07/madrid-sacrifica-a-casi-medio-millon-de-gallinas-por-un-brote-de-gripe-aviar-en-valdemoro.html" target="_blank" rel="noopener">El País</a>). Por esa, y por otras medidas parecidas, el precio de una docena de huevos ha subido considerablemente. De ello se habla hoy como asunto destacado del día.
+El pasado viernes, 7/11/2025, supimos que se han sacrificado 450.000 gallinas en Valdemoro (Comunidad de Madrid), para intentar controlar un foco de gripe aviar (véase <a href="https://elpais.com/espana/madrid/2025-11-07/madrid-sacrifica-a-casi-medio-millon-de-gallinas-por-un-brote-de-gripe-aviar-en-valdemoro.html" target="_blank" rel="noopener"><em>El País</em></a>). Por esa, y por otras medidas parecidas, el precio de una docena de huevos ha subido considerablemente. De ello se habla hoy como asunto destacado del día.
 
 1) Imagínese que usted quiere vender su piso y dispone de varias ofertas. ***Especula*** con el precio de su casa y al final opta por traspasarla a quien le pague más.
 
@@ -60,6 +57,11 @@ Henry Hazlitt. (1946). *Economics in One Lesson*. Nueva York: Harper & Row.
   ·
   <a href="https://api.whatsapp.com/send?text=https%3A%2F%2Flotrives.github.io%2F2025%2F11%2F11%2Fgripe-aviar-precio-huevos-especulacion%2F"
      target="_blank" rel="noopener">WhatsApp</a>
+  <br>
+  Categoría:
+  <a href="https://lotrives.github.io/categorias/#sociedad" target="_blank" rel="noopener">
+    Sociedad
+  </a>
   <br>
   Etiquetas:
   <a href="https://lotrives.github.io/etiquetas/#cuaderno-de-notas" target="_blank" rel="noopener">
