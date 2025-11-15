@@ -2,15 +2,17 @@
 layout: post
 title: "La peligrosa e injusta jornada laboral de los médicos internos residentes"
 excerpt: "¿Nadie responde por este abuso?"
-description: "Situación real de los médicos internos residentes en España y abusos estructurales en sus jornadas laborales."
+description: "Situación de los médicos internos residentes en España (MIR) y abusos estructurales en sus jornadas laborales."
 canonical_url: "https://lotrives.github.io/2025/11/07/jornada-laboral-mir/"
 date: 2025-11-07
-last_modified: 2025-11-13
+last_modified: 2025-11-15
 author: "José Manuel Grau Navarro"
-image: "/assets/img/2025 11 07 Lotrives jornada mir featured.jpg"
+image: "/assets/images/2025 11 07 monica garcia jornada mir featured.jpg"
 categories: [Sociedad]
 tags: [Cuaderno de notas, Abusos, Sanidad, Médicos internos residentes]
 ---
+
+<img src="/assets/images/2025 11 07 monica garcia jornada mir featured.jpg" alt="Mónica García" />
 
 Lotrives conoce a un grupo considerable de médicos internos residentes (un *mir*, unos *mir*, según <a href="https://www.fundeu.es/recomendacion/mir-se-escribe-en-minuscula-y-redonda-553/" target="_blank" rel="noopener">Fundéu</a>). Los de primer año suelen tener 25 años, obtuvieron el Grado en Medicina en 2024 y comenzaron la especialización, lo que equivale a que empezaron a trabajar, en junio de este año. El horario de estos jóvenes, en la mayoría de los casos mujeres, comienza a las 8:00 un jueves como ayer. Pero con frecuencia, además de las guardias de día entero, deben cumplir guardias de tarde que alargan su jornada hasta las 22:00, perfectamente. Al día siguiente, en este caso, viernes, deben presentarse en el hospital que les corresponda otra vez a las 8:00, lo que supone en un lugar como Madrid que el despertador suene a las 6:30. No es algo que ocurre un día al mes, es habitual. Cuando están de guardia, atienden urgencias que no son de su especialidad, con recursos humanos escasos y escasa supervisión. No les da tiempo ni para comerse el bocadillo que se llevan de casa. La organización hospitalaria es mala y faltan médicos por todas partes.
 
@@ -24,6 +26,11 @@ Hay ministros en España que hablan de rebajar la jornada laboral quizás cuando
     José Manuel Grau Navarro
   </a>
   <br>
+  Foto: Mónica García, ministra de Sanidad, en 2023. © 
+  <a href="https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-monica-garcia.aspx" target="_blank" rel="noopener">Pool Moncloa</a> 
+  / José Manuel Álvarez. El titular de los derechos de este archivo, el Gobierno de España, permite su utilización. Véase
+  <a href="https://www.lamoncloa.gob.es/Paginas/es_AvisoLegal.aspx" target="_blank" rel="noopener">aquí</a>.
+  <br>
   Suscríbete:
   <a href="https://lotrives.substack.com/subscribe" target="_blank" rel="noopener">
     Newsletter
@@ -35,6 +42,11 @@ Hay ministros en España que hablan de rebajar la jornada laboral quizás cuando
   ·
   <a href="https://api.whatsapp.com/send?text=https%3A%2F%2Flotrives.github.io%2F2025%2F11%2F07%2Fjornada-laboral-mir%2F"
      target="_blank" rel="noopener">WhatsApp</a>
+  <br>
+  Categoría:
+  <a href="https://lotrives.github.io/categorias/#sociedad" target="_blank" rel="noopener">
+    Sociedad
+  </a>
   <br>
   Etiquetas:
   <a href="https://lotrives.github.io/etiquetas/#cuaderno-de-notas" target="_blank" rel="noopener">
