@@ -20,7 +20,7 @@ Es un día soleado y la primera vez en mi vida que aterrizo con propósito en el
 
 Aprovecho la hora para pasear mientras ella se ejercita. 
 
-Siempre he evitado  meterme con el coche por la **calle López de Hoyos**, que se hace infinita, en la que con muchos semáforos y muchos atascos no ves nunca el final. La estación de **Metro de Prosperidad** es también de las que nunca te detienes. Normalmente se queda arriba, en otro mundo, y tú sigues en tu vagón del Metro, bajo tierra, en dirección a la avenida de América. 
+Siempre he evitado  meterme con el coche por la **calle López de Hoyos**, que se hace infinita, en la que con muchos semáforos y muchos atascos no ves nunca el final. La estación de **Metro de Prosperidad** pertenece al conjunto formado por esas con paradas de las que nunca te apeas. Queda arriba, en otro mundo, y tú continúas el viaje en tu vagón del Metro, bajo tierra, en dirección a la avenida de América. 
 
 Sorpresa: recorro un tramo de López de Hoyos y parece que me transporto a una ciudad de provincia como **Orihuela**, con edificios que en mi imaginación son de tiempos de bachillerato, hace ya medio siglo.
 
