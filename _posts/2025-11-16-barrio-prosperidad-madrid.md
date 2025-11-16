@@ -20,9 +20,9 @@ Es un día soleado y la primera vez en mi vida que aterrizo con propósito en el
 
 Tengo un rato de asueto, de 14:00 a 15:00, porque acompaño a una lesionada a una clínica de fisioterapia que está aquí, en esta zona de Madrid. Ese dispensario cumple la función de aliviar la cola de pacientes del Hospital Ramón y Cajal.
 
-Aprovecho la hora para pasear mientras ella se ejercita. Enseguida alcanzo la plaza donde se ubica la parada del **Metro Prosperidad**. Pertenece al conjunto formado por esas estaciones en las que nunca te apeas. Queda arriba, en otro mundo, y tú continúas el viaje en tu vagón, bajo tierra, en dirección a la avenida de América. 
+Aprovecho la hora para pasear mientras ella se ejercita. Enseguida alcanzo la plaza donde se ubica la parada del **Metro Prosperidad** y el mercado. La parada del Metro pertenece al conjunto formado por esas estaciones en las que nunca te apeas, de tal manera que arriba, en la superficie, se asienta un mundo desconocido para el viajero que viaja en su vagón, bajo tierra, en dirección a la avenida de América. 
 
-Sigo un tramo más por López de Hoyos y parece que me transporto a una ciudad de provincia como **Orihuela**, con edificios que en mi imaginación son de tiempos de mi bachillerato, hace ya medio siglo.
+Camino un tramo más por López de Hoyos y parece que me transporto a una ciudad de provincia como **Orihuela**, con edificios que en mi imaginación son de tiempos de mi bachillerato, hace ya medio siglo.
 
 ![Mercado Prosperidad](/assets/images/2025 11 12 Lotrives Mercado Prosperidad interior.jpeg)
 
@@ -32,9 +32,9 @@ He aquí el mercado. Por dentro deja todavía bastante que desear. Necesita más
 
 ![Metro Prosperidad obras](/assets/images/2025 11 12 Lotrives Metro Prosperidad obras.jpeg)
 
-El Metro está en la plaza de la Prosperidad, ahora de obras para instalar escaleras mecánicas, como se lee en el letrero de la imagen. 
+El Metro de Prosperidad, ahora de obras para instalar escaleras mecánicas, como se observa en el letrero de la imagen. 
 
-A mi lado caminan dos señoras. Una, con acento caribeño, le dice a la otra: **«Los riñones míos necesitan mecánica por todas partes»**.
+Me adelantan dos señoras. Una, con acento caribeño, le dice a la otra: **«Los riñones míos necesitan mecánica por todas partes»**.
 
 ---
 
