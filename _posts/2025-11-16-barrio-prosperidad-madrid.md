@@ -16,7 +16,7 @@ tags: [Cuaderno de notas, Madrid, Prosperidad]
 
 **Miércoles, 12 de noviembre de 2025**
 
-Es un día soleado y la primera vez en mi vida que aterrizo en el barrio <a href="https://es.wikipedia.org/w/index.php?title=Prosperidad_(Madrid)&oldid=169251752" target="_blank" rel="noopener">Prosperidad</a> de Madrid, ese que atraviesa la calle López de Hoyos. Tengo un rato de asueto, de 14:00 a 15:00, porque acompaño a una lesionada a una clínica de fisioterapia que está aquí, en esta zona de Madrid. Ese dispensario cumple la función de aliviar la cola de pacientes del Hospital Ramón y Cajal.
+Es un día soleado y la primera vez en mi vida que aterrizo con propósito en el barrio <a href="https://es.wikipedia.org/w/index.php?title=Prosperidad_(Madrid)&oldid=169251752" target="_blank" rel="noopener">Prosperidad</a> de Madrid, ese que atraviesa la calle López de Hoyos. Tengo un rato de asueto, de 14:00 a 15:00, porque acompaño a una lesionada a una clínica de fisioterapia que está aquí, en esta zona de Madrid. Ese dispensario cumple la función de aliviar la cola de pacientes del Hospital Ramón y Cajal.
 
 Aprovecho la hora para pasear mientras ella se ejercita. 
 
