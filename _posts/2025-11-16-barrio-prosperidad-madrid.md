@@ -2,7 +2,7 @@
 layout: post
 title: "El barrio Prosperidad de Madrid"
 excerpt: "Un paseo que despierta memorias de otros lugares y de otros tiempos"
-description: "Crónica de un paseo por el barrio Prosperidad de Madrid que lleva la mente a otros lugares y a otros tiempos"
+description: "Crónica de un paseo por el barrio Prosperidad de Madrid, que lleva la mente a otros lugares y a otros tiempos"
 canonical_url: "https://lotrives.github.io/2025/11/16/barrio-prosperidad-madrid/"
 date: 2025-11-16
 last_modified: 2025-11-16
@@ -54,7 +54,7 @@ Esta fachada, con ese mirador y esas barandillas modernista, también me conduce
 
 ![Frutería ladrillo visto](/assets/images/2025 11 12 Lotrives Fruteria ladrillo visto.jpeg)
 
-La casa de ladrillo visto que alberga la frutería diría que es más bien de estilo inglés. No sé cómo estará por dentro, pero da la impresión de que si la dejan puede soportar unos cuantos siglos más.
+La casa de ladrillo visto que alberga la frutería diría parece de estilo inglés. No sé cómo se conserva por dentro, pero da la impresión de que si la dejan puede soportar unos cuantos siglos más.
 
 ---
 
@@ -74,7 +74,7 @@ El edificio del Holiday Gym, con su fachada dominada por esa vidriera, va en la 
 
 ![Residencia para la tercera edad](/assets/images/2025 11 12 Lotrives Residencia tercera edad.jpeg)
 
-Me doy prisa ya porque me esperan en el fisio, a recoger a la paciente. No me da tiempo a inspeccionar esta **residencia para la tercera edad**, de cinco estrellas. Ocupa un inmenso edifico que no sé si en su origen fue una cárcel, un seminario, un hospital o un hospicio. Quizá algún día vuelva a verlo por dentro e incluso a pedir plaza.
+Me doy prisa ya porque me esperan en la clínica fisio, a recoger a la paciente. No me da tiempo a inspeccionar esta **residencia para la tercera edad**, de cinco estrellas. Ocupa un inmenso edifico completamente remodelado. En su origen, tal vez fuera una cárcel, un seminario, un hospital o un hospicio. Quizá algún día vuelva a verlo por dentro e incluso a pedir plaza.
 
 ---
 
