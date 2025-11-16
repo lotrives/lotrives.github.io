@@ -54,7 +54,7 @@ Esta fachada, con ese mirador y esas barandillas modernista, también me conduce
 
 ![Frutería ladrillo visto](/assets/images/2025 11 12 Lotrives Fruteria ladrillo visto.jpeg)
 
-La casa de ladrillo visto que alberga la frutería diría parece de estilo inglés. No sé cómo se conserva por dentro, pero da la impresión de que si la dejan puede soportar unos cuantos siglos más.
+La casa de ladrillo visto que alberga la frutería se acerca a lo británico. No sé cómo se conserva por dentro, pero da la impresión de que si la dejan puede soportar unos cuantos siglos más.
 
 ---
 
@@ -67,14 +67,14 @@ En este bar que ofrece vermú, según paso, el dueño se dirige con confianza a 
 
 ![Holiday Gym](/assets/images/2025 11 12 Lotrives Holiday Gym fachada vidrio.jpeg)
 
-El edificio del Holiday Gym, con su fachada dominada por esa vidriera, va en la línea de la arquitectura franquista o dictatorial comunista a secas. Por momentos, creo que estoy ante el **Palacio de Cultura de Varsovia**.
+El bloque del Holiday Gym, con su fachada dominada por esa vidriera, va en la línea de la arquitectura franquista o dictatorial comunista a secas. Por momentos, creo que estoy ante el **Palacio de Cultura de Varsovia**.
 
 
 ---
 
 ![Residencia para la tercera edad](/assets/images/2025 11 12 Lotrives Residencia tercera edad.jpeg)
 
-Me doy prisa ya porque me esperan en la clínica fisio, a recoger a la paciente. No me da tiempo a inspeccionar esta **residencia para la tercera edad**, de cinco estrellas. Ocupa un inmenso edifico completamente remodelado. En su origen, tal vez fuera una cárcel, un seminario, un hospital o un hospicio. Quizá algún día vuelva a verlo por dentro e incluso a pedir plaza.
+Me doy prisa ya porque me esperan en la clínica fisio, a recoger a la paciente. No me da tiempo a inspeccionar esta **residencia para la tercera edad**, de cinco estrellas. Ocupa un inmenso edifico completamente remodelado. En su origen, tal vez fuera una cárcel, un seminario, un hospital, un psiquiátrico, un reformatorio o un hospicio. Quizá algún día vuelva a verlo por dentro e incluso a pedir plaza.
 
 ---
 
