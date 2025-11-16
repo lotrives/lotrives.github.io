@@ -16,43 +16,65 @@ tags: [Cuaderno de notas, Madrid, Prosperidad]
 
 **Miércoles, 12 de noviembre de 2025**
 
-Es un día soleado y la primera vez en mi vida que me paseo por el barrio **Prosperidad** de Madrid, ese que atraviesa la **calle López de Hoyos**. Tengo un rato de asueto, de 14:00 a 15:00, porque acompaño a una lesionada a una clínica de fisioterapia que está aquí, en esta zona de Madrid, y cumple la función de aliviar la cola de pacientes del Hospital Ramón y Cajal.
+Es un día soleado y la primera vez en mi vida que aterrizo en el barrio **Prosperidad** de Madrid, ese que atraviesa la **calle López de Hoyos**. Tengo un rato de asueto, de 14:00 a 15:00, porque acompaño a una lesionada a una clínica de fisioterapia que está aquí, en esta zona de Madrid. Ese dispensario cumple la función de aliviar la cola de pacientes del Hospital Ramón y Cajal.
 
-Aprovecho la hora para pasear mientras ella se ejercita. Siempre me ha dado miedo meterme con el coche por la calle López de Hoyos, que se hace infinita, en la que tras muchos semáforos, muchos atascos y una gran desesperación, no sabes dónde terminarás. La estación de Metro de Prosperidad es también una en la que nunca te detienes. Normalmente se queda arriba, en otro mundo, y tú sigues en tu vagón del Metro en dirección a la avenida de América. 
+Aprovecho la hora para pasear mientras ella se ejercita. 
 
-A pie, Prosperirad es una sorpresa. Recorro un tramo de López de Hoyos y parece que me transporto a una ciudad de provincia como Orihuela, con edificios de mis tiempos de bachillerato, hace ya medio siglo.
+Siempre he evitado  meterme con el coche por la calle López de Hoyos, que se hace infinita, en la que con muchos semáforos y muchos atascos no ves nunca el final. La estación de Metro de Prosperidad es también de las que nunca te detienes. Normalmente se queda arriba, en otro mundo, y tú sigues en tu vagón del Metro, bajo tierra, en dirección a la avenida de América. 
 
-He aquí el mercado. Por dentro deja todavía bastante que desear. Están en plena remodelación.
+Sorpresa: recorro un tramo de López de Hoyos y parece que me transporto a una ciudad de provincia como Orihuela, con edificios que en mi imaginación son de tiempos de bachillerato, hace ya medio siglo.
 
 ![Mercado Prosperidad](/assets/images/2025 11 12 Lotrives Mercado Prosperidad interior.jpeg)
 
-El Metro está en la plaza de la Prosperidad, ahora de obras para instalar un ascensor. A mi lado pasean dos señoras y una, con acento caribeño, le dice a la otra: **«Los riñones míos necesitan mecánica por todas partes»**.
+He aquí el mercado. Por dentro deja todavía bastante que desear. Está en plena remodelación.
+
+---
 
 ![Metro Prosperidad obras](/assets/images/2025 11 12 Lotrives Metro Prosperidad obras.jpeg)
 
-El Metro está al lado de la **Parroquia Sagrado Corazón de Jesús**. A esta hora está cerrada. Parece que veo la iglesia del convento de los capuchinos en Orihuela. En Madrid hasta tienen, como allí, una palmera en el jardín.
+El Metro está en la plaza de la Prosperidad, ahora de obras para instalar un ascensor. 
+
+A mi lado pasean dos señoras y una, con acento caribeño, le dice a la otra: **«Los riñones míos necesitan mecánica por todas partes»**.
+
+---
 
 ![Parroquia Sagrado Corazón](/assets/images/2025 11 12 Lotrives Parroquia Sagrado Corazon jardin.jpeg)
 
-Esta fachada, con ese mirador y esas barandillas modernista, es también de las casas que me transportan a otros tiempos y a otros lugares levantinos.
+Pasada la plaza de Prosperidad, queda la **Parroquia Sagrado Corazón de Jesús**. A esta hora está cerrada. Parece que veo la iglesia del convento de los capuchinos de Orihuela. En Madrid hasta tienen, como allí, una palmera en el jardín.
+
+
+---
 
 ![Fachada modernista](/assets/images/2025 11 12 Lotrives Fachada modernista mirador.jpeg)
 
-La casa de ladrillo visto que alberga la frutería diría que es más bien de estilo inglés. No sé cómo estará por dentro, pero da la impresión de que si la dejan puede soportar unos cuantos siglos más.
+Esta fachada, con ese mirador y esas barandillas modernista, también me conduce a otros tiempos y a otros lugares levantinos.
+
+
+---
 
 ![Frutería ladrillo visto](/assets/images/2025 11 12 Lotrives Fruteria ladrillo visto.jpeg)
 
-En este bar que ofrece vermú, según paso, el dueño se dirige con confianza a uno de sus clientes. Se llama Miguel. Se ponen a hablar del ex ministro José Luis Ábalos.
+La casa de ladrillo visto que alberga la frutería diría que es más bien de estilo inglés. No sé cómo estará por dentro, pero da la impresión de que si la dejan puede soportar unos cuantos siglos más.
+
+---
 
 ![Bar Prosperidad](/assets/images/2025 11 12 Lotrives Bar Prosperidad.jpeg)
 
-El edificio del Holiday Gym, con su fachada dominada por esa vidriera, va en la línea de la arquitectura franquista o, si se me apura, dictatorial comunista a secas. Por momentos, creía que estaba ante el Palcio de Cultura de Varsovia.
+En este bar que ofrece vermú, según paso, el dueño se dirige con confianza a uno de sus clientes. Se llama Miguel. Se ponen a hablar del ex ministro José Luis Ábalos.
+
+
+---
 
 ![Holiday Gym](/assets/images/2025 11 12 Lotrives Holiday Gym fachada vidrio.jpeg)
 
-Me doy prisa ya porque me esperan en el fisio, a recoger a la paciente. No me da tiempo a inspeccionar esta residencia para la tercera edad, de cinco estrellas, y que ocupa un inmenso edifico que no sé si en su origen fue una cárcel, un seminario, un hospital o un hospicio. Quizá algún día vuelva a verlo por dentro e incluso a pedir plaza.
+El edificio del Holiday Gym, con su fachada dominada por esa vidriera, va en la línea de la arquitectura franquista o dictatorial comunista a secas. Por momentos, creo que estoy ante el Palcio de Cultura de Varsovia.
+
+
+---
 
 ![Residencia para la tercera edad](/assets/images/2025 11 12 Lotrives Residencia tercera edad.jpeg)
+
+Me doy prisa ya porque me esperan en el fisio, a recoger a la paciente. No me da tiempo a inspeccionar esta residencia para la tercera edad, de cinco estrellas. Ocupa un inmenso edifico que no sé si en su origen fue una cárcel, un seminario, un hospital o un hospicio. Quizá algún día vuelva a verlo por dentro e incluso a pedir plaza.
 
 ---
 
