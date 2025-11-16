@@ -16,23 +16,23 @@ tags: [Cuaderno de notas, Madrid, Prosperidad]
 
 **Miércoles, 12 de noviembre de 2025**
 
-Es un día soleado y la primera vez en mi vida que aterrizo con propósito en el barrio <a href="https://es.wikipedia.org/w/index.php?title=Prosperidad_(Madrid)&oldid=169251752" target="_blank" rel="noopener">Prosperidad</a> de Madrid, ese que atraviesa la calle López de Hoyos. Tengo un rato de asueto, de 14:00 a 15:00, porque acompaño a una lesionada a una clínica de fisioterapia que está aquí, en esta zona de Madrid. Ese dispensario cumple la función de aliviar la cola de pacientes del Hospital Ramón y Cajal.
+Es un día soleado y la primera vez en mi vida que aterrizo con propósito en el barrio <a href="https://es.wikipedia.org/w/index.php?title=Prosperidad_(Madrid)&oldid=169251752" target="_blank" rel="noopener">Prosperidad</a> de Madrid, ese que bordea la calle López de Hoyos. Siempre he evitado  meterme con el coche por la **calle López de Hoyos**, que se hace infinita, en la que con muchos semáforos y muchos atascos no ves nunca el final.
 
-Aprovecho la hora para pasear mientras ella se ejercita. 
+Tengo un rato de asueto, de 14:00 a 15:00, porque acompaño a una lesionada a una clínica de fisioterapia que está aquí, en esta zona de Madrid. Ese dispensario cumple la función de aliviar la cola de pacientes del Hospital Ramón y Cajal.
 
-Siempre he evitado  meterme con el coche por la **calle López de Hoyos**, que se hace infinita, en la que con muchos semáforos y muchos atascos no ves nunca el final. La estación de **Metro de Prosperidad** pertenece al conjunto formado por esas con paradas de las que nunca te apeas. Queda arriba, en otro mundo, y tú continúas el viaje en tu vagón del Metro, bajo tierra, en dirección a la avenida de América. 
+Aprovecho la hora para pasear mientras ella se ejercita. Enseguida alcanzo la plaza donde se ubica la parada del **Metro Prosperidad**. Pertenece al conjunto formado por esas estaciones en las que nunca te apeas. Queda arriba, en otro mundo, y tú continúas el viaje en tu vagón, bajo tierra, en dirección a la avenida de América. 
 
-Sorpresa: recorro un tramo de López de Hoyos y parece que me transporto a una ciudad de provincia como **Orihuela**, con edificios que en mi imaginación son de tiempos de bachillerato, hace ya medio siglo.
+Sigo un tramo más por López de Hoyos y parece que me transporto a una ciudad de provincia como **Orihuela**, con edificios que en mi imaginación son de tiempos de mi bachillerato, hace ya medio siglo.
 
 ![Mercado Prosperidad](/assets/images/2025 11 12 Lotrives Mercado Prosperidad interior.jpeg)
 
-He aquí el mercado. Por dentro deja todavía bastante que desear. Está en plena remodelación.
+He aquí el mercado. Por dentro deja todavía bastante que desear. Necesita más remodelación.
 
 ---
 
 ![Metro Prosperidad obras](/assets/images/2025 11 12 Lotrives Metro Prosperidad obras.jpeg)
 
-El Metro está en la plaza de la Prosperidad, ahora de obras para instalar escaleras mecánicas y un ascensor. 
+El Metro está en la plaza de la Prosperidad, ahora de obras para instalar escaleras mecánicas, como se lee en el letrero de la imagen. 
 
 A mi lado caminan dos señoras. Una, con acento caribeño, le dice a la otra: **«Los riñones míos necesitan mecánica por todas partes»**.
 
@@ -40,7 +40,7 @@ A mi lado caminan dos señoras. Una, con acento caribeño, le dice a la otra: **
 
 ![Parroquia Sagrado Corazón](/assets/images/2025 11 12 Lotrives Parroquia Sagrado Corazon jardin.jpeg)
 
-Pasada la plaza de Prosperidad, queda la **Parroquia Sagrado Corazón de Jesús**. A esta hora está cerrada. Parece que veo la iglesia del convento de los capuchinos de Orihuela. En Madrid hasta tienen, como allí, una palmera en el jardín.
+Pasada la plaza de Prosperidad, queda la **Parroquia Sagrado Corazón de Jesús**. A esta hora está cerrada. Parece que diviso la iglesia del convento de los capuchinos de Orihuela. En Madrid hasta tienen, como allí, una palmera en el jardín.
 
 
 ---
@@ -54,27 +54,27 @@ Esta fachada, con ese mirador y esas barandillas modernista, también me conduce
 
 ![Frutería ladrillo visto](/assets/images/2025 11 12 Lotrives Fruteria ladrillo visto.jpeg)
 
-La casa de ladrillo visto que alberga la frutería se acerca a lo británico. No sé cómo se conserva por dentro, pero da la impresión de que si la dejan puede soportar unos cuantos siglos más.
+La casa de ladrillo visto que alberga la frutería se acerca a lo británico. No sé cómo se conserva por dentro, pero calculo que si la dejan tranquila puede soportar unos cuantos siglos más.
 
 ---
 
 ![Bar Prosperidad](/assets/images/2025 11 12 Lotrives Bar Prosperidad.jpeg)
 
-En este bar que ofrece vermú, según paso, el dueño se dirige con confianza a uno de sus clientes. Se llama Miguel. Se ponen a hablar del ex ministro José Luis Ábalos.
+En este bar se ofrece vermú, según leo en un letrero (perpendicular a los visibles en la foto). Oigo cómo el dueño se dirige con confianza a uno de sus clientes. Se llama Miguel. Se ponen a hablar del ex ministro José Luis Ábalos.
 
 
 ---
 
 ![Holiday Gym](/assets/images/2025 11 12 Lotrives Holiday Gym fachada vidrio.jpeg)
 
-El bloque del Holiday Gym, con su fachada dominada por esa vidriera, va en la línea de la arquitectura franquista o dictatorial comunista a secas. Por momentos, creo que estoy ante el **Palacio de Cultura de Varsovia**.
+El bloque del Holiday Gym, con su fachada dominada por esa gran vidriera, va en la línea de la arquitectura franquista o dictatorial comunista a secas. Por momentos, creo que estoy ante el **Palacio de Cultura de Varsovia**.
 
 
 ---
 
 ![Residencia para la tercera edad](/assets/images/2025 11 12 Lotrives Residencia tercera edad.jpeg)
 
-Me doy prisa ya porque me esperan en la clínica fisio, a recoger a la paciente. No me da tiempo a inspeccionar esta **residencia para la tercera edad**, de cinco estrellas. Ocupa un inmenso edifico completamente remodelado. En su origen, tal vez fuera una cárcel, un seminario, un hospital, un psiquiátrico, un reformatorio o un hospicio. Quizá algún día vuelva a verlo por dentro e incluso a pedir plaza.
+Me doy prisa porque me reclaman de la clínica fisio, para que recoja a la paciente. No me da tiempo ya a inspeccionar esta **residencia para la tercera edad**, de cinco estrellas, propiedad de Ballesol. Ocupa un inmenso edifico completamente remodelado. En su origen, tal vez fuera una cárcel, un seminario, un hospital, un psiquiátrico, un reformatorio o un hospicio. Quizá algún día vuelva a visitarlo por dentro e incluso a pedir plaza.
 
 ---
 
