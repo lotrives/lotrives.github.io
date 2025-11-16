@@ -40,14 +40,14 @@ A mi lado caminan dos señoras. Una, con acento caribeño, le dice a la otra: **
 
 ![Parroquia Sagrado Corazón](/assets/images/2025 11 12 Lotrives Parroquia Sagrado Corazon jardin.jpeg)
 
-Pasada la plaza de Prosperidad, queda la **Parroquia Sagrado Corazón de Jesús**. A esta hora está cerrada. Parece que diviso la iglesia del convento de los capuchinos de Orihuela. En Madrid hasta tienen, como allí, una palmera en el jardín.
+Pasada la plaza de Prosperidad, queda la **Parroquia Sagrado Corazón de Jesús**. A esta hora está cerrada. Parece que diviso la iglesia del convento de los capuchinos de Orihuela, el que alberga la imagen de Nuestro Padre Jesús. En Madrid hasta tienen, como allí, una palmera en el jardín. ¿O me estoy inventando que en el huerto de los frailes oriolanos había una palmera?
 
 
 ---
 
 ![Fachada modernista](/assets/images/2025 11 12 Lotrives Fachada modernista mirador.jpeg)
 
-Esta fachada, con ese mirador y esas barandillas modernista, también me conduce a otros tiempos y a otros lugares levantinos.
+Esta fachada, con su mirador circular y sus barandillas modernista, también me conduce a otros tiempos y a otros lugares levantinos.
 
 
 ---
