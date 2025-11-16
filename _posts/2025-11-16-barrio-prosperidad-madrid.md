@@ -18,13 +18,13 @@ tags: [Cuaderno de notas, Madrid, Prosperidad]
 
 Es un día soleado y la primera vez en mi vida que aterrizo con propósito en el barrio <a href="https://es.wikipedia.org/w/index.php?title=Prosperidad_(Madrid)&oldid=169251752" target="_blank" rel="noopener">Prosperidad</a> de Madrid, ese que bordea la calle López de Hoyos. Siempre he evitado  meterme con el coche por la **calle López de Hoyos**, que se hace infinita por su longitud desmesurada y sus muchos semáforos y atascos.
 
-Tengo un rato de asueto, de 14:00 a 15:00, porque acompaño a una lesionada a una clínica de fisioterapia que está aquí, en esta zona de Madrid. Ese dispensario cumple la función de aliviar la cola de pacientes del Hospital Ramón y Cajal.
+Tengo un rato de asueto, de 14:00 a 15:00, tras acompañar a una lesionada a una clínica de fisioterapia de esta zona de Madrid. Cumple la función de aliviar la cola de pacientes del Hospital Ramón y Cajal.
 
 Aprovecho la hora para pasear mientras ella se ejercita. Enseguida alcanzo la plaza donde se ubican la parada del **Metro Prosperidad** y el mercado.
 
-La parada del Metro Prosperidad pertenece al conjunto formado por las estaciones de Madrid en las que rara vez te apeas, de tal manera que arriba, en la superficie, se asienta un mundo desconocido para el viajero que viaja en su vagón, bajo tierra, en dirección a la avenida de América. 
+La parada del Metro Prosperidad pertenece al conjunto de las estaciones de Madrid en las que rara vez te apeas, de tal manera que arriba, en la superficie, se asienta un mundo desconocido para el pasajero que viaja en su vagón, bajo tierra, en dirección a la avenida de América. 
 
-Camino un tramo más por López de Hoyos y parece que me transporto a una ciudad de provincia como **Orihuela**. En mi imaginación retrocedo, además, a los tiempos del bachiller, hace ya medio siglo.
+Camino un tramo más por López de Hoyos y concibo que me transporto a una ciudad de provincia como **Orihuela**. En mi imaginación retrocedo, además, a los tiempos del bachiller, hace ya medio siglo.
 
 ![Mercado Prosperidad](/assets/images/2025 11 12 Lotrives Mercado Prosperidad interior.jpeg)
 
