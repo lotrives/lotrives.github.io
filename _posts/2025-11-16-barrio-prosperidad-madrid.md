@@ -16,13 +16,13 @@ tags: [Cuaderno de notas, Madrid, Prosperidad]
 
 **Miércoles, 12 de noviembre de 2025**
 
-Es un día soleado y la primera vez en mi vida que aterrizo en el barrio **Prosperidad** de Madrid, ese que atraviesa la **calle López de Hoyos**. Tengo un rato de asueto, de 14:00 a 15:00, porque acompaño a una lesionada a una clínica de fisioterapia que está aquí, en esta zona de Madrid. Ese dispensario cumple la función de aliviar la cola de pacientes del Hospital Ramón y Cajal.
+Es un día soleado y la primera vez en mi vida que aterrizo en el barrio <a href="https://es.wikipedia.org/w/index.php?title=Prosperidad_(Madrid)&oldid=169251752" target="_blank" rel="noopener">Prosperidad</a> de Madrid, ese que atraviesa la calle López de Hoyos. Tengo un rato de asueto, de 14:00 a 15:00, porque acompaño a una lesionada a una clínica de fisioterapia que está aquí, en esta zona de Madrid. Ese dispensario cumple la función de aliviar la cola de pacientes del Hospital Ramón y Cajal.
 
 Aprovecho la hora para pasear mientras ella se ejercita. 
 
-Siempre he evitado  meterme con el coche por la calle López de Hoyos, que se hace infinita, en la que con muchos semáforos y muchos atascos no ves nunca el final. La estación de Metro de Prosperidad es también de las que nunca te detienes. Normalmente se queda arriba, en otro mundo, y tú sigues en tu vagón del Metro, bajo tierra, en dirección a la avenida de América. 
+Siempre he evitado  meterme con el coche por la **calle López de Hoyos**, que se hace infinita, en la que con muchos semáforos y muchos atascos no ves nunca el final. La estación de **Metro de Prosperidad** es también de las que nunca te detienes. Normalmente se queda arriba, en otro mundo, y tú sigues en tu vagón del Metro, bajo tierra, en dirección a la avenida de América. 
 
-Sorpresa: recorro un tramo de López de Hoyos y parece que me transporto a una ciudad de provincia como Orihuela, con edificios que en mi imaginación son de tiempos de bachillerato, hace ya medio siglo.
+Sorpresa: recorro un tramo de López de Hoyos y parece que me transporto a una ciudad de provincia como **Orihuela**, con edificios que en mi imaginación son de tiempos de bachillerato, hace ya medio siglo.
 
 ![Mercado Prosperidad](/assets/images/2025 11 12 Lotrives Mercado Prosperidad interior.jpeg)
 
@@ -32,9 +32,9 @@ He aquí el mercado. Por dentro deja todavía bastante que desear. Está en plen
 
 ![Metro Prosperidad obras](/assets/images/2025 11 12 Lotrives Metro Prosperidad obras.jpeg)
 
-El Metro está en la plaza de la Prosperidad, ahora de obras para instalar un ascensor. 
+El Metro está en la plaza de la Prosperidad, ahora de obras para instalar escaleras mecánicas y un ascensor. 
 
-A mi lado pasean dos señoras y una, con acento caribeño, le dice a la otra: **«Los riñones míos necesitan mecánica por todas partes»**.
+A mi lado caminan dos señoras. Una, con acento caribeño, le dice a la otra: **«Los riñones míos necesitan mecánica por todas partes»**.
 
 ---
 
@@ -67,14 +67,14 @@ En este bar que ofrece vermú, según paso, el dueño se dirige con confianza a 
 
 ![Holiday Gym](/assets/images/2025 11 12 Lotrives Holiday Gym fachada vidrio.jpeg)
 
-El edificio del Holiday Gym, con su fachada dominada por esa vidriera, va en la línea de la arquitectura franquista o dictatorial comunista a secas. Por momentos, creo que estoy ante el Palcio de Cultura de Varsovia.
+El edificio del Holiday Gym, con su fachada dominada por esa vidriera, va en la línea de la arquitectura franquista o dictatorial comunista a secas. Por momentos, creo que estoy ante el **Palacio de Cultura de Varsovia**.
 
 
 ---
 
 ![Residencia para la tercera edad](/assets/images/2025 11 12 Lotrives Residencia tercera edad.jpeg)
 
-Me doy prisa ya porque me esperan en el fisio, a recoger a la paciente. No me da tiempo a inspeccionar esta residencia para la tercera edad, de cinco estrellas. Ocupa un inmenso edifico que no sé si en su origen fue una cárcel, un seminario, un hospital o un hospicio. Quizá algún día vuelva a verlo por dentro e incluso a pedir plaza.
+Me doy prisa ya porque me esperan en el fisio, a recoger a la paciente. No me da tiempo a inspeccionar esta **residencia para la tercera edad**, de cinco estrellas. Ocupa un inmenso edifico que no sé si en su origen fue una cárcel, un seminario, un hospital o un hospicio. Quizá algún día vuelva a verlo por dentro e incluso a pedir plaza.
 
 ---
 
