@@ -62,7 +62,7 @@ La casa de ladrillo visto que alberga la frutería se acerca a lo británico. No
 
 ![Bar Prosperidad](/assets/images/2025 11 12 Lotrives Bar Prosperidad.jpeg)
 
-En este bar se ofrece vermú, según leo en un letrero (perpendicular a los visibles en la foto). Oigo cómo el dueño se dirige con confianza a uno de sus clientes. Se llama Miguel. Se ponen a hablar del ex ministro José Luis Ábalos.
+En este bar se ofrece vermú, según leo en un letrero (perpendicular a los visibles en la foto). Escucho al dueño que se dirige con confianza a uno de sus clientes. Se llama Miguel. Se ponen a hablar del ex ministro José Luis Ábalos. «Se está juzgando a sí mismo», afirma Miguel.
 
 
 ---
