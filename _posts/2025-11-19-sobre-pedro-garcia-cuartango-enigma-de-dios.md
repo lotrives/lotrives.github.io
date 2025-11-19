@@ -14,7 +14,7 @@ tags: [Dios, Jesucristo, Bertrand Russell, Frederick C. Copleston]
 
 ![Hilma af Klint - Group IX/SUW, The Swan, No. 9, 1915](/assets/images/2025 11 19 Lotrives Pedro Garcia Cuartango Enigma de Dios featured.jpg)
 
-Hemos celebrado esta mañana el Foro Nueva Revista en la sede de la Universidad Villanueva. Nuestro invitado hoy era **Pedro García Cuartango**, y hemos dialogado, algunos de forma presencial, otros *online*, sobre su libro *El enigma de Dios* (Ediciones B,2025). Una reseña a su ensayo se puede leer <a href="https://www.nuevarevista.net/el-enigma-de-dios-de-pedro-garcia-cuartango/" target="_blank" rel="noopener">aquí</a>.
+Hemos celebrado esta mañana el Foro Nueva Revista en la sede de la Universidad Villanueva. Nuestro invitado hoy era **Pedro García Cuartango**, y hemos dialogado, algunos de forma presencial, otros *online*, sobre su libro *El enigma de Dios* (Ediciones B, 2025). Una reseña a su ensayo se puede leer <a href="https://www.nuevarevista.net/el-enigma-de-dios-de-pedro-garcia-cuartango/" target="_blank" rel="noopener">aquí</a>.
 
 Me ha llamado la atención su **honestidad en la exposición**, su **respeto hacia opciones diferentes** y su **atenta escucha cuando se le preguntaba**. Él se define como agnóstico, pero uno en busca activa y permanente de la verdad que pueda completarle y que le saque de lo que él ha calificado como «angustia vital».
 
