@@ -24,7 +24,7 @@ Hasta 1994, <a href="https://www.ft.com/content/72ffc1d0-92c9-4c0f-80a9-f3b61465
 * Repeticiones.  
 * Balanceos.  
 * Aleteo de manos.  
-* Convulsiones, espasmos o sacudidas corporales intensas cuando se excitan por algo que les emociona, como puede ser un determinado vídeo de los *Teletubbies*.
+* Convulsiones, espasmos o sacudidas corporales intensas cuando se excitan ante emociones como puede ser un determinado vídeo de los *Teletubbies*.
 
 «Los médicos de entonces lo llamaban *autismo clásico* —señala Baron-Cohen—, y todos hacíamos referencia al artículo publicado en 1943 por el psiquiatra infantil **Leo Kanner**, de la Universidad Johns Hopkins (Baltimore)», al que se atribuye el primer informe sobre el autismo.
 
