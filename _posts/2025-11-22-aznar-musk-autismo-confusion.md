@@ -1,0 +1,95 @@
+---
+layout: post
+title: "Aznar, Musk y la confusión en torno al autismo"
+excerpt: "El error sobre el término perjudica especialmente a las personas con grandes necesidades de apoyo" 
+description: "El uso del término 'autista' para designar el síndrome de Asperger y como insulto perjudica especialmente a las personas con grandes necesidades de apoyo"
+canonical_url: "https://lotrives.github.io/2025/11/22/aznar-musk-autismo-confusion/"
+date: 2025-11-22
+last_modified: 2025-11-22
+author: "José Manuel Grau Navarro"
+image: "/assets/images/2025 11 23 Lotrives autismo confusión featured.jpg"
+categories: [Sociedad]
+tags: [Autismo]
+---
+
+![El monje en la orilla del mar (Der Mönch am Meer), óleo de Caspar David Friedrich, Dominio público, vía Wikimedia Commons](/assets/images/2025 11 23 Lotrives autismo confusión featured.jpg)
+
+
+He oído decir, en varias ocasiones y a diversas personas, que José María Aznar es *autista*, como insulto. Hay muchos casos documentados, por si alguien tiene duda sobre ese uso de la palabra autismo. Véase uno <a href="https://cadenaser.com/nacional/2025/02/21/agustin-conde-diputado-del-pp-vetado-de-por-vida-en-el-consejo-de-europa-utiliza-el-autismo-para-atacar-a-la-numero-dos-de-defensa-cadena-ser/?utm_source=chatgpt.com" target="_blank" rel="noopener">aquí</a>. Para aumentar la confusión, Elon Musk <a href="https://www.inc.com/minda-zetlin/elon-musk-aspergers-snl-saturday-night-live-monologue.html" target="_blank" rel="noopener">predica de sí mismo</a> que posee esos rasgos.
+
+Hasta 1994, <a href="https://www.ft.com/content/72ffc1d0-92c9-4c0f-80a9-f3b61465f283" target="_blank" rel="noopener">nos recuerda Simon Baron-Cohen</a>, alguien quedaba diagnosticado como autista si presentaba retrasos en la adquisición del lenguaje o no llegaba a hablar, y además, desde los primeros años, signos como:  
+
+* Intereses muy limitados.  
+* Rutinas muy fuertes y difíciles o imposibles de cambiar.  
+* Repeticiones.  
+* Balanceos.  
+* Aleteo de manos.  
+* Convulsiones, espasmos o sacudidas corporales intensas cuando se excitan por algo que les emociona, como puede ser un determinado vídeo de los *Teletubbies*.
+
+«Los médicos de entonces lo llamaban *autismo clásico* —señala Baron-Cohen—, y todos hacíamos referencia al artículo publicado en 1943 por el psiquiatra infantil **Leo Kanner**, de la Universidad Johns Hopkins (Baltimore)», al que se atribuye el primer informe sobre el autismo.
+
+En 1994, la Asociación Americana de Psiquiatría (APA: American Psychiatric Association) publicó la cuarta edición del Manual Diagnóstico y Estadístico de los Trastornos Mentales (DSM-IV: Diagnostic and Statistical Manual of Mental Disorders), que introdujo el **síndrome de Asperger** como un subgrupo del autismo. Se catalogaba así a personas con síntomas preocupantes de encerramiento en su mundo y falta de habilidades comunicativas, pero no discapacidad intelectual ni dificultades del lenguaje.  
+
+Hay al menos un asunto muy desagradable aquí, le parece a Baron-Cohen, y a mí también. El DSM-IV entronizó en la historia de la Medicina a un pediatra nazi que enviaba a niños discapacitados a que <a href="https://doi.org/10.1186/s13229-018-0208-6" target="_blank" rel="noopener">les practicaran la eutanasia</a>. Ese pediatra era el austriaco Hans Asperger. 
+
+### Cualquiera es autista
+
+El otro asunto con consecuencias desafortunadas es que de la noche a la mañana cualquiera es autista, José María Aznar o Elon Musk. Afirma Baron-Cohen: «Entre 1998 y 2018, las tasas de autismo (el número total de casos, combinando el *autismo clásico* y el síndrome de Asperger) en el Reino Unido aumentaron aproximadamente un 787 %. En Estados Unidos, esa cifra combinada era de 1 por 150 en el año 2000; hoy la prevalencia es de 1 por 31. Gran parte de ese aumento se atribuye al enorme número de personas que buscan un diagnóstico de lo que entonces se llamaba síndrome de Asperger».
+
+En 2013, la APA, en el DSM-5, cambió al término «Trastorno del Espectro Autista» (TEA, en inglés: Autism Spectrum Disorder, ASD), acuñado por la psiquiatra británica <a href="https://es.wikipedia.org/w/index.php?title=Lorna_Wing&oldid=163128405" target="_blank" rel="noopener">Lorna Wing en 1979</a>. Pero tampoco eso libra de la confusión. Escribe Baron-Cohen: «Una persona como Elon Musk puede llamarse autista, y **esta es la misma etiqueta diagnóstica que se le da a un niño que nunca saldrá de casa o nunca podrá vivir de forma independiente, que presenta importantes discapacidades intelectuales y del lenguaje**, y que a la vez, con frecuencia, padece epilepsia y se autolesiona». 
+
+**Alison Singer**, cofundadora de la Fundación para la Ciencia del Autismo en EE. UU. (<a href="https://autismsciencefoundation.org" target="_blank" rel="noopener">Autism Science Foundation</a>, USA), <a href="https://www.nytimes.com/2025/10/01/health/autism-spectrum-neurodiversity-kennedy.html" target="_blank" rel="noopener">argumentaba en *The New York Times*</a> que no se trataba solo de un debate académico: **es evidente que las personas de estos dos grupos poseen diferentes necesidades de apoyo**.
+
+### Neurodiversidad
+
+El término autismo se utiliza políticamente también en otros sentidos. En 1998, <a href="https://www.theguardian.com/world/2023/jul/05/the-mother-of-neurodiversity-how-judy-singer-changed-the-world" target="_blank" rel="noopener">Judy Singer</a>, entonces una estudiante de Sociología, se inventó la palabra *neurodiversidad* (diferentes cerebros, como *biodiversidad*, tipos distintos de floras y faunas), para «impulsar un movimiento por los derechos civiles de las personas autistas y otras neurodivergentes, similar a los derechos de las mujeres, los derechos de las personas negras o los derechos de los homosexuales. Consciente o inconscientemente, el autismo se había vuelto político», apunta Baron-Cohen. 
+
+En 2016, en un <a href="https://youtu.be/Pl8446OulLA?si=AGlfCHe4haQu01WE" target="_blank" rel="noopener">discurso en la ONU</a>, el mismo **Baron-Cohen** del artículo de hoy del *Financial Times* llamó la atención sobre el hecho de que las personas autistas «seguían sin poder disfrutar de muchos derechos humanos, como el derecho a la educación, el empleo, la protección legal, la salud, la dignidad y el ocio. Las personas autistas corrían un mayor riesgo de abandonar la escuela, acabar desempleadas, desarrollar mala salud física y mental, experimentar aislamiento social, ser arrestadas y ser víctimas de abuso, acoso y delitos de odio».
+
+### Situación en Madrid
+
+Como padre de un hijo autista con una alta discapacidad intelectual, puedo añadir que lo que describe el profesor Baron-Cohen en ese vídeo se queda corto en España, al menos en la Comunidad de Madrid. A pesar del empeño de padres, madres y familiares directos, **el destino de nuestros hijos autistas ya crecidos, con alta discapacidad intelectual, y con padres mayores y sin fuerzas, son asilos que no se diferencian tanto de los que conoció el célebre doctor Asperger**: Centros de Día descuidados por falta de medios y de capacidad directiva y residencias con las mismas o peores características. **Y esto no es la Viena de 1938 con el doctor Asperger, es el Madrid de noviembre de 2025.
+
+
+##### Más sobre autismo:
+
+<a href="https://lotrives.substack.com/t/autismo" target="_blank" rel="noopener">Aquí</a>.
+
+---
+
+<p>
+  Autor:
+  <a href="https://lotrives.github.io/autor/jose-manuel-grau-navarro/" target="_blank" rel="noopener">
+    José Manuel Grau Navarro
+  </a>
+  <br>
+  Foto:
+  «El monje en la orilla del mar» («Der Mönch am Meer»), óleo de Caspar David Friedrich. Dominio público, vía 
+  <a href="https://commons.wikimedia.org/w/index.php?title=File:Caspar_David_Friedrich_-_Der_Mönch_am_Meer_-_Google_Art_Project.jpg&oldid=1116638557" target="_blank" rel="noopener">
+    Wikimedia Commons
+  </a>
+  <br>
+  Suscríbete:
+  <a href="https://lotrives.substack.com/subscribe" target="_blank" rel="noopener">
+    Newsletter
+  </a>
+  <br>
+  Comparte:
+  <a href="https://twitter.com/intent/tweet?text=Aznar%2C%20Musk%20y%20la%20confusi%C3%B3n%20en%20torno%20al%20autismo&url=https%3A%2F%2Flotrives.github.io%2F2025%2F11%2F22%2Faznar-musk-autismo-confusion%2F" target="_blank" rel="noopener">X</a>
+  ·
+  <a href="https://api.whatsapp.com/send?text=Aznar%2C%20Musk%20y%20la%20confusi%C3%B3n%20en%20torno%20al%20autismo%20-%20https%3A%2F%2Flotrives.github.io%2F2025%2F11%2F22%2Faznar-musk-autismo-confusion%2F" target="_blank" rel="noopener">WhatsApp</a>
+  ·
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Flotrives.github.io%2F2025%2F11%2F22%2Faznar-musk-autismo-confusion%2F" target="_blank" rel="noopener">Facebook</a>
+  ·
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Flotrives.github.io%2F2025%2F11%2F22%2Faznar-musk-autismo-confusion%2F" target="_blank" rel="noopener">LinkedIn</a>
+  <br>
+  Categoría:
+  <a href="https://lotrives.github.io/categorias/#sociedad" target="_blank" rel="noopener">
+    Sociedad
+  </a>
+  <br>
+  Etiquetas:
+  <a href="https://lotrives.github.io/etiquetas/#autismo" target="_blank" rel="noopener">
+    Autismo
+  </a>
+</p>
