@@ -17,7 +17,7 @@ tags: [Autismo]
 
 He oído decir, en varias ocasiones y a diversas personas, que José María Aznar es *autista*, como insulto. Hay muchos casos documentados, por si alguien tiene duda sobre el uso peyorativo de la palabra autismo. Véase uno <a href="https://cadenaser.com/nacional/2025/02/21/agustin-conde-diputado-del-pp-vetado-de-por-vida-en-el-consejo-de-europa-utiliza-el-autismo-para-atacar-a-la-numero-dos-de-defensa-cadena-ser/?utm_source=chatgpt.com" target="_blank" rel="noopener">aquí</a>. Para aumentar la confusión, Elon Musk <a href="https://www.inc.com/minda-zetlin/elon-musk-aspergers-snl-saturday-night-live-monologue.html" target="_blank" rel="noopener">predica de sí mismo</a> que posee esos rasgos.
 
-Hasta 1994, <a href="https://www.ft.com/content/72ffc1d0-92c9-4c0f-80a9-f3b61465f283" target="_blank" rel="noopener">nos recuerda Simon Baron-Cohen</a>, alguien quedaba diagnosticado como autista si presentaba retrasos en la adquisición del lenguaje o no llegaba a hablar, y además, desde los primeros años, signos como:  
+Hasta 1994, <a href="https://www.ft.com/content/72ffc1d0-92c9-4c0f-80a9-f3b61465f283" target="_blank" rel="noopener">nos recuerda Simon Baron-Cohen</a>, alguien quedaba diagnosticado como autista si presentaba retrasos en la adquisición del lenguaje o no llegaba a hablar, y además, desde los primeros años, síntomas como:  
 
 * Intereses muy limitados.  
 * Rutinas muy fuertes y difíciles o imposibles de cambiar.  
