@@ -30,7 +30,7 @@ Hasta 1994, <a href="https://www.ft.com/content/72ffc1d0-92c9-4c0f-80a9-f3b61465
 
 En 1994, la Asociación Americana de Psiquiatría (APA: American Psychiatric Association) publicó la cuarta edición del Manual Diagnóstico y Estadístico de los Trastornos Mentales (DSM-IV: Diagnostic and Statistical Manual of Mental Disorders), que introdujo el **síndrome de Asperger** como un subgrupo del autismo. Se catalogaba así a personas con síntomas preocupantes de encerramiento en su mundo y falta de habilidades comunicativas, pero no discapacidad intelectual ni dificultades del lenguaje.  
 
-Hay al menos un asunto muy desagradable aquí, le parece a Baron-Cohen, y a mí también. El DSM-IV entronizó en la historia de la Medicina a un pediatra nazi que enviaba a niños discapacitados a que <a href="https://doi.org/10.1186/s13229-018-0208-6" target="_blank" rel="noopener">les practicaran la eutanasia</a>. Ese pediatra era el austriaco Hans Asperger. 
+Hay al menos un asunto muy desagradable aquí, le parece a Baron-Cohen, y a mí también. El DSM-IV entronizó en la historia de la Medicina a un pediatra nazi que enviaba a niños discapacitados a que les practicaran el programa de <a href="https://doi.org/10.1186/s13229-018-0208-6" target="_blank" rel="noopener">*eugenesia*</a>, es decir, a que los exterminaran. Ese pediatra era el austriaco Hans Asperger. 
 
 ### Cualquiera es autista
 
