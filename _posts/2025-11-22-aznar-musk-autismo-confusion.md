@@ -24,7 +24,7 @@ Hasta 1994, <a href="https://www.ft.com/content/72ffc1d0-92c9-4c0f-80a9-f3b61465
 * Repeticiones.  
 * Balanceos.  
 * Aleteo de manos.  
-* Convulsiones, espasmos o sacudidas corporales intensas cuando se excitan ante emociones como puede ser un determinado vídeo de los *Teletubbies*.
+* Convulsiones, espasmos o sacudidas corporales intensas ante emociones como pueden ser las despertadas por un determinado vídeo de los *Teletubbies*.
 
 «Los médicos de entonces lo llamaban *autismo clásico* —señala Baron-Cohen—, y todos hacíamos referencia al artículo publicado en 1943 por el psiquiatra infantil **Leo Kanner**, de la Universidad Johns Hopkins (Baltimore)», al que se atribuye el primer informe sobre el autismo.
 
@@ -48,7 +48,7 @@ En 2017, en un <a href="https://youtu.be/Pl8446OulLA?si=AGlfCHe4haQu01WE" target
 
 ### Situación en Madrid
 
-Como padre de un hijo autista con una alta discapacidad intelectual, puedo añadir que lo que describe el profesor Baron-Cohen en ese vídeo se queda corto en España, al menos en la Comunidad de Madrid. A pesar del empeño de familiares directos, **el destino de nuestros hijos autistas ya crecidos, con alta discapacidad intelectual, con padres mayores y fuerzas decrecientes, son asilos que no se diferencian tanto de los que conoció el célebre doctor Asperger**: Centros de Día descuidados por falta de medios y de capacidad directiva y residencias con peores características. **Y esto no es la Viena de 1938 con el doctor Asperger, es el Madrid de noviembre de 2025**.
+Como padre de un hijo autista con una alta discapacidad intelectual, puedo añadir que la cita del profesor Baron-Cohen en el párrafo anterior se queda corta en España, al menos en la Comunidad de Madrid. A pesar del empeño de familiares directos, **el destino de nuestros hijos autistas ya crecidos, con alta discapacidad intelectual, con padres mayores y fuerzas decrecientes, son asilos que no se diferencian tanto de los que conoció el célebre doctor Asperger**: Centros de Día descuidados por falta de medios y de capacidad directiva y residencias con peores características. **Y esto no es la Viena de 1938 con el doctor Asperger, es el Madrid de noviembre de 2025**.
 
 
 ##### Más sobre autismo:
