@@ -7,12 +7,12 @@ canonical_url: "https://lotrives.github.io/2025/11/23/cartera-permanente-valores
 date: 2025-11-23
 last_modified: 2025-11-23
 author: "José Manuel Grau Navarro"
-image: "/assets/images/2025 11 23 Lotrives cartera valores permanente featured.jpg"
+image: "/assets/images/2025 11 23 Lotrives cartera valores permanente featured.jpeg"
 categories: ["Sociedad"]
 tags: [Inversión, Cartera de valores, ETF, Bitcóin, Finanzas personales]
 ---
 
-![Certificado de compra de veinte acciones clase A de Coca Cola (1929)](/assets/images/2025 11 23 Lotrives cartera valores permanente featured.jpg)
+![Certificado de compra de veinte acciones clase A de Coca Cola (1929)](/assets/images/2025 11 23 Lotrives cartera valores permanente featured.jpeg)
 
 **2025-05-20**
 
