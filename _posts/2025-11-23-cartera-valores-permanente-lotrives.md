@@ -26,7 +26,9 @@ tags: [Inversión, Cartera de valores, ETF, Bitcóin, Finanzas personales]
 
 ### La cartera de Lotrives
   
-**Lotrives ha invertido 3000 € a razón de 1000 € por cada uno de los siguientes ETF:**
+**Lotrives ha invertido 3000 € a razón de 1000 € por cada uno de los siguientes ETF:** 
+
+Véase 👉 <a href="https://drive.google.com/file/d/15u0U6h-rO42scFSL6p7e5xyAemPnOLHh/view" target="_blank" rel="noopener">aquí</a>.
 
 1) Amundi STOXX Europe 600 UCITS ETF (Acc). ISIN: LU0908500753. Invierte en las 600 empresas mayores de Europa. Más información sobre este ETF, <a href="https://www.justetf.com/es/etf-profile.html?isin=LU0908500753" target="_blank" rel="noopener">aquí</a>. Acc quiere decir 'acumulación', es decir, que los dividendos los reinvierte en el propio fondo. Sobre qué es un ETF, Lotrives recomienda esta lectura: <a href="https://www.justetf.com/es/academy/etf-que-son-y-como-invertir-en-ellos.html" target="_blank" rel="noopener">aquí</a>.
 
@@ -58,18 +60,21 @@ Lotrives decide empezar a especular con el bitcóin (BTC).
 
 ### Cartera actualizada
 
+Véase 👉 <a href="https://drive.google.com/file/d/1sOyayqm0FBYH7du28OQbnRzxSaHbmlql/view" target="_blank" rel="noopener">aquí</a>.
+
 #### 2025-11-23 Pérdidas y ganancias
 
 
-Valoración de la cartera a fecha de hoy y plusvalías respecto de la fecha de la compra (2025-05-20 para los ETF y 2025-11-23 para el bitcóin):
+Valoración de la cartera a fecha de hoy:
 
-| Valor | Invertido | Valoración | Plusvalía |
-|--------|-----------|------------|------------|
-| Amundi STOXX Europe 600 | 1000.00 € | 1 058.26 € | 58.26 € (5.83 %) |
-| iShares Core S&P 500 | 1000.00 € | 1 108.13 € | 108.13 € (10.81 %) |
-| iShares € Ultrashort Bond | 1000.00 € | 1 012.98 € | 12.98 € (1.30 %) |
-| Bitcóin | 1000.00 € | 1 000.00 € | 0.00 € (0.00 %) |
-| **Total** | **4000.00 €** | **4 179.37 €** | **179.37 € (4.48 %)** |
+
+| Fecha       | Nombre             | Precio     | Cantidad  | Invertido   | Cotización   | Valoración   | Plusvalía  | Plusvalía % |
+|-------------|---------------------|------------|-----------|-------------|--------------|--------------|------------|--------------|
+| 2025-05-23  | STOXX Europe 600    | 260.05 €   | 3.8454    | 1000.00 €   | 270.50 €     | 1 040.18 €   | 40.18 €    | 4.02 %       |
+| 2025-05-23  | S&P 500             | 566.25 €   | 1.7660    | 1000.00 €   | 612.08 €     | 1 080.94 €   | 80.94 €    | 8.09 %       |
+| 2025-05-23  | € Ultrashort Bond   | 5.44 €     | 183.8235  | 1000.00 €   | 5.51 €       | 1 013.60 €   | 13.60 €    | 1.36 %       |
+| 2025-11-23  | Bitcoin             | 75 086.77 €| 0.0133    | 1000.00 €   | 75 340.64 €  | 1 003.38 €   | 3.38 €     | 0.34 %       |
+| **Total**   |                     |            |           | **4000.00 €**|              | **4 138.10 €**| **138.10 €**| **3.45 %**   |
 
 ---
 
