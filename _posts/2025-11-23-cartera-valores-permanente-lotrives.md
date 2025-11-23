@@ -19,14 +19,13 @@ tags: [Inversión, Cartera de valores, ETF, Bitcóin, Finanzas personales]
 
 — Lotrives no pretende dar consejos de inversión ni se dedica profesionalmente a ello.  
 — No cobra comisiones de nadie ni cobra comisiones a nadie.  
-— Sus ejercicios escritos, como este artículo, le sirven en primer lugar a él mismo, aunque pudiera ser que no perjudiquen a quienes los lean. Lotrives intenta reflejar lo que le hubiera gustado leer y en su momento no halló. Ahora hay mucha más información, pero a veces confusa o no pensada para personas que solo pretenden estar contentas con su cartera de valores siempre, en una inversión a largo plazo.  
+— Sus ejercicios escritos, como este artículo, le sirven en primer lugar a él mismo. Lotrives intenta reflejar lo que le hubiera gustado leer y en su momento no halló. Ahora hay mucha más información, pero a veces confusa o no pensada para personas que solo pretenden estar contentas con su cartera de valores siempre, en una inversión a largo plazo.  
 — Lotrives lleva invirtiendo a título particular desde hace al menos dos decenios. Ha tenido aciertos y errores pero no le ha ido mal.  
-— El pasado viernes, Lotrives se encontró con que disponía de 3.000,- € adicionales en el bolsillo. Los invirtió inmediatamente. Si ha adquirido valores con tal mal tino que su cartera tiende a cero euros en poco tiempo, no le pasará nada. Dormirá igual de bien. Eso es decisivo tenerlo en cuenta para empezar.
+— El pasado viernes, Lotrives se encontró con que disponía de 3000 € adicionales en el bolsillo. Los invirtió inmediatamente. Si ha adquirido valores con tal mal tino que su cartera tiende a cero euros en poco tiempo, no le pasará nada. Dormirá igual de bien. Eso es decisivo tenerlo en cuenta para empezar.
 
 
 ### La cartera de Lotrives
-
-A Lotrives le han tocado 3.000,- € en la lotería y no los necesita. Ha decidido invertirlos y compartir sus ideas para reflexionar sobre finanzas de modo práctico.  
+  
 **Lotrives ha invertido 3000 € a razón de 1000 € por cada uno de los siguientes ETF:**
 
 1) Amundi STOXX Europe 600 UCITS ETF (Acc). ISIN: LU0908500753. Invierte en las 600 empresas mayores de Europa. Más información sobre este ETF, <a href="https://www.justetf.com/es/etf-profile.html?isin=LU0908500753" target="_blank" rel="noopener">aquí</a>. Acc quiere decir 'acumulación', es decir, que los dividendos los reinvierte en el propio fondo. Sobre qué es un ETF, Lotrives recomienda esta lectura: <a href="https://www.justetf.com/es/academy/etf-que-son-y-como-invertir-en-ellos.html" target="_blank" rel="noopener">aquí</a>.
@@ -35,11 +34,9 @@ A Lotrives le han tocado 3.000,- € en la lotería y no los necesita. Ha decidi
 
 3) iShares € Ultrashort Bond UCITS ETF EUR (Acc). ISIN: IE000RHYOR04. Invierte en bonos de grandes empresas con vencimiento a corto plazo y denominados en euros. Más información sobre este ETF, <a href="https://www.justetf.com/es/etf-profile.html?isin=IE000RHYOR04#panorama-general" target="_blank" rel="noopener">aquí</a>.
 
-Obsérvese que Lotrives ha invertido la tercera parte de su fortuna (1000,-€) en acciones europeas, otra tercera parte en acciones estadounidenses y el resto en bonos de grandes empresas con vencimiento a corto plazo.
-
 Los ETF comprados tienen comisiones totales anuales muy bajas: los dos primeros, del 0,07 %; el tercero, del 0,09 %. Eso quiere decir que Amundi o iShares cobran a Lotrives al año 0,7 o 0,9 euros por cada 1000 de Lotrives. Las comisiones las incluyen en la valoración de los ETF.
 
-En los precios de compra de los tres ETF Lotrives ha incluido las comisiones de su bróker. Es un secreto a voces que los bancos tradicionales cobran mucho más a sus clientes por estas operaciones que los neobancos.
+En los precios de compra de los tres ETF Lotrives ha incluido las comisiones de su bróker. Los bancos tradicionales cobran mucho más a sus clientes por estas operaciones que los neobancos.
 
 ---
 
@@ -53,7 +50,7 @@ Me da la impresión de que Gita Gopinath anuncia el apocalipsis pero en la forma
 
 ---
 
-### 2025-11-23
+#### 2025-11-23
 
 Lotrives decide empezar a especular con el bitcóin (BTC).
 
@@ -64,7 +61,7 @@ Lotrives decide empezar a especular con el bitcóin (BTC).
 #### 2025-11-23 Pérdidas y ganancias
 
 
-A fecha de hoy:
+Valoración de la cartera a fecha de hoy y plusvalías respecto de la fecha de la compra (2025-05-20 para los ETF y 2025-11-23 para el bitcóin):
 
 | Valor | Invertido | Valoración | Plusvalía |
 |--------|-----------|------------|------------|
@@ -107,7 +104,7 @@ A fecha de hoy:
   <br>
   Categoría:
   <a href="https://lotrives.github.io/categorias/#sociedad" target="_blank" rel="noopener">
-    Economía
+    Sociedad
   </a>
   <br>
   Etiquetas:
