@@ -20,7 +20,7 @@ He oído decir, en varias ocasiones y a diversas personas, que José María Azna
 Hasta 1994, <a href="https://www.ft.com/content/72ffc1d0-92c9-4c0f-80a9-f3b61465f283" target="_blank" rel="noopener">nos recuerda Simon Baron-Cohen</a>, alguien quedaba diagnosticado como autista si presentaba retrasos en la adquisición del lenguaje o no llegaba a hablar, y además, desde los primeros años, síntomas como:  
 
 * Intereses muy limitados y raros. Una muestra: ver una y mil veces, sin hacer otra cosa, las mismas películas de Disney, *Blancanieves* o *La bruja novata*, se tengan tres, siete, veinticinco o cincuenta años.  
-* Rutinas muy fuertes y difíciles o imposibles de cambiar, como salir de casa a las 10:00 y nunca antes, tras haber comprobado la hora en dos o tres relojes de pantallas de móviles diferentes.  
+* Rutinas muy fuertes y difíciles o imposibles de cambiar, como salir de casa a las 10:00 y nunca antes, tras haber comprobado la hora en dos o tres relojes de móviles diferentes.  
 * Repeticiones. Ejemplo: siempre el mismo recorrido en un parque.
 * Balanceos.  
 * Aleteo de manos.  
