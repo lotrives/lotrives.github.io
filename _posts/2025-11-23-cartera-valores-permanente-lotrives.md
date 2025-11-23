@@ -14,9 +14,7 @@ tags: [Inversión, Cartera de valores, ETF, Bitcóin, Finanzas personales]
 
 ![Certificado de compra de veinte acciones clase A de Coca Cola (1929)](/assets/images/2025 11 23 Lotrives cartera valores permanente featured.jpeg)
 
-**2025-05-20**
-
-### Inversión inicial
+### 2025-05-20 Inversión inicial
 #### Advertencias
 
 — Lotrives no pretende dar consejos de inversión ni se dedica profesionalmente a ello.  
@@ -29,11 +27,7 @@ tags: [Inversión, Cartera de valores, ETF, Bitcóin, Finanzas personales]
 ### La cartera de Lotrives
 
 A Lotrives le han tocado 3.000,- € en la lotería y no los necesita. Ha decidido invertirlos y compartir sus ideas para reflexionar sobre finanzas de modo práctico.  
-**Lotrives ha invertido 3000 € así:**
-
-👉 <a href="https://drive.google.com/file/d/15u0U6h-rO42scFSL6p7e5xyAemPnOLHh/view" target="_blank" rel="noopener">https://drive.google.com/file/d/15u0U6h-rO42scFSL6p7e5xyAemPnOLHh/view</a>
-
-#### Explicación de la cartera
+**Lotrives ha invertido 3000 € a razón de 1000 € por cada uno de los siguientes ETF:**
 
 1) Amundi STOXX Europe 600 UCITS ETF (Acc). ISIN: LU0908500753. Invierte en las 600 empresas mayores de Europa. Más información sobre este ETF, <a href="https://www.justetf.com/es/etf-profile.html?isin=LU0908500753" target="_blank" rel="noopener">aquí</a>. Acc quiere decir 'acumulación', es decir, que los dividendos los reinvierte en el propio fondo. Sobre qué es un ETF, Lotrives recomienda esta lectura: <a href="https://www.justetf.com/es/academy/etf-que-son-y-como-invertir-en-ellos.html" target="_blank" rel="noopener">aquí</a>.
 
@@ -47,49 +41,40 @@ Los ETF comprados tienen comisiones totales anuales muy bajas: los dos primeros,
 
 En los precios de compra de los tres ETF Lotrives ha incluido las comisiones de su bróker. Es un secreto a voces que los bancos tradicionales cobran mucho más a sus clientes por estas operaciones que los neobancos.
 
-#### 2025-05-24 Pérdidas y ganancias
-
--35,11 € (pérdidas).
-
-
 ---
 
-**2025-10-15**
+#### 2025-10-15
 
 Leo un artículo en <em><a href="https://www.economist.com/by-invitation/2025/10/15/gita-gopinath-on-the-crash-that-could-torch-35trn-of-wealth" target="_blank" rel="noopener">The Economist</a></em>. Se titula: «Gita Gopinath on the crash that could torch $35trn of wealth». [ ‘Gita Gopinath sobre la caída financiera que podría prender fuego a 35 billones de dólares en riqueza]. De subtítulo: «The world has become dangerously dependent on American stocks, writes the former IMF chief economist». [‘**El mundo se ha vuelto peligrosamente dependiente de las acciones estadounidenses**, escribe la ex economista jefe del FMI’]. Lo firma la misma **Gita Gopinath**.
 
 Me da la impresión de que Gita Gopinath anuncia el apocalipsis pero en la forma en que lo hacen tantos economistas, sin utilidad práctica, con demasiados tiempos verbales en potencial y estimaciones que a mí me parecen sacadas de las nubes. Al final no sabes si tienes que vender las acciones del S&P 500 que tengas [las 500 empresas cotizadas más importantes de los EE. UU.], comprar más o esperar a no sé qué porque la caída *puede* ser pero a lo mejor *no es*, *quizás sea* pero no es tan inmediata.
 
-**Pregunta directa para Gita Gopinath** [responde, por favor, allá donde te encuentres]: ¿Debe Lotrives vender ahora su cartera de valores?
-
-#### 2025-10-15 Pérdidas y ganancias
-
-104.95 € (ganancias) en el S&P 500 (10.52 %), con los 1000 € invertidos.
+**Pregunta directa para Gita Gopinath** [responde, por favor, allá donde te encuentres]: ¿Debería Lotrives vender ahora su cartera de valores?
 
 ---
 
-**2025-11-23**
+### 2025-11-23
 
-Lotrives decide empezar a especular con el bitcóin (BTC). Añade a su cartera de valores la compra del equivalente a 1000 €.
+Lotrives decide empezar a especular con el bitcóin (BTC).
+
+**Invierte 1000 € en bitcóines.**
 
 ### Cartera actualizada
-
-Actualiza su cartera de tres valores estables, pues, con uno especulativo, el bitcoin y queda así:
-
-👉 <a href="https://drive.google.com/file/d/15u0U6h-rO42scFSL6p7e5xyAemPnOLHh/view" target="_blank" rel="noopener">https://drive.google.com/file/d/15u0U6h-rO42scFSL6p7e5xyAemPnOLHh/view</a>
-
 
 #### 2025-11-23 Pérdidas y ganancias
 
 
-| Fecha | ISIN | Nombre | Operación | Precio | Cantidad | Invertido | Cotización | Valoración | Plusvalía | Plusvalía % |
-| ---------- | ------------ | --------------------------------------------- | --------- | ----------- | ------------------ | --------- | ----------- | ---------- | --------- | ----------- |
-| 2025-05-23 | LU0908500753 | Amundi STOXX Europe 600 UCITS ETF (Acc) | Compra | 260.05 € | 3.8454143433955 | 1000.00 € | 275.20 € | 1 058.26 € | 58.26 € | 5.83 % |
-| 2025-05-23 | IE00B5BMR087 | iShares Core S&P 500 UCITS ETF USD (Acc) | Compra | 566.25 € | 1.76600441501104 | 1000.00 € | 627.48 € | 1 108.13 € | 108.13 € | 10.81 % |
-| 2025-05-23 | IE000RHYOR04 | iShares € Ultrashort Bond UCITS ETF EUR (Acc) | Compra | 5.44 € | 183.823529411765 | 1000.00 € | 5.51 € | 1 012.98 € | 12.98 € | 1.30 % |
-| 2025-11-23 | BTC |Bitcóin  | Compra | 75 086.77 € | 0.0133179260909972 | 1000.00 € | 75 086.77 € | 1 000.00 € | 0.00 € | 0.00 % |
-| Total |  |  |  |  |  | 4000.00 € |  | 4 179.37 € | 179.37 € |  |
+A fecha de hoy:
 
+| Valor | Invertido | Valoración | Plusvalía |
+|--------|-----------|------------|------------|
+| Amundi STOXX Europe 600 | 1000.00 € | 1 058.26 € | 58.26 € (5.83 %) |
+| iShares Core S&P 500 | 1000.00 € | 1 108.13 € | 108.13 € (10.81 %) |
+| iShares € Ultrashort Bond | 1000.00 € | 1 012.98 € | 12.98 € (1.30 %) |
+| Bitcóin | 1000.00 € | 1 000.00 € | 0.00 € (0.00 %) |
+| **Total** | **4000.00 €** | **4 179.37 €** | **179.37 € (4.48 %)** |
+
+---
 
 <p>
   Autor:
@@ -100,8 +85,7 @@ Actualiza su cartera de tres valores estables, pues, con uno especulativo, el bi
   Foto:
   Certificado de compra de veinte acciones clase A de Coca Cola, emitido el 20 de febrero de 1929. Unbekannte Autoren und Grafiker; Scan vom EDHAC e.V., dominio público, vía
   <a href="https://commons.wikimedia.org/w/index.php?title=File:Coca_Cola_1929.JPG&amp;oldid=862901946" target="_blank" rel="noopener">
-     Wikimedia Commons
-  </a>.
+    Wikimedia Commons</a>.
   <br>
   Suscríbete:
   <a href="https://lotrives.substack.com/subscribe" target="_blank" rel="noopener">
@@ -128,17 +112,13 @@ Actualiza su cartera de tres valores estables, pues, con uno especulativo, el bi
   <br>
   Etiquetas:
   <a href="https://lotrives.github.io/etiquetas/#inversion" target="_blank" rel="noopener">
-    Inversión
-  </a>,
+    Inversión</a>,
   <a href="https://lotrives.github.io/etiquetas/#cartera-de-valores" target="_blank" rel="noopener">
-    Cartera de valores
-  </a>,
+    Cartera de valores</a>,
   <a href="https://lotrives.github.io/etiquetas/#etf" target="_blank" rel="noopener">
-    ETF
-  </a>,
+    ETF</a>,
   <a href="https://lotrives.github.io/etiquetas/#bitcoin" target="_blank" rel="noopener">
-    Bitcóin
-  </a>,
+    Bitcóin</a>,
   <a href="https://lotrives.github.io/etiquetas/#finanzas-personales" target="_blank" rel="noopener">
     Finanzas personales
   </a>
