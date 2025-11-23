@@ -26,7 +26,7 @@ tags: [Inversión, Cartera de valores, ETF, Bitcóin, Finanzas personales]
 
 ### La cartera de Lotrives
   
-**Lotrives ha invertido 3000 € a razón de 1000 € por cada uno de los siguientes ETF:** 
+#### Lotrives ha invertido 3000 € a razón de 1000 € por cada uno de los siguientes ETF: 
 
 Véase 👉 <a href="https://drive.google.com/file/d/15u0U6h-rO42scFSL6p7e5xyAemPnOLHh/view" target="_blank" rel="noopener">aquí</a>.
 
@@ -42,7 +42,7 @@ En los precios de compra de los tres ETF Lotrives ha incluido las comisiones de 
 
 ---
 
-#### 2025-10-15
+**2025-10-15**
 
 Leo un artículo en <em><a href="https://www.economist.com/by-invitation/2025/10/15/gita-gopinath-on-the-crash-that-could-torch-35trn-of-wealth" target="_blank" rel="noopener">The Economist</a></em>. Se titula: «Gita Gopinath on the crash that could torch $35trn of wealth». [ ‘Gita Gopinath sobre la caída financiera que podría prender fuego a 35 billones de dólares en riqueza]. De subtítulo: «The world has become dangerously dependent on American stocks, writes the former IMF chief economist». [‘**El mundo se ha vuelto peligrosamente dependiente de las acciones estadounidenses**, escribe la ex economista jefe del FMI’]. Lo firma la misma **Gita Gopinath**.
 
@@ -52,20 +52,18 @@ Me da la impresión de que Gita Gopinath anuncia el apocalipsis pero en la forma
 
 ---
 
-#### 2025-11-23
+### 2025-11-23 Cartera actualizada
 
 Lotrives decide empezar a especular con el bitcóin (BTC).
 
 **Invierte 1000 € en bitcóines.**
-
-### Cartera actualizada
 
 Véase 👉 <a href="https://drive.google.com/file/d/1sOyayqm0FBYH7du28OQbnRzxSaHbmlql/view" target="_blank" rel="noopener">aquí</a>.
 
 #### 2025-11-23 Pérdidas y ganancias
 
 
-Valoración de la cartera a fecha de hoy:
+Valoración de la cartera a fecha de hoy, 2025-11-23:
 
 
 | Fecha       | Nombre             | Precio     | Cantidad  | Invertido   | Cotización   | Valoración   | Plusvalía  | Plusvalía % |
