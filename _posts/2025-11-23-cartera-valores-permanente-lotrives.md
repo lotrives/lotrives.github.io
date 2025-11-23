@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: "Cartera de valores permanente"
 excerpt: "Una propuesta"
