@@ -21,7 +21,7 @@ Hasta 1994, <a href="https://www.ft.com/content/72ffc1d0-92c9-4c0f-80a9-f3b61465
 
 * Intereses muy limitados y raros. Una muestra: ver una y mil veces, sin hacer otra cosa, las mismas películas de Disney, *Blancanieves* o *La bruja novata*, se tengan tres, siete, veinticinco o cincuenta años.  
 * Rutinas muy fuertes y difíciles o imposibles de cambiar, como salir de casa a las 10:00 y nunca antes, tras haber comprobado la hora en dos o tres relojes de pantallas de móviles diferentes.  
-* Repeticiones. Ejemplo: siempre en mismo recorrido en un parque.
+* Repeticiones. Ejemplo: siempre el mismo recorrido en un parque.
 * Balanceos.  
 * Aleteo de manos.  
 * Convulsiones, espasmos o sacudidas corporales intensas ante emociones como pueden ser las despertadas por un determinado vídeo de los *Teletubbies*.
