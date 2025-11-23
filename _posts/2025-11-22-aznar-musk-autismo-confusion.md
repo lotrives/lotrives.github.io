@@ -49,7 +49,7 @@ En 2017, en un <a href="https://youtu.be/Pl8446OulLA?si=AGlfCHe4haQu01WE" target
 
 ### Situación en Madrid
 
-Como padre de un hijo autista con una alta discapacidad intelectual, puedo añadir que la cita del profesor Baron-Cohen en el párrafo anterior se queda corta en España, al menos en la Comunidad de Madrid. A pesar del empeño de familiares directos, **el destino de nuestros hijos autistas ya crecidos, con alta discapacidad intelectual, con padres mayores y fuerzas decrecientes, son asilos que no se diferencian tanto de los que conoció el célebre doctor Asperger**: Centros de Día descuidados por falta de medios y de capacidad directiva y residencias con peores características. **Y esto no es la Viena de 1938 con el doctor Asperger, es el Madrid de noviembre de 2025**.
+Como padre de un hijo autista con una alta discapacidad intelectual, puedo añadir que la cita del profesor Baron-Cohen en el párrafo anterior se queda corta en España, al menos en la Comunidad de Madrid. A pesar del empeño de familiares directos, **el destino de nuestros hijos autistas ya crecidos, con alta discapacidad intelectual, con padres mayores y fuerzas decrecientes, son asilos que no se diferencian tanto de los que conoció el célebre doctor Asperger**: Centros de Día descuidados por falta de medios y de capacidad directiva y residencias con peores características. **Y esto no es la Viena de 1938 que vivió el señor Asperger, es el Madrid de noviembre de 2025**.
 
 
 ##### Más sobre autismo:
