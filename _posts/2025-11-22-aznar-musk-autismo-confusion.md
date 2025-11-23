@@ -15,16 +15,17 @@ tags: [Autismo]
 ![El monje en la orilla del mar (Der Mönch am Meer), óleo de Caspar David Friedrich, Dominio público, vía Wikimedia Commons](/assets/images/2025 11 23 Lotrives autismo confusión featured.jpg)
 
 
-He oído decir, en varias ocasiones y a diversas personas, que José María Aznar es *autista*, como insulto. Hay muchos casos documentados sobre el uso peyorativo de la palabra autismo. Véase uno <a href="https://cadenaser.com/nacional/2025/02/21/agustin-conde-diputado-del-pp-vetado-de-por-vida-en-el-consejo-de-europa-utiliza-el-autismo-para-atacar-a-la-numero-dos-de-defensa-cadena-ser/?utm_source=chatgpt.com" target="_blank" rel="noopener">aquí</a>. Para aumentar la confusión, Elon Musk <a href="https://www.inc.com/minda-zetlin/elon-musk-aspergers-snl-saturday-night-live-monologue.html" target="_blank" rel="noopener">predica de sí mismo</a> que posee esos rasgos.
+He oído decir, en varias ocasiones y a diversas personas, que José María Aznar es *autista*, como insulto. Hay muchos casos documentados sobre el uso peyorativo de la palabra *autismo*. Véase uno <a href="https://cadenaser.com/nacional/2025/02/21/agustin-conde-diputado-del-pp-vetado-de-por-vida-en-el-consejo-de-europa-utiliza-el-autismo-para-atacar-a-la-numero-dos-de-defensa-cadena-ser/?utm_source=chatgpt.com" target="_blank" rel="noopener">aquí</a>. Para aumentar la confusión, Elon Musk <a href="https://www.inc.com/minda-zetlin/elon-musk-aspergers-snl-saturday-night-live-monologue.html" target="_blank" rel="noopener">predica de sí mismo</a> que posee esos rasgos.
 
 Hasta 1994, <a href="https://www.ft.com/content/72ffc1d0-92c9-4c0f-80a9-f3b61465f283" target="_blank" rel="noopener">nos recuerda Simon Baron-Cohen</a>, alguien quedaba diagnosticado como autista si presentaba retrasos en la adquisición del lenguaje o no llegaba a hablar, y además, desde los primeros años, síntomas como:  
 
-* Intereses muy limitados.  
-* Rutinas muy fuertes y difíciles o imposibles de cambiar.  
-* Repeticiones.  
+* Intereses muy limitados y raros. Una muestra: ver una y mil veces, sin hacer otra cosa, las mismas películas de Disney, *Blancanieves* o *La bruja novata*, se tengan tres, siete, veinticinco o cincuenta años.  
+* Rutinas muy fuertes y difíciles o imposibles de cambiar, como salir de casa a las 10:00 y nunca antes, tras haber comprobado la hora en dos o tres relojes de pantallas de móviles diferentes.  
+* Repeticiones. Ejemplo: siempre en mismo recorrido en un parque.
 * Balanceos.  
 * Aleteo de manos.  
 * Convulsiones, espasmos o sacudidas corporales intensas ante emociones como pueden ser las despertadas por un determinado vídeo de los *Teletubbies*.
+* Evitar mirar a los ojos.
 
 «Los médicos de entonces lo llamaban *autismo clásico* —señala Baron-Cohen—, y todos hacíamos referencia al artículo publicado en 1943 por el psiquiatra infantil **Leo Kanner**, de la Universidad Johns Hopkins (Baltimore)», al que se atribuye el primer informe sobre el autismo.
 
