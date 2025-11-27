@@ -2,7 +2,7 @@
 layout: post
 title: "¿Convendría que la Iglesia católica aboliera todas las órdenes religiosas?"
 excerpt: "Una conversación ficticia con el cardenal Gianfranco Ghirlanda"
-description: "Conversación novelesca sobre las órdenes religiosas en la Iglesia católica, con el cardenal Gianfranco Ghirlanda como personaje real en un diálogo inventado."
+description: "Conversación ficticia con el cardenal Gianfranco Ghirlanda sobre una propuesta de abolición de las órdenes religiosas"
 canonical_url: "https://lotrives.github.io/2025/11/27/iglesia-ordenes-opus-dei-abolicion/"
 date: 2025-11-27
 last_modified: 2025-11-27
