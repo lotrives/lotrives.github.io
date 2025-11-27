@@ -12,7 +12,7 @@ categories: [Sociedad]
 tags: [Opus Dei, Jesuitas, Gianfranco Ghirlanda]
 ---
 
-Edvard Munch](/assets/images/2025 11 27 Lotrives Iglesia ordenes featured.jpg)
+![El Gólgota, de Edvard Munch](/assets/images/2025 11 27 Lotrives Iglesia ordenes featured.jpg)
 
 ---
 
