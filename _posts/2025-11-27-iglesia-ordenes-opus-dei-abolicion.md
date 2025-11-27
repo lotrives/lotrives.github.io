@@ -77,7 +77,7 @@ La conversación tuvo lugar en la terraza del **restaurante El Paraíso**. **Ghi
 —[GG] De acuerdo: le propondré al papa León XIV la abolición de toda orden y movimiento en la Iglesia. Volveremos a las raíces. ¿Quieren ustedes oír eso? Me marcho. Mi vuelo a Roma sale dentro de media hora.
 
 ---
-Advertencia: Pablo Bilz y Martina Draft son personajes novelescos, lo mismo que ficticia es la conversación que sigue, aunque no el mensaje que intenta transmitir. <a href="https://es.wikipedia.org/w/index.php?title=Gianfranco_Ghirlanda&oldid=169857568" target="_blank" rel="noopener">Gianfranco Ghirlanda </a> es un personaje real, cardenal de la Iglesia, jesuita, pero utilizado aquí de forma inventada.
+Advertencia: Pablo Bilz y Martina Draft son personajes novelescos, lo mismo que ficticia es la conversación anterior, aunque no el mensaje que intenta transmitir. <a href="https://es.wikipedia.org/w/index.php?title=Gianfranco_Ghirlanda&oldid=169857568" target="_blank" rel="noopener">Gianfranco Ghirlanda </a> es un personaje real, cardenal de la Iglesia, jesuita, pero utilizado aquí de forma inventada.
 
 ---
 
