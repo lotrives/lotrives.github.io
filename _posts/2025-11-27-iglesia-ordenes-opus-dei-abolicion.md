@@ -102,10 +102,10 @@ Advertencia: Pablo Bilz y Martina Draft son personajes novelescos, lo mismo que 
   <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Flotrives.github.io%2F2025%2F11%2F27%2Figlesia-ordenes-opus-dei-abolicion" target="_blank" rel="noopener">LinkedIn</a>
   <br>
   Categoría:
-  <a href="https://lotrives.github.io/categories/#sociedad" target="_blank" rel="noopener">Sociedad</a>
+  <a href="https://lotrives.github.io/categorias/#sociedad" target="_blank" rel="noopener">Sociedad</a>
   <br>
   Etiquetas:
-  <a href="https://lotrives.github.io/tags/#opus-dei" target="_blank" rel="noopener">Opus Dei</a>,
-  <a href="https://lotrives.github.io/tags/#jesuitas" target="_blank" rel="noopener">Jesuitas</a>,
-  <a href="https://lotrives.github.io/tags/#gianfranco-ghirlanda" target="_blank" rel="noopener">Gianfranco Ghirlanda</a>
+  <a href="https://lotrives.github.io/etiquetas/#opus-dei" target="_blank" rel="noopener">Opus Dei</a>,
+  <a href="https://lotrives.github.io/etiquetas/#jesuitas" target="_blank" rel="noopener">Jesuitas</a>,
+  <a href="https://lotrives.github.io/etiquetas/#gianfranco-ghirlanda" target="_blank" rel="noopener">Gianfranco Ghirlanda</a>
 </p>
