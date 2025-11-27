@@ -83,33 +83,29 @@ Advertencia: Pablo Bilz y Martina Draft son personajes novelescos, lo mismo que 
 
 <p>
   Autor:
-  <a href="https://lotrives.github.io/autor/jose-manuel-grau-navarro/" target="_blank" rel="noopener">
-    José Manuel Grau Navarro
-  </a>
+  <a href="https://lotrives.github.io/autor/jose-manuel-grau-navarro/" target="_blank" rel="noopener">José Manuel Grau Navarro</a>
   <br>
   Foto:
   «El Gólgota», cuadro de Edvard Munch. Dominio público vía 
   <a href="https://commons.wikimedia.org/w/index.php?title=File:Edvard_Munch_-_Golgotha_(1900).jpg&oldid=884073986" target="_blank" rel="noopener">Wikimedia Commons</a>
   <br>
   Suscríbete:
-  <a href="https://lotrives.substack.com/subscribe" target="_blank" rel="noopener">
-    Newsletter
-  </a>
+  <a href="https://lotrives.substack.com/subscribe" target="_blank" rel="noopener">Newsletter</a>
   <br>
   Comparte:
-<!-- X -->
-<a href="https://twitter.com/intent/tweet?text=%C2%BFConvendr%C3%ADa%20que%20la%20Iglesia%20cat%C3%B3lica%20aboliera%20todas%20las%20%C3%B3rdenes%20religiosas%3F&url=https%3A//lotrives.github.io/2025/11/27/iglesia-ordenes-opus-dei-abolicion" target="_blank" rel="noopener">X</a>
-·
-<!-- WhatsApp -->
-<a href="https://wa.me/?text=%C2%BFConvendr%C3%ADa%20que%20la%20Iglesia%20cat%C3%B3lica%20aboliera%20todas%20las%20%C3%B3rdenes%20religiosas%3F%20https%3A//lotrives.github.io/2025/11/27/iglesia-ordenes-opus-dei-abolicion" target="_blank" rel="noopener">WhatsApp</a>
-·
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//lotrives.github.io/2025/11/27/iglesia-ordenes-opus-dei-abolicion" target="_blank" rel="noopener">LinkedIn</a>
-·
-<!-- Facebook -->
-<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//lotrives.github.io/2025/11/27/iglesia-ordenes-opus-dei-abolicion" target="_blank" rel="noopener">Facebook</a>
-<br>
-Categoría: <a href="https://lotrives.github.io/categories/#sociedad" target="_blank" rel="noopener"> Sociedad </a>
+  <a href="https://twitter.com/intent/tweet?text=%C2%BFConvendr%C3%ADa%20que%20la%20Iglesia%20cat%C3%B3lica%20aboliera%20todas%20las%20%C3%B3rdenes%20religiosas%3F&url=https%3A%2F%2Flotrives.github.io%2F2025%2F11%2F27%2Figlesia-ordenes-opus-dei-abolicion" target="_blank" rel="noopener">X</a>
+  ·
+  <a href="https://api.whatsapp.com/send?text=%C2%BFConvendr%C3%ADa%20que%20la%20Iglesia%20cat%C3%B3lica%20aboliera%20todas%20las%20%C3%B3rdenes%20religiosas%3F%20-%20https%3A%2F%2Flotrives.github.io%2F2025%2F11%2F27%2Figlesia-ordenes-opus-dei-abolicion" target="_blank" rel="noopener">WhatsApp</a>
+  ·
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Flotrives.github.io%2F2025%2F11%2F27%2Figlesia-ordenes-opus-dei-abolicion" target="_blank" rel="noopener">Facebook</a>
+  ·
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Flotrives.github.io%2F2025%2F11%2F27%2Figlesia-ordenes-opus-dei-abolicion" target="_blank" rel="noopener">LinkedIn</a>
   <br>
-  Etiquetas: <a href="https://lotrives.github.io/tags/#opus-dei" target="_blank" rel="noopener">Opus Dei</a>, <a href="https://lotrives.github.io/tags/#jesuitas" target="_blank" rel="noopener">Jesuitas</a>, <a href="https://lotrives.github.io/tags/#gianfranco-ghirlanda" target="_blank" rel="noopener">Gianfranco Ghirlanda</a>
+  Categoría:
+  <a href="https://lotrives.github.io/categories/#sociedad" target="_blank" rel="noopener">Sociedad</a>
+  <br>
+  Etiquetas:
+  <a href="https://lotrives.github.io/tags/#opus-dei" target="_blank" rel="noopener">Opus Dei</a>,
+  <a href="https://lotrives.github.io/tags/#jesuitas" target="_blank" rel="noopener">Jesuitas</a>,
+  <a href="https://lotrives.github.io/tags/#gianfranco-ghirlanda" target="_blank" rel="noopener">Gianfranco Ghirlanda</a>
 </p>
