@@ -22,21 +22,21 @@ tags: [Opus Dei, Jesuitas, Gianfranco Ghirlanda]
 
 **Martina Draft** y **Pablo Bilz** pudieron entrevistar ayer al cardenal **Gianfranco Ghirlanda**, que vino a Madrid a pronunciar una conferencia sobre el futuro de la Iglesia.
 
-La conversación tuvo lugar en la terraza del **restaurante El Paraíso**. **Ghirlanda** miraba con atención a una joven promesa del tenis madrileño, en la pista justo al lado donde nos sentamos. «Yo jugaba muy bien al tenis de pequeño», comentó cuando nos sentamos. El día era soleado. Unos austriacos a nuestro lado estaban encantados con el clima y la luminosidad de Madrid. Ghirlanda nos advirtió que disponía solo de cinco minutos.
+La conversación tuvo lugar en la terraza del **restaurante El Paraíso**. **Ghirlanda** miraba con atención a una joven promesa del tenis madrileño, en la pista justo al lado donde nos sentamos. «Yo jugaba muy bien al tenis de pequeño», comentó cuando pedíamos un café. El día era soleado. Unos austriacos a nuestro lado estaban encantados con el clima y la luminosidad de Madrid. Ghirlanda nos advirtió que disponía solo de cinco minutos.
 
 —[**Pablo Bilz: en adelante, PB**] Eminencia, usted ha sido muy influyente con el papa Francisco y con un par de decretos ha acabado jurídicamente con el Opus Dei. ¿Por qué no intentarlo también con los jesuitas? Más aún, ¿por qué no liquidar todas las órdenes religiosas y todos los movimientos y familias espirituales en la Iglesia?
 
 —[**Gianfranco Ghirlanda: en adelante, GG**] ¿Se ha vuelto usted loco?
 
-—[**Martina Draft: en adelante, MD**] No se lo tome usted a mal, señor cardenal. Yo soy agnóstica y muchas veces le he comentado a mi amigo Pablo, creyente, que **a las tribus en la Iglesia no hay quien las entienda**. ¿Para qué quieren ustedes clanes?
+—[**Martina Draft: en adelante, MD**] Señor cardenal, yo soy agnóstica y muchas veces le he comentado a mi amigo Pablo, creyente, que **a las tribus en la Iglesia no hay quien las entienda**. ¿Para qué quieren ustedes clanes?
 
 —[GG] No son tribus. ¿Qué pasaría si aboliéramos todas las órdenes y todos los movimientos y todas las asociaciones eclesiales? 
 
 —[MD] Pues nada. Por fin se podría partir de la Iglesia de Jesucristo, esa que se narra en el Nuevo Testamento. Pero con la Iglesia que hay ahora no hay quien se aclare.
 
-—[PB] La pregunta es pertinente, eminencia. **Si usted aplica coherentemente la medida que ha tomado con el Opus Dei, ¿por qué no clausurar las órdenes religiosas? ¿Para qué queremos que hagan votos y se separen de sus obispos y vivan en sus comunidades, etc., etc.?** ¿No sería el momento de cargarse todo eso y volver a la Iglesia diocesana: obispos y fieles católicos que van a misa los domingos, y que encuentran toda la fuerza espiritual en sus parroquias, en la celebración de la eucaristía en sus parroquias?
+—[PB] La pregunta es pertinente, eminencia. **Si usted aplica coherentemente la medida que ha tomado con el Opus Dei, ¿por qué no clausurar las órdenes religiosas? ¿Para qué queremos que hagan votos y se separen de sus obispos y vivan en sus comunidades, etc., etc.?** ¿No sería el momento de cargarse todo eso y volver a la Iglesia diocesana: obispos y fieles católicos dentro de un territorio determinado, que van a misa los domingos, y que encuentran toda la fuerza espiritual en sus parroquias, en la celebración de la eucaristía en sus parroquias?
 
-—[MD] Eminencia: así como lo explica Pablo, a mí me parece bien, aunque tenga mis dudas sobre si Jesucristo es Dios y por eso soy agnóstica. **¿Qué sentido tiene que los del Opus se apunten a una lista y digan: «Soy del Opus»? ¿O que los jesuitas a otra y pronuncien: «Soy jesuita»?** Eso como cuando en el Nuevo Testamento algunos subrayaban que eran de Pedro, otros de Pablo y los de más allá de Apolo. La Iglesia no necesita esas rarezas. **Que todos vivan como católicos seguidores de Jesucristo, y se acabó**.
+—[MD] Eminencia: así como lo explica Pablo, a mí me parece bien, aunque tenga mis dudas sobre si Jesucristo es Dios y por eso soy agnóstica. **¿Qué sentido tiene que los del Opus se apunten a una lista y digan: «Soy del Opus»? ¿O que los jesuitas a otra y pronuncien: «Soy jesuita»?** Me suena igual a cuando en el Nuevo Testamento algunos subrayaban que eran de Pedro, otros de Pablo y los de más allá de Apolo. La Iglesia no necesita esas rarezas. **Que todos vivan como católicos seguidores de Jesucristo, y se acabó**.
 
 [Gianfranco Ghirlanda les mira como a bichos raros y no sale de su asombro. Se queda sin palabras].
 
@@ -54,7 +54,7 @@ La conversación tuvo lugar en la terraza del **restaurante El Paraíso**. **Ghi
 
 —[PB] No me venga con esas, eminencia. La vida en común es una de las razones por la que muchos jesuitas colgaron los hábitos. No la soportan.
 
-—[GG] Necesitamos la cercanía de la dirección espiritual, de alguien que nos acompañe y nos aconseje ante los miles de obstáculos de la vida. **La vida es una carrera de obstáculos.**
+—[GG] Necesitamos la cercanía de un director espiritual que nos conozca y entienda, de alguien que nos acompañe y nos aconseje ante los miles de obstáculos de la vida. **La vida es una carrera de obstáculos.**
 
 —[MD] ¿Y qué pasa, que el párroco de la parroquia y el obispo de la diócesis no son suficientes?
 
@@ -64,7 +64,7 @@ La conversación tuvo lugar en la terraza del **restaurante El Paraíso**. **Ghi
 
 —[GG] ¿A dónde quieren ustedes llegar?
 
-—[MD] **A que nos dé razones convincentes para defender las familias en la Iglesia**, lo que Martina llama tribus, pero en mi opinión no nos las da.
+—[MD] **A que nos dé razones convincentes para defender las familias en la Iglesia**, lo que Martina llama tribus o clanes, según los días, pero en mi opinión no nos las da.
 
 —[GG] Tengo la impresión de que **ustedes solo buscan la polémica**. 
 
@@ -72,7 +72,7 @@ La conversación tuvo lugar en la terraza del **restaurante El Paraíso**. **Ghi
 
 —[GG] Para responder a una **vocación divina**.
 
-—[MD] Si quiere responder a una vocación divina, responda a lo que predicó Jesucristo y viva como manda la Iglesia, no necesita apuntarse a una lista.
+—[MD] Si desea responder a una vocación divina, responda a lo que predicó Jesucristo y viva como manda la Iglesia, no necesita apuntarse a una lista.
 
 —[GG] De acuerdo: le propondré al papa León XIV la abolición de toda orden y movimiento en la Iglesia. Volveremos a las raíces. ¿Quieren ustedes oír eso? Me marcho. Mi vuelo a Roma sale dentro de media hora.
 
