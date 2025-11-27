@@ -1,0 +1,115 @@
+---
+layout: post
+title: "¿Convendría que la Iglesia católica aboliera todas las órdenes religiosas?"
+excerpt: "Una conversación ficticia con el cardenal Gianfranco Ghirlanda"
+description: "Conversación novelesca sobre las órdenes religiosas en la Iglesia católica, con el cardenal Gianfranco Ghirlanda como personaje real en un diálogo inventado."
+canonical_url: "https://lotrives.github.io/2025/11/27/iglesia-ordenes-opus-dei-abolicion/"
+date: 2025-11-27
+last_modified: 2025-11-27
+author: "José Manuel Grau Navarro"
+image: "/assets/images/2025 11 27 Lotrives Iglesia ordenes featured.jpg"
+categories: [Sociedad]
+tags: [Opus Dei, Jesuitas, Gianfranco Ghirlanda]
+---
+
+Edvard Munch](/assets/images/2025 11 27 Lotrives Iglesia ordenes featured.jpg)
+
+---
+
+**Advertencia**: Pablo Bilz y Martina Draft son personajes novelescos, lo mismo que ficticia es la conversación que sigue, aunque no el mensaje que intenta transmitir. <a href="https://es.wikipedia.org/w/index.php?title=Gianfranco_Ghirlanda&oldid=169857568" target="_blank" rel="noopener"> Gianfranco Ghirlanda </a> es un personaje real, cardenal de la Iglesia, jesuita, pero utilizado aquí de forma inventada.
+
+---
+
+**Martina Draft** y **Pablo Bilz** pudieron entrevistar ayer al cardenal **Gianfranco Ghirlanda**, que vino a Madrid a pronunciar una conferencia sobre el futuro de la Iglesia.
+
+La conversación tuvo lugar en la terraza del **restaurante El Paraíso**. **Ghirlanda** miraba con atención a una joven promesa del tenis madrileño, en la pista justo al lado donde nos sentamos. «Yo jugaba muy bien al tenis de pequeño», comentó cuando nos sentamos. El día era soleado. Unos austriacos a nuestro lado estaban encantados con el clima y la luminosidad de Madrid. Ghirlanda nos advirtió que disponía solo de cinco minutos.
+
+—[**Pablo Bilz: en adelante, PB**] Eminencia, usted ha sido muy influyente con el papa Francisco y con un par de decretos ha acabado jurídicamente con el Opus Dei. ¿Por qué no intentarlo también con los jesuitas? Más aún, ¿por qué no liquidar todas las órdenes religiosas y todos los movimientos y familias espirituales en la Iglesia?
+
+—[**Gianfranco Ghirlanda: en adelante, GG**] ¿Se ha vuelto usted loco?
+
+—[**Martina Draft: en adelante, MD**] No se lo tome usted a mal, señor cardenal. Yo soy agnóstica y muchas veces le he comentado a mi amigo Pablo, creyente, que **a las tribus en la Iglesia no hay quien las entienda**. ¿Para qué quieren ustedes clanes?
+
+—[GG] No son tribus. ¿Qué pasaría si aboliéramos todas las órdenes y todos los movimientos y todas las asociaciones eclesiales? 
+
+—[MD] Pues nada. Por fin se podría partir de la Iglesia de Jesucristo, esa que se narra en el Nuevo Testamento. Pero con la Iglesia que hay ahora no hay quien se aclare.
+
+—[PB] La pregunta es pertinente, eminencia. **Si usted aplica coherentemente la medida que ha tomado con el Opus Dei, ¿por qué no clausurar las órdenes religiosas? ¿Para qué queremos que hagan votos y se separen de sus obispos y vivan en sus comunidades, etc., etc.?** ¿No sería el momento de cargarse todo eso y volver a la Iglesia diocesana: obispos y fieles católicos que van a misa los domingos, y que encuentran toda la fuerza espiritual en sus parroquias, en la celebración de la eucaristía en sus parroquias?
+
+—[MD] Eminencia: así como lo explica Pablo, a mí me parece bien, aunque tenga mis dudas sobre si Jesucristo es Dios y por eso soy agnóstica. **¿Qué sentido tiene que los del Opus se apunten a una lista y digan: «Soy del Opus»? ¿O que los jesuitas a otra y pronuncien: «Soy jesuita»?** Eso como cuando en el Nuevo Testamento algunos subrayaban que eran de Pedro, otros de Pablo y los de más allá de Apolo. La Iglesia no necesita esas rarezas. **Que todos vivan como católicos seguidores de Jesucristo, y se acabó**.
+
+[Gianfranco Ghirlanda les mira como a bichos raros y no sale de su asombro. Se queda sin palabras].
+
+—[PB] Usted conoce mucho mejor que nosotros las peleas a lo largo de la historia de los dominicos con los benedictinos, y luego las de los jesuitas con los dominicos y los franciscanos. Y el hundimiento de los agustinos con Lutero. Y ahora la espada de Damocles de los jesuitas sobre los del Opus. Esto es el cuento de nunca acabar.
+
+—[GG] Son ustedes, por lo que veo, tan osados como ignorantes. No es lo mismo un jesuita que un dominico. Está bien que existan los dos.
+
+—[MD] ¿Para qué?
+
+—[GG] Los jesuitas, **para mayor gloria de Dios**.
+
+—[MD] Pueden dar mayor gloria a Dios exactamente igual sin ser jesuitas.
+
+—[GG] De eso, nada: necesitan **la vida en común**.
+
+—[PB] No me venga con esas, eminencia. La vida en común es una de las razones por la que muchos jesuitas colgaron los hábitos. No la soportan.
+
+—[GG] Necesitamos la cercanía de la dirección espiritual, de alguien que nos acompañe y nos aconseje ante los miles de obstáculos de la vida. **La vida es una carrera de obstáculos.**
+
+—[MD] ¿Y qué pasa, que el párroco de la parroquia y el obispo de la diócesis no son suficientes?
+
+—[GG] No, no lo son. **No tienen nuestro carisma jesuita**.
+
+—[PB] ¿Es diferente el carisma jesuita del fundamental y más importante que predicó Jesucristo? 
+
+—[GG] ¿A dónde quieren ustedes llegar?
+
+—[MD] **A que nos dé razones convincentes para defender las familias en la Iglesia**, lo que Martina llama tribus, pero en mi opinión no nos las da.
+
+—[GG] Tengo la impresión de que **ustedes solo buscan la polémica**. 
+
+—[PB] En absoluto. Déjeme que le formule la pregunta otra vez, sin polémica: **si usted vive ya como un jesuita, ¿para qué quiere apuntarse a una lista y decir que es jesuita?**
+
+—[GG] Para responder a una **vocación divina**.
+
+—[MD] Si quiere responder a una vocación divina, responda a lo que predicó Jesucristo y viva como manda la Iglesia, no necesita apuntarse a una lista.
+
+—[GG] De acuerdo: le propondré al papa León XIV la abolición de toda orden y movimiento en la Iglesia. Volveremos a las raíces. ¿Quieren ustedes oír eso? Me marcho. Mi vuelo a Roma sale dentro de media hora.
+
+---
+Advertencia: Pablo Bilz y Martina Draft son personajes novelescos, lo mismo que ficticia es la conversación que sigue, aunque no el mensaje que intenta transmitir. <a href="https://es.wikipedia.org/w/index.php?title=Gianfranco_Ghirlanda&oldid=169857568" target="_blank" rel="noopener">Gianfranco Ghirlanda </a> es un personaje real, cardenal de la Iglesia, jesuita, pero utilizado aquí de forma inventada.
+
+---
+
+<p>
+  Autor:
+  <a href="https://lotrives.github.io/autor/jose-manuel-grau-navarro/" target="_blank" rel="noopener">
+    José Manuel Grau Navarro
+  </a>
+  <br>
+  Foto:
+  «El Gólgota», cuadro de Edvard Munch. Dominio público vía 
+  <a href="https://commons.wikimedia.org/w/index.php?title=File:Edvard_Munch_-_Golgotha_(1900).jpg&oldid=884073986" target="_blank" rel="noopener">Wikimedia Commons</a>
+  <br>
+  Suscríbete:
+  <a href="https://lotrives.substack.com/subscribe" target="_blank" rel="noopener">
+    Newsletter
+  </a>
+  <br>
+  Comparte:
+<!-- X -->
+<a href="https://twitter.com/intent/tweet?text=%C2%BFConvendr%C3%ADa%20que%20la%20Iglesia%20cat%C3%B3lica%20aboliera%20todas%20las%20%C3%B3rdenes%20religiosas%3F&url=https%3A//lotrives.github.io/2025/11/27/iglesia-ordenes-opus-dei-abolicion" target="_blank" rel="noopener">X</a>
+·
+<!-- WhatsApp -->
+<a href="https://wa.me/?text=%C2%BFConvendr%C3%ADa%20que%20la%20Iglesia%20cat%C3%B3lica%20aboliera%20todas%20las%20%C3%B3rdenes%20religiosas%3F%20https%3A//lotrives.github.io/2025/11/27/iglesia-ordenes-opus-dei-abolicion" target="_blank" rel="noopener">WhatsApp</a>
+·
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//lotrives.github.io/2025/11/27/iglesia-ordenes-opus-dei-abolicion" target="_blank" rel="noopener">LinkedIn</a>
+·
+<!-- Facebook -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//lotrives.github.io/2025/11/27/iglesia-ordenes-opus-dei-abolicion" target="_blank" rel="noopener">Facebook</a>
+<br>
+Categoría: <a href="https://lotrives.github.io/categories/#sociedad" target="_blank" rel="noopener"> Sociedad </a>
+  <br>
+  Etiquetas: <a href="https://lotrives.github.io/tags/#opus-dei" target="_blank" rel="noopener">Opus Dei</a>, <a href="https://lotrives.github.io/tags/#jesuitas" target="_blank" rel="noopener">Jesuitas</a>, <a href="https://lotrives.github.io/tags/#gianfranco-ghirlanda" target="_blank" rel="noopener">Gianfranco Ghirlanda</a>
+</p>
