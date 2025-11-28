@@ -20,15 +20,15 @@ Critica Ollero también que se hable tanto de derechos humanos y que a la vez no
 
 Sobre la politización de la justicia, se pregunta: «¿No será que son los políticos, al rehuir sus responsabilidades, quienes fuerzan a los jueces a resolver problemas de los preferirían mantenerse al margen?»
 
-Más sobre <a href="https://www.nuevarevista.net/andres-ollero-y-la-democracia-como-el-mentis-radical-al-relativismo/" target="_blank" rel="noopener">Andrés Ollero</a>.
+Más sobre 👉 <a href="https://www.nuevarevista.net/andres-ollero-y-la-democracia-como-el-mentis-radical-al-relativismo/" target="_blank" rel="noopener">Andrés Ollero</a>.
 
 ---
 
-**Actualización del 18/11/2025**. Véase lo que sigue sobre la <a href="https://lotrives.github.io/2025/11/18/desjudicializacion-politica-andres-ollero/" target="_blank" rel="noopener">judicialización de la política</a>, inspirado en la lectura de Ollero.
+**Actualización del 18/11/2025**. Véase este texto sobre la 👉 <a href="https://lotrives.github.io/2025/11/18/desjudicializacion-politica-andres-ollero/" target="_blank" rel="noopener">judicialización de la política</a>, inspirado en la lectura de Ollero.
 
 ---
 
-**Actualización del 28/11/2925**. Véase <a href="https://www.nuevarevista.net/andres-ollero-que-es-el-derecho/" target="_blank" rel="noopener">aquí</a> una reseña completa al libro.
+**Actualización del 28/11/2925**. Véase 👉 <a href="https://www.nuevarevista.net/andres-ollero-que-es-el-derecho/" target="_blank" rel="noopener">aquí</a> una reseña completa al libro.
 
 ---
 
