@@ -56,10 +56,10 @@ Más sobre 👉 <a href="https://www.nuevarevista.net/andres-ollero-y-la-democra
   <br>
   Etiquetas:
   <a href="https://lotrives.github.io/etiquetas/#cuaderno-de-notas" target="_blank" rel="noopener">
-    #Cuaderno de notas
+    Cuaderno de notas
   </a>
   ·
   <a href="https://lotrives.github.io/etiquetas/#andres-ollero" target="_blank" rel="noopener">
-    #Andrés Ollero
+    Andrés Ollero
   </a>
 </p>

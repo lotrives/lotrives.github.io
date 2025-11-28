@@ -65,18 +65,18 @@ Henry Hazlitt. (1946). *Economics in One Lesson*. Nueva York: Harper & Row.
   <br>
   Etiquetas:
   <a href="https://lotrives.github.io/etiquetas/#cuaderno-de-notas" target="_blank" rel="noopener">
-    #Cuaderno de notas
+    Cuaderno de notas
   </a>
   ·
   <a href="https://lotrives.github.io/etiquetas/#abusos" target="_blank" rel="noopener">
-    #Abusos
+    Abusos
   </a>
   ·
   <a href="https://lotrives.github.io/etiquetas/#especulacion" target="_blank" rel="noopener">
-    #Especulación
+    Especulación
   </a>
   ·
   <a href="https://lotrives.github.io/etiquetas/#lecturas" target="_blank" rel="noopener">
-    #Lecturas
+    Lecturas
   </a>
 </p>

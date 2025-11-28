@@ -62,22 +62,22 @@ Categoría:
 <br>
 Etiquetas:
   <a href="https://lotrives.github.io/etiquetas/#joseph-ratzinger" target="_blank" rel="noopener">
-    #Joseph Ratzinger
+    Joseph Ratzinger
   </a>
   ·
   <a href="https://lotrives.github.io/etiquetas/#muerte" target="_blank" rel="noopener">
-    #Muerte
+    Muerte
   </a>
   ·
   <a href="https://lotrives.github.io/etiquetas/#san-buenaventura" target="_blank" rel="noopener">
-    #San Buenaventura
+    San Buenaventura
   </a>
   ·
   <a href="https://lotrives.github.io/etiquetas/#san-ambrosio" target="_blank" rel="noopener">
-    #San Ambrosio
+    San Ambrosio
   </a>
   ·
   <a href="https://lotrives.github.io/etiquetas/#peter-thiel" target="_blank" rel="noopener">
-    #Peter Thiel
+    Peter Thiel
   </a>
 </p>
