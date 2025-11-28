@@ -24,7 +24,7 @@ tags: [Opus Dei, Jesuitas, Gianfranco Ghirlanda]
 
 La conversación tuvo lugar en la terraza del **restaurante El Paraíso**. **Ghirlanda** miraba con atención a una joven promesa del tenis madrileño, en la pista justo al lado donde nos sentamos. «Yo jugaba muy bien al tenis de pequeño», comentó cuando pedíamos un café. El día era soleado. Unos austriacos a nuestro lado estaban encantados con el clima y la luminosidad de Madrid. Ghirlanda nos advirtió que disponía solo de cinco minutos.
 
-—[**Pablo Bilz: en adelante, PB**] Eminencia, usted ha sido muy influyente con el papa Francisco y con un par de decretos ha acabado jurídicamente con el Opus Dei. ¿Por qué no intentarlo también con los jesuitas? Más aún, ¿por qué no liquidar todas las órdenes religiosas y todos los movimientos y familias espirituales en la Iglesia?
+—[**Pablo Bilz: en adelante, PB**] Eminencia, usted ha sido muy influyente con el papa Francisco. Ha necesitado solo que le validara dos decretos para <a href="https://lotrives.substack.com/i/161452853/ad-charisma-tuendum" target="_blank" rel="noopener"> demoler jurídicamente el Opus Dei</a>. ¿Por qué no intentarlo también con los jesuitas? Más aún, ¿por qué no liquidar todas las órdenes religiosas y todos los movimientos y familias espirituales en la Iglesia?
 
 —[**Gianfranco Ghirlanda: en adelante, GG**] ¿Se ha vuelto usted loco?
 
@@ -34,7 +34,7 @@ La conversación tuvo lugar en la terraza del **restaurante El Paraíso**. **Ghi
 
 —[MD] Pues nada. Por fin se podría partir de la Iglesia de Jesucristo, esa que se narra en el Nuevo Testamento. Pero con la Iglesia que hay ahora no hay quien se aclare.
 
-—[PB] La pregunta es pertinente, eminencia. **Si usted aplica coherentemente la medida que ha tomado con el Opus Dei, ¿por qué no clausurar las órdenes religiosas? ¿Para qué queremos que hagan votos y se separen de sus obispos y vivan en sus comunidades, etc., etc.?** ¿No sería el momento de cargarse todo eso y volver a la Iglesia diocesana: obispos y fieles católicos dentro de un territorio determinado, que van a misa los domingos, y que encuentran toda la fuerza espiritual en sus parroquias, en la celebración de la eucaristía en sus parroquias?
+—[PB] La pregunta es pertinente, eminencia. **Si usted aplica coherentemente la <a href="https://lotrives.substack.com/i/161452853/ad-charisma-tuendum" target="_blank" rel="noopener"> medida que ha tomado con el Opus Dei</a>, ¿por qué no clausurar las órdenes religiosas? ¿Para qué queremos que hagan votos y se separen de sus obispos y vivan en sus comunidades, etc., etc.?** ¿No sería el momento de cargarse todo eso y volver a la Iglesia diocesana: obispos y fieles católicos dentro de un territorio determinado, que van a misa los domingos, y que encuentran toda la fuerza espiritual en sus parroquias, en la celebración de la eucaristía en sus parroquias?
 
 —[MD] Eminencia: así como lo explica Pablo, a mí me parece bien, aunque tenga mis dudas sobre si Jesucristo es Dios y por eso soy agnóstica. **¿Qué sentido tiene que los del Opus se apunten a una lista y digan: «Soy del Opus»? ¿O que los jesuitas a otra y pronuncien: «Soy jesuita»?** Me suena igual a cuando en el Nuevo Testamento algunos subrayaban que eran de Pedro, otros de Pablo y los de más allá de Apolo. La Iglesia no necesita esas rarezas. **Que todos vivan como católicos seguidores de Jesucristo, y se acabó**.
 
@@ -78,6 +78,10 @@ La conversación tuvo lugar en la terraza del **restaurante El Paraíso**. **Ghi
 
 ---
 Advertencia: Pablo Bilz y Martina Draft son personajes novelescos, lo mismo que ficticia es la conversación anterior, aunque no el mensaje que intenta transmitir. <a href="https://es.wikipedia.org/w/index.php?title=Gianfranco_Ghirlanda&oldid=169857568" target="_blank" rel="noopener">Gianfranco Ghirlanda </a> es un personaje real, cardenal de la Iglesia, jesuita, pero utilizado aquí de forma inventada.
+
+---
+
+Más información sobre el 👉 <a href="https://lotrives.substack.com/t/opus-dei" target="_blank" rel="noopener">Opus Dei</a>.
 
 ---
 
