@@ -50,18 +50,18 @@ Hay ministros en España que hablan de rebajar la jornada laboral quizás cuando
   <br>
   Etiquetas:
   <a href="https://lotrives.github.io/etiquetas/#cuaderno-de-notas" target="_blank" rel="noopener">
-    #Cuaderno de notas
+    Cuaderno de notas
   </a>
   ·
   <a href="https://lotrives.github.io/etiquetas/#abusos" target="_blank" rel="noopener">
-    #Abusos
+    Abusos
   </a>
   ·
   <a href="https://lotrives.github.io/etiquetas/#sanidad" target="_blank" rel="noopener">
-    #Sanidad
+    Sanidad
   </a>
   ·
   <a href="https://lotrives.github.io/etiquetas/#medicos-internos-residentes" target="_blank" rel="noopener">
-    #Médicos internos residentes
+    Médicos internos residentes
   </a>
 </p>

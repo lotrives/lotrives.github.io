@@ -74,22 +74,22 @@ El artículo usa la reflexión de CZ sobre sus "idiomas perdidos" como metáfora
   <br>
   Etiquetas:
   <a href="https://lotrives.github.io/etiquetas/#cuaderno-de-notas" target="_blank" rel="noopener">
-    #Cuaderno de notas
+    Cuaderno de notas
   </a>
   ·
   <a href="https://lotrives.github.io/etiquetas/#binance" target="_blank" rel="noopener">
-    #Binance
+    Binance
   </a>
   ·
   <a href="https://lotrives.github.io/etiquetas/#changpeng-zhao" target="_blank" rel="noopener">
-    #Changpeng Zhao
+    Changpeng Zhao
   </a>
   ·
   <a href="https://lotrives.github.io/etiquetas/#criptomonedas" target="_blank" rel="noopener">
-    #Criptomonedas
+    Criptomonedas
   </a>
   ·
   <a href="https://lotrives.github.io/etiquetas/#cartera-de-valores" target="_blank" rel="noopener">
-    #Cartera de valores
+    Cartera de valores
   </a>
 </p>
