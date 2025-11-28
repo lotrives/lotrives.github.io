@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Andrés Ollero: «Qué es el derecho»?"
+title: "Andrés Ollero: «¿Qué es el derecho?»"
 excerpt: "¿Cómo fundamentar los derechos humanos?"
 description: "Reflexiones sobre este ensayo de Andrés Ollero."
 canonical_url: "https://lotrives.github.io/2025/11/13/andres-ollero-que-es-el-derecho/"
@@ -12,8 +12,11 @@ categories: [Cultura]
 tags: [Cuaderno de notas, Andrés Ollero]
 ---
 
+![portada del libro «¿Qué es el derecho?», de Andrés Ollero](/assets/images/2025 11 13 Lotrives Andres Ollero que es el derecho featured.jpeg)
+
 Ollero Tassara, Andrés. (2025). *¿Qué es el derecho?* Editorial Senderos.
 
+---
 Es uno de los ensayos que espero leer en breve. En la contraportada, resuena la voz de Ollero cuando se subraya que el ciudadano, si oye hablar de Estado de derecho, más bien sospecha que se está hablando del derecho del Estado.
 
 Critica Ollero también que se hable tanto de derechos humanos y que a la vez no se admita que puedan tener un fundamento objetivo en la naturaleza humana, racionalmente cognoscible.
@@ -26,13 +29,8 @@ Más sobre 👉 <a href="https://www.nuevarevista.net/andres-ollero-y-la-democra
 
 **Actualización del 18/11/2025**. Véase este texto sobre la 👉 <a href="https://lotrives.github.io/2025/11/18/desjudicializacion-politica-andres-ollero/" target="_blank" rel="noopener">judicialización de la política</a>, inspirado en la lectura de Ollero.
 
----
 
 **Actualización del 28/11/2925**. Véase 👉 <a href="https://www.nuevarevista.net/andres-ollero-que-es-el-derecho/" target="_blank" rel="noopener">aquí</a> una reseña completa al libro.
-
----
-
-![portada del libro «¿Qué es el derecho?», de Andrés Ollero](/assets/images/2025 11 13 Lotrives Andres Ollero que es el derecho featured.jpeg)
 
 ---
 
