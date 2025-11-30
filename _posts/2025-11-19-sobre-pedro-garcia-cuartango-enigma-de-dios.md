@@ -26,7 +26,7 @@ He tenido la suerte de poder conversar con García Cuartango una vez finalizado 
 
 El profeta **Isaías** presenta una solución al enigma de Dios más directa, más sencilla, más poderosa: 
 
-«<sup>2</sup>Oíd, cielos, escucha tierra, | que habla el Señor: | "Hijos he criado y educado, | y ellos se han rebelado contra mí. <sup>3</sup>**El buey conoce a su amo, | y el asno el pesebre de su dueño; | Israel no me conoce, | mi pueblo no comprende**"» (<a href="https://www.conferenciaepiscopal.es/biblia/isaias/" target="_blank" rel="noopener">Isaías 1:2-3</a>).
+«<sup>2</sup>Oíd, cielos, escucha tierra, que habla el Señor: "Hijos he criado y educado, y ellos se han rebelado contra mí. <sup>3</sup><u>El buey conoce a su amo, | y el asno el pesebre de su dueño</u>; | Israel no me conoce, | mi pueblo no comprende"» (<a href="https://www.conferenciaepiscopal.es/biblia/isaias/" target="_blank" rel="noopener">Isaías 1:2-3</a>).
 
 ---
 <p>
