@@ -7,12 +7,12 @@ canonical_url: "https://lotrives.github.io/2025/11/19/sobre-pedro-garcia-cuartan
 date: 2025-11-19
 last_modified: 2025-11-30
 author: "José Manuel Grau Navarro"
-image: "/assets/images/2025 11 19 Lotrives Pedro Garcia Cuartango Enigma de Dios featured.jpg"
+image: "/assets/images/2025 11 19 Lotrives Pedro Garcia Cuartango featured.jpeg"
 categories: [Sociedad, Personas]
 tags: [Dios, Jesucristo, Bertrand Russell, Frederick C. Copleston, Isaías]
 ---
 
-![Hilma af Klint - Group IX/SUW, The Swan, No. 9, 1915](/assets/images/2025 11 19 Lotrives Pedro Garcia Cuartango Enigma de Dios featured.jpg)
+![Pedro García Cuartango en el Foro Nueva Revista, en la Universidad Villanueva, Madrid, el 19-11-2025. Foto: © Nueva Revista / Federico Marín Bellón](/assets/images/2025 11 19 Lotrives Pedro Garcia Cuartango featured.jpeg)
 
 Hemos celebrado esta mañana el Foro Nueva Revista en la sede de la Universidad Villanueva. Nuestro invitado hoy era **Pedro García Cuartango**, y hemos dialogado, algunos de forma presencial, otros *online*, sobre su libro *El enigma de Dios*, publicado por Ediciones B en este 2025. Una reseña a su ensayo se puede leer <a href="https://www.nuevarevista.net/el-enigma-de-dios-de-pedro-garcia-cuartango/" target="_blank" rel="noopener">aquí</a>.
 
@@ -36,9 +36,7 @@ El profeta **Isaías** presenta una solución al enigma de Dios más directa, m�
   </a>
   <br>
   Foto:
-  Rhododendrites, dominio público vía
-  <a href="https://commons.wikimedia.org/w/index.php?title=File:Group_IX_SUW,_The_Swan_No._9_by_Hilma_af_Klint_(13939).jpg&oldid=1110222568" target="_blank" rel="noopener">
-    Wikimedia Commons
+  Pedro García Cuartango en el Foro Nueva Revista, Madrid, 2025-11-19. © Nueva Revista / Federico Marín Bellón
   </a>
   <br>
   Suscríbete:
