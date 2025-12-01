@@ -37,7 +37,7 @@ El profeta **Isaías** presenta una solución al enigma de Dios más directa, m�
   <br>
   Foto:
   Pedro García Cuartango en el Foro Nueva Revista, Madrid, 2025-11-19. © Nueva Revista / Federico Marín Bellón
-  </a>
+  
   <br>
   Suscríbete:
   <a href="https://lotrives.substack.com/subscribe" target="_blank" rel="noopener">
