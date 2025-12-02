@@ -7,7 +7,7 @@ canonical_url: "https://lotrives.github.io/2025/12/02/dividendos-etf/"
 date: 2025-12-02
 last_modified: 2025-12-02
 author: "José Manuel Grau Navarro"
-image: "image: "/assets/images/2025 12 02 Lotrives dividendos og.jpg"
+image: "image: "/assets/images/2025 12 02 Lotrives dividendos featured.jpg"
 categories: [Economía]
 tags: [Dividendos, Volker Looman, Cartera de valores, Finanzas personales]
 ---
