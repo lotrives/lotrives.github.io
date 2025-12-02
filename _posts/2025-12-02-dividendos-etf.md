@@ -7,12 +7,12 @@ canonical_url: "https://lotrives.github.io/2025/12/02/dividendos-etf/"
 date: 2025-12-02
 last_modified: 2025-12-02
 author: "José Manuel Grau Navarro"
-image: "/assets/images/2025 12 02 Lotrives dividendos featured.jpg"
+image: "/assets/images/2025 11 19 Lotrives dividendos featured.jpg"
 categories: [Economía]
 tags: [Dividendos, Volker Looman, Cartera de valores, Finanzas personales]
 ---
 
-![«El cambista y su mujer» (1514), óleo de Quentin Massys. Museo del Louvre. Dominio público, vía Wikimedia Commons](/assets/images/2025 12 02 Lotrives dividendos featured.jpg)
+![«El cambista y su mujer» (1514), óleo de Quentin Massys. Museo del Louvre. Dominio público, vía Wikimedia Commons](/assets/images/2025 11 19 Lotrives dividendos featured.jpg)
 
 ### Lluvia de dividendos
 
@@ -66,13 +66,14 @@ Fernández Hódar, José Antonio. (2002). *Manual del buen bolsista. Todo lo que
   </a>
   <br>
   Comparte:
-  <a href="https://twitter.com/intent/tweet?text=Sobre%20los%20dividendos&amp;url=https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf%2F" target="_blank" rel="noopener">X</a>
+  <a href="https://twitter.com/intent/tweet?text=Sobre%20los%20dividendos&url=https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf" target="_blank" rel="noopener">X</a>
   ·
-  <a href="https://api.whatsapp.com/send?text=Sobre%20los%20dividendos%20-%20https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf%2F" target="_blank" rel="noopener">WhatsApp</a>
+  <a href="https://api.whatsapp.com/send?text=Sobre%20los%20dividendos%20-%20https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf" target="_blank" rel="noopener">WhatsApp</a>
   ·
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf%2F" target="_blank" rel="noopener">Facebook</a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf" target="_blank" rel="noopener">Facebook</a>
   ·
-  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf%2F" target="_blank" rel="noopener">LinkedIn</a>
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf" target="_blank" rel="noopener">LinkedIn</a>
+
 
   <br>
   Categoría:
