@@ -66,21 +66,14 @@ Fernández Hódar, José Antonio. (2002). *Manual del buen bolsista. Todo lo que
   </a>
   <br>
   Comparte:
-  <a href="https://twitter.com/intent/tweet?text=%C2%ABSobre%20los%20dividendos%C2%BB%20en%20Lotrives&amp;url=https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf%2F" target="_blank" rel="noopener">
-    X
-  </a>
+  <a href="https://twitter.com/intent/tweet?text=Sobre%20los%20dividendos&amp;url=https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf%2F" target="_blank" rel="noopener">X</a>
   ·
-  <a href="https://api.whatsapp.com/send?text=%C2%ABSobre%20los%20dividendos%C2%BB%20en%20Lotrives%20-%20https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf%2F" target="_blank" rel="noopener">
-    WhatsApp
-  </a>
+  <a href="https://api.whatsapp.com/send?text=Sobre%20los%20dividendos%20-%20https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf%2F" target="_blank" rel="noopener">WhatsApp</a>
   ·
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf%2F" target="_blank" rel="noopener">
-    Facebook
-  </a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf%2F" target="_blank" rel="noopener">Facebook</a>
   ·
-  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf%2F" target="_blank" rel="noopener">
-    LinkedIn
-  </a>
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf%2F" target="_blank" rel="noopener">LinkedIn</a>
+
   <br>
   Categoría:
   <a href="https://lotrives.github.io/categorias/#economia" target="_blank" rel="noopener">
