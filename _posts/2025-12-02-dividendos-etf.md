@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sobre los dividendos"
-excerpt: "¿Cobrar dividendos o reinvertirlos automáticamente"
+excerpt: "¿Cobrar dividendos o reinvertirlos automáticamente?"
 description: "Para una cartera permanente, mejor reinvertir automáticamente los dividendos"
 canonical_url: "https://lotrives.github.io/2025/12/02/dividendos-etf/"
 date: 2025-12-02
@@ -16,12 +16,11 @@ tags: [Dividendos, Volker Looman, Cartera de valores, Finanzas personales]
 
 ### Lluvia de dividendos
 
-En 2024, el <a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&amp;cid=1254736177057&amp;idp=1254735576581&amp;menu=ultiDatos" target="_blank" rel="noopener">PIB</a> de España fue de 1,75 billones de dólares. Esa es aproximadamente la misma cifra que la suma de dividendos empresariales en los Estados Unidos, según <a href="https://newsletter2.justetf.com/m/16681991/500587-7d273f8ca6c233ab6f1ec84fbe6e9d0ad47458cefc44416f7d979da7df527770d45981acf5941333853841e9b6447ec0" target="_blank" rel="noopener">justETF</a> y supone un crecimiento del 6,6 % respecto del año anterior. En un *ranking* de 2024 sobre dividendos totales pagados en efectivo de las empresas que cotizan en EE. UU., <a href="https://www.dividendpower.org/biggest-dividend-payers/" target="_blank" rel="noopener">Microsoft</a> aparece en primer lugar, con unos 22.300 millones de dólares repartidos en 2024.
+En 2024, el <a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&amp;cid=1254736177057&amp;idp=1254735576581&amp;menu=ultiDatos" target="_blank" rel="noopener">PIB</a> de España fue de 1,75 billones de dólares. Esa es aproximadamente la misma cifra que la suma de dividendos empresariales en los Estados Unidos en 2024, según <a href="https://newsletter2.justetf.com/m/16681991/500587-7d273f8ca6c233ab6f1ec84fbe6e9d0ad47458cefc44416f7d979da7df527770d45981acf5941333853841e9b6447ec0" target="_blank" rel="noopener">justETF</a> y supone un crecimiento del 6,6 % respecto del año anterior. En un *ranking* de 2024 sobre dividendos totales pagados en efectivo de las empresas que cotizan en EE. UU., <a href="https://www.dividendpower.org/biggest-dividend-payers/" target="_blank" rel="noopener">Microsoft</a> aparece en primer lugar, con unos 22.300 millones de dólares repartidos en 2024.
 
 #### Aclaración sobre qué son los dividendos:
 
-«Cuando una sociedad ha cerrado el ejercicio con beneficios puede repartirlos total o parcialmente entre sus accionistas. Al beneficio distribuido por acción se le denomina dividendo.[...].
-»Hay sociedades que reparten beneficios una vez al año -dividendo único-, mientras que otras, a la vista de la evolución del ejercicio, anticipan parte de estos, como un *dividendo a cuenta*, y cuando se cierra el año económico, en función de los resultados reales obtenidos, se abona un segundo pago al que se denomina *dividendo complementario*» (Fernández Hódar, 2002, p. 23).
+«Cuando una sociedad ha cerrado el ejercicio con beneficios puede repartirlos total o parcialmente entre sus accionistas. Al beneficio distribuido por acción se le denomina dividendo.[...]. Hay sociedades que reparten beneficios una vez al año -dividendo único-, mientras que otras, a la vista de la evolución del ejercicio, anticipan parte de estos, como un *dividendo a cuenta*, y cuando se cierra el año económico, en función de los resultados reales obtenidos, se abona un segundo pago al que se denomina *dividendo complementario*» (Fernández Hódar, 2002, p. 23).
 
 «Siempre que la sociedad distribuye un dividendo la acción pierde un valor equivalente al importe del mismo. Y es lógico que así sea, ya que al cierre del ejercicio el valor de la empresa, y por tanto, el de cada una de las acciones, se ha incrementado con el beneficio obtenido. El día que la empresa abona el dividendo a sus accionistas, la cantidad distribuida sale de sus cuentas. La empresa vale menos que el día anterior y consecuentemente, también valdrán menos cada una de las acciones en las que está dividido el capital» (Fernández Hódar, 2002, pp. 23-24).
 
