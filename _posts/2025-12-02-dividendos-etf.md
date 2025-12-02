@@ -50,26 +50,42 @@ Fernández Hódar, José Antonio. (2002). *Manual del buen bolsista. Todo lo que
 
 <p>
   Autor:
-  <a href="https://lotrives.github.io/autor/jose-manuel-grau-navarro/" target="_blank" rel="noopener">José Manuel Grau Navarro</a>
+  <a href="https://lotrives.github.io/autor/jose-manuel-grau-navarro/" target="_blank" rel="noopener">
+    José Manuel Grau Navarro
+  </a>
   <br>
   Foto:
-«El cambista y su mujer» (1514), óleo de Quentin Massys. Museo del Louvre. Dominio público, vía <a href="https://commons.wikimedia.org/w/index.php?title=File:Le_pr%C3%AAteur_et_sa_femme_-_Quentin_Metsys_-_Mus%C3%A9e_du_Louvre_Peintures_INV_1444_;_MR_821.jpg&oldid=1096116929" target="_blank" rel="noopener">Wikimedia Commons</a>
-
+  «El cambista y su mujer» (1514), óleo de Quentin Massys. Museo del Louvre. Dominio público, vía
+  <a href="https://commons.wikimedia.org/w/index.php?title=File:Le_pr%C3%AAteur_et_sa_femme_-_Quentin_Metsys_-_Mus%C3%A9e_du_Louvre_Peintures_INV_1444_;_MR_821.jpg&amp;oldid=1096116929" target="_blank" rel="noopener">
+    Wikimedia Commons
+  </a>
   <br>
   Suscríbete:
-  <a href="https://lotrives.substack.com/subscribe" target="_blank" rel="noopener">Newsletter</a>
+  <a href="https://lotrives.substack.com/subscribe" target="_blank" rel="noopener">
+    Newsletter
+  </a>
   <br>
   Comparte:
-  <a href="https://x.com/intent/post?text=%C2%ABSobre%20los%20dividendos%C2%BB%20en%20Lotrives%20https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf%2F" target="_blank" rel="noopener">X</a>
+  <a href="https://twitter.com/intent/tweet?text=%C2%ABSobre%20los%20dividendos%C2%BB%20en%20Lotrives&amp;url=https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf%2F" target="_blank" rel="noopener">
+    X
+  </a>
   ·
-  <a href="https://api.whatsapp.com/send?text=%C2%ABSobre%20los%20dividendos%C2%BB%20en%20Lotrives%20https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf%2F" target="_blank" rel="noopener">WhatsApp</a>
+  <a href="https://api.whatsapp.com/send?text=%C2%ABSobre%20los%20dividendos%C2%BB%20en%20Lotrives%20-%20https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf%2F" target="_blank" rel="noopener">
+    WhatsApp
+  </a>
   ·
-  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf%2F" target="_blank" rel="noopener">LinkedIn</a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf%2F" target="_blank" rel="noopener">
+    Facebook
+  </a>
   ·
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf%2F" target="_blank" rel="noopener">Facebook</a>
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Flotrives.github.io%2F2025%2F12%2F02%2Fdividendos-etf%2F" target="_blank" rel="noopener">
+    LinkedIn
+  </a>
   <br>
   Categoría:
-  <a href="https://lotrives.github.io/categorias/#economia" target="_blank" rel="noopener">Economía</a>
+  <a href="https://lotrives.github.io/categorias/#economia" target="_blank" rel="noopener">
+    Economía
+  </a>
   <br>
   Etiquetas:
   <a href="https://lotrives.github.io/etiquetas/#dividendos" target="_blank" rel="noopener">Dividendos</a>,
