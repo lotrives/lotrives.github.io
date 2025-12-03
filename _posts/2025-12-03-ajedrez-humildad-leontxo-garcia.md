@@ -71,6 +71,6 @@ Más adelante, en este mismo lugar, dejaré el enlace al vídeo de la sesión, e
   <br>
   Etiquetas:
   <a href="/etiquetas/#ajedrez" target="_blank" rel="noopener">Ajedrez</a>,
-  <a href="/etiquetas/#leontxo-garcía" target="_blank" rel="noopener">Leontxo García</a>,
+  <a href="/etiquetas/#leontxo-garcia" target="_blank" rel="noopener">Leontxo García</a>,
   <a href="/etiquetas/#humildad" target="_blank" rel="noopener">Humildad</a>
 </p>
