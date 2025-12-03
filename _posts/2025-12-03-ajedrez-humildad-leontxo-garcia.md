@@ -23,10 +23,14 @@ Esta tarde, la del miércoles 3/12/2025, en un <a href="https://www.nuevarevista
 Más adelante, en este mismo lugar, dejaré el enlace al vídeo de la sesión, en cuanto esté disponible. Mientras tanto, me interesa señalar un aspecto psicológico relacionado con el ajedrez y que ha salido en una conversación previa al foro que Lotrives ha mantenido con Leontxo.
 
 —Lotrives: ¿Por qué enfada tan profundamente perder una partida de ajedrez?
+
 —Leontxo: Porque el único culpable de la derrota eres tú. **No puedes echar la culpa a nadie**.
+
 —Lotrives: ¿No será debido a que **no podemos soportar que otro sea superior a nosotros**, que sea más inteligente? ¿No será porque **no aceptamos las desigualdades de talento**?
-—Leontxo: Eso equivale, me parece, a que no estar en condiciones de descargar la culpa en alguien, lo que yo he dicho.
-—Lotrives: Sí, en parte, pero quizás lo de la desigualdad de talentos lo desarrolla. Me atrevo a dar un paso más. El ajedrez desnuda y revela lo pecaminoso del pecado original: al **demonio** convenciéndonos de que no obedezcamos a un ser superior a nosotros, Dios, porque debemos aspirar a ser iguales que él. Bien mirado, el ajedrez es también un ejercicio para profundizar en la humildad.
+
+—Leontxo: Eso equivale, me parece, a no estar en condiciones de descargar la culpa en alguien, lo que yo he dicho.
+
+—Lotrives: Sí, en parte, pero quizás lo de la desigualdad de talentos lo desarrolla. Me atrevo a dar un paso más. El ajedrez desnuda y revela lo pecaminoso del pecado original: al **demonio** convenciéndonos de que no obedezcamos a un ser superior a nosotros, Dios, porque debemos aspirar a ser dios. Bien mirado, el ajedrez es también un ejercicio para profundizar en la humildad.
 
 ---
 
