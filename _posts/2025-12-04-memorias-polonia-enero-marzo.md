@@ -3,7 +3,7 @@ layout: post
 title: "Memorias. Polonia, enero-marzo de 1990"
 excerpt: "Del Plan Balcerowicz al miedo de la futura Alemania unida"
 description: "Del Plan Balcerowicz al miedo de la futura Alemania unida"
-canonical_url: "https://lotrives.github.io/2025/12/04/memorias-polonia-enero-marzo-1990/"
+canonical_url: "https://lotrives.github.io/2025/12/04/memorias-polonia-enero-marzo/"
 date: 2025-12-04
 last_modified: 2025-12-04
 author: "José Manuel Grau Navarro"
