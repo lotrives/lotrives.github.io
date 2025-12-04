@@ -5,13 +5,14 @@ author:
 lang: "es"
 timezone: "Europe/Madrid"
 
-# Minima 3 moderno (commit estable con mejoras en nav móvil)
-remote_theme: "jekyll/minima@5f61d94"
+# 🔧 Usar la versión estable integrada en GitHub Pages
+theme: minima
+# remote_theme: "jekyll/minima@5f61d94"
 
 url: "https://lotrives.github.io"
 baseurl: ""
 
-# Estructura de URLs de posts
+# Estructura de URLs de los posts
 permalink: /:year/:month/:day/:title/
 
 plugins:
@@ -20,12 +21,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 
-# Google Analytics 4 (ID de medición)
+# Google Analytics 4
 google_analytics: G-BT8CB5X306
 
 minima:
-  # Páginas del menú principal (nav)
-  minima:
+  # Navegación superior
   nav_pages:
     - acerca.md
     - archivo.md
@@ -38,10 +38,10 @@ minima:
   # Mostrar extractos en listados
   show_excerpts: true
 
-  # Apariencia (claro/oscuro automático)
+  # Apariencia (modo claro/oscuro automático)
   skin: auto
 
-  # Enlaces sociales del footer (Font Awesome)
+  # Enlaces sociales
   social_links:
     - title: "X (Twitter)"
       icon: x-twitter
@@ -50,14 +50,13 @@ minima:
       icon: github
       url: "https://github.com/lotrives"
 
-  # Oculta el enlace e icono RSS del pie
+  # Ocultar feed RSS en footer
   hide_site_feed_link: true
 
-# Metadatos para jekyll-seo-tag
+# SEO
 twitter_username: "jmgraunavarro"
 github_username: "lotrives"
 
-# Compilación Sass en modo comprimido
+# Compilación Sass
 sass:
   style: compressed
-
