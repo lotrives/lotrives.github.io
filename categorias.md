@@ -4,7 +4,7 @@ title: "Categorías"
 permalink: /categorias/
 ---
 
-{% assign sorted_categories = site.categories | sort %}
+{% assign sorted_categories = site.categories | sort: 'first' %}
 
 {% for category in sorted_categories %}
   {% assign category_name = category[0] %}
@@ -16,7 +16,9 @@ permalink: /categorias/
   <ul>
     {% for post in category_posts %}
       <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <a href="{{ post.url | relative_url }}" target="_blank" rel="noopener">
+          {{ post.title }}
+        </a>
         <span style="font-size:0.85rem; color:#777;">
           ({{ post.date | date: "%Y-%m-%d" }})
         </span>

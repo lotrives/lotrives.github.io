@@ -6,7 +6,7 @@ permalink: /etiquetas/
 
 <!-- Índice de etiquetas -->
 <ul>
-  {% assign tags = site.tags | sort %}
+  {% assign tags = site.tags | sort: 'first' %}
   {% for tag in tags %}
     {% assign tag_name = tag[0] %}
     <li>
