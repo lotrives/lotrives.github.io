@@ -4,32 +4,39 @@ title: "Categorías"
 permalink: /categorias/
 ---
 
-{% assign sorted_categories = site.categories | sort: 'first' %}
+# Categorías
 
-{% for category in sorted_categories %}
-  {% assign category_name = category[0] %}
-  {% assign category_posts = category[1] %}
+{%- comment -%}
+  site.categories es un hash:
+    "Nombre categoría" => [post1, post2, ...]
+  Lo convertimos a array y lo ordenamos por nombre
+{%- endcomment -%}
 
-  <h3 id="{{ category_name | slugify }}">{{ category_name }}</h3>
+{%- assign categorias_ordenadas = site.categories | sort -%}
 
-  {% if category_posts %}
+<ul>
+{%- for cat in categorias_ordenadas -%}
+  {%- assign nombre = cat[0] -%}
+  {%- assign posts_de_cat = cat[1] -%}
+  <li>
+    <a href="#{{ nombre | slugify }}">{{ nombre }}</a>
+    ({{ posts_de_cat | size }})
+  </li>
+{%- endfor -%}
+</ul>
+
+{%- for cat in categorias_ordenadas -%}
+  {%- assign nombre = cat[0] -%}
+  {%- assign posts_de_cat = cat[1] | sort: "date" | reverse -%}
+
+  <h2 id="{{ nombre | slugify }}">{{ nombre }}</h2>
+
   <ul>
-    {% for post in category_posts %}
-      <li>
-        <a href="{{ post.url | relative_url }}" target="_blank" rel="noopener">
-          {{ post.title }}
-        </a>
-        <span style="font-size:0.85rem; color:#777;">
-          ({{ post.date | date: "%Y-%m-%d" }})
-        </span>
-      </li>
-    {% endfor %}
+  {%- for post in posts_de_cat -%}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      ({{ post.date | date: "%Y-%m-%d" }})
+    </li>
+  {%- endfor -%}
   </ul>
-  {% else %}
-  <p>No hay entradas en esta categoría.</p>
-  {% endif %}
-
-  {% unless forloop.last %}
-  <hr>
-  {% endunless %}
-{% endfor %}
+{%- endfor -%}
