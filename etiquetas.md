@@ -4,24 +4,34 @@ title: "Etiquetas"
 permalink: /etiquetas/
 ---
 
-<h1>Etiquetas</h1>
+# Etiquetas
 
-<ul class="tag-list">
-  {% for tag in site.tags %}
-    {% assign nombre = tag[0] %}
-    {% assign posts = tag[1] %}
-    <li id="{{ nombre | slugify }}">
-      <h2>{{ nombre }}</h2>
-      <ul>
-        {% for post in posts %}
-          <li>
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            <span class="post-date">
-              {{ post.date | date: "%Y-%m-%d" }}
-            </span>
-          </li>
-        {% endfor %}
-      </ul>
-    </li>
-  {% endfor %}
+{%- assign tags_ordenados = site.tags | sort -%}
+
+<ul>
+{%- for tag in tags_ordenados -%}
+  {%- assign nombre = tag[0] -%}
+  {%- assign posts_de_tag = tag[1] | sort: "date" | reverse -%}
+  <li>
+    <a href="#{{ nombre | slugify }}">{{ nombre }}</a>
+    ({{ posts_de_tag | size }})
+  </li>
+{%- endfor -%}
 </ul>
+
+{%- for tag in tags_ordenados -%}
+  {%- assign nombre = tag[0] -%}
+  {%- assign posts_de_tag = tag[1] | sort: "date" | reverse -%}
+  <h2 id="{{ nombre | slugify }}">{{ nombre }}</h2>
+  <ul>
+    {%- for post in posts_de_tag -%}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        ({{ post.date | date: "%Y-%m-%d" }})
+      </li>
+    {%- endfor -%}
+  </ul>
+  {%- unless forloop.last -%}
+  <hr>
+  {%- endunless -%}
+{%- endfor -%}
