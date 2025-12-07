@@ -9,7 +9,7 @@ permalink: /categorias/
 {%- comment -%}
   site.categories es un hash:
     "Nombre categoría" => [post1, post2, ...]
-  Lo convertimos en array y lo ordenamos alfabéticamente por nombre
+  Lo convertimos en array y lo ordenamos alfabéticamente por nombre.
 {%- endcomment -%}
 
 {%- assign categorias_ordenadas = site.categories | sort -%}
@@ -36,7 +36,9 @@ permalink: /categorias/
     {%- for post in posts_de_cat -%}
       <li>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        ({{ post.date | date: "%Y-%m-%d" }})
+        <span style="font-size:0.85rem; color:#777;">
+          ({{ post.date | date: "%Y-%m-%d" }})
+        </span>
       </li>
     {%- endfor -%}
     </ul>
@@ -48,4 +50,3 @@ permalink: /categorias/
   <hr>
   {%- endunless -%}
 {%- endfor -%}
-
