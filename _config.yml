@@ -1,11 +1,13 @@
 title: "Lotrives"
 description: "Una mirada al mundo que somos"
+
 author:
   name: "José Manuel Grau Navarro"
+
 lang: "es"
 timezone: "Europe/Madrid"
 
-# 🔧 Usar la versión estable integrada en GitHub Pages
+# Usar la versión estable integrada en GitHub Pages
 theme: minima
 # remote_theme: "jekyll/minima@5f61d94"
 
@@ -50,7 +52,7 @@ minima:
       icon: github
       url: "https://github.com/lotrives"
 
-  # Ocultar feed RSS en footer
+  # Ocultar feed RSS en el footer
   hide_site_feed_link: true
 
 # SEO
