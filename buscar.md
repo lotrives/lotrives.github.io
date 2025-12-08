@@ -1,39 +1,84 @@
 ---
 layout: page
-title: Buscar
+title: "Buscar"
 permalink: /buscar/
-description: "Busca por texto, título y etiquetas"
 ---
 
-<div style="max-width:720px;margin:1rem 0;">
-  <label for="search-input" style="display:block;font-weight:600;margin-bottom:.25rem;">
-    Busca por texto, título y etiquetas
-  </label>
-  <input id="search-input" type="search" placeholder="Escribe para buscar…" 
-         style="width:100%;padding:.6rem;border:1px solid #ddd;border-radius:6px;">
-  <p id="search-stats" style="margin:.5rem 0;color:#666;"></p>
+<h3>Busca por texto, título y etiquetas</h3>
+
+<div id="search-container">
+  <input
+    type="search"
+    id="search-input"
+    placeholder="Escribe y pulsa Enter o empieza a teclear…"
+    aria-label="Buscar en los artículos"
+  >
+  <ul id="results-container"></ul>
 </div>
 
-<noscript>El buscador requiere JavaScript.</noscript>
-
-<ul id="search-results" style="list-style:none;padding-left:0;margin:1rem 0;"></ul>
-
-<!-- Librería Lunr (primero) y tu script (después). Ambos con defer. -->
-<script defer src="https://cdn.jsdelivr.net/npm/lunr/lunr.min.js"></script>
-<script defer src="{{ '/assets/js/search.js' | relative_url }}"></script>
+<noscript>
+  El buscador requiere JavaScript.
+</noscript>
 
 <style>
-  /* Enlace ocupa todo el resultado: 1 clic basta */
-  #search-results .sr-link {
+  /* Contenedor general del buscador */
+  #search-container {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  /* Caja de búsqueda: más ancha y cómoda */
+  #search-input {
+    width: 100%;
+    max-width: 480px; /* ancho máximo razonable */
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    box-sizing: border-box;
+  }
+
+  /* Lista de resultados */
+  #results-container {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 1.5rem;
+  }
+
+  #results-container li {
+    margin-bottom: 1.25rem;
+  }
+
+  #results-container a {
+    font-weight: 600;
+  }
+
+  #results-container small {
+    color: #666;
     display: block;
-    padding: .5rem .25rem;
-    text-decoration: none;
   }
-  #search-results .sr-link:hover,
-  #search-results .sr-link:focus {
-    text-decoration: underline;
-  }
-  #search-results .sr-tags {
-    font-size: .85rem; color:#666; margin-top:.25rem;
+
+  #results-container span {
+    display: block;
+    margin-top: 0.25rem;
   }
 </style>
+
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', function () {
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '{{ "/search.json" | relative_url }}',
+      searchResultTemplate:
+        '<li>' +
+          '<a href="{url}">{title}</a>' +
+          '<small>{date}</small>' +
+          '<small>{tags}</small>' +
+          '<span>{excerpt}</span>' +
+        '</li>',
+      noResultsText: '<li>No se han encontrado resultados.</li>',
+      limit: 20,
+      fuzzy: true
+    });
+  });
+</script>

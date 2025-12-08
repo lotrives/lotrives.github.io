@@ -1,32 +1,29 @@
 ---
 layout: page
-title: Etiquetas
+title: "Etiquetas"
 permalink: /etiquetas/
 ---
 
-<!-- Índice de etiquetas -->
 <ul>
-  {% assign tags = site.tags | sort: 'first' %}
-  {% for tag in tags %}
-    {% assign tag_name = tag[0] %}
+  {% for tag in site.tags %}
+    {% assign nombre = tag[0] | append: '' %}
+    {% assign posts_de_tag = tag[1] %}
     <li>
-      <a href="#{{ tag_name | slugify: 'latin' }}">{{ tag_name }}</a>
-      <small>({{ tag[1].size }})</small>
+      <a href="#{{ nombre | slugify }}">{{ nombre }}</a>
+      ({{ posts_de_tag | size }})
     </li>
   {% endfor %}
 </ul>
 
-<hr />
-
-<!-- Lista de entradas bajo cada etiqueta -->
-{% for tag in tags %}
-  {% assign tag_name = tag[0] %}
-  <h4 id="{{ tag_name | slugify: 'latin' }}">{{ tag_name }}</h4>
+{% for tag in site.tags %}
+  {% assign nombre = tag[0] | append: '' %}
+  {% assign posts_de_tag = tag[1] %}
+  <h4 id="{{ nombre | slugify }}">{{ nombre }}</h4>
   <ul>
-    {% for post in tag[1] %}
+    {% for post in posts_de_tag %}
       <li>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        <small>— {{ post.date | date: "%b %-d, %Y" }}</small>
+        ({{ post.date | date: "%Y-%m-%d" }})
       </li>
     {% endfor %}
   </ul>

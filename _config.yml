@@ -1,12 +1,15 @@
 title: "Lotrives"
 description: "Una mirada al mundo que somos"
-author:
-  name: "José Manuel Grau Navarro"
+
+# Autor del sitio (como cadena, para que el footer no muestre el hash)
+author: "José Manuel Grau Navarro"
+
 lang: "es"
 timezone: "Europe/Madrid"
 
-# 🔧 Usar la versión estable integrada en GitHub Pages
+# Usar la versión estable integrada en GitHub Pages
 theme: minima
+# No usamos remote_theme para evitar incompatibilidades de versiones
 # remote_theme: "jekyll/minima@5f61d94"
 
 url: "https://lotrives.github.io"
@@ -24,22 +27,19 @@ plugins:
 # Google Analytics 4
 google_analytics: G-BT8CB5X306
 
-minima:
-  # Navegación superior
-  nav_pages:
-    - acerca.md
-    - archivo.md
-    - archivo-substack.md
-    - categorias.md
-    - etiquetas.md
-    - newsletter.md
-    - buscar.md
+# Páginas que deben aparecer en el menú superior (Minima 2.5.1 usa header_pages)
+header_pages:
+  - acerca.md
+  - archivo.md
+  - categorias.md
+  - etiquetas.md
+  - newsletter.md
+  - buscar.md
 
+# Opciones específicas de Minima (las que no entienda simplemente se ignoran)
+minima:
   # Mostrar extractos en listados
   show_excerpts: true
-
-  # Apariencia (modo claro/oscuro automático)
-  skin: auto
 
   # Enlaces sociales
   social_links:
@@ -50,7 +50,7 @@ minima:
       icon: github
       url: "https://github.com/lotrives"
 
-  # Ocultar feed RSS en footer
+  # Ocultar feed RSS en el footer
   hide_site_feed_link: true
 
 # SEO
