@@ -4,23 +4,21 @@ title: "Etiquetas"
 permalink: /etiquetas/
 ---
 
-# Etiquetas
-
 <ul>
-{% for tag in site.tags %}
-  {% assign nombre = tag[0] | append: '' %}
-  {% assign posts_de_tag = tag[1] %}
-  <li>
-    <a href="#{{ nombre | slugify }}">{{ nombre }}</a>
-    ({{ posts_de_tag | size }})
-  </li>
-{% endfor %}
+  {% for tag in site.tags %}
+    {% assign nombre = tag[0] | append: '' %}
+    {% assign posts_de_tag = tag[1] %}
+    <li>
+      <a href="#{{ nombre | slugify }}">{{ nombre }}</a>
+      ({{ posts_de_tag | size }})
+    </li>
+  {% endfor %}
 </ul>
 
 {% for tag in site.tags %}
   {% assign nombre = tag[0] | append: '' %}
   {% assign posts_de_tag = tag[1] %}
-  <h2 id="{{ nombre | slugify }}">{{ nombre }}</h2>
+  <h4 id="{{ nombre | slugify }}">{{ nombre }}</h4>
   <ul>
     {% for post in posts_de_tag %}
       <li>
