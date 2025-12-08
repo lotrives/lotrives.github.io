@@ -8,7 +8,7 @@ permalink: /etiquetas/
 
 <ul>
 {% for tag in site.tags %}
-  {% assign nombre = tag[0] %}
+  {% assign nombre = tag[0] | append: '' %}
   {% assign posts_de_tag = tag[1] %}
   <li>
     <a href="#{{ nombre | slugify }}">{{ nombre }}</a>
@@ -18,7 +18,7 @@ permalink: /etiquetas/
 </ul>
 
 {% for tag in site.tags %}
-  {% assign nombre = tag[0] %}
+  {% assign nombre = tag[0] | append: '' %}
   {% assign posts_de_tag = tag[1] %}
   <h2 id="{{ nombre | slugify }}">{{ nombre }}</h2>
   <ul>
