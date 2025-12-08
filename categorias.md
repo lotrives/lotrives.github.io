@@ -8,7 +8,7 @@ permalink: /categorias/
 
 <ul>
 {% for categoria in site.categories %}
-  {% assign nombre = categoria[0] %}
+  {% assign nombre = categoria[0] | append: '' %}
   {% assign posts_de_cat = categoria[1] | sort: "date" | reverse %}
   <li>
     <a href="#{{ nombre | slugify }}">{{ nombre }}</a>
@@ -18,7 +18,7 @@ permalink: /categorias/
 </ul>
 
 {% for categoria in site.categories %}
-  {% assign nombre = categoria[0] %}
+  {% assign nombre = categoria[0] | append: '' %}
   {% assign posts_de_cat = categoria[1] | sort: "date" | reverse %}
   <h2 id="{{ nombre | slugify }}">{{ nombre }}</h2>
   <ul>
