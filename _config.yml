@@ -26,6 +26,7 @@ header_pages:
   - archivo.md
   - etiquetas.md
   - buscar.md
+  - newsletter.md
 
 minima:
   social_links:
