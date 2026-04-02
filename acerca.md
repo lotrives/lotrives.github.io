@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Acerca de"
+title: "Acerca"
 permalink: /acerca/
 description: "Lotrives es la web personal de José Manuel Grau Navarro, una puerta de entrada a su trabajo periodístico e intelectual, hoy reunido principalmente en Substack"
 ---
