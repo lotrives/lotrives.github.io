@@ -39,11 +39,12 @@ permalink: /buscar/
   }
 
   function excerpt(text, q) {
-    var idx = q ? (text||'').toLowerCase().indexOf(q.toLowerCase()) : -1;
+    var src = text || '';
+    var idx = q ? src.toLowerCase().indexOf(q.toLowerCase()) : -1;
     var s = idx > 60 ? idx - 60 : 0;
-    var chunk = (text||'').slice(s, s + 220);
+    var chunk = src.slice(s, s + 220);
     if (s > 0) chunk = '…' + chunk;
-    if (s + 220 < (text||'').length) chunk += '…';
+    if (s + 220 < src.length) chunk += '…';
     return hl(chunk, q);
   }
 
@@ -63,6 +64,7 @@ permalink: /buscar/
     var ql = q.toLowerCase();
     var matched = posts.filter(function(p) {
       return (p.title||'').toLowerCase().indexOf(ql) !== -1 ||
+             (p.content||'').toLowerCase().indexOf(ql) !== -1 ||
              (p.excerpt||'').toLowerCase().indexOf(ql) !== -1 ||
              (p.tags||'').toLowerCase().indexOf(ql) !== -1;
     });
@@ -73,7 +75,7 @@ permalink: /buscar/
       return '<div class="b-card">' +
         '<a href="' + esc(p.url) + '">' + hl(p.title||'', q) + '</a>' +
         '<div class="b-date">' + fmtDate(p.date) + '</div>' +
-        '<div class="b-excerpt">' + excerpt(p.excerpt||'', q) + '</div>' +
+        '<div class="b-excerpt">' + excerpt(p.content||p.excerpt||'', q) + '</div>' +
         (p.tags ? '<div class="b-tags">' + (p.tags).split(', ').map(function(t){ return '#' + esc(t.trim()); }).join(' ') + '</div>' : '') +
         '</div>';
     }).join('');
