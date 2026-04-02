@@ -23,6 +23,9 @@ google_analytics: G-BT8CB5X306
 
 header_pages:
   - acerca.md
+  - archivo.md
+  - etiquetas.md
+  - buscar.md
 
 minima:
   show_excerpts: true
