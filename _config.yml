@@ -36,6 +36,9 @@ minima:
   # Mostrar extractos en listados
   show_excerpts: true
 
+  # Sin título en el listado de posts
+  list_title: " "
+
   # Enlaces sociales
   social_links:
     - title: "X (Twitter)"
