@@ -28,7 +28,6 @@ header_pages:
   - buscar.md
 
 minima:
-  show_excerpts: true
   social_links:
     - title: "X (Twitter)"
       icon: x-twitter
