@@ -18,3 +18,5 @@ De ahí me marcho a la Prunksaal (Sala Espléndida o Suntuosa) de la Biblioteca 
 Fotos: © José Manuel Grau Navarro
 
 [Más información ↗](https://open.substack.com/pub/lotrives/p/austria-1938-anexion-anschluss)
+
+*Suscríbete a [Lotrives](https://lotrives.substack.com/subscribe).*

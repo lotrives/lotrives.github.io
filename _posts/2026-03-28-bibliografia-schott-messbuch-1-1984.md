@@ -145,3 +145,5 @@ Ordenada alfabéticamente · Formato APA 7 · Con referencia de la página del v
 - Zeller, H. (1968). *Mensch sein mit Schwierigkeiten*. Verlag Ars Sacra. (p. 1066)
 - Zink, J. (1970). *Die Mitte der Nacht ist der Anfang des Tages*. Kreuz-Verlag. (p. 590)
 - Zink, J. (1972). *Wie wir beten können*. Kreuz-Verlag. (p. 1088)
+
+*Suscríbete a [Lotrives](https://lotrives.substack.com/subscribe).*
