@@ -19,5 +19,3 @@ Edith Stein se refiere a su hermano Paul Stein, el mayor de los hermanos (Gleiwi
 «Lo que mi madre no podía soportar de las dos nueras era que no hubiesen aprendido a dirigir una casa ordenadamente. Una tiene aptitudes para la música y ha empleado siempre mucho tiempo en dar y recibir clases. A la otra, le gusta ir de compras y hacer visitas, y siempre buscar alguna distracción para estar fuera de casa; y por ello ambas son extrañas a mi madre» (p. 76).
 
 Véase también [Edith Stein y la crítica a sus hermanos ↗](https://lotrives.substack.com/p/edith-stein-critica-autobiografia-vida-familia-judia-hermanos)
-
-*Suscríbete a [Lotrives](https://lotrives.substack.com/subscribe).*

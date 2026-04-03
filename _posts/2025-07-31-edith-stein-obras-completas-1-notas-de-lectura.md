@@ -71,5 +71,3 @@ Stein, Edith [Santa Teresa Benedicta de la Cruz]. (2019) [2002]. *Obras Completa
 **Nota 36, p. 181:** **Frida (Elfriede) Stein**, natural de Lublinitz (11-XII-1881), se casó con el señor Tworoger; en 1941 fue llevada a una comunidad judía, fuera de Breslau; posiblemente murió en 1942 en Theresienstadt, supuestamente de tifus.
 
 Véase también [Edith Stein y la crítica a sus hermanos ↗](https://open.substack.com/pub/lotrives/p/edith-stein-critica-autobiografia-vida-familia-judia-hermanos)
-
-*Suscríbete a [Lotrives](https://lotrives.substack.com/subscribe).*
