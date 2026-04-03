@@ -37,8 +37,8 @@ Pío IX proclamó en 1854 el dogma de la Inmaculada Concepción de María, media
 
 Con este Alejandro habló nuestro querido don Antonio Sánchez del Castellar.
 
------------
+#### Créditos de las fotos
 
-Crédito de la imagen de cabecera: Reja del altar mayor de la catedral de Orihuela. Foto: © José Manuel Grau Navarro.
+Imagen de cabecera: Reja del altar mayor de la catedral de Orihuela. Foto: © José Manuel Grau Navarro.
 
-Crédito de la imagendentro del cuerpo: Lápida de Antonio Sánchez del Castellar en la capilla de la Comunión de la catedral de Orihuela. Foto: © José Manuel Grau Navarro.
+Imagen dentro del cuerpo: Lápida de Antonio Sánchez del Castellar, en la capilla de la Comunión de la catedral de Orihuela. Foto: © José Manuel Grau Navarro.
