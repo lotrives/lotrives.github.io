@@ -2,7 +2,7 @@
 layout: post
 title: "La Catedral de Orihuela. Notas de una visita"
 date: 2026-03-31
-tags: [Catedral de Orihuela]
+tags: [Catedral de Orihuela, Orihuela]
 description: Visita a la Santa Iglesia Catedral de El Salvador y Santa María de Orihuela. Transcripción de los paneles descriptivos.
 ---
 
