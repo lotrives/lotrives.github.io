@@ -4,35 +4,33 @@
 @import "minima";
 
 /* Home: equilibrio tipográfico */
-body .home p {
+body .home > p {
   font-size: 1.05em;
   line-height: 1.7;
 }
 
-body .home ul.post-list {
+body .home ul {
   border-top: 1px solid #e0e0e0;
   padding-top: 1.5em;
   margin-top: 1.5em;
-  list-style: none;
-  margin-left: 0;
 }
 
-body .home ul.post-list > li {
+body .home ul > li {
   margin-bottom: 1.1em;
 }
 
-body .home ul.post-list h3 {
+body .home ul h3 {
   font-size: 1.15em;
   font-weight: normal;
   margin: 0;
   line-height: 1.4;
 }
 
-body .home ul.post-list h3 a.post-link {
+body .home ul h3 a {
   font-weight: normal;
 }
 
-body .home ul.post-list li span.post-meta {
+body .home ul li > span {
   font-size: 0.78em;
   color: #bbb;
   display: block;
