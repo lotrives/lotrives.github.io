@@ -20,13 +20,13 @@ Aunque en un primer momento Orihuela perteneció a Castilla, «pasó definitivam
 
 ### Lápida de Antonio Sánchez del Castellar. Texto latino
 
-En el acceso a **la capilla de la Comunión**, justo detrás del presbiterio, destaca una magnífica reja gótica. Dentro, en una pared, cuelga la lápida funeraria de don Antonio Sánchez del Castellar. Transcripo su inscripción en latín y añado una posible traducción de Lotrives al castellano, bastante literal:
+En el acceso a **la capilla de la Comunión**, justo detrás del presbiterio, destaca una magnífica reja gótica. Dentro, en una pared, se halla la lápida funeraria de don **Antonio Sánchez del Castellar**. Transcripo la inscripción en latín de esa piedra de mármol y añado una posible traducción de Lotrives al castellano, bastante literal:
 
 D.O.M. HIC IACET ILLUSTRISSIMVS ET REVERENDISSIMVS D. D. ANTONIVS SANCHEZ DEL CASTELLAR, VAL[ENTIAE] NATVS, ANNO MDCXXIII, IVRISPRVDENTIAE SPLENDORE MAXIME ENITVIT; INTER VARIA QVAE OBIVIT MVNERA ET MVNIA ALEXANDRVM VII REGIS CATHOL. IVSSV IMMACVLATAE DEIPARAE CVLTVM EXOPTANS PATRONVS ADIVIT; EPISCOPALI MVNERE IAM MATVRVS ORCELLIS ANTISTES INGREDITVR VI KAL. NOVEMB. MDCLXXVI; OBIIT ORCELLI IX KAL. SEPTEMB. MDCC. AT VIRTVTVM OMNIVM, PRAESERTIM LARGITATIS PROFVSAE IN PAVPERES, FAMA SVPERSTES.
 
 ![Lápida de Antonio Sánchez del Castellar en la capilla de la Comunión de la catedral de Orihuela]({{ "/assets/images/catedral-orihuela-lapida-antonio-sanchez.webp" | relative_url }})
 
-A Dios óptimo máximo. Aquí yace el ilustrísimo y reverendísimo señor don Antonio Sánchez del Castellar, nacido en Valencia en el año 1623, sobresalió extraordinariamente en la jurisprudencia; entre los varios cargos y funciones que desempeñó, acudió como defensor a Alejandro VII, por mandato del rey católico, para interceder por [anhelando] el culto de la Inmaculada Madre de Dios; ya maduro para el cargo episcopal, entra como obispo en Orihuela el sexto día antes de las calendas de noviembre de 1676; murió en Orihuela el noveno día antes de las calendas de septiembre de 1700. Pero sobrevive la fama de todas sus virtudes, especialmente la de su largueza derramada sobre los pobres.
+*A Dios óptimo máximo. Aquí yace el ilustrísimo y reverendísimo señor don Antonio Sánchez del Castellar, nacido en Valencia en el año 1623, sobresalió extraordinariamente en la jurisprudencia; entre los varios cargos y funciones que desempeñó, acudió como defensor a Alejandro VII, por mandato del rey católico, para interceder por [anhelando] el culto de la Inmaculada Madre de Dios; ya maduro para el cargo episcopal, entra como obispo en Orihuela el sexto día antes de las calendas de noviembre de 1676; murió en Orihuela el noveno día antes de las calendas de septiembre de 1700. Pero sobrevive la fama de todas sus virtudes, especialmente la de su largueza derramada sobre los pobres.*
 
 Aclaraciones: 
 **D. O. M**. es la abreviatura de *Deo Optimo Maximo*, que en castellano es *A Dios óptimo máximo*. **D. D.**: *Dominus Dominus*, equivalente en castellano a señor don. **KAL**. es Kalendae / calendas,el primer día del mes en el cómputo romano. VI Kal. Novemb. MDCLXXVI corresponde al 27 de octubre de 1676 y IX Kal. Septemb. MDCC al 24 de agosto de 1700.
@@ -37,6 +37,8 @@ Pío IX proclamó en 1854 el dogma de la Inmaculada Concepción de María, media
 
 Con este Alejandro habló nuestro querido don Antonio Sánchez del Castellar.
 
-Foto de cabecera: Reja del altar mayor de la catedral de Orihuela © José Manuel Grau Navarro.
+-----------
 
-Foto dentro del cuerpo: Lápida de Antonio Sánchez del Castellar en la capilla de la Comunión de la catedral de Orihuela. Foto: © José Manuel Grau Navarro.
+Crédito de la imagen de cabecera: Reja del altar mayor de la catedral de Orihuela. Foto: © José Manuel Grau Navarro.
+
+Crédito de la imagendentro del cuerpo: Lápida de Antonio Sánchez del Castellar en la capilla de la Comunión de la catedral de Orihuela. Foto: © José Manuel Grau Navarro.
