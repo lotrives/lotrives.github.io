@@ -31,6 +31,23 @@ permalink: /etiquetas-substack/
     columns: 1;
   }
 }
+
+.letra-cabecera {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.letra-cabecera a.volver {
+  font-size: 0.75rem;
+  font-weight: normal;
+  color: #999;
+  text-decoration: none;
+}
+
+.letra-cabecera a.volver:hover {
+  color: #333;
+}
 </style>
 
 Este índice recoge todos los temas tratados en [Lotrives (Substack)](https://lotrives.substack.com).
@@ -41,7 +58,7 @@ Puedes explorar los contenidos haciendo clic en cada etiqueta.
 
 **Total de etiquetas:** {{ etiquetas_ordenadas | size }}
 
-## Navegación
+## Navegación {#navegacion}
 
 <p class="etiquetas-nav">
   <a href="#0-9">0-9</a> ·
@@ -84,7 +101,7 @@ Puedes explorar los contenidos haciendo clic en cada etiqueta.
 {% endfor %}
 
 {% if tiene_digitos %}
-## 0-9
+<div class="letra-cabecera"><h2 id="0-9">0-9</h2> <a class="volver" href="#navegacion">↑ navegación</a></div>
 
 <ul class="etiquetas-lista">
 {% for item in etiquetas_ordenadas %}
@@ -124,7 +141,7 @@ Puedes explorar los contenidos haciendo clic en cada etiqueta.
 {% endfor %}
 
 {% if tiene_etiquetas %}
-## {{ letra }}
+<div class="letra-cabecera"><h2 id="{{ letra | downcase }}">{{ letra }}</h2> <a class="volver" href="#navegacion">↑ navegación</a></div>
 
 <ul class="etiquetas-lista">
 {% for item in etiquetas_ordenadas %}
