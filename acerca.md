@@ -15,7 +15,13 @@ A lo largo de su trayectoria ha publicado con distintos nombres en diferentes et
 
 ### Libros
 
-[Libros en Amazon](https://www.amazon.com/author/jmgraunavarro)
+- [Memorias. Polonia, enero-marzo de 1990](https://a.co/d/2fh1bj7)
+- [1989. Parte de lo que sucedió. Memorias. De Austria a Polonia](https://amzn.eu/d/6YQK1s9)
+- [En descargo de Martín Bilz](https://amzn.eu/d/9WSvR7H)
+- [Austria, 1938. La anexión (Anschluss), Hitler y Neue Freie Presse](https://amzn.eu/d/hygFRXj)
+- [Con sangre polaca](https://amzn.eu/d/hddzrak)
+- [Las enfermeras de la muerte](https://amzn.eu/d/7ZsU65P)
+- [El tarjetón blanco](https://amzn.eu/d/awocEjP)
 
 ### Contacto
 
