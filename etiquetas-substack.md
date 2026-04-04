@@ -75,6 +75,15 @@ Puedes explorar los contenidos haciendo clic en cada etiqueta.
 
 {% assign digitos = "0123456789" %}
 
+{% assign tiene_digitos = false %}
+{% for item in etiquetas_ordenadas %}
+  {% assign inicial = item.Etiqueta | slice: 0, 1 %}
+  {% if digitos contains inicial %}
+    {% assign tiene_digitos = true %}
+  {% endif %}
+{% endfor %}
+
+{% if tiene_digitos %}
 ## 0-9
 
 <ul class="etiquetas-lista">
@@ -85,10 +94,36 @@ Puedes explorar los contenidos haciendo clic en cada etiqueta.
   {% endif %}
 {% endfor %}
 </ul>
+{% endif %}
 
 {% assign letras = "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z" | split: "," %}
 
 {% for letra in letras %}
+
+{% assign tiene_etiquetas = false %}
+{% for item in etiquetas_ordenadas %}
+  {% assign inicial = item.Etiqueta | slice: 0, 1 | upcase
+    | replace: "Á", "A"
+    | replace: "À", "A"
+    | replace: "Ä", "A"
+    | replace: "É", "E"
+    | replace: "È", "E"
+    | replace: "Ë", "E"
+    | replace: "Í", "I"
+    | replace: "Ì", "I"
+    | replace: "Ï", "I"
+    | replace: "Ó", "O"
+    | replace: "Ò", "O"
+    | replace: "Ö", "O"
+    | replace: "Ú", "U"
+    | replace: "Ù", "U"
+    | replace: "Ü", "U" %}
+  {% if inicial == letra %}
+    {% assign tiene_etiquetas = true %}
+  {% endif %}
+{% endfor %}
+
+{% if tiene_etiquetas %}
 ## {{ letra }}
 
 <ul class="etiquetas-lista">
@@ -114,5 +149,6 @@ Puedes explorar los contenidos haciendo clic en cada etiqueta.
   {% endif %}
 {% endfor %}
 </ul>
+{% endif %}
 
 {% endfor %}
