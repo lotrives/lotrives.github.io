@@ -7,16 +7,17 @@ permalink: /etiquetas-substack/
 <style>
 .etiquetas-nav {
   line-height: 1.5;
+  margin-bottom: 1rem;
 }
 
-.etiquetas-bloque {
-  margin-bottom: 1.5rem;
+.etiquetas-nav a {
+  white-space: nowrap;
 }
 
 .etiquetas-lista {
   columns: 2;
   column-gap: 2rem;
-  margin: 0.4rem 0 0 0;
+  margin-top: 0.4rem;
   padding-left: 1.2rem;
 }
 
@@ -42,9 +43,35 @@ Puedes explorar los contenidos por tema haciendo clic en cada etiqueta.
 
 ## Navegación
 
-<div class="etiquetas-nav">
-[0-9](#0-9) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [X](#x) · [Y](#y) · [Z](#z)
-</div>
+<p class="etiquetas-nav">
+  <a href="#0-9">0-9</a> ·
+  <a href="#a">A</a> ·
+  <a href="#b">B</a> ·
+  <a href="#c">C</a> ·
+  <a href="#d">D</a> ·
+  <a href="#e">E</a> ·
+  <a href="#f">F</a> ·
+  <a href="#g">G</a> ·
+  <a href="#h">H</a> ·
+  <a href="#i">I</a> ·
+  <a href="#j">J</a> ·
+  <a href="#k">K</a> ·
+  <a href="#l">L</a> ·
+  <a href="#m">M</a> ·
+  <a href="#n">N</a> ·
+  <a href="#o">O</a> ·
+  <a href="#p">P</a> ·
+  <a href="#q">Q</a> ·
+  <a href="#r">R</a> ·
+  <a href="#s">S</a> ·
+  <a href="#t">T</a> ·
+  <a href="#u">U</a> ·
+  <a href="#v">V</a> ·
+  <a href="#w">W</a> ·
+  <a href="#x">X</a> ·
+  <a href="#y">Y</a> ·
+  <a href="#z">Z</a>
+</p>
 
 {% assign digitos = "0123456789" %}
 
@@ -54,7 +81,7 @@ Puedes explorar los contenidos por tema haciendo clic en cada etiqueta.
 {% for item in etiquetas_ordenadas %}
   {% assign inicial = item.Etiqueta | slice: 0, 1 %}
   {% if digitos contains inicial %}
-<li><a href="{{ item.URL }}">{{ item.Etiqueta }}</a></li>
+    <li><a href="{{ item.URL }}">{{ item.Etiqueta }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
@@ -83,7 +110,7 @@ Puedes explorar los contenidos por tema haciendo clic en cada etiqueta.
     | replace: "Ù", "U"
     | replace: "Ü", "U" %}
   {% if inicial == letra %}
-<li><a href="{{ item.URL }}">{{ item.Etiqueta }}</a></li>
+    <li><a href="{{ item.URL }}">{{ item.Etiqueta }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
