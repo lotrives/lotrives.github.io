@@ -33,9 +33,9 @@ permalink: /etiquetas-substack/
 }
 </style>
 
-Este índice recoge todas las etiquetas utilizadas en [Lotrives (Substack)](https://lotrives.substack.com).
+Este índice recoge todos los temas tratados en [Lotrives (Substack)](https://lotrives.substack.com).
 
-Puedes explorar los contenidos por tema haciendo clic en cada etiqueta.
+Puedes explorar los contenidos haciendo clic en cada etiqueta.
 
 {% assign etiquetas_ordenadas = site.data.etiquetas | sort: "Etiqueta" %}
 
