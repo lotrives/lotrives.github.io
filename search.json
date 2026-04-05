@@ -13,9 +13,8 @@ permalink: /search.json
     "excerpt": {{ post.excerpt | strip_html | strip_newlines | truncate: 160 | jsonify }},
     "content": {{ post.content | strip_html | strip_newlines | jsonify }},
     "tags": "{{ post.tags | join: ', ' }}"
-  }{% unless forloop.last %},{% endunless %}
+  },
 {% endfor %}
-,
 {
   "id": "/etiquetas-substack/",
   "title": "Índice de etiquetas (Substack)",
@@ -24,5 +23,18 @@ permalink: /search.json
   "excerpt": "Índice alfabético de todos los temas tratados en Lotrives en Substack.",
   "content": {% capture etiquetas_planas %}{% assign ordenadas = site.data.etiquetas | sort: "Etiqueta" %}{% for item in ordenadas %}{{ item.Etiqueta }} {% endfor %}{% endcapture %}{{ etiquetas_planas | strip_newlines | jsonify }},
   "tags": ""
-}
+},
+{% for page in site.pages %}
+  {% if page.url == '/acerca/' %}
+  {
+    "id": "/acerca/",
+    "title": {{ page.title | jsonify }},
+    "url": "/acerca/",
+    "date": "",
+    "excerpt": {{ page.description | jsonify }},
+    "content": {{ page.content | strip_html | strip_newlines | jsonify }},
+    "tags": ""
+  }
+  {% endif %}
+{% endfor %}
 ]
