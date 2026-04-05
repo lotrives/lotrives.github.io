@@ -4,6 +4,7 @@ title: "La inscripción laudatoria a Miguel Molsos en la catedral de Orihuela"
 date: 2026-03-31
 tags: [Catedral de Orihuela, Orihuela]
 description: Transcripción en latín y traducción al castellano de la dedicatoria a Miguel Molsos, primer pavorde de la entonces colegiata de Orihuela, que se encuentra en la capilla de la Comunión de la catedral de Orihuela.
+image: /assets/images/molsos-catedral-orihuela.webp
 ---
 
 ![Estatua orante de Miguel Molsos en la catedral de Orihuela]({{ "/assets/images/molsos-catedral-orihuela.webp" | relative_url }})
