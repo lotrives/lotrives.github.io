@@ -6,7 +6,7 @@ author: "José Manuel Grau Navarro"
 lang: "es"
 timezone: "Europe/Madrid"
 
-remote_theme: jekyll/minima
+theme: minima
 
 url: "https://lotrives.github.io"
 baseurl: ""
@@ -18,7 +18,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jekyll-remote-theme
 
 google_analytics: G-BT8CB5X306
 
@@ -42,5 +41,4 @@ twitter_username: "jmgraunavarro"
 github_username: "lotrives"
 
 sass:
-  sass_dir: assets/css
   style: compressed
