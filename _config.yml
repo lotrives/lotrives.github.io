@@ -21,6 +21,8 @@ plugins:
 
 google_analytics: G-BT8CB5X306
 
+og_image: /assets/images/og-default.webp
+
 header_pages:
   - acerca.md
   - archivo.md
