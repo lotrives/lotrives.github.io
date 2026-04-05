@@ -24,12 +24,11 @@ FUIT IN COLLEGIATA ANNO 1413.
 
 *«A Miguel Molsos, capellán del papa Martín V, doctor en Derecho, del pueblo de Ayora, auditor de la Rota y primer prepósito de Orihuela, por cuya obra esta iglesia fue erigida como colegiata en el año 1413».*
 
-Aclaraciones lingüísticas
+Aclaraciones lingüísticas:
  
-**D. O. M.** es la abreviatura de *Deo Optimo Maximo*, que significa literalmente *A Dios óptimo máximo* [es decir: «Dedicado a Dios, el mejor y el más grande»].
-**D. D.**, en este contexto, es la abreviatura del título académico latino [doctor decretorum](https://www.newadvent.org/cathen/05072b.htm), el título universitario medieval equivalente a doctor en Derecho Canónico.
+**D. O. M.** es la abreviatura de *Deo Optimo Maximo*, que significa literalmente *A Dios óptimo máximo* [es decir: «Dedicado a Dios, el mejor y el más grande»]. **D. D.**, en este contexto, es la abreviatura del título académico latino [doctor decretorum](https://www.newadvent.org/cathen/05072b.htm), el título universitario medieval equivalente a doctor en Derecho Canónico.
 
-### Contexto histórico
+### Trama histórica
 
 En [Noticias Diocesanas](https://www.diocesisoa.org/sites/diocesisoa.org/files/nodis/NODI_637.pdf) N.º 637 (10 de agosto-13 de septiembre de 2025), p. 15, escribe **Mariano Cecilia Espinosa** que Miguel Molsos fue «una figura clave en la Iglesia de su tiempo y principal impulsor de la segregación eclesiástica de Orihuela, por entonces dependiente de la diócesis de Cartagena». Fue «**datario del papa Benedicto XIII**», **Pedro de Luna**, quien, a su petición, «erigió en colegiata la iglesia del Salvador de Orihuela, paso previo e indispensable para su erección en catedral. Participó activamente en las conferencias de Morella y Perpiñán, y en los concilios de Basilea y Constanza».
 
