@@ -41,4 +41,5 @@ twitter_username: "jmgraunavarro"
 github_username: "lotrives"
 
 sass:
+  sass_dir: assets/css
   style: compressed
