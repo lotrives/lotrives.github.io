@@ -18,7 +18,7 @@ El diccionario de la Real Academia ofrece cinco acepciones para la palabra [huma
 
 ### Mark Van Doren
 
-Escribió [Mark Van Doren](https://en.wikipedia.org/w/index.php?title=Mark_Van_Doren&oldid=1330367778)(1894-1972) en su libro *Liberal Education*: 
+Escribió [Mark Van Doren](https://en.wikipedia.org/w/index.php?title=Mark_Van_Doren&oldid=1330367778) (1894-1972) en su libro *Liberal Education*: 
 
 «Se ha afirmado que la educación recuperará su plena estatura humana cuando las humanidades, es decir, la literatura y la filosofía, vuelvan a ser dominantes. Si las humanidades no son otra cosa que el humanismo como lo hemos conocido, su dominio no será mejor que el del sombrero con cintas que se confunde con la cabeza. La educación prefiere ser dominada por la humanidad. El hombre es al mismo tiempo metafísico, filósofo, científico y poeta».[^1]
 
@@ -52,8 +52,6 @@ Hay pues, según san Agustín, estudios provechosos como las matemáticas, aunqu
 
 ### Conclusión
 La clave no es si estudiar, y con exclusión de otras materias, griego, latín, matemáticas, literatura, filosofía o programación. La clave es si aceptamos que Jesucristo es la medida de lo humano, el que «manifiesta el hombre al propio hombre». Si aceptamos que aquello que nos hace ser más humanos es intentar acercarnos a Jesucristo. Alguien puede reprocharme que he dado un salto en el vacío. Le pido que lea la acepción 5 de la palabra *humanismo* arriba dada. 
-
----
 
 [^1]: Doren, Mark Van. (1943). *Liberal Education*. Nueva York: Henry Holt & Company, p. 57.
 
