@@ -52,6 +52,7 @@ Hay pues, según san Agustín, estudios provechosos como las matemáticas, aunqu
 
 ### Conclusión
 La clave no es si estudiar, y con exclusión de otras materias, griego, latín, matemáticas, literatura, filosofía o programación. La clave es si aceptamos que Jesucristo es la medida de lo humano, el que «manifiesta el hombre al propio hombre». Si aceptamos que aquello que nos hace ser más humanos es intentar acercarnos a Jesucristo. Alguien puede reprocharme que he dado un salto en el vacío. Le pido que lea la acepción 5 de la palabra *humanismo* arriba dada. 
+#### Notas
 
 [^1]: Doren, Mark Van. (1943). *Liberal Education*. Nueva York: Henry Holt & Company, p. 57.
 
