@@ -38,6 +38,12 @@ permalink: /etiquetas/
 .letra-header a:hover {
   color: inherit;
 }
+.tags-columnas {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 2em;
+  margin-bottom: 2em;
+}
 .tag-posts {
   margin-bottom: 1.5em;
 }
@@ -57,6 +63,9 @@ permalink: /etiquetas/
   margin-left: 0.4em;
 }
 @media (max-width: 600px) {
+  .tags-columnas {
+    grid-template-columns: 1fr;
+  }
   .nav-letras {
     grid-template-columns: repeat(6, auto);
   }
@@ -110,6 +119,12 @@ permalink: /etiquetas/
 <div class="letra-header">
   <h2 id="letra-{{ letra | slugify }}">{{ letra }}</h2>
   <a href="#nav-letras">↑</a>
+</div>
+
+<div class="tags-columnas">
+  {% for tag in tags_de_letra %}
+    <div><a href="#tag-{{ tag[0] | slugify }}">{{ tag[0] }}</a> <span class="post-fecha">({{ tag[1] | size }})</span></div>
+  {% endfor %}
 </div>
 
     {% for tag in tags_de_letra %}
