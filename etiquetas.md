@@ -42,7 +42,25 @@ permalink: /etiquetas/
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0 2em;
-  margin-bottom: 1em;
+  margin-bottom: 2em;
+}
+.tag-posts {
+  margin-bottom: 1.5em;
+}
+.tag-posts h4 {
+  margin-bottom: 0.3em;
+}
+.tag-posts ul {
+  margin: 0;
+  padding-left: 1.2em;
+}
+.tag-posts li {
+  margin-bottom: 0.2em;
+}
+.post-fecha {
+  font-size: 0.85em;
+  color: #999;
+  margin-left: 0.4em;
 }
 @media (max-width: 600px) {
   .tags-columnas {
@@ -63,7 +81,6 @@ permalink: /etiquetas/
   {% if letra == "0-9" %}
     {% for tag in tags_sorted %}
       {% assign inicial = tag[0] | slice: 0 %}
-      {% assign inicial_num = inicial | times: 1 %}
       {% if inicial == "0" or inicial == "1" or inicial == "2" or inicial == "3" or inicial == "4" or inicial == "5" or inicial == "6" or inicial == "7" or inicial == "8" or inicial == "9" %}
         {% assign tiene = true %}
       {% endif %}
@@ -103,25 +120,22 @@ permalink: /etiquetas/
   <h2 id="letra-{{ letra | slugify }}">{{ letra }}</h2>
   <a href="#nav-letras">↑</a>
 </div>
+
 <div class="tags-columnas">
   {% for tag in tags_de_letra %}
-    {% assign nombre = tag[0] %}
-    {% assign posts_de_tag = tag[1] %}
-    <div>
-      <a href="#{{ nombre | slugify }}">{{ nombre }}</a> ({{ posts_de_tag | size }})
-    </div>
+    <div><a href="#tag-{{ tag[0] | slugify }}">{{ tag[0] }}</a> <span class="post-fecha">({{ tag[1] | size }})</span></div>
   {% endfor %}
 </div>
 
     {% for tag in tags_de_letra %}
-      {% assign nombre = tag[0] %}
-      {% assign posts_de_tag = tag[1] %}
-<h4 id="{{ nombre | slugify }}">{{ nombre }}</h4>
-<ul>
-  {% for post in posts_de_tag %}
-  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> ({{ post.date | date: "%Y-%m-%d" }})</li>
-  {% endfor %}
-</ul>
+<div class="tag-posts">
+  <h4 id="tag-{{ tag[0] | slugify }}">{{ tag[0] }}</h4>
+  <ul>
+    {% for post in tag[1] %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a><span class="post-fecha">{{ post.date | date: "%Y-%m-%d" }}</span></li>
+    {% endfor %}
+  </ul>
+</div>
     {% endfor %}
   {% endif %}
 {% endfor %}
