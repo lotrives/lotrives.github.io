@@ -1,0 +1,22 @@
+---
+title: "Una niña y la vitamina D de sus muñecas"
+date: 2026-04-05
+description: "Conversación de una madre con su niña muy pequeña sobre la vitamina D."
+layout: post
+tags: [Niños]
+---
+Madrid, 5 de abril de 2026. 
+
+—¿Vamos en coche? —pregunta una niña de unos tres años a su madre, que pasea un carrito con dos  muñecas por un bulevar madrileño. 
+
+Es Domingo de Resurrección. Las 12:25 de la mañana. Luce el sol.
+
+—No, que a esos bebés les tiene que dar la vitamina D —contesta la madre.
+
+—[Niña] ¿Qué es la vitamina D? 
+
+—[Madre] La vitamina D es la vitamina del sol. 
+
+La madre es joven, guapa, alta, delgada, con gafas de sol que le cubren buena parte de la cara, camisa vaquera sobre camiseta blanca y pantalones vaqueros.   
+
+Cuando la madre percibe que Lotrives ha oída la conversación sin pretenderlo, solo porque pasaba por allí, ella lo mira medio sonriendo y quizás pensando en su interior: «Sí, lo he hecho muy bien; es lo que tenía que contestar a mi niña».
