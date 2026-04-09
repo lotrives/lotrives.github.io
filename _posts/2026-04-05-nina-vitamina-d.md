@@ -17,7 +17,7 @@ La niña pasea un carrito con dos muñecas por un bulevar madrileño. Es Domingo
 
 —[Madre] La vitamina del sol. 
 
-La madre es morena, de pelo negro, guapa, alta, delgada, con gafas de sol que le cubren buena parte de la cara. Tendrá unos 40 años. Lleva una camisa vaquera sobre camiseta blanca y pantalones vaqueros.   
+La madre es de tez morena, pelo castaño tirando a negro, guapa, alta, delgada, con gafas de sol que le cubren buena parte de la cara. Tendrá unos 40 años. Lleva una camisa vaquera sobre camiseta blanca y pantalones vaqueros.   
 
 Cuando la madre percibe que Lotrives ha oída la conversación sin pretenderlo, solo porque pasaba por allí, ella lo mira medio sonriendo y quizás pensando:
 
