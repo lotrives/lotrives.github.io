@@ -23,7 +23,7 @@ layout: default
   <p class="post-tags">
     <span>Etiquetas: </span>
     {%- for tag in page.tags -%}
-      <a href="{{ '/etiquetas/' | relative_url }}#{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+      <a href="{{ '/etiquetas/' | relative_url }}#tag-{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
     {%- endfor -%}
   </p>
   {%- endif -%}
