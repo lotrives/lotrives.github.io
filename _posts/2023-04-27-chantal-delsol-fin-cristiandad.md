@@ -4,6 +4,7 @@ date: 2023-04-27
 description: "Notas tomadas del libro de Chantal Delsol titulado «La fin de la chrétienté. L’inversion normative et le nouvel âge, 2021»
 tags: [Lecturas, "Chantal Delsol", Cristianismo, Cristiandad, "Concilio Vaticano II", "Pío IX", Syllabus, Fascismo, Iglesia, Revolución francesa, Donoso Cortés, "Adolf Hitler", "Friedrich Nietzsche", "Henri Massis", "Francisco Franco"]
 ---
+<a title="Richard Mortel from Riyadh, Saudi Arabia, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:School_of_Raphael,_Coronation_of_Charlemagne,_1516-17;_Vatican_Museums_(2)_(48759421056).jpg"><img width="960" alt="School of Raphael, Coronation of Charlemagne, 1516-17; Vatican Museums (2) (48759421056)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/School_of_Raphael%2C_Coronation_of_Charlemagne%2C_1516-17%3B_Vatican_Museums_%282%29_%2848759421056%29.jpg/960px-School_of_Raphael%2C_Coronation_of_Charlemagne%2C_1516-17%3B_Vatican_Museums_%282%29_%2848759421056%29.jpg"></a>
 
 Delsol, Chantal. (2021). *La fin de la chrétienté. L’inversion normative et le nouvel âge*. Les éditions du Cerf. («El fin de la cristiandad. La inversión normativa y la edad nueva»: no está traducida aún al español).
 
@@ -46,6 +47,10 @@ Hoy domina el cosmoteísmo ligado a la defensa de la naturaleza. Se puede hablar
 **En el judeocristianismo, de la religión nace la moral; en los pueblos primitivos y en el politeísmo, la moral proviene de la sociedad y del Estado**. Hoy, en Occidente, nuestros gobernantes y los influyentes, las elites, dictan la moral y suscitan el ostracismo de los que se comportan «mal» (108).
 
 **La característica de la Iglesia hoy es que se avergüenza de su pasado**. **Conjuga ese sonrojo con la metamorfosis intelectual para lanzar dudas sobre la idea de misión y de transmisión** (p. 152). Por esa razón los responsables eclesiásticos son hoy apóstoles silenciosos y discretos, bien lejos de aquellos proselitistas a los que estamos acostumbrados de la tradición. **De tal manera que los cristianos están abocados a una guerra perdida** (p. 153).
+
+---
+
+Crédito de la imagen: Escuela de Rafael, *Coronación de Carlomago* (1516-17). Museos Vaticanos. Foto: Richard Mortel from Riyadh, Saudi Arabia, CC BY 2.0, tomada del archivo de Wikimedia Commons. [https://commons.wikimedia.org/w/index.php?title=File:School_of_Raphael,_Coronation_of_Charlemagne,_1516-17;_Vatican_Museums_(2)_(48759421056).jpg&oldid=1087273672](https://commons.wikimedia.org/w/index.php?title=File:School_of_Raphael,_Coronation_of_Charlemagne,_1516-17;_Vatican_Museums_(2)_(48759421056).jpg&oldid=1087273672).
 
 ---
 
