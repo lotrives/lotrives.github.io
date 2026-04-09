@@ -51,7 +51,7 @@ Hoy domina el cosmoteísmo ligado a la defensa de la naturaleza. Se puede hablar
 
 ---
 
-Crédito de la imagen: Escuela de Rafael, *Coronación de Carlomago* (1516-17). Museos Vaticanos. Foto: Richard Mortel from Riyadh, Saudi Arabia, CC BY 2.0, tomada del archivo de Wikimedia Commons. [https://upload.wikimedia.org/wikipedia/commons/5/59/School_of_Raphael%2C_Coronation_of_Charlemagne%2C_1516-17%3B_Vatican_Museums_%282%29_%2848759421056%29.jpg](https://upload.wikimedia.org/wikipedia/commons/5/59/School_of_Raphael%2C_Coronation_of_Charlemagne%2C_1516-17%3B_Vatican_Museums_%282%29_%2848759421056%29.jpg)
+Crédito de la imagen: Escuela de Rafael, *Coronación de Carlomago* (1516-17). Museos Vaticanos. Foto: Richard Mortel from Riyadh, Saudi Arabia, CC BY 2.0, tomada del archivo de Wikimedia Commons. [https://w.wiki/K$7b](https://w.wiki/K$7b)
 
 ---
 
