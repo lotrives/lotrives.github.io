@@ -18,6 +18,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-last-modified-at
 
 google_analytics: G-BT8CB5X306
 
