@@ -4,6 +4,12 @@ title: "Archivo"
 permalink: /archivo/
 ---
 
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%b %-d, %Y" }}
+{% assign posts_por_año = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% for grupo in posts_por_año %}
+## {{ grupo.name }}
+
+{% for post in grupo.items %}
+- [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%d/%m/%Y" }}
+{% endfor %}
+
 {% endfor %}

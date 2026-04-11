@@ -132,7 +132,7 @@ permalink: /etiquetas/
   <h4 id="tag-{{ tag[0] | slugify }}">{{ tag[0] }}</h4>
   <ul>
     {% for post in tag[1] %}
-    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a><span class="post-fecha">{{ post.date | date: "%Y-%m-%d" }}</span></li>
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a><span class="post-fecha">{{ post.date | date: "%d/%m/%Y" }}</span></li>
     {% endfor %}
   </ul>
 </div>
