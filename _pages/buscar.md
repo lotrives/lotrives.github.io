@@ -32,6 +32,11 @@ permalink: /buscar/
     return (str||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
   }
 
+  function normalize(str) {
+    if (!str) return '';
+    return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+  }
+
   function hl(text, q) {
     if (!q) return esc(text);
     var safe = q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -40,7 +45,9 @@ permalink: /buscar/
 
   function excerpt(text, q) {
     var src = text || '';
-    var idx = q ? src.toLowerCase().indexOf(q.toLowerCase()) : -1;
+    var srcNorm = normalize(src);
+    var qNorm = normalize(q);
+    var idx = q ? srcNorm.indexOf(qNorm) : -1;
     var s = idx > 60 ? idx - 60 : 0;
     var chunk = src.slice(s, s + 220);
     if (s > 0) chunk = '…' + chunk;
@@ -61,12 +68,12 @@ permalink: /buscar/
       status.innerHTML = posts.length + ' entradas indexadas';
       return;
     }
-    var ql = q.toLowerCase();
+    var qn = normalize(q);
     var matched = posts.filter(function(p) {
-      return (p.title||'').toLowerCase().indexOf(ql) !== -1 ||
-             (p.content||'').toLowerCase().indexOf(ql) !== -1 ||
-             (p.excerpt||'').toLowerCase().indexOf(ql) !== -1 ||
-             (p.tags||'').toLowerCase().indexOf(ql) !== -1;
+      return normalize(p.title).indexOf(qn) !== -1 ||
+             normalize(p.content).indexOf(qn) !== -1 ||
+             normalize(p.excerpt).indexOf(qn) !== -1 ||
+             normalize(p.tags).indexOf(qn) !== -1;
     });
     var n = matched.length;
     status.innerHTML = n + ' resultado' + (n !== 1 ? 's' : '') + ' para "<strong>' + esc(q) + '</strong>"';
