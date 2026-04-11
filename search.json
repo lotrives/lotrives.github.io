@@ -4,37 +4,47 @@ permalink: /search.json
 ---
 
 [
-{% for post in site.posts %}
+  {% assign first = true %}
+
+  {% for post in site.posts %}
+    {% unless first %},{% endunless %}
+    {
+      "id": {{ post.url | jsonify }},
+      "title": {{ post.title | jsonify }},
+      "url": {{ post.url | relative_url | jsonify }},
+      "date": {{ post.date | date_to_string | jsonify }},
+      "excerpt": {{ post.excerpt | strip_html | strip_newlines | truncate: 160 | jsonify }},
+      "content": {{ post.content | strip_html | strip_newlines | jsonify }},
+      "tags": {{ post.tags | join: ", " | jsonify }}
+    }
+    {% assign first = false %}
+  {% endfor %}
+
+  {% unless first %},{% endunless %}
   {
-    "id": "{{ post.url }}",
-    "title": {{ post.title | jsonify }},
-    "url": "{{ post.url | relative_url }}",
-    "date": "{{ post.date | date_to_string }}",
-    "excerpt": {{ post.excerpt | strip_html | strip_newlines | truncate: 160 | jsonify }},
-    "content": {{ post.content | strip_html | strip_newlines | jsonify }},
-    "tags": "{{ post.tags | join: ', ' }}"
-  },
-{% endfor %}
-{
-  "id": "/etiquetas-substack/",
-  "title": "Índice de etiquetas (Substack)",
-  "url": "/etiquetas-substack/",
-  "date": "",
-  "excerpt": "Índice alfabético de todos los temas tratados en Lotrives en Substack.",
-  "content": {% capture etiquetas_planas %}{% assign ordenadas = site.data.etiquetas | sort: "Etiqueta" %}{% for item in ordenadas %}{{ item.Etiqueta }} {% endfor %}{% endcapture %}{{ etiquetas_planas | strip_newlines | jsonify }},
-  "tags": ""
-},
-{% for page in site.pages %}
-  {% if page.url == '/acerca/' %}
-  {
-    "id": "/acerca/",
-    "title": {{ page.title | jsonify }},
-    "url": "/acerca/",
+    "id": "/etiquetas-substack/",
+    "title": "Índice de etiquetas (Substack)",
+    "url": "/etiquetas-substack/",
     "date": "",
-    "excerpt": {{ page.description | jsonify }},
-    "content": {{ page.content | strip_html | strip_newlines | jsonify }},
+    "excerpt": "Índice alfabético de todos los temas tratados en Lotrives en Substack.",
+    "content": {% capture etiquetas_planas %}{% assign ordenadas = site.data.etiquetas | sort: "Etiqueta" %}{% for item in ordenadas %}{{ item.Etiqueta }} {% endfor %}{% endcapture %}{{ etiquetas_planas | strip_newlines | jsonify }},
     "tags": ""
   }
-  {% endif %}
-{% endfor %}
+  {% assign first = false %}
+
+  {% for page in site.pages %}
+    {% if page.url == '/acerca/' or page.url == '/abc/' or page.url == '/etiquetas/' %}
+      {% unless first %},{% endunless %}
+      {
+        "id": {{ page.url | jsonify }},
+        "title": {{ page.title | jsonify }},
+        "url": {{ page.url | relative_url | jsonify }},
+        "date": {{ page.date | default: "" | date_to_string | jsonify }},
+        "excerpt": {{ page.description | default: page.excerpt | default: "" | strip_html | strip_newlines | truncate: 160 | jsonify }},
+        "content": {{ page.content | strip_html | strip_newlines | jsonify }},
+        "tags": {{ page.tags | join: ", " | jsonify }}
+      }
+      {% assign first = false %}
+    {% endif %}
+  {% endfor %}
 ]
