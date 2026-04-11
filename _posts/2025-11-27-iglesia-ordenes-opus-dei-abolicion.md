@@ -2,7 +2,6 @@
 layout: post
 title: "¿Convendría que la Iglesia católica aboliera todas las órdenes religiosas?"
 description: "Conversación ficticia con el cardenal Gianfranco Ghirlanda sobre una propuesta de abolición de las órdenes religiosas"
-canonical_url: "https://lotrives.github.io/2025/11/27/iglesia-ordenes-opus-dei-abolicion/"
 date: 2025-11-27
 tags: [Opus Dei, Jesuitas, "Gianfranco Ghirlanda"]
 ---
