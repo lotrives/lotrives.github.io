@@ -3,7 +3,7 @@ layout: post
 title: "El crepúsculo de las ideologías, de Gonzalo Fernández de la Mora"
 date: 2024-07-12
 description: "Extractos de «El crepúsculo de las ideologías», de Gonzalo Fernández de la Mora."
-tags: ["Gonzalo Fernández de la Mora", Bacon, Marx, Catolicismo, Voltaire, Lecturas, Iglesia, "San Francisco de Sales", "Miguel Servet", Calvino, "Enrique VIII", Lutero, Verdad, Mentira, Error, Respeto, Credulidad, Mal, Rousseau, "Santa Teresa", Gobierno, "Libre albedrío", "Poder público", Religión, Inquisición]
+tags: ["Gonzalo Fernández de la Mora", Francis Bacon, Karl Marx]
 ---
 
 Fernández de la Mora, Gonzalo. (1965). *El crepúsculo de las ideologías*. Ediciones Rialp.
