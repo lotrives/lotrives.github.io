@@ -34,7 +34,18 @@ permalink: /buscar/
 
   function normalize(str) {
     if (!str) return '';
-    return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+    return str
+      .replace(/ł/g, 'l').replace(/Ł/g, 'l')
+      .replace(/ą/g, 'a').replace(/Ą/g, 'a')
+      .replace(/ę/g, 'e').replace(/Ę/g, 'e')
+      .replace(/ó/g, 'o').replace(/Ó/g, 'o')
+      .replace(/ś/g, 's').replace(/Ś/g, 's')
+      .replace(/ź/g, 'z').replace(/Ź/g, 'z')
+      .replace(/ż/g, 'z').replace(/Ż/g, 'z')
+      .replace(/ć/g, 'c').replace(/Ć/g, 'c')
+      .replace(/ń/g, 'n').replace(/Ń/g, 'n')
+      .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+      .toLowerCase();
   }
 
   function hl(text, q) {
