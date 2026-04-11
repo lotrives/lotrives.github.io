@@ -4,7 +4,7 @@ title: "Las fuentes de la conducta soviética"
 description: "Cuando a Vladímir Putin le dio por invadir Ucrania, en 2022, muchos nos preguntamos: «Pero estos rusos, ¿de qué van?» Contesta aquí Sergey Radchenko."
 canonical_url: "https://lotrives.github.io/2025/10/20/fuentes-conducta-sovietica-sergey-radchenko/"
 date: 2025-10-20
-tags: [Lecturas, URSS]
+tags: [Lecturas, URSS, "Sergey Radchenko", "Rodric Braithwaite"]
 ---
 
 <a title="Post of USSR, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Stamp_of_USSR_0914.jpg"><img width="960" alt="Stamp of USSR 0914" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Stamp_of_USSR_0914.jpg/960px-Stamp_of_USSR_0914.jpg"></a>
@@ -17,7 +17,7 @@ Radchenko, Sergey. (2024). *To run the world. The Kremlin’s Cold War bid for g
 
 Braithwaite, que fue embajador del Reino Unido en Moscú, escribe:
 
-> «El nuevo libro de **Sergey Radchenko**, extenso y de fácil lectura, es una historia de la política exterior soviética desde la gloriosa victoria sobre Alemania en mayo de 1945 **hasta el humillante colapso de diciembre de 1991**. Radchenko es ruso, pero ha trabajado durante la mayor parte de su vida académica en Gran Bretaña y en los Estados Unidos. Se une a los distinguidos académicos que abandonaron la Unión Soviética en las décadas posteriores a la revolución, figuras como **Alec Nove** en Gran Bretaña y **Moshe Lewin** en Estados Unidos, y también aporta las inestimables perspectivas e intuiciones de alguien que conoce el país desde dentro».
+«El nuevo libro de **Sergey Radchenko**, extenso y de fácil lectura, es una historia de la política exterior soviética desde la gloriosa victoria sobre Alemania en mayo de 1945 **hasta el humillante colapso de diciembre de 1991**. Radchenko es ruso, pero ha trabajado durante la mayor parte de su vida académica en Gran Bretaña y en los Estados Unidos. Se une a los distinguidos académicos que abandonaron la Unión Soviética en las décadas posteriores a la revolución, figuras como **Alec Nove** en Gran Bretaña y **Moshe Lewin** en Estados Unidos, y también aporta las inestimables perspectivas e intuiciones de alguien que conoce el país desde dentro».
 
 Cuando a **Vladímir Putin** le dio por invadir Ucrania, el 24 de febrero de 2022, muchos nos preguntamos: «Pero estos rusos, ¿de qué van?, ¿en qué piensan en pleno siglo XXI?».
 
