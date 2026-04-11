@@ -23,12 +23,15 @@ google_analytics: G-BT8CB5X306
 
 og_image: /assets/images/og-default.webp
 
+include:
+  - _pages
+
 header_pages:
-  - acerca.md
-  - archivo.md
-  - etiquetas.md
-  - buscar.md
-  - newsletter.md
+  - _pages/acerca.md
+  - _pages/archivo.md
+  - _pages/etiquetas.md
+  - _pages/buscar.md
+  - _pages/newsletter.md
 
 minima:
   social_links:
