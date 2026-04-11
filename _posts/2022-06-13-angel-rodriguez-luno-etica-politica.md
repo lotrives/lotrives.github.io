@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "El crepúsculo de las ideologías, de Gonzalo Fernández de la Mora"
+title: "«Introducción a la ética política», de Ángel Rodríguez Luño"
 date: 2022-06-13
 description: "Extractos de «Introducción a la ética política», de Ángel Rodríguez Luño."
-tags: ["Ángel Rodríguez Luño", Solidaridad, "Justicia social", Coacción, Justicia, Estado, "Karl Popper", "Wilhelm Röpke", "John Maynard Keynes", Derechos fundamentales, Libertad]
+tags: ["Ángel Rodríguez Luño", Solidaridad, "Justicia social", Coacción, Justicia, Estado, "Karl Popper", "Wilhelm Röpke", "John Maynard Keynes", Derechos fundamentales, Libertad, Dinero, Mercado, Religión, Subsidiariedad, Desigualdad, Pobreza, Empresa, "Intervencionismo estatal", "Comunicación sincera"]
 ---
 
 Rodríguez Luño, Ángel. (2021). *Introducción a la ética política*. Rialp.

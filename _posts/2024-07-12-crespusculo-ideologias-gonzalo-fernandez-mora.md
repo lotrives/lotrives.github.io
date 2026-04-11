@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El crepúsculo de las ideologías, de Gonzalo Fernández de la Mora"
+title: "«El crepúsculo de las ideologías», de Gonzalo Fernández de la Mora"
 date: 2024-07-12
 description: "Extractos de «El crepúsculo de las ideologías», de Gonzalo Fernández de la Mora."
 tags: ["Gonzalo Fernández de la Mora", Francis Bacon, Karl Marx]
