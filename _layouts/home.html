@@ -33,6 +33,13 @@ layout: default
     letter-spacing: 0.04em !important;
     text-transform: uppercase !important;
   }
+  .home .ver-todos {
+    display: block;
+    margin-top: 1.5em;
+    font-size: 0.9em;
+    border-top: 1px solid #e0e0e0;
+    padding-top: 1.2em;
+  }
 </style>
 
 <div class="home">
@@ -45,7 +52,7 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
   <ul class="post-list">
-    {%- for post in site.posts -%}
+    {%- for post in site.posts limit:8 -%}
     <li>
       <span class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</span>
       <h3>
@@ -56,6 +63,7 @@ layout: default
     </li>
     {%- endfor -%}
   </ul>
+  <a class="ver-todos" href="{{ '/archivo' | relative_url }}">Ver todos los artículos →</a>
   {%- endif -%}
 
 </div>
