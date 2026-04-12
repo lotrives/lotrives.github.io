@@ -9,7 +9,7 @@ image: "/assets/images/sobre-pedro-garcia-cuartango-portada.webp"
 tags: [Dios, Jesucristo, "Bertrand Russell", "Frederick C. Copleston", Isaías]
 ---
 
-![Descripción de la imagen]({{ "/assets/images/sobre-pedro-garcia-cuartango-portada.webp" | relative_url }})
+![Pedro García Cuartango en el Foro Nueva Revista, Madrid, 19 de noviembre de 2025]({{ "/assets/images/sobre-pedro-garcia-cuartango-portada.webp" | relative_url }})
 
 Hemos celebrado esta mañana el Foro Nueva Revista en la sede de la Universidad Villanueva. Nuestro invitado hoy era **Pedro García Cuartango**, y hemos dialogado, algunos de forma presencial, otros *online*, sobre su libro *El enigma de Dios*, publicado por Ediciones B en este 2025. Una reseña a su ensayo se puede leer [aquí](https://www.nuevarevista.net/el-enigma-de-dios-de-pedro-garcia-cuartango/).
 
