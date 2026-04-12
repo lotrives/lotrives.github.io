@@ -4,7 +4,7 @@ title: "Andrés Ollero: «¿Qué es el derecho?»"
 description: "Reflexiones sobre «¿Qué es el derecho?», un ensayo de Andrés Ollero."
 canonical_url: "https://lotrives.github.io/2025/11/13/andres-ollero-que-es-el-derecho/"
 date: 2025-11-13
-last_modified: 2025-11-28
+last_modified_at: 2025-11-28
 tags: ["Andrés Ollero", Derecho, "Judicialización de la política", "Derechos humanos", Lecturas]
 ---
 

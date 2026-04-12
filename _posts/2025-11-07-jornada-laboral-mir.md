@@ -4,7 +4,7 @@ title: "La peligrosa e injusta jornada laboral de los médicos internos resident
 description: "Situación de los médicos internos residentes en España (MIR) y abusos estructurales en sus jornadas laborales."
 canonical_url: "https://lotrives.github.io/2025/11/07/jornada-laboral-mir/"
 date: 2025-11-07
-last_modified: 2025-11-15
+last_modified_at: 2025-11-15
 image: "/assets/images/jornada-laboral-mir-portada.webp"
 tags: ["Mónica García (ministra de Sanidad)", Abusos, Sanidad, "Médicos internos residentes (mir)"]
 ---
