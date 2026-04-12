@@ -18,8 +18,7 @@ Henry Hazlitt (1894-1993) ha sido uno de los periodistas económicos más import
   
 «Lo increíble es que, a pesar de haber pasado más de setenta años de su publicación, el libro sigue siendo tremendamente actual, en especial para el caso de Argentina, donde la familia de cavernícolas integrada por marxistas, keynesianos y estructuralistas todos los días infectan la cabeza de la población con análisis carentes de lógica y sin sustento empírico alguno» (Javier Miley, p. 11).  
   
-«Hazlitt nos invita a enjuiciar las intervenciones económicas bajo dos criterios: sus efectos a largo plazo y sus efectos indirectos. Conecta así con dos otros economistas a quienes les debe gran parte de sus razonamientos: Friédéric Bastiat con su *Lo que se ve y lo que no se ve* y William Graham Sumner con su *El hombre olvidado*» (Juan Ramón Rallo, p. 17).  
-«Hazlitt nos invita a enjuiciar las intervenciones económicas bajo dos criterios: sus efectos a largo plazo y sus efectos indirectos. Conecta así con dos otros economistas a quienes les debe gran parte de sus razonamientos: Friédéric Bastiat con su *Lo que se ve y lo que no se ve* y William Graham Sumner con su *El hombre olvidado*» (Juan Ramón Rallo, p. 17).  
+«Hazlitt nos invita a enjuiciar las intervenciones económicas bajo dos criterios: sus efectos a largo plazo y sus efectos indirectos. Conecta así con dos otros economistas a quienes les debe gran parte de sus razonamientos: Friédéric Bastiat con su *Lo que se ve y lo que no se ve* y William Graham Sumner con su *El hombre olvidado*» (Juan Ramón Rallo, p. 17).    
   
 Prefacio  
   
@@ -111,8 +110,7 @@ El sofisma del escaparate: «Se confunde *necesidad* con *demanda*. Cuanto más 
 «Si fuera posible la elección —que no lo es—, sería preferible la producción máxima, manteniendo parte de la población en involuntaria ociosidad mediante una caridad sin disfraces, a proporcionar “pleno empleo”, si para ello se precisa recurrir a tantos procedimientos encubiertos de distribución del trabajo que finalmente la producción quede desorganizada» (p. 107).  
   
 ### Capítulo 10. ¿A quién «protegen» los aranceles?  
-
-«En los 175 años transcurridos desde la aparición de *La riqueza de las naciones*, los argumentos aducidos en favor del libre cambio han sido expuestos miles de veces, pero nunca quizá con más fuerza de convicción ni mayor sencillez que en aquel libro. En general, Smith fundaba su defensa del libre cambio en este postulado básico: “En todos los países, el interés de la inmensa mayoría de la población es y debe ser siempre comprar lo que necesita a quien vende más barato”. “El supuesto es tan evidente —continuaba Smith— que esforzarnos en demostrarlo podría parecer ridículo; nunca habría sido puesto en duda si las interesadas falacias de mercaderes y fabricantes no hubieran perturbado el sentido común de la humanidad» (p. 108).  
+  
 «En los 175 años transcurridos desde la aparición de *La riqueza de las naciones*, los argumentos aducidos en favor del libre cambio han sido expuestos miles de veces, pero nunca quizá con más fuerza de convicción ni mayor sencillez que en aquel libro. En general, Smith fundaba su defensa del libre cambio en este postulado básico: “En todos los países, el interés de la inmensa mayoría de la población es y debe ser siempre comprar lo que necesita a quien vende más barato”. “El supuesto es tan evidente —continuaba Smith— que esforzarnos en demostrarlo podría parecer ridículo; nunca habría sido puesto en duda si las interesadas falacias de mercaderes y fabricantes no hubieran perturbado el sentido común de la humanidad» (p. 108).  
   
 «Desde otro ángulo, [Adam Smith] consideraba el liberalismo como un aspecto de la especialización en el trabajo: “Constituye norma de conducta de todo cabeza de familia prudente, no intentar nunca hacer en casa lo que comprado resultaría más económico. El sastre no pretende hacer sus propios zapatos. El zapatero no trata de confeccionar sus propios trajes”» (p. 109).  
@@ -176,8 +174,7 @@ El sofisma del escaparate: «Se confunde *necesidad* con *demanda*. Cuanto más 
   
 ### Capítulo 19. «Suficiente para adquirir el producto creado»  
   
-«Los escritores de economía no profesionales están pidiendo siempre precios “justos” y salarios “justos”. Estos conceptos nebulosos de la justicia económica nos llegan desde los tiempos medievales. Por el contrario, los economistas clásicos elaboraron un concepto diferente, el de precios y salarios *funcionales*. Precios funcionales son aquellos que estimulan máximo volumen de producción y ventas. Salarios funcionales son aquellos que tienden a crear el máximo volumen de empleo y las más crecidas nóminas (p. 183).  
-«Los escritores de economía no profesionales están pidiendo siempre precios “justos” y salarios “justos”. Estos conceptos nebulosos de la justicia económica nos llegan desde los tiempos medievales. Por el contrario, los economistas clásicos elaboraron un concepto diferente, el de precios y salarios *funcionales*. Precios funcionales son aquellos que estimulan máximo volumen de producción y ventas. Salarios funcionales son aquellos que tienden a crear el máximo volumen de empleo y las más crecidas nóminas (p. 183).  
+«Los escritores de economía no profesionales están pidiendo siempre precios “justos” y salarios “justos”. Estos conceptos nebulosos de la justicia económica nos llegan desde los tiempos medievales. Por el contrario, los economistas clásicos elaboraron un concepto diferente, el de precios y salarios *funcionales*. Precios funcionales son aquellos que estimulan máximo volumen de producción y ventas. Salarios funcionales son aquellos que tienden a crear el máximo volumen de empleo y las más crecidas nóminas (p. 183).    
   
 ### Capítulo 20. La función de los beneficios  
   
