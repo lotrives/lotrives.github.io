@@ -5,7 +5,7 @@ description: "Crónica de un paseo por el barrio Prosperidad de Madrid, que desp
 canonical_url: "https://lotrives.github.io/2025/11/16/barrio-prosperidad-madrid/"
 date: 2025-11-16
 image: /assets/images/barrio-prosperidad-madrid-metro-portada.webp
-tags: [Cuaderno de notas, Madrid, Prosperidad]
+tags: [Madrid, Orihuela, Metro, Varsovia]
 ---
 
 ![Metro del barrio Prosteridad de Madrid]({{ "/assets/images/barrio-prosperidad-madrid-metro-portada.webp" | relative_url }})
