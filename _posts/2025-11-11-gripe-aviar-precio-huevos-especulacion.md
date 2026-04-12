@@ -22,7 +22,7 @@ Algunos economistas piensan que *especular* es el camino necesario para la vuelt
 
 Una lectura recomendada:
 
-[Henry Hazlitt](https://www.nuevarevista.net/henry-hazlitt-la-economia-en-una-leccion/)</a>. (2018). *La economía en una lección*. Prólogos de Javier Milei y Juan Ramón Rallo. Traducción de Marciano Villanueva Salas. Unión Editorial.
+[Henry Hazlitt](https://www.nuevarevista.net/henry-hazlitt-la-economia-en-una-leccion/). (2018). *La economía en una lección*. Prólogos de Javier Milei y Juan Ramón Rallo. Traducción de Marciano Villanueva Salas. Unión Editorial.
 
 Edición original:  
 
