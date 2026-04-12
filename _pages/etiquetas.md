@@ -39,9 +39,8 @@ permalink: /etiquetas/
   color: inherit;
 }
 .tags-columnas {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0 2em;
+  columns: 2;
+  column-gap: 2em;
   margin-bottom: 2em;
 }
 .tag-posts {
@@ -64,7 +63,7 @@ permalink: /etiquetas/
 }
 @media (max-width: 600px) {
   .tags-columnas {
-    grid-template-columns: 1fr;
+    columns: 1;
   }
   .nav-letras {
     grid-template-columns: repeat(6, auto);
