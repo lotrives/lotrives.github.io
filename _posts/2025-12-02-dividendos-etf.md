@@ -7,7 +7,7 @@ date: 2025-12-02
 tags: [Dividendos, Volker Looman, Cartera de valores, Finanzas personales]
 ---
 
-<a title="Quinten Metsys, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Le_pr%C3%AAteur_et_sa_femme_-_Quentin_Metsys_-_Mus%C3%A9e_du_Louvre_Peintures_INV_1444_;_MR_821.jpg"><img style="width:60%; display:block; margin: 0 auto;" alt="Le prêteur et sa femme - Quentin Metsys - Musée du Louvre Peintures INV 1444 ; MR 821" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Le_pr%C3%AAteur_et_sa_femme_-_Quentin_Metsys_-_Mus%C3%A9e_du_Louvre_Peintures_INV_1444_%3B_MR_821.jpg/960px-Le_pr%C3%AAteur_et_sa_femme_-_Quentin_Metsys_-_Mus%C3%A9e_du_Louvre_Peintures_INV_1444_%3B_MR_821.jpg"></a>
+<a title="Quinten Metsys, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Le_pr%C3%AAteur_et_sa_femme_-_Quentin_Metsys_-_Mus%C3%A9e_du_Louvre_Peintures_INV_1444_;_MR_821.jpg"><img width="960" alt="Le prêteur et sa femme - Quentin Metsys - Musée du Louvre Peintures INV 1444 ; MR 821" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Le_pr%C3%AAteur_et_sa_femme_-_Quentin_Metsys_-_Mus%C3%A9e_du_Louvre_Peintures_INV_1444_%3B_MR_821.jpg/960px-Le_pr%C3%AAteur_et_sa_femme_-_Quentin_Metsys_-_Mus%C3%A9e_du_Louvre_Peintures_INV_1444_%3B_MR_821.jpg"></a>
 
 ### Lluvia de dividendos
 
