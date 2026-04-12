@@ -4,7 +4,7 @@ title: "Sobre Pedro García Cuartango y «El enigma de Dios»"
 description: "Impresiones tras un encuentro con Pedro García Cuartango, por su libro «El enigma de Dios». De las dudas sobre Dios a las dudas sobre Jesucristo: otra forma más práctica del problema"
 canonical_url: "https://lotrives.github.io/2025/11/19/sobre-pedro-garcia-cuartango-enigma-de-dios/"
 date: 2025-11-19
-last_modified: 2025-11-30
+last_modified_at: 2025-11-30
 image: "/assets/images/sobre-pedro-garcia-cuartango-portada.webp"
 tags: [Dios, Jesucristo, "Bertrand Russell", "Frederick C. Copleston", Isaías]
 ---
