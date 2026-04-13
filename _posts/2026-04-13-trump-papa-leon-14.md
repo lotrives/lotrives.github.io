@@ -36,7 +36,7 @@ Un poco más adelante, añade:
 ### Lunes, 13 de abril de 2026
 
 #### Escena 3
-El presidente de los Estados Unidos, **Donald Trump**, en Truth, su red social, lanza el siguiente texto muy tempranito de mañana:
+El presidente de los Estados Unidos, **Donald Trump**, en Truth, su red social, lanza el siguiente texto:
 
 «El Papa León es débil en materia de delincuencia y pésimo en política exterior. Habla del ‘miedo’ a la Administración Trump, pero no menciona el miedo que la Iglesia católica y todas las demás organizaciones cristianas sintieron durante el covid, cuando arrestaban a sacerdortes, a celebrantes y a quien fuera por asistir a oficios litúrgicos, incluso al aire libre y manteniendo la distancia de seguridad».
 
