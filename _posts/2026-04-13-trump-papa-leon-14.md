@@ -33,8 +33,10 @@ Un poco más adelante, añade:
 
 «Hemos elegido meternos en la guerra y pienso que esa decisión es parte de una intención más amplia de los Estados Unidos que resulta preocupante. Vemos ante nosotros la posibilidad de una guerra detrás de otra y detrás otra».
 
+### Lunes, 13 de abril de 2026
+
 #### Escena 3
-El presidente de los Estados Unidos, **Donald Trump**, en Truth, su red social, lanza el siguiente texto:
+El presidente de los Estados Unidos, **Donald Trump**, en Truth, su red social, lanza el siguiente texto muy tempranito de mañana:
 
 «El Papa León es débil en materia de delincuencia y pésimo en política exterior. Habla del ‘miedo’ a la Administración Trump, pero no menciona el miedo que la Iglesia católica y todas las demás organizaciones cristianas sintieron durante el covid, cuando arrestaban a sacerdortes, a celebrantes y a quien fuera por asistir a oficios litúrgicos, incluso al aire libre y manteniendo la distancia de seguridad».
 
@@ -52,13 +54,16 @@ Concluye así: «Desafortunadamente, la debilidad de León contra el crimen y co
 
 El texto en inglés va todo seguido, sin puntos y aparte como aquí, y lógicamente sin las breves adiciones editoriales de Lotrives, no entrecomilladas.
 
-<iframe src="https://truthsocial.com/@realDonaldTrump/116394704213456431/embed" class="truthsocial-embed" style="max-width: 100%; border: 0" width="600" allowfullscreen="allowfullscreen"></iframe><script src="https://truthsocial.com/embed.js" async="async"></script>
+<blockquote>
+  <p>[Texto de la publicación de Trump]</p>
+  <footer>— Donald J. Trump, <a href="https://truthsocial.com/@realDonaldTrump/116394704213456431" target="_blank" rel="noopener">Truth Social, 13 de abril de 2026</a></footer>
+</blockquote>
 
 #### Escena 4
 
 En respuesta a la publicación de Trump en su red social, **Antonio Spadaro**, subsecretario del Dicasterio de Cultura y Educación del Vaticano, afirma, citado por el [Finantial Times](https://www.ft.com/content/5cfc03ff-6966-46fd-a62f-01b2452402dc?segmentId=b0d7e653-3467-12ab-c0f0-77e4424cdb4c&syn-25a6b1a6=1), que las palabras del presidente de los Estados Unidos reflejan su «impotencia» ante las críticas del Vaticano a la guerra. «El ataque es una declaración de impotencia», porque «cuando el poder político se vuelve contra una voz moral, suele ser porque no puede contenerla».
 
-### Lunes, 13 de abril de 2026
+#### Escena 5
 
 En el avión, durante el vuelo a Argelia, León XVI [afirma](https://www.vaticannews.va/es/papa/news/2026-04/el-papa-en-el-avion-no-soy-un-politico-hablo-del-evangelio.html):
 
@@ -76,4 +81,4 @@ Recomiendo tras lo anterior que se lea [este apartado](https://lotrives.github.i
 
 ---
 
-Crédito de la imagen: Atardecer en el Vaticano. Pascua de 2008. Foto: © Giorgio Galeotti. CC BY 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=File:Vatican_Sunset_-_Rome,_Italy_-_Easter_2008.jpg&oldid=1050071259).
+Crédito de la imagen: Atardecer en el Vaticano. Pascua de 2008. Foto: © Giorgio Galeotti. CC BY 4.0. [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=File:Vatican_Sunset_-_Rome,_Italy_-_Easter_2008.jpg&oldid=1050071259).
