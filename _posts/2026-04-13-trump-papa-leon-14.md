@@ -52,12 +52,7 @@ En opinión de Trump, en otro brote de narcisismo, «León debería estar agrade
 
 Concluye así: «Desafortunadamente, la debilidad de León contra el crimen y contra las armas nucleares no me agrada, ni tampoco el hecho de que se reúna con simpatizantes de Obama como David Axelrod, un perdedor de la izquierda, que es uno de los que querían que arrestaran a feligreses y clérigos. León debería enmendar su papel como papa, usar el sentido común, dejar de complacer a la izquierda radical y concentrarse en ser un gran papa, no un político. ¡Le están haciendo mucho daño [alusión, quizás, a las declaraciones contra Trump de obispos estadounidenses] y, lo que es más importante, le está haciendo daño a la Iglesia católica! Firmado: el presidente Donald J. Trump».
 
-El texto en inglés va todo seguido, sin puntos y aparte como aquí, y lógicamente sin las breves adiciones editoriales de Lotrives, no entrecomilladas.
-
-<blockquote>
-  <p>[Texto de la publicación de Trump]</p>
-  <footer>— Donald J. Trump, <a href="https://truthsocial.com/@realDonaldTrump/116394704213456431" target="_blank" rel="noopener">Truth Social, 13 de abril de 2026</a></footer>
-</blockquote>
+[El texto original en inglés](https://truthsocial.com/@realDonaldTrump/116394704213456431) de **Donald Trump** va todo seguido, sin puntos y aparte como aquí, y lógicamente sin las breves adiciones editoriales que Lotrives ha introducido.
 
 #### Escena 4
 
@@ -82,3 +77,5 @@ Recomiendo tras lo anterior que se lea [este apartado](https://lotrives.github.i
 ---
 
 Crédito de la imagen: Atardecer en el Vaticano. Pascua de 2008. Foto: © Giorgio Galeotti. CC BY 4.0. [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=File:Vatican_Sunset_-_Rome,_Italy_-_Easter_2008.jpg&oldid=1050071259).
+
+Traducciones de Lotrives.
