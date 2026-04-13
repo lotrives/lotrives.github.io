@@ -2,7 +2,7 @@
 layout: post
 title: "Donald Trump insulta a León XIV. La deriva alarmante de los EE. UU."
 date: 2026-04-13
-tags: ["Donald Trump", "León XVI", "Robert McElroy"]
+tags: ["Donald Trump", "León XIV", "Robert McElroy"]
 description: "Según Donald Trump, León debería «enmendar su papel como papa», «usar el sentido común», y «dejar de complacer a la izquierda radical»."
 image: "/assets/images/nombre-imagen.webp"
 ---
