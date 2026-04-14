@@ -4,10 +4,10 @@ title: "Himno del Colegio Santo Domingo de Orihuela"
 date: 2026-03-31
 tags: ["Colegio Santo Domingo de Orihuela", Orihuela]
 description: Letra y música del himno del Colegio Santo Domingo de Orihuela.
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orihuela_-_Colegio_Diocesano_de_Santo_Domingo%2C_Claustro_renacentista_de_la_Universidad_05.jpg/960px-Orihuela_-_Colegio_Diocesano_de_Santo_Domingo%2C_Claustro_renacentista_de_la_Universidad_05.jpgthumb/.../960px-nombre.jpg
 ---
 
-Himno del Colegio Santo Domingo de Orihuela
-
+<a title="Zarateman, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Orihuela_-_Colegio_Diocesano_de_Santo_Domingo,_Claustro_renacentista_de_la_Universidad_05.jpg"><img width="960" alt="Orihuela - Colegio Diocesano de Santo Domingo, Claustro renacentista de la Universidad 05" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orihuela_-_Colegio_Diocesano_de_Santo_Domingo%2C_Claustro_renacentista_de_la_Universidad_05.jpg/960px-Orihuela_-_Colegio_Diocesano_de_Santo_Domingo%2C_Claustro_renacentista_de_la_Universidad_05.jpg"></a>
 Orihuela, 31 de marzo de 2026.
 
 Voy a la Biblioteca Pública [Fernando de Loazes](https://www.bibliotecaspublicas.es/orihuela) y Archivo Histórico de Orihuela.
@@ -106,4 +106,8 @@ Sus fibras, mi corazón.
   <img src="{{ "/assets/images/himno-del-colegio-letra.webp" | relative_url }}" alt="Himno del Colegio Santo Domingo (Orihuela), letra">
 </a>
 
-Fotos: © José Manuel Grau Navarro
+---
+
+Fotos del himno: © José Manuel Grau Navarro
+
+Crédito de la imagen de portada: Colegio Diocesano Santo Domingo (Orihuela). Claustro renacentista de la Universidad. 13 de octubre de 2019. Foto: © Zarateman. CC0 1.0, vía [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=File:Orihuela_-_Colegio_Diocesano_de_Santo_Domingo,_Claustro_renacentista_de_la_Universidad_05.jpg&oldid=718484897).
