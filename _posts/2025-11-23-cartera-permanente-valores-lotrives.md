@@ -5,6 +5,7 @@ date: 2025-11-23
 tags: [Inversión, Cartera de valores, ETF, Bitcóin, Finanzas personales]
 description: "Relato práctico de la cartera de valores permanente de Lotrives: advertencias, inversión inicial en ETF, seguimiento de resultados y actualización con bitcóin."
 canonical_url: "https://lotrives.github.io/2025/11/23/cartera-permanente-valores-lotrives/"
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Coca_Cola_1929.JPG/960px-Coca_Cola_1929.JPG
 ---
 
 <a title="Unbekannte Autoren und Grafiker; Scan vom EDHAC e.V., Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Coca_Cola_1929.JPG"><img width="960" alt="Coca Cola 1929" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Coca_Cola_1929.JPG/960px-Coca_Cola_1929.JPG"></a>

@@ -5,6 +5,7 @@ description: "Cuando a Vladímir Putin le dio por invadir Ucrania, en 2022, much
 canonical_url: "https://lotrives.github.io/2025/10/20/fuentes-conducta-sovietica-sergey-radchenko/"
 date: 2025-10-20
 tags: [Lecturas, URSS, "Sergey Radchenko", "Rodric Braithwaite"]
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Stamp_of_USSR_0914.jpg/960px-Stamp_of_USSR_0914.jpg
 ---
 
 <a title="Post of USSR, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Stamp_of_USSR_0914.jpg"><img width="960" alt="Stamp of USSR 0914" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Stamp_of_USSR_0914.jpg/960px-Stamp_of_USSR_0914.jpg"></a>

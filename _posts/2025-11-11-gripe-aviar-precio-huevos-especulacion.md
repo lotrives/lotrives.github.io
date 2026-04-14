@@ -5,6 +5,7 @@ description: "¿Es bueno especular con los precios? Reflexión sobre la gripe av
 canonical_url: "https://lotrives.github.io/2025-11-11-gripe-aviar-precio-huevos-especulacion/"
 date: 2025-11-11
 tags: [Lecturas, Abusos, Especulación]
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hen_chicken.jpg/960px-Hen_chicken.jpg
 ---
 
 <a title="Thegreenj, CC BY-SA 3.0 &lt;http://creativecommons.org/licenses/by-sa/3.0/&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Hen_chicken.jpg"><img width="960" alt="Hen chicken" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hen_chicken.jpg/960px-Hen_chicken.jpg"></a>
