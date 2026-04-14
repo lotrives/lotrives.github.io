@@ -4,7 +4,7 @@ title: "Himno del Colegio Santo Domingo de Orihuela"
 date: 2026-03-31
 tags: ["Colegio Santo Domingo de Orihuela", Orihuela]
 description: Letra y música del himno del Colegio Santo Domingo de Orihuela.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orihuela_-_Colegio_Diocesano_de_Santo_Domingo%2C_Claustro_renacentista_de_la_Universidad_05.jpg/960px-Orihuela_-_Colegio_Diocesano_de_Santo_Domingo%2C_Claustro_renacentista_de_la_Universidad_05.jpgthumb/.../960px-nombre.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orihuela_-_Colegio_Diocesano_de_Santo_Domingo%2C_Claustro_renacentista_de_la_Universidad_05.jpg/960px-Orihuela_-_Colegio_Diocesano_de_Santo_Domingo%2C_Claustro_renacentista_de_la_Universidad_05.jpg
 ---
 
 <a title="Zarateman, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Orihuela_-_Colegio_Diocesano_de_Santo_Domingo,_Claustro_renacentista_de_la_Universidad_05.jpg"><img width="960" alt="Orihuela - Colegio Diocesano de Santo Domingo, Claustro renacentista de la Universidad 05" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orihuela_-_Colegio_Diocesano_de_Santo_Domingo%2C_Claustro_renacentista_de_la_Universidad_05.jpg/960px-Orihuela_-_Colegio_Diocesano_de_Santo_Domingo%2C_Claustro_renacentista_de_la_Universidad_05.jpg"></a>
