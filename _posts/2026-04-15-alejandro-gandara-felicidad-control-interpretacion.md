@@ -14,7 +14,7 @@ Hemos celebrado hoy un [Foro Nueva Revista](https://www.nuevarevista.net/tag/for
 
 Gándara ha hablado de la idea de producir sentido con el dolor y de la diferencia entre dolor y daño. 
 
-Se ha manifestado en contra de que leer es interpretar, como predicaba [George Steiner](https://www.nuevarevista.net/tag/george-steiner/).  
+Ha rechazado que leer sea interpretar, como predicaba [George Steiner](https://www.nuevarevista.net/tag/george-steiner/).  
 
 Se ha pronunciado contra la noción de **felicidad** reinante hoy día y ha vuelto a su raíz griega para subrayar que ser feliz es solo dar sentido a nuestra vida, aceptar lo bueno y lo malo, la vida mortal y lo mucho que no sabemos de esa vida mortal, y con todo ello saber «producir sentido» hasta de lo peor.
 
