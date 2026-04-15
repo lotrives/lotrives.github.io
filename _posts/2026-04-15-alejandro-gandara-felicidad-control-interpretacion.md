@@ -40,11 +40,11 @@ Lotrives piensa también, y así se lo ha dicho a Gándara durante el foro, en u
 
 —Un texto bien anotado e interpretado es mejor que el solo texto. Es muy difícil que alguien sin una buena exégesis sepa que tiene mucha carga, por ejemplo, el gesto de que Jesucristo se sentara antes de empezar el discurso sobre las bienaventuranzas.
 
-—El primer y más importante escalón de la interpretación es el literal. Pero lo literal sin el contexto sirve de poco. Los textos sirven solo en su contexto. Hay más interpretaciones, y todas con sentido si se practican adecuadamente: alegóricas, místicas, éticas, tipológicas, por ejemplo. Eso no impide que a veces se realicen interpretaciones desde deficientes hasta repugnantes. La verdad existe.
+—El primer y más importante escalón de la interpretación es el literal. Pero lo literal sin el contexto sirve de poco. Los textos dicen solo en su contexto. Hay más interpretaciones, y todas apropiadas si se practican adecuadamente: alegóricas, místicas, éticas, tipológicas, por ejemplo. Eso no impide que a veces se realicen interpretaciones desde deficientes hasta repugnantes. Sin embargo, la verdad existe.
 
 —La Iglesia católica lo que hizo fue [restringir](https://www.newadvent.org/cathen/03519d.htm) la lectura y posesión de traducciones vernáculas de la Biblia. El Concilio de Trento declaró la Vulgata (en latín) como texto auténtico. Es algo muy diferente que lo declarado por Gándara.
 
-—Lotrives no ha podido confirmar que la Parábola de los talentos sea el texto más interpretado de la historia.
+—Lotrives no ha podido confirmar con otras fuentes que la *Parábola de los talentos* sea el texto más interpretado de la historia.
 
 Lotrives, Madrid, 15 de abril de 2026
 
