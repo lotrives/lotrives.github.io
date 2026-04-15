@@ -34,7 +34,7 @@ Lotrives piensa que Gándara tiene bastante razón cuando habla de la confusión
 
 Lotrives piensa también, y así se lo ha dicho a Gándara durante el foro, en un debate abierto, de guante blanco, y tratando de aportar argumentos, que Gándara se equivoca en su visión de lectura, relectura e interpretación de textos. Estos han sido sus contraargumentos:
 
-—No tendrían sentido, llevado al extremo, leer literatura rusa o china, porque normalmente un español no sabe nada ni de ruso ni de chino.
+—No tendría sentido, llevado al extremo, leer literatura rusa o china, porque normalmente un español no sabe nada ni de ruso ni de chino.
 
 —Lotrives ha conocido hoy a Gándara. Le ha dicho que Gándara, por su forma de pensar, lo estaba interpretando a él, sin conocerlo de verdad a fondo, y al revés, Lotrives estaba interpretando a Gándara, sin conocerlo más que de hoy.
 
