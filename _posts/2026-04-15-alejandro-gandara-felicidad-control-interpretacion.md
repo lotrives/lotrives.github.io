@@ -18,7 +18,7 @@ Ha rechazado que leer sea interpretar, como predicaba [George Steiner](https://w
 
 Se ha pronunciado contra la noción de **felicidad** reinante hoy día y ha ido a la palabra griega equivalente para subrayar que ser feliz es solo dar sentido a nuestra vida, aceptar lo bueno y lo malo, la vida mortal y lo mucho que no sabemos de esa vida mortal, y con todo ello «producir sentido» hasta de lo peor.
 
-Ha explicado qué quería decir con el título de su libro («Textos *robados* a la felicidad»). Entre los robos ha mencionado que la «Biblia estuvo en el índice de los libros prohibidos hasta el siglo XVII». También ha denunciado la tendencia a no leer los originales en otros campos, sino las interpretaciones, a veces «alucinantes». Entre las muestras de esas interpretaciones alucinantes ha citado la *Parábola de los talentos* («¿Con que sabías que siego donde no siembro y recogo donde no esparzo?» [Mt 25,26](https://www.conferenciaepiscopal.es/biblia/nuevo-testamento-mateo/)). Y a Sigmund Freud y su hermenéutica de Edipo. 
+Ha explicado qué quería decir con el título de su libro («Textos *robados* a la felicidad»). Entre *los robos* ha mencionado que la «Biblia estuvo en el índice de los libros prohibidos hasta el siglo XVII». También ha denunciado la tendencia a no leer los originales en otros campos, sino las interpretaciones, a veces «alucinantes». Entre las muestras de esas interpretaciones alucinantes ha citado la *Parábola de los talentos* («¿Con que sabías que siego donde no siembro y recogo donde no esparzo?» [Mt 25,26](https://www.conferenciaepiscopal.es/biblia/nuevo-testamento-mateo/)). Y a Sigmund Freud y su hermenéutica de Edipo. 
 
 De la *Parábola de los talentos* ha declarado que es el texto más interpretado de la historia. 
 
