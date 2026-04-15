@@ -24,7 +24,7 @@ De la *Parábola de los talentos* ha declarado que es el texto más interpretado
 
 De Freud ha valorado que al menos escuchaba a sus pacientes, algo que ya no se practica. 
 
-De la *Parábola de los talentos* ha rescatado que hay que producir con lo que se sabe, no dejarlo morir en uno mismo. Por ejemplo, escribiendo y no abandonando el pensamiento en uno mismo.
+De la *Parábola de los talentos* ha rescatado que hay que producir con lo que se sabe. Por ejemplo, escribiendo y no abandonando el pensamiento en uno mismo hasta que muera.
 
 Ante la desgracia, hay que «saber aguantar». Ante la supuesta infelicidad, hay que «saber aguantar». «Todo fluye», equivalente al «todo pasa» de Machado. Hoy, si se profundiza, se comprueba que «se confunde la felicidad con el control», ha añadido. No se quiere ser feliz: se quiere tener todo controlado. Algo que es imposible por definición. 
 
@@ -41,6 +41,8 @@ Lotrives piensa también, y así se lo ha dicho a Gándara durante el foro, en u
 —Un texto bien anotado e interpretado es mejor que el solo texto. Es muy difícil que alguien sin una buena exégesis sepa que tiene mucha carga, por ejemplo, el gesto de que Jesucristo se sentara antes de empezar el discurso sobre las bienaventuranzas.
 
 —El primer y más importante escalón de la interpretación es el literal. Pero lo literal sin el contexto sirve de poco. Los textos dicen solo en su contexto. Hay más interpretaciones, y todas apropiadas si se practican adecuadamente: alegóricas, místicas, éticas, tipológicas, por ejemplo. Eso no impide que a veces se realicen interpretaciones desde deficientes hasta repugnantes. Sin embargo, la verdad existe.
+
+Además, ya fuera del debate:
 
 —La Iglesia católica lo que hizo fue [restringir](https://www.newadvent.org/cathen/03519d.htm) la lectura y posesión de traducciones vernáculas de la Biblia. El Concilio de Trento declaró la Vulgata (en latín) como texto auténtico. Es algo muy diferente que lo declarado por Gándara.
 
