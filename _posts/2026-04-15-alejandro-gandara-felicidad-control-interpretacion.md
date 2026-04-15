@@ -38,7 +38,7 @@ Lotrives piensa también, y así se lo ha dicho a Gándara durante el foro, en u
 
 —Lotrives ha conocido hoy a Gándara. Le ha dicho que Gándara, por su forma de pensar, lo estaba interpretando a él, sin conocerlo de verdad a fondo, y al revés, Lotrives estaba interpretando a Gándara, sin conocerlo más que de hoy.
 
-—Un texto bien anotado e interpretado es mejor que el solo texto. Otra cosa son las malas interpretaciones. Es muy difícil que alguien sin una buena exégesis sepa que tiene mucho sentido, por ejemplo, que Jesucristo se sentara antes de empezar el discurso sobre las bienaventuranzas.
+—Un texto bien anotado e interpretado es mejor que el solo texto. Es muy difícil que alguien sin una buena exégesis sepa que tiene mucha carga, por ejemplo, el gesto de que Jesucristo se sentara antes de empezar el discurso sobre las bienaventuranzas.
 
 —El primer y más importante escalón de la interpretación es el literal. Pero lo literal sin el contexto sirve de poco. Los textos sirven solo en su contexto. Hay más interpretaciones, y todas con sentido si se practican adecuadamente: alegóricas, místicas, éticas, tipológicas, por ejemplo. Eso no impide que a veces se realicen interpretaciones desde deficientes hasta repugnantes. La verdad existe.
 
