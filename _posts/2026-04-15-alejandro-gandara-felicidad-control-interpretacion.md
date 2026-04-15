@@ -24,7 +24,7 @@ De la *Parábola de los talentos* ha declarado que es el texto más interpretado
 
 De Freud ha valorado que al menos escuchaba a sus pacientes, algo que ya no se practica. 
 
-De la *Parábola de los talentos* ha rescatado que hay que producir con lo que se sabe, no dejarlo morir en uno mismo. Por ejemplo, escribiendo y no abandonando a la muerte el pensamiento en uno mismo.
+De la *Parábola de los talentos* ha rescatado que hay que producir con lo que se sabe, no dejarlo morir en uno mismo. Por ejemplo, escribiendo y no abandonando el pensamiento en uno mismo.
 
 Ante la desgracia, hay que «saber aguantar». Ante la supuesta infelicidad, hay que «saber aguantar». «Todo fluye», equivalente al «todo pasa» de Machado. Hoy, si se profundiza, se comprueba que «se confunde la felicidad con el control», ha añadido. No se quiere ser feliz: se quiere tener todo controlado. Algo que es imposible por definición. 
 
