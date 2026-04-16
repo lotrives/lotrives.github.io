@@ -17,9 +17,40 @@ Quien cumple lo que las leyes mandan, quien cumple con los contratos y los pacto
   
 **Tomás de Aquino** (1225-1274), en su tratado sobre la justicia,[^1] la divide en **justicia general**, **justicia conmutativa** y **justicia distributiva**, lo que se corresponde con el orden tripartito de exigencias de la justicia: de las partes con el todo (justicia general), del todo con las partes (justicia distributiva) y de la parte con la parte (justicia conmutativa). La justicia conmutativa regula las relaciones de las personas privadas entre sí en los contratos y de acuerdo con el principio de la igualdad en los cambios. La justicia distributiva, que parte de la comunidad, regula las relaciones de esta y de los ciudadanos, según el principio de un reparto de las ventajas sociales y de las cargas. La justicia general, a la que también se llama justicia legal, concierne a las normas y por ella se promulgan leyes favorables al bien común y se impone a los ciudadanos que las obedezcan.
 
-## Justicia social
+# Justicia social
 
-El término **justicia social** como tal fue usado por primera vez por el jesuita italiano **Luigi Taparelli d’Azeglio** en 1840. Trece años después, en su libro *Utilitarismo*, lo empleó **John Stuart Mill**, quien imagina que las sociedades pueden ser virtuosas de la misma manera que los individuos. De ahí pasó a los socialistas fabianos ingleses (precursores del laborismo), lo copió en 1919 la Organización Internacional del Trabajo, y en 1931 el papa **Pío XI** lo introdujo en su encíclica *Quadragesimo anno*.[^2] La justicia social impregna la obra más importante de **John Rawls** (1921-2002)[^3] y llega a nuestros días asociada a las ideas de lucha contra la distribución desigual de bienes, la solicitud y preocupación por el bien común y el desarrollo humano de la sociedad. 
+## Origen
+
+### Luigi Taparelli d’Azeglio
+
+El término **justicia social** como tal fue usado por primera vez por el jesuita italiano **Luigi Taparelli d’Azeglio** en 1840.
+
+Fuente: Taparelli d’Azeglio, L. *Saggio teoretico di dritto naturale appoggiato sul fatto* (ed. [digitalizada](https://archive.org/stream/bub_gb_Ph_Woi2g5bwC/bub_gb_Ph_Woi2g5bwC_djvu.txt) con fecha de 1841). Pasaje «La giustizia sociale è per noi giustizia fra uomo e uomo»: 'La justicia social es para nosotros justicia entre hombre y hombre'. 
+
+### John Stuart Mill
+
+Trece años después, lo empleó **John Stuart Mill**, quien imagina que las sociedades pueden ser virtuosas de la misma manera que los individuos.
+
+Fuente: Mill, J. S. (1865). *Principles of political economy: With some of their applications to social philosophy*. Longmans, Green. [https://archive.org/details/principlesofpoli00mill_3](https://archive.org/details/principlesofpoli00mill_3). 
+
+El texto aparece en la p. 493 del volumen arriba citado, dentro de Book V, Chapter II, § 5, bajo el epígrafe «General Principles of Taxation». Dice: «El progreso ordinario de una sociedad que aumenta en riqueza tiende en todo momento a aumentar los ingresos de los terratenientes; a darles tanto una cantidad mayor como una proporción mayor de la riqueza de la comunidad, independientemente de cualquier molestia o desembolso en que incurran ellos mismos. Se hacen más ricos, por así decirlo, mientras duermen, sin trabajar, arriesgar ni economizar. ¿Qué derecho tienen, según el principio general de justicia social, a este incremento de riquezas?».
+
+De ahí pasó a los socialistas fabianos ingleses (precursores del laborismo), que cita a Mill.
+
+Fuente: Fabian Society. (1895). *Fabian Municipal Program. No. 1. The Unearned Increment* ([Fabian Tract No. 30](https://ia800407.us.archive.org/19/items/fabiantracts0000unse_f9r6/fabiantracts0000unse_f9r6.pdf)). 
+
+En 1919, lo copió en 1919 la Organización Internacional del Trabajo:
+
+Fuente: International Labour Organization. (1919/2024). *ILO Constitution*. [https://www.ilo.org/resource/other/ilo-constitution](https://www.ilo.org/resource/other/ilo-constitution).
+
+### Quadragesimo anno
+
+En 1931, el papa **Pío XI** lo introdujo en su encíclica *Quadragesimo anno*.[^2]
+
+
+## Desarrollo de la justicia social
+
+La justicia social impregna la obra más importante de **John Rawls** (1921-2002)[^3] y llega a nuestros días asociada a las ideas de lucha contra la distribución desigual de bienes, la solicitud y preocupación por el bien común y el desarrollo humano de la sociedad. 
 
 Según algunos autores, como **Emile Guerry**,[^4] la justicia social coincide con la justicia legal cuando esta última tiene su expresión en leyes sociales dictadas por el Estado con vistas al bien común. La peculiaridad de la justicia social sería la de ampliar y sobrepasar la justicia legal en tanto que requiere el concurso no solo del legislador, sino de todos los ciudadanos y de todas las instituciones.
 
