@@ -19,7 +19,7 @@ Quien cumple lo que las leyes mandan, quien cumple con los contratos y los pacto
 
 # Justicia social
 
-## Origen
+### Origen
 
 ### Luigi Taparelli d’Azeglio
 
@@ -35,7 +35,7 @@ Fuente: Mill, J. S. (1865). *Principles of political economy: With some of their
 
 El texto aparece en la p. 493 del volumen arriba citado, dentro de Book V, Chapter II, § 5, bajo el epígrafe «General Principles of Taxation». Dice: «El progreso ordinario de una sociedad que aumenta en riqueza tiende en todo momento a aumentar los ingresos de los terratenientes; a darles tanto una cantidad mayor como una proporción mayor de la riqueza de la comunidad, independientemente de cualquier molestia o desembolso en que incurran ellos mismos. Se hacen más ricos, por así decirlo, mientras duermen, sin trabajar, arriesgar ni economizar. ¿Qué derecho tienen, según el principio general de justicia social, a este incremento de riquezas?».
 
-De ahí pasó a los socialistas fabianos ingleses (precursores del laborismo), que cita a Mill.
+De ahí pasó a los socialistas fabianos ingleses (precursores del laborismo), que citan a Mill.
 
 Fuente: Fabian Society. (1895). *Fabian Municipal Program. No. 1. The Unearned Increment* ([Fabian Tract No. 30](https://ia800407.us.archive.org/19/items/fabiantracts0000unse_f9r6/fabiantracts0000unse_f9r6.pdf)). 
 
