@@ -31,7 +31,7 @@ Hasta aquí, algunos hechos.
 
 El diario polaco *Fakt* publicaba el 15 de abril de 2026: «Tras la derrota de Viktor Orbán en las elecciones parlamentarias, han surgido dudas sobre la situación de Marcin Romanowski, a quien el Gobierno saliente concedió asilo político en Hungría».  Seguidamente afirma que «desempeñó el cargo de numerario» y que ha preguntado al Opus Dei si Romanowski puede contar con la  ayuda de la prelatura. Véase [aquí](https://www.fakt.pl/polityka/marcin-romanowski-nie-wroci-do-osrodka-opus-dei-jest-odpowiedz-organizacji/cre6nyb). 
 
-No conozco a Marcin Romanowski. No sé si es culpable o inocente según el derecho polaco. Sin embargo, no me son nada ajenos ni el Opus Dei, ni la Iglesia católica, ni [Polonia](https://lotrives.substack.com/t/polonia).
+No conozco a Marcin Romanowski. No sé si es culpable o inocente según el derecho polaco. Sin embargo, no me son nada ajenos ni el Opus Dei, ni la Iglesia católica, ni [Polonia](https://lotrives.substack.com/t/polonia), por eso continúo.
 
 ### Figuraciones
 
