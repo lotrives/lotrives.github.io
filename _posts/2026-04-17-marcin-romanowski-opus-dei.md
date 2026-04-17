@@ -72,15 +72,15 @@ Y para terminar:
 
 En España, ha habido casos parecidos al de Romanowski. Cito dos: 
 
-—[Matesa](https://es.wikipedia.org/w/index.php?title=Caso_Matesa&oldid=164799310), en el para más complicación del asunto, un [supernumerario](https://opusdei.org/es/article/solteros-y-casados-numerarios-agregados-supernumerarios-en-el-opus-dei/) del Opus Dei, [Víctor Castro Sanmartín](https://es.wikipedia.org/w/index.php?title=V%C3%ADctor_Castro_Sanmart%C3%ADn&oldid=164246598), actuó legalmente contra otro supernumerario del Opus Dei, [Mariano Navarro Rubio](https://es.wikipedia.org/w/index.php?title=Mariano_Navarro_Rubio&oldid=172035961).
+—[Víctor Castro Sanmartín](https://es.wikipedia.org/w/index.php?title=V%C3%ADctor_Castro_Sanmart%C3%ADn&oldid=164246598), un [supernumerario](https://opusdei.org/es/article/solteros-y-casados-numerarios-agregados-supernumerarios-en-el-opus-dei/) del Opus Dei, denunció a la empresa textil [Matesa](https://es.wikipedia.org/w/index.php?title=Caso_Matesa&oldid=164799310) por irregularidades graves, e indirectamente con ello a otro supernumerario del Opus Dei, [Mariano Navarro Rubio](https://es.wikipedia.org/w/index.php?title=Mariano_Navarro_Rubio&oldid=172035961).
  
-—[Rumasa](https://es.wikipedia.org/w/index.php?title=Rumasa&oldid=172078822), con otro protagonista, [José María Ruiz-Mateos](https://es.wikipedia.org/w/index.php?title=Jos%C3%A9_Mar%C3%ADa_Ruiz-Mateos&oldid=169370088), supernumerario del Opus Dei que terminó siendo expulsado del Opus Dei. 
+—[Rumasa](https://es.wikipedia.org/w/index.php?title=Rumasa&oldid=172078822), un conglomerado de sociedades propiedad de [José María Ruiz-Mateos](https://es.wikipedia.org/w/index.php?title=Jos%C3%A9_Mar%C3%ADa_Ruiz-Mateos&oldid=169370088), también supernumerario del Opus Dei que terminó siendo expulsado del Opus Dei. 
 
 ### Conclusión
 
-No conozco a Marcin Romanowski, no sé si es culpable o inocente, pero sí conozco el Opus Dei, la Iglesia, y un poco Polonia, y sé lo difícil que resulta comprender que dentro de la Iglesia, y dentro del Opus Dei, no se piensa igual, es enriquecedor que sea así, y que lo que cohesione sea solo la doctrina **oficial** católica.
+No conozco a **Marcin Romanowski**, no sé si es culpable o inocente, pero sí conozco el Opus Dei, la Iglesia, y un poco Polonia, y sé lo difícil que resulta comprender que dentro de la Iglesia, y dentro del Opus Dei, lo que cohesione sea solo la doctrina **oficial** católica. En otros temas, si se es lo suficientemente maduro, no se piensa igual y es enriquecedor que sea así.
 
-Como católicos, en la Iglesia, dentro o fuera del Opus Dei, vivir la pluralidad y la libertad, y entender en la práctica lo que supone ser responsable de los propios actos, sigue siendo un reto bien entrado ya el siglo XXI.
+Como católicos, en la Iglesia, dentro o fuera del Opus Dei, vivir la pluralidad y la libertad, y entender en la práctica lo que supone responder de los propios actos, sigue siendo un reto bien entrado ya el siglo XXI.
 
 ---
 
