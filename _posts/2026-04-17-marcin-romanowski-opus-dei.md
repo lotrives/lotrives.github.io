@@ -78,7 +78,7 @@ En España, ha habido casos parecidos al de Romanowski. Cito dos:
 
 ### Conclusión
 
-No conozco a Marcin Romanowski, no sé si es culpable o inocente, pero sí conozco el Opus Dei, la Iglesia, y un poco Polonia, y sé lo difícil que resulta comprender que dentro de la Iglesia, y dentro del Opus Dei, no se piensa igual y lo que cohesiona es solo la doctrina **oficial** católica.
+No conozco a Marcin Romanowski, no sé si es culpable o inocente, pero sí conozco el Opus Dei, la Iglesia, y un poco Polonia, y sé lo difícil que resulta comprender que dentro de la Iglesia, y dentro del Opus Dei, no se piensa igual, es enriquecedor que sea así, y que lo que cohesione sea solo la doctrina **oficial** católica.
 
 Como católicos, en la Iglesia, dentro o fuera del Opus Dei, vivir la pluralidad y la libertad, y entender en la práctica lo que supone ser responsable de los propios actos, sigue siendo un reto a mediados de siglo XXI.
 
