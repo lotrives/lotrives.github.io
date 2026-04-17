@@ -37,7 +37,7 @@ No conozco a Marcin Romanowski. No sé si es culpable o inocente según el derec
 
 Imagínense, es un suponer y pido que se tome como lo que es, un suponer, que dentro de unos años se descubre que **Donald Tusk**, el primer ministro de Polonia, está implicado en algún caso de corrupción. Y que un periodista entrevista al obispo de Varsovia. 
 
-Tal vez se podría producir una conversación como la siguiente: 
+Se podría entablar una conversación como la siguiente: 
 
 —[Periodista polaco] ¿Ayudará la Iglesia a Tusk?
 
