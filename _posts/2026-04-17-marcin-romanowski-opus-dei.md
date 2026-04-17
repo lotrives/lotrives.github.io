@@ -51,7 +51,7 @@ Imagínense que Tusk huye y en Hungría le conceden asilo político. El mismo pe
 
 —[Periodista polaco] ¿Ha ayudado la Iglesia a que Tusk se esfume?
 
-—[Obispo de Varsovia] Por favor, señor periodista polaco, mi diócesis no se dedica a esos menesteres. Como persiste en su confusión, le voy a regalar un ejemplar del *Catecismo de la Iglesia Católica* y una *Historia de la Iglesia*. En el segundo libro encontrará casos sonados de complicaciones entre la esfera civil y eclesiástica. La Iglesia ha aprendido mucho de todo eso y ha sacado consecuencias, que para lo que nos ocupa se traduce en lo siguiente: «De los hechos de Tusk responde Tusk, no la Iglesia». 
+—[Obispo de Varsovia] Por favor, señor periodista polaco, mi diócesis no se dedica a esos menesteres. Como persiste en su confusión, le voy a regalar un ejemplar del *Catecismo de la Iglesia Católica* y una *Historia de la Iglesia*. En el segundo libro encontrará casos sonados de complicaciones entre la esfera civil y eclesiástica. La Iglesia ha aprendido mucho de todo eso y ha sacado consecuencias, que para lo que nos ocupa se traduce en lo siguiente: «De los actos de Tusk responde Tusk, no la Iglesia». 
 
 ### Escrivá de Balaguer y la responsabilidad personal
 
