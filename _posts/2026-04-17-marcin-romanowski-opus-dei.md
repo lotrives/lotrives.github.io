@@ -23,17 +23,21 @@ El 19 de diciembre de 2024, el Tribunal Regional de Varsovia emitió una [orden 
 
 El 20 de diciembre de 2024, el Gobierno de **Viktor Orbán** anunció que Hungría concedía [asilo político](https://pl.wikipedia.org/w/index.php?title=Marcin_Romanowski&oldid=79542200) a Romanowski.﻿ 
 
-Marcin Romanowski es también numerario del Opus Dei. Para quien lo necesite, aquí se aclara lo que técnicamente significa [numerario](https://opusdei.org/es/article/solteros-y-casados-numerarios-agregados-supernumerarios-en-el-opus-dei/) y [Opus Dei](https://opusdei.org/es/article/estatutos-del-opus-dei/).
+Marcin Romanowski es también numerario del **Opus Dei**. Para quien lo necesite, aquí se aclara lo que técnicamente significa [numerario](https://opusdei.org/es/article/solteros-y-casados-numerarios-agregados-supernumerarios-en-el-opus-dei/) y [Opus Dei](https://opusdei.org/es/article/estatutos-del-opus-dei/).
 
-Hasta aquí, algunos hechos escuetos.
+Hasta aquí, algunos hechos.
+
+### Vuelco político
 
 El diario polaco *Fakt* publicaba el 15 de abril de 2026: «Tras la derrota de Viktor Orbán en las elecciones parlamentarias, han surgido dudas sobre la situación de Marcin Romanowski, a quien el Gobierno saliente concedió asilo político en Hungría».  Seguidamente afirma que «desempeñó el cargo de numerario» y que ha preguntado al Opus Dei si Romanowski puede contar con la  ayuda de la prelatura. Véase [aquí](https://www.fakt.pl/polityka/marcin-romanowski-nie-wroci-do-osrodka-opus-dei-jest-odpowiedz-organizacji/cre6nyb). 
 
-No conozco a Marcin Romanowski. No sé si es culpable o inocente según el derecho polaco. Sin embargo, tal vez sacaría buena nota en un examen sobre el Opus Dei, la Iglesia católica y [Polonia](https://lotrives.substack.com/t/polonia).
+No conozco a Marcin Romanowski. No sé si es culpable o inocente según el derecho polaco. Sin embargo, no me son nada ajenos ni el Opus Dei, ni la Iglesia católica, ni [Polonia](https://lotrives.substack.com/t/polonia).
 
-Imagínense, es un suponer y pido que se tome como lo que es, un suponer, que dentro de unos años se descubre que Donald Tusk, el primer ministro de Polonia, está implicado en algún caso de corrupción. Y que un periodista entrevista al obispo de Varsovia. 
+### Figuraciones
 
-Tal vez se podría producir una conversación parecida a la siguiente: 
+Imagínense, es un suponer y pido que se tome como lo que es, un suponer, que dentro de unos años se descubre que **Donald Tusk**, el primer ministro de Polonia, está implicado en algún caso de corrupción. Y que un periodista entrevista al obispo de Varsovia. 
+
+Tal vez se podría producir una conversación como la siguiente: 
 
 —[Periodista polaco] ¿Ayudará la Iglesia a Tusk?
 
@@ -63,7 +67,6 @@ Y para terminar:
 
 «Porque somos libres como peces en el agua, no confundimos a la Iglesia con los errores personales de ningún hombre, y no toleramos que ninguno confunda nuestros propios errores personales con la Iglesia. **No hay derecho a involucrar a la Iglesia con la política**, con la actuación política más o menos acertada, y siempre opinable de cada uno: eso **es muy cómodo y muy injusto**. **Tampoco hay derecho a involucrar a la Obra con los errores o aciertos de cada uno de vosotros**».
 
-No conozco a Marcin Romanowski, no sé si es culpable o inocente, pero sí conozco el Opus Dei, la Iglesia, y un poco Polonia, y sé lo difícil que resulta comprender que dentro de la Iglesia, y dentro del Opus Dei, no se piensa igual y lo que cohesiona es solo la doctrina **oficial** católica.
 
 ### *Romanowskis* españoles
 
@@ -75,15 +78,16 @@ En España, ha habido casos parecidos al de Romanowski. Cito dos:
 
 ### Conclusión
 
+No conozco a Marcin Romanowski, no sé si es culpable o inocente, pero sí conozco el Opus Dei, la Iglesia, y un poco Polonia, y sé lo difícil que resulta comprender que dentro de la Iglesia, y dentro del Opus Dei, no se piensa igual y lo que cohesiona es solo la doctrina **oficial** católica.
+
 Como católicos, en la Iglesia, dentro o fuera del Opus Dei, vivir la pluralidad y la libertad, y entender en la práctica lo que supone ser responsable de los propios actos, sigue siendo un reto a mediados de siglo XXI.
 
----
 
 1) Las citas del fundador del Opus Dei están tomadas de: Escrivá de Balaguer, J. (2020). Carta N.º 3. Sobre la misión sobrenatural y apostólica de los miembros del Opus Dei en medio del mundo, también designada *Res omnes*, del 9 de enero de 1932 y enviada el 21 de enero de 1966. En *Obras completas. Cartas (I)*. Edición crítica y anotada, preparada por Luis Cano. Con la colaboración de José Antonio Loarte. Introducción de José Luis Illanaes. Istituto Storico San Josemaría Escrivá. Madrid: Ediciones Rialp.
 
 2) Las negritas son de Lotrives.
 
-3) Los datos biográficos de Romanowski están tomados de aquí: Marcin Romanowski. (2026, 13 de abril). En *Wikipedia, wolna encyklopedia*. [https://pl.wikipedia.org/w/index.php?title=Marcin_Romanowski&oldid=79542200](https://pl.wikipedia.org/w/index.php?title=Marcin_Romanowski&oldid=79542200)
+3) Los datos biográficos de Romanowski me los presto de aquí: Marcin Romanowski. (2026, 13 de abril). En *Wikipedia, wolna encyklopedia*. [https://pl.wikipedia.org/w/index.php?title=Marcin_Romanowski&oldid=79542200](https://pl.wikipedia.org/w/index.php?title=Marcin_Romanowski&oldid=79542200)
 
 ---
 
