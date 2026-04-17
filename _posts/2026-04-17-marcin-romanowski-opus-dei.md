@@ -68,9 +68,9 @@ Y para terminar:
 «Porque somos libres como peces en el agua, no confundimos a la Iglesia con los errores personales de ningún hombre, y no toleramos que ninguno confunda nuestros propios errores personales con la Iglesia. **No hay derecho a involucrar a la Iglesia con la política**, con la actuación política más o menos acertada, y siempre opinable de cada uno: eso **es muy cómodo y muy injusto**. **Tampoco hay derecho a involucrar a la Obra con los errores o aciertos de cada uno de vosotros**» (n. 47c).
 
 
-### *Romanowskis* españoles
+### Lances españoles
 
-En España, ha habido casos parecidos al de Romanowski. Cito dos: 
+En España, ha habido episodios que se asemejan en algunos aspectos al de Romanowski. Cito dos: 
 
 —[Víctor Castro Sanmartín](https://es.wikipedia.org/w/index.php?title=V%C3%ADctor_Castro_Sanmart%C3%ADn&oldid=164246598), un [supernumerario](https://opusdei.org/es/article/solteros-y-casados-numerarios-agregados-supernumerarios-en-el-opus-dei/) del Opus Dei, denunció a la empresa textil [Matesa](https://es.wikipedia.org/w/index.php?title=Caso_Matesa&oldid=164799310) por irregularidades graves, e indirectamente con ello a otro supernumerario del Opus Dei, [Mariano Navarro Rubio](https://es.wikipedia.org/w/index.php?title=Mariano_Navarro_Rubio&oldid=172035961).
  
