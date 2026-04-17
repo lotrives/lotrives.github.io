@@ -80,7 +80,7 @@ En España, ha habido casos parecidos al de Romanowski. Cito dos:
 
 No conozco a Marcin Romanowski, no sé si es culpable o inocente, pero sí conozco el Opus Dei, la Iglesia, y un poco Polonia, y sé lo difícil que resulta comprender que dentro de la Iglesia, y dentro del Opus Dei, no se piensa igual, es enriquecedor que sea así, y que lo que cohesione sea solo la doctrina **oficial** católica.
 
-Como católicos, en la Iglesia, dentro o fuera del Opus Dei, vivir la pluralidad y la libertad, y entender en la práctica lo que supone ser responsable de los propios actos, sigue siendo un reto a mediados de siglo XXI.
+Como católicos, en la Iglesia, dentro o fuera del Opus Dei, vivir la pluralidad y la libertad, y entender en la práctica lo que supone ser responsable de los propios actos, sigue siendo un reto bien entrado ya el siglo XXI.
 
 
 1) Las citas del fundador del Opus Dei están tomadas de: Escrivá de Balaguer, J. (2020). Carta N.º 3. Sobre la misión sobrenatural y apostólica de los miembros del Opus Dei en medio del mundo, también designada *Res omnes*, del 9 de enero de 1932 y enviada el 21 de enero de 1966. En *Obras completas. Cartas (I)*. Edición crítica y anotada, preparada por Luis Cano. Con la colaboración de José Antonio Loarte. Introducción de José Luis Illanaes. Istituto Storico San Josemaría Escrivá. Madrid: Ediciones Rialp.
