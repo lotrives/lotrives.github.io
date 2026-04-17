@@ -120,7 +120,7 @@ Y un poco más adelante, en ese mismo capítulo que dedica a la justicia social:
      
 En otra de sus obras, Hayek afirma que la discusión sobre el socialismo se ha convertido principalmente «en una discusión sobre los medios y no sobre los fines; aunque vaya envuelta también la cuestión de saber si los diferentes fines del socialismo pueden alcanzarse simultáneamente».[^8] 
  
-Ya al margen de la polémica sobre el concepto de justicia social, queda reflexionar sobre los problemas sociales de la pobreza y la desigualdad y sobre los medios propuestos para resolverlos.   
+Ya al margen de la polémica sobre el concepto de justicia social, queda reflexionar sobre los problemas sociales de la [pobreza y la desigualdad](https://lotrives.github.io/2020/05/18/pobreza-y-desigualdad/) y sobre los medios propuestos para resolverlos.   
   
 ### Más información
 
