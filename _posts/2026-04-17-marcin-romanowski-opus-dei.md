@@ -65,14 +65,14 @@ Un poco más adelante:
 
 Y para terminar: 
 
-«Porque somos libres como peces en el agua, no confundimos a la Iglesia con los errores personales de ningún hombre, y no toleramos que ninguno confunda nuestros propios errores personales con la Iglesia. **No hay derecho a involucrar a la Iglesia con la política**, con la actuación política más o menos acertada, y siempre opinable de cada uno: eso **es muy cómodo y muy injusto**. **Tampoco hay derecho a involucrar a la Obra con los errores o aciertos de cada uno de vosotros**».
+«Porque somos libres como peces en el agua, no confundimos a la Iglesia con los errores personales de ningún hombre, y no toleramos que ninguno confunda nuestros propios errores personales con la Iglesia. **No hay derecho a involucrar a la Iglesia con la política**, con la actuación política más o menos acertada, y siempre opinable de cada uno: eso **es muy cómodo y muy injusto**. **Tampoco hay derecho a involucrar a la Obra con los errores o aciertos de cada uno de vosotros**» (n. 47c).
 
 
 ### *Romanowskis* españoles
 
 En España, ha habido casos parecidos al de Romanowski. Cito dos: 
 
-—[Matesa](https://es.wikipedia.org/w/index.php?title=Caso_Matesa&oldid=164799310), en el que además, para más emoción del asunto, un [supernumerario](https://opusdei.org/es/article/solteros-y-casados-numerarios-agregados-supernumerarios-en-el-opus-dei/) del Opus Dei, [Víctor Castro Sanmartín](https://es.wikipedia.org/w/index.php?title=V%C3%ADctor_Castro_Sanmart%C3%ADn&oldid=164246598), actuó contra otro supernumerario del Opus Dei, [Mariano Navarro Rubio](https://es.wikipedia.org/w/index.php?title=Mariano_Navarro_Rubio&oldid=172035961).
+—[Matesa](https://es.wikipedia.org/w/index.php?title=Caso_Matesa&oldid=164799310), en el para más complicación del asunto, un [supernumerario](https://opusdei.org/es/article/solteros-y-casados-numerarios-agregados-supernumerarios-en-el-opus-dei/) del Opus Dei, [Víctor Castro Sanmartín](https://es.wikipedia.org/w/index.php?title=V%C3%ADctor_Castro_Sanmart%C3%ADn&oldid=164246598), actuó legalmente contra otro supernumerario del Opus Dei, [Mariano Navarro Rubio](https://es.wikipedia.org/w/index.php?title=Mariano_Navarro_Rubio&oldid=172035961).
  
 —[Rumasa](https://es.wikipedia.org/w/index.php?title=Rumasa&oldid=172078822), con otro protagonista, [José María Ruiz-Mateos](https://es.wikipedia.org/w/index.php?title=Jos%C3%A9_Mar%C3%ADa_Ruiz-Mateos&oldid=169370088), supernumerario del Opus Dei que terminó siendo expulsado del Opus Dei. 
 
@@ -84,7 +84,7 @@ Como católicos, en la Iglesia, dentro o fuera del Opus Dei, vivir la pluralidad
 
 ---
 
-1) Las citas del fundador del Opus Dei están tomadas de: Escrivá de Balaguer, J. (2020). Carta N.º 3. Sobre la misión sobrenatural y apostólica de los miembros del Opus Dei en medio del mundo, también designada *Res omnes*, del 9 de enero de 1932 y enviada el 21 de enero de 1966. En *Obras completas. Cartas (I)*. Edición crítica y anotada, preparada por Luis Cano. Con la colaboración de José Antonio Loarte. Introducción de José Luis Illanaes. Istituto Storico San Josemaría Escrivá. Madrid: Ediciones Rialp.
+1) Las citas del fundador del Opus Dei están tomadas de: Escrivá de Balaguer, J. (2020). Carta N.º 3. Sobre la misión sobrenatural y apostólica de los miembros del Opus Dei en medio del mundo, también designada *Res omnes*, del 9 de enero de 1932 y enviada el 21 de enero de 1966. En *Obras completas. Cartas (I)*. Edición crítica y anotada, preparada por Luis Cano. Con la colaboración de José Antonio Loarte. Introducción de José Luis Illanes. Istituto Storico San Josemaría Escrivá. Madrid: Ediciones Rialp.
 
 2) Las negritas son de Lotrives.
 
