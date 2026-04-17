@@ -82,14 +82,13 @@ No conozco a Marcin Romanowski, no sé si es culpable o inocente, pero sí conoz
 
 Como católicos, en la Iglesia, dentro o fuera del Opus Dei, vivir la pluralidad y la libertad, y entender en la práctica lo que supone ser responsable de los propios actos, sigue siendo un reto bien entrado ya el siglo XXI.
 
+---
 
 1) Las citas del fundador del Opus Dei están tomadas de: Escrivá de Balaguer, J. (2020). Carta N.º 3. Sobre la misión sobrenatural y apostólica de los miembros del Opus Dei en medio del mundo, también designada *Res omnes*, del 9 de enero de 1932 y enviada el 21 de enero de 1966. En *Obras completas. Cartas (I)*. Edición crítica y anotada, preparada por Luis Cano. Con la colaboración de José Antonio Loarte. Introducción de José Luis Illanaes. Istituto Storico San Josemaría Escrivá. Madrid: Ediciones Rialp.
 
 2) Las negritas son de Lotrives.
 
 3) Los datos biográficos de Romanowski me los presto de aquí: Marcin Romanowski. (2026, 13 de abril). En *Wikipedia, wolna encyklopedia*. [https://pl.wikipedia.org/w/index.php?title=Marcin_Romanowski&oldid=79542200](https://pl.wikipedia.org/w/index.php?title=Marcin_Romanowski&oldid=79542200)
-
----
 
 Crédito de la imagen: Marcin Romanowski en Hungría, en 2025. Foto: © Elekes Andor. Licencia CC BY 4.0. Archivo de [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=File:CPAC_Hungary_2025_(171).jpg&oldid=1109644356)
 
