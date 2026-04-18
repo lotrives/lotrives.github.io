@@ -11,7 +11,7 @@ Lotrives publica artículos elaborados y notas de trabajo: apuntes, ideas, lectu
 
 Lotrives es el *alter ego* de José Manuel Grau Navarro, doctor en Periodismo por la Universidad de Navarra y licenciado en Ciencias Físicas por la Universidad Complutense de Madrid. Ha sido corresponsal de *ABC* en Viena y Varsovia, director de Comunicación del Ministerio de Educación y Cultura, director de la Escuela de Humanidades de UNIR (Universidad Internacional de La Rioja) y director de *Nueva Revista*.
 
-A lo largo de su trayectoria ha publicado con distintos nombres en diferentes etapas. En *ABC*, *Aceprensa* y otros medios firmó como **José Grau**; en *La Vanguardia*, como **José Manuel Navarro**. Desde hace ya bastante tiempo utiliza su nombre completo: **José Manuel Grau Navarro**.
+A lo largo de su trayectoria ha publicado con distintos nombres en diferentes etapas. En *[ABC](https://lotrives.github.io/abc/)*, *[Aceprensa](https://lotrives.substack.com/p/jose-grau-aceprensa-articulos-jose-manuel-grau-navarro)* y otros medios firmó como **José Grau**; en *[La Vanguardia](https://lotrives.substack.com/p/articulos-la-vanguardia-jose-manuel-grau-navarro-jose-manuel-navarro)*, como **José Manuel Navarro**. Desde hace ya bastante tiempo utiliza su nombre completo: **José Manuel Grau Navarro**.
 
 ### Libros
 
