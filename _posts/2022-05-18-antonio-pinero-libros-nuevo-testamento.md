@@ -2,7 +2,7 @@
 layout: post
 title: "«Los libros del Nuevo Testamento». Edición de Antonio Piñero"
 date: 2022-05-18
-tags: ["Antonio Piñero", "Nuevo Testamento"]
+tags: ["Antonio Piñero", "Nuevo Testamento", "Nueva Revista", "Novum Testamentun Graece 28.ª ed."]
 description: "Extractos de la introducción al Nuevo Testamento escrita por Antonio Piñero"
 last_modified_at: 2026-04-18
 ---
@@ -77,11 +77,11 @@ Bover:
   
 Pablo, Silvano y Timoteo, a los que en Tesalónica forman la Iglesia de Dios Padre y del Señor Jesús Mesías: Os deseamos gracia y paz.  
 
-Nuevo Testamento. Traducción de J. Mateos / L. Alonso Schökel. Introducciones, notas y vocabulario bíblico de Juan Mateos con la colaboración de F. Camacho, A. Urban, J. Rius, J. Barreto. Ediciones Cristiandad, Madrid, 2. Ed. 1987 (la 1 ed. Es de 1974).
+*Nuevo Testamento*. Traducción de J. Mateos / L. Alonso Schökel. Introducciones, notas y vocabulario bíblico de Juan Mateos con la colaboración de F. Camacho, A. Urban, J. Rius, J. Barreto. Ediciones Cristiandad, Madrid, 2. Ed. 1987 (la 1 ed. es de 1974).
 
 ---
 
-**Véase también**:
+**Actualización. Véase también:**:
 
 —Grau Navarro, J. M. (2022, 19 de mayo). Antonio Piñero: «Los libros del Nuevo Testamento». *Nueva Revista*. [https://www.nuevarevista.net/antonio-pinero-los-libros-del-nuevo-testamento/](https://www.nuevarevista.net/antonio-pinero-los-libros-del-nuevo-testamento/)
 
