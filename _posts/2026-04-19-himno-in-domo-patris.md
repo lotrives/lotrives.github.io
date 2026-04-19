@@ -2,14 +2,14 @@
 layout: post
 title: "El himno «In domo Patris» («En la casa del Padre»)"
 date: 2026-04-19
-tags: ["John Mason Neale", Salmos]
+tags: ["John Mason Neale", Salmos, Lecturas]
 description: "Texto latino del himno «In domo Patris» y traducción al español."
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Psalm_XV_im_Salzburger_Dom.JPG/960px-Psalm_XV_im_Salzburger_Dom.JPG
 ---
 
 <a title="Burkhard Mücke, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Psalm_XV_im_Salzburger_Dom.JPG"><img width="960" alt="Psalm XV im Salzburger Dom" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Psalm_XV_im_Salzburger_Dom.JPG/960px-Psalm_XV_im_Salzburger_Dom.JPG"></a>
 
-Neale, John Mason. *A Commentary on the Psalms: From Primitive and Mediæval Writers and from the Various Office-books and Hymns of the Roman, Mozarabic, Ambrosian, Gallican, Greek, Coptic, Armenian, and Syriac Rites.* Vol. I: Psalm I to Psalm XXXVIII. Second edition. London: Joseph Masters, Aldersgate Street, and New Bond Street; New York: Pott and Amery, 1869.
+Neale, John Mason. *A Commentary on the Psalms: From Primitive and Mediæval Writers and from the Various Office-books and Hymns of the Roman, Mozarabic, Ambrosian, Gallican, Greek, Coptic, Armenian, and Syriac Rites.* Vol. I: Psalm I to Psalm XXXVIII. Second edition. London: Joseph Masters, Aldersgate Street, and New Bond Street; New York: Pott and Amery, 1869. [https://archive.org/details/commentaryonpsal01nealuoft](https://archive.org/details/commentaryonpsal01nealuoft)
 
 ---
 
