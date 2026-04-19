@@ -2,9 +2,11 @@
 layout: post
 title: "Marcin Romanowski, un político polaco, numerario del Opus Dei y refugiado en Hungría"
 date: 2026-04-17
-tags: ["Marcin Romanowski", "Opus Dei", "Numerario", "San Josemaría Escrivá de Balaguer", Lecturas]
+tags: ["Marcin Romanowski", "Opus Dei", "Numerario", "San Josemaría Escrivá de Balaguer", Lecturas, "Eugenio Trías"]
 description: "Marcin Romanowski se encuentra refugiado en Hungría y la prensa polaca se pregunta si con el cambio de Gobierno en Budapest será extraditado y cómo actuará el Opus Dei"
 image: "/assets/images/marcin-romanowski.webp"
+canonical_url: "https://lotrives.github.io/2026/04/17/marcin-romanowski-opus-dei/"
+last_modified_at: 2026-04-19
 ---
 
 #### La prensa polaca se pregunta si con el cambio de Gobierno en Hungría, Romanowski será extraditado a Polonia y cómo actuará el Opus Dei al respecto
@@ -89,6 +91,26 @@ Como católicos, en la Iglesia, dentro o fuera del Opus Dei, vivir la pluralidad
 2) Las negritas son de Lotrives.
 
 3) Los datos biográficos de Romanowski me los presto de aquí: Marcin Romanowski. (2026, 13 de abril). En *Wikipedia, wolna encyklopedia*. [https://pl.wikipedia.org/w/index.php?title=Marcin_Romanowski&oldid=79542200](https://pl.wikipedia.org/w/index.php?title=Marcin_Romanowski&oldid=79542200)
+
+---
+
+#### Actualización del 19 de abril de 2026
+
+Comenta Antonio Díaz en mi [Substack](https://lotrives.substack.com/p/poder-control-y-el-caso-romanowski/comment/245732460) sobre el artículo de arriba: 
+
+*El problema con el Opus Dei es que hay también testimonios contrarios a lo que se dice públicamente. Podría ser, pero no creo que el filósofo Eugenio Trias (que fue numerario de 1960 a 1963) tuviese interés en mentir en el detalle que cuenta en su libro "El árbol de la vida"*:
+
+*“Durante las mañanas en el piso del Stadtwaldgürtel, casi a las afueras de Colonia, ayudaba al secretario de la institución en Alemania. Recuerdo que no paraba de hacer fotocopias; por mis manos pasaban disposiciones que venían de Roma y que se distribuían por las distintas “regiones” de la Obra. Fue allí donde descubrí alguna circular que me llenó de zozobra o que comenzó a sembrar en mí las semillas de la duda. En particular me produjo verdadero escándalo un volante en el que se hacían una serie de recomendaciones a los socios que llegaban a ocupar cargos públicos o puestos políticos. Se les instigaba a que tuvieran consideración prioritaria, con el fin de cubrir plazas vacantes o puestos, por socios del Opus Dei afines, o como mínimo por cooperadores o personas adictas o próximas. Prácticamente se alentaba al enchufismo que todos los enemigos de la Obra, que eran legión entre otros mi propio padre, le reprochaban amargamente.”*
+
+*“Por esta vez los enemigos parecían tener razón. Leí el documento sin dar crédito a lo que mis ojos veían. Y si en eso acertaban los enemigos, ¿les iba a faltar razón en todo lo demás? ¿No sería la Obra una siniestra maquinaria inventada para la conquista del poder que se aprovechaba de regímenes dictatoriales como el franquista, donde no había partidos políticos, para actuar al modo de un poderosísimo lobby y en el que además confluían las fuerzas más reaccionarias del espectro político?”*
+
+Le [respondo](https://open.substack.com/pub/lotrives/p/poder-control-y-el-caso-romanowski?utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=245805746):
+
+Muchas gracias, Antonio, por tu comentario. Sí, hay testimonios contrarios, sin duda. Al margen de que en cualquier institución siempre se produce la tensión entre lo que debe o debería ser, y lo que es, aquí echo de menos esas circulares de las que habla Trías. Sin leer esas circulares, sin saber quién las escribió, por qué las escribió y cuál era el contexto de aquellos textos, al menos yo no me hago una idea cierta de qué pensar de ese pasaje de las memorias de Trías. Lo que afirmo a continuación, no digo que sea lo mismo, pero ilustra mi posición. Yo mismo podría aportar frases sueltas oídas de mis años de numerario que, sacadas de contexto, sonarían dañinas para el Opus Dei, pero sé que las tendría que sacar de contexto, y eso no es justo, me parece. Abrazos.
+
+No dispongo del libro de Trías. Sé que se habla de él en una página oficial del Opus Dei, [aquí](https://cedejbiblioteca.unav.edu/web/centro-de-estudios-josemaria-escriva/biblioteca-virtual/details.vm?lang=en&s=3&view=global&w=sortAuthorities:%22Polo,+Leonardo%22), y en otras de crítica al Opus Dei, como [aquí](https://sinmiedoalopusdei.blogspot.com/2011/05/la-salida-del-opus-dei-de-eugenio-trias.html).
+
+---
 
 Crédito de la imagen: Marcin Romanowski en Hungría, en 2025. Foto: © Elekes Andor. Licencia CC BY 4.0. Archivo de [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=File:CPAC_Hungary_2025_(171).jpg&oldid=1109644356)
 
