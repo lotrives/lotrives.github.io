@@ -92,8 +92,6 @@ Como católicos, en la Iglesia, dentro o fuera del Opus Dei, vivir la pluralidad
 
 3) Los datos biográficos de Romanowski me los presto de aquí: Marcin Romanowski. (2026, 13 de abril). En *Wikipedia, wolna encyklopedia*. [https://pl.wikipedia.org/w/index.php?title=Marcin_Romanowski&oldid=79542200](https://pl.wikipedia.org/w/index.php?title=Marcin_Romanowski&oldid=79542200)
 
----
-
 #### Actualización del 19 de abril de 2026
 
 Comenta Antonio Díaz en mi [Substack](https://lotrives.substack.com/p/poder-control-y-el-caso-romanowski/comment/245732460) sobre el artículo de arriba: 
@@ -108,7 +106,7 @@ Le [respondo](https://open.substack.com/pub/lotrives/p/poder-control-y-el-caso-r
 
 Muchas gracias, Antonio, por tu comentario. Sí, hay testimonios contrarios, sin duda. Al margen de que en cualquier institución siempre se produce la tensión entre lo que debe o debería ser, y lo que es, aquí echo de menos esas circulares de las que habla Trías. Sin leer esas circulares, sin saber quién las escribió, por qué las escribió y cuál era el contexto de aquellos textos, al menos yo no me hago una idea cierta de qué pensar de ese pasaje de las memorias de Trías. Lo que afirmo a continuación, no digo que sea lo mismo, pero ilustra mi posición. Yo mismo podría aportar frases sueltas oídas de mis años de numerario que, sacadas de contexto, sonarían dañinas para el Opus Dei, pero sé que las tendría que sacar de contexto, y eso no es justo, me parece. Abrazos.
 
-No dispongo del libro de Trías. Sé que se habla de él en una página oficial del Opus Dei, [aquí](https://cedejbiblioteca.unav.edu/web/centro-de-estudios-josemaria-escriva/biblioteca-virtual/details.vm?lang=en&s=3&view=global&w=sortAuthorities:%22Polo,+Leonardo%22), y en otras de crítica al Opus Dei, como [aquí](https://sinmiedoalopusdei.blogspot.com/2011/05/la-salida-del-opus-dei-de-eugenio-trias.html).
+No dispongo del libro de Trías. Hay un apunte bibliográfico de él en una página oficial del Opus Dei, [aquí](https://cedejbiblioteca.unav.edu/web/centro-de-estudios-josemaria-escriva/biblioteca-virtual/details.vm?lang=en&s=3&view=global&w=sortAuthorities:%22Polo,+Leonardo%22), y sé que se menciona el mismo pasaje que cita Antonio Díaz en otra web de crítica al Opus Dei, [aquí](https://sinmiedoalopusdei.blogspot.com/2011/05/la-salida-del-opus-dei-de-eugenio-trias.html). 
 
 ---
 
