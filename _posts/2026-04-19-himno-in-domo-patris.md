@@ -8,6 +8,8 @@ description: "Texto latino del himno «In domo Patris» y traducción al españo
 
 Neale, John Mason. *A Commentary on the Psalms: From Primitive and Mediæval Writers and from the Various Office-books and Hymns of the Roman, Mozarabic, Ambrosian, Gallican, Greek, Coptic, Armenian, and Syriac Rites.* Vol. I: Psalm I to Psalm XXXVIII. Second edition. London: Joseph Masters, Aldersgate Street, and New Bond Street; New York: Pott and Amery, 1869.
 
+---
+
 De Neale (1869, pp. 209-10) copio el himno *In domo Patris* («En la casa del Padre»), que lo da en latín sin traducción, y lo traduzco al castalleno:
 
 | **Latín** | **Español** |
@@ -22,13 +24,13 @@ De Neale (1869, pp. 209-10) copio el himno *In domo Patris* («En la casa del Pa
 
 #### Observaciones
 
-—Asumo que *me vita* es *mea vita*, ambos en ablativo singular; con la forma apocopada *me* por *mea*. [*fruor*](https://en.wiktionary.org/w/index.php?title=fruor&oldid=89018068) ('fruir', de ahí 'los que fruyen', en castellano) es un verbo deponente que rige ablativo.
+—Asumo que *me vita* es *mea vita*, ambos en ablativo singular; con la forma apocopada *me* por *mea*. [*fruor*](https://en.wiktionary.org/w/index.php?title=fruor&oldid=89018068) ('fruir', de ahí 'los que fruyen', 'los que disfrutan' en castellano) es un verbo deponente que rige ablativo.
 
 —Asumo que *me lumen* es *meum lumen*, acusativo singular neutro.
 
-Neale (1869, pp. 209-10) incluye ese himno es su comentario al Salmo 16, 12, que en la [Vulgata](https://www.drbo.org/lvb/chapter/21015.htm) es el 15, 11 («Notas mihi fecisti vias vitae; adimplebis me laetitia cum vultu tuo: delectationes in dextera tua usque in finem»), y en la versión oficial de la [Biblia](https://www.conferenciaepiscopal.es/biblia/salmos/) de la Conferencia Episcopal Española: «Me enseñarás el sendero de la vida, | me saciarás de gozo en tu presencia, | de alegría perpetua a tu derecha» (Salmo 16, 12).
+Neale (1869, pp. 209-10) incluye ese himno es su comentario al Salmo 16, 12, que en la [Vulgata](https://www.drbo.org/lvb/chapter/21015.htm) es el 15, 11 («Notas mihi fecisti vias vitae; adimplebis me laetitia cum vultu tuo: delectationes in dextera tua usque in finem»), y en la versión oficial de la [Biblia](https://www.conferenciaepiscopal.es/biblia/salmos/) de la Conferencia Episcopal Española: «Me enseñarás el sendero de la vida, me saciarás de gozo en tu presencia, de alegría perpetua a tu derecha» (Salmo 16, 12).
 
-Ese Salmo 16, 12 se recita hoy en la misa del domingo, III Domingo de Pascua.
+El Salmo 16 se recita hoy en la misa del domingo, III Domingo de Pascua.
 
 ---
 Cita APA 7: 
