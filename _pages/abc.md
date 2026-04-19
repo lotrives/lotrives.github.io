@@ -302,6 +302,9 @@ Grau Navarro, José Manuel. (2009, 18 de septiembre). «Si significa que Obama d
 ---
 
 <h2 id="2010">2010</h2>
+
+Grau Navarro, José Manuel. (2010, 10 de octubre). Hungría se pone en guardia ante un drama aún mayor. *ABC*. Madrid, p. 12. <https://www.abc.es/archivo/periodicos/abc-madrid-20101010-12.html>
+
 Grau Navarro, José Manuel. (2010, 8 de diciembre). Entrevista a Miguel Ángel Garrido Gallardo. Editor de *Nueva Revista*, catedrático e investigador. «Nuestra sociedad está enferma de superficialidad». *ABC*. Madrid, p. 67. <https://www.abc.es/archivo/periodicos/abc-cordoba-20101208-67.html>
 
 ---
@@ -317,6 +320,8 @@ Grau Navarro, José Manuel. (2012, 20 de marzo). El secretario personal del Papa
 Grau Navarro, José Manuel. (2012, 12 de abril). «Prominentes sobre el Papa», un regalo a Benedicto XVI por su cumpleaños. *ABC*. <https://www.abc.es/sociedad/abci-papa-libro-homenaje-cumpleanos-201204130000_noticia.html>
 
 Grau Navarro, José Manuel. (2012, 25 de abril). *L'Osservatore Romano* lanza un libro sobre Ratzinger como teólogo y Papa. *ABC*. <https://www.abc.es/sociedad/abci-ratzinger-libro-papa-201204250000_noticia.html>
+
+Grau Navarro, José Manuel. (2012, 23 de mayo). Todos los que iban con camisetas verdes antes, hoy han trabajado. *ABC*. Madrid, p. 20.  <https://www.abc.es/archivo/periodicos/abc-madrid-20120523-20.html>
 
 Grau Navarro, José Manuel. (2012, 25 de septiembre). El método de los grandes libros, una alternativa universitaria en los EE.UU. *ABC*. <https://www.abc.es/sociedad/abci-ensenanza-universidad-metodo-libros-201209250000_noticia.html>
 
