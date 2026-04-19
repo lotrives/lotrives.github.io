@@ -19,11 +19,11 @@ Mientras los pequeños se esforzaban en superar el tiro rival y ganar, Lotrives 
 
 ![Gálibo junto a la fábrica de harinas. Estación de ferrrocarril de Tobarra, 30 de marzo de 2026.]({{ "/assets/images/tobarra-galibo.webp" | relative_url }})
 
-A la derecha de la fábrica de harinas se ve un gálibo, en el centro de la imagen de arriba. Es ese arco de hierro en forma de U al revés. Se colocaba en las estaciones para comprobar que un vagón, con su carga, podía circular por túneles y bajo los pasos elevados sin chocarse. A Lotrives el gálibo le traía a la cabeza la imagen de polacos ahorcados por los nazis en las calles de Varsovia, durante la Segunda Guerra Mundial.
+A la derecha de la fábrica de harinas se observa un gálibo, en el centro de la imagen de arriba. Es ese arco de hierro en forma de U al revés. Se colocaba en las estaciones para comprobar que un vagón, con su carga, podía circular por túneles y bajo los pasos elevados sin chocarse. A Lotrives el gálibo le traía a la cabeza la imagen de polacos ahorcados por los nazis en las calles de Varsovia, durante la Segunda Guerra Mundial.
 
 ¿Habría que evitar que un edificio como ese no se cayera? ¿Quién se debería hacer cargo de los gastos? Son las preguntas de siempre y de no fácil respuesta. Pero cuando pasan las décadas, los siglos, sí que sabemos apreciar los pueblos y ciudades que acertaron en la conservación de su patrimonio y los que no. Esperemos que Tobarra reaccione.
 
-Hoy, en una viaje de Orihuela a Madrid, y a Orihuela hacía mucho tiempo que la familia no volvía, aquellos niños ahora jóvenes profesionales, han pedido a Lotrives que se detuviera en la estación de Tobarra. No han tirado piedras. Pero Lotrives ha notado que aquellas paradas de casi dos décadas atrás han quedado muy grabadas en la memoria de todos, padres e hijos. 
+Hoy, en una viaje de Orihuela a Madrid, y a Orihuela hacía mucho tiempo que la familia no volvía, aquellos niños, ahora jóvenes profesionales, han pedido a Lotrives que se detenga en la estación de Tobarra. No han tirado piedras. Pero Lotrives ha notado que aquellas paradas de casi dos décadas atrás han quedado muy grabadas en la memoria de todos, padres e hijos. 
 
 Lotrives, 30 de marzo de 2026
 
