@@ -30,7 +30,13 @@ De Neale (1869, pp. 209-10) copio el himno *In domo Patris* («En la casa del Pa
 
 —Asumo que *me lumen* es *meum lumen*, acusativo singular neutro.
 
-Neale (1869, pp. 209-10) incluye ese himno es su comentario al Salmo 16, 12, que en la [Vulgata](https://www.drbo.org/lvb/chapter/21015.htm) es el 15, 11 («Notas mihi fecisti vias vitae; adimplebis me laetitia cum vultu tuo: delectationes in dextera tua usque in finem»), y en la versión oficial de la [Biblia](https://www.conferenciaepiscopal.es/biblia/salmos/) de la Conferencia Episcopal Española: «Me enseñarás el sendero de la vida, me saciarás de gozo en tu presencia, de alegría perpetua a tu derecha» (Salmo 16, 12).
+Neale (1869, pp. 209-10) incluye ese himno es su comentario al Salmo 16, 12, que en la [Vulgata](https://www.drbo.org/lvb/chapter/21015.htm) es el 15, 11:
+
+«Notas mihi fecisti vias vitae; adimplebis me laetitia cum vultu tuo: delectationes in dextera tua usque in finem».
+
+En la versión oficial de la [Biblia](https://www.conferenciaepiscopal.es/biblia/salmos/) de la Conferencia Episcopal Española queda en esta versión:
+
+**«Me enseñarás el sendero de la vida, me saciarás de gozo en tu presencia, de alegría perpetua a tu derecha»** (Salmo 16, 12).
 
 El Salmo 16 se recita hoy en la misa del domingo, III Domingo de Pascua.
 
