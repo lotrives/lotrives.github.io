@@ -6,6 +6,8 @@ tags: ["John Mason Neale", Salmos]
 description: "Texto latino del himno «In domo Patris» y traducción al español."
 ---
 
+<a title="Burkhard Mücke, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Psalm_XV_im_Salzburger_Dom.JPG"><img width="960" alt="Psalm XV im Salzburger Dom" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Psalm_XV_im_Salzburger_Dom.JPG/960px-Psalm_XV_im_Salzburger_Dom.JPG"></a>
+
 Neale, John Mason. *A Commentary on the Psalms: From Primitive and Mediæval Writers and from the Various Office-books and Hymns of the Roman, Mozarabic, Ambrosian, Gallican, Greek, Coptic, Armenian, and Syriac Rites.* Vol. I: Psalm I to Psalm XXXVIII. Second edition. London: Joseph Masters, Aldersgate Street, and New Bond Street; New York: Pott and Amery, 1869.
 
 ---
@@ -38,3 +40,5 @@ Cita APA 7:
 Neale, J. M. (1869). *A commentary on the Psalms: From primitive and mediæval writers and from the various office-books and hymns of the Roman, Mozarabic, Ambrosian, Gallican, Greek, Coptic, Armenian, and Syriac rites* (Vol. 1, 2.ª ed.). Joseph Masters; Pott and Amery.
 
 Cita en el texto: paréntesis: (Neale, 1869), narrativa: Neale (1869).
+
+Crédito de la imagen: El Salmo XV (Vulgata) en la catedral de Salzburgo. Foto: © Burkhard Mücke. 2016. Licencia CC BY-SA 4.0. Tomada del archivo de [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=File:Psalm_XV_im_Salzburger_Dom.JPG&oldid=713040701).
