@@ -65,7 +65,13 @@ Grau Navarro, José Manuel. (1985, 8 de mayo). Campaña en Moscú contra la reco
 
 —. (1985, 9 de junio).  Veto a los disidentes en las parlamentarias húngaras. *ABC*. Madrid, p. 39. <https://www.abc.es/archivo/periodicos/abc-madrid-19850609-39.html>
 
-—. (1985, 14 de junio).  Olszowski minimiza en Viena el proceso de Gdańsk. *ABC*. Madrid, p. 33. <https://www.abc.es/archivo/periodicos/abc-madrid-19850614-33.html>
+—. (1985, 14 de junio).  [Olszowski](https://lotrives.github.io/1985/06/14/stefan-olszowski-fernando-moran/) minimiza en Viena el proceso de Gdańsk. *ABC*. Madrid, p. 33. <https://www.abc.es/archivo/periodicos/abc-madrid-19850614-33.html>
+
+—. (1985, 16 de junio).  Se endurece la represión en Polonia contra Solidaridad. *ABC*. Madrid, p. 37. <https://www.abc.es/archivo/periodicos/abc-madrid-19850616-37.html>
+
+—. (1985, 16 de junio).  La vida cultural y artística de Viena, en una magna exposición. *ABC*. Madrid, p. 50. <https://www.abc.es/archivo/periodicos/abc-madrid-19850616-50.html>
+
+
 
 —. (1985, 4 de julio). Viena exhibe una gran muestra de dibujos y grabados de Durero sobre la naturaleza. *ABC*. Madrid, p. 46. <https://www.abc.es/archivo/periodicos/abc-madrid-19850704-46.html>
 
