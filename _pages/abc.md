@@ -7,11 +7,14 @@ description: "Artículos publicados por José Manuel Grau Navarro (firmados como
 
 Artículos publicados por **José Manuel Grau Navarro** (firmados como **José Grau**) en *ABC* entre 1985 y 2013. Archivo en curso de elaboración.
 
-[1985](#1985) · [1986](#1986) · [1989](#1989) · [1990](#1990) · [1994](#1994) · [1997](#1997) · [1998](#1998) · [1999](#1999) · [2000](#2000) · [2001](#2001) · [2002](#2002) · [2003](#2003) · [2004](#2004) · [2005](#2005) · [2006](#2006) · [2009](#2009) · [2010](#2010) · [2011](#2011) · [2012](#2012)
+<p id="inicio">
+<a href="#1985">1985</a> · <a href="#1986">1986</a> · <a href="#1989">1989</a> · <a href="#1990">1990</a> · <a href="#1994">1994</a> · <a href="#1997">1997</a> · <a href="#1998">1998</a> · <a href="#1999">1999</a> · <a href="#2000">2000</a> · <a href="#2001">2001</a> · <a href="#2002">2002</a> · <a href="#2003">2003</a> · <a href="#2004">2004</a> · <a href="#2005">2005</a> · <a href="#2006">2006</a> · <a href="#2009">2009</a> · <a href="#2010">2010</a> · <a href="#2011">2011</a> · <a href="#2012">2012</a>
+</p>
 
 ---
 
-<h2 id="1985">1985</h2>
+<h2 id="1985">1985 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
+
 Grau Navarro, José Manuel. (1985, 25 de abril). Los nuevos nombramientos en el Politburó refuerzan el poder de la KGB en Moscú. *ABC*. Madrid, p. 36. <https://www.abc.es/archivo/periodicos/abc-madrid-19850425-36.html>
 
 Grau Navarro, José Manuel. (1985, 26 de abril). Primera «cumbre» del Pacto de Varsovia bajo la presidencia de Gorbachov. Extremas medidas de seguridad en la capital polaca. *ABC*. Madrid, p. 36. <https://www.abc.es/archivo/periodicos/abc-madrid-19850426-36.html>
@@ -56,12 +59,14 @@ Grau Navarro, José Manuel. (1985, 4 de julio). Viena exhibe una gran muestra de
 
 ---
 
-<h2 id="1986">1986</h2>
+<h2 id="1986">1986 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
+
 Grau Navarro, José Manuel. (1986, 7 de octubre). Constante aumento de la capacidad de convocatoria de la Iglesia en Polonia. *ABC*. Madrid, p. 46. <https://www.abc.es/archivo/periodicos/abc-madrid-19861007-36.html>
 
 ---
 
-<h2 id="1989">1989</h2>
+<h2 id="1989">1989 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
+
 Grau Navarro, José Manuel. (1989, 11 de enero). Károly Grósz anuncia la inminente retirada de tropas soviéticas de suelo húngaro. *ABC*. Madrid, p. 26. <https://www.abc.es/archivo/periodicos/abc-madrid-19890111-26.html>
 
 Grau Navarro, José Manuel. (1989, 14 de enero). El vicario regional del Opus Dei en Austria será nombrado obispo. *ABC*, p. 42. <https://www.abc.es/archivo/periodicos/abc-madrid-19890114-42.html>
@@ -82,7 +87,8 @@ Grau Navarro, José Manuel. (1989, 17 de diciembre). Mazowiecki presenta un plan
 
 ---
 
-<h2 id="1990">1990</h2>
+<h2 id="1990">1990 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
+
 Grau Navarro, José Manuel. (1990, 3 de enero). Entran en vigor en Polonia las medidas que dan vía libre a la economía de mercado. *ABC*. Sevilla, p. 22. <https://www.abc.es/archivo/periodicos/abc-sevilla-19900103-22.html>
 
 Grau Navarro, José Manuel. (1990, 7 de enero). El PC polaco se autodisuelve para reconvertirse en socialdemócrata. *ABC*. Madrid, p. 38. <https://www.abc.es/archivo/periodicos/abc-madrid-19900107-38.html>
@@ -183,21 +189,24 @@ Grau Navarro, José Manuel. (1990, 31 de marzo). Visita de Ordóñez a Polonia. 
 
 ---
 
-<h2 id="1994">1994</h2>
+<h2 id="1994">1994 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
+
 Grau Navarro, José Manuel. (1994, 5 de junio). Hitler no quiso ver la realidad de la invasión. Cincuenta años del Día D en Normandía. *ABC*. Madrid, pp. 84-85. <https://www.abc.es/archivo/periodicos/abc-madrid-19940605-84.html>
 
 Grau Navarro, José Manuel. (1994, 7 de agosto). Escándalo en Alemania: el mejor crítico literario trabajó para la inteligencia polaca. Marcel Reich-Ranicki: «Mi actividad no dañó a nadie». *ABC*, p. 30. <https://www.abc.es/archivo/periodicos/abc-sevilla-19940807-30.html>
 
 ---
 
-<h2 id="1997">1997</h2>
+<h2 id="1997">1997 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
+
 Grau Navarro, José Manuel. (1997, 10 de julio). Polonia: del pasado desolador al rico presente. *ABC*. Madrid, p. 33. <https://www.abc.es/archivo/periodicos/abc-madrid-19970710-33.html>
 
 Grau Navarro, José Manuel. (1997, 31 de agosto). ¿Por qué ahora las reclamaciones judías a Suiza? *ABC*. Madrid, p. 31. <https://www.abc.es/archivo/periodicos/abc-madrid-19970831-31.html>
 
 ---
 
-<h2 id="1998">1998</h2>
+<h2 id="1998">1998 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
+
 Grau Navarro, José Manuel. (1998, 12 de octubre). Primer examen al Gobierno polaco de centro-derecha. *ABC*. Madrid, p. 38. <https://www.abc.es/archivo/periodicos/abc-madrid-19981012-38.html>
 
 Grau Navarro, José Manuel. (1998, 30 de octubre). Entrevista a Yegor Stroyev, presidente del Senado ruso. «Si se celebran hoy elecciones presidenciales ganaría Primakov». *ABC*. Madrid, p. 38. <https://www.abc.es/archivo/periodicos/abc-madrid-19981030-38.html>
@@ -210,7 +219,8 @@ Grau Navarro, José Manuel. (1998, 3 de diciembre). Eslovaquia busca el apoyo de
 
 ---
 
-<h2 id="1999">1999</h2>
+<h2 id="1999">1999 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
+
 Grau Navarro, José Manuel. (1999, 21 de enero). Ingratitud [William Walker y Serbia]. *ABC*. Madrid, p. 29. <https://www.abc.es/archivo/periodicos/abc-madrid-19990121-29.html>
 
 Grau Navarro, José Manuel. (1999, 23 de enero). Manipulación [William Walker, matanza de albanokosovares]. *ABC*. Madrid, p. 30. <https://www.abc.es/archivo/periodicos/abc-madrid-19990123-30.html>
@@ -227,31 +237,36 @@ Grau Navarro, José Manuel. (1999, 24 de diciembre). Lorenzo Día. Luis del Olmo
 
 ---
 
-<h2 id="2000">2000</h2>
+<h2 id="2000">2000 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
+
 Grau Navarro, José Manuel. (2000, 8 de enero). Radio carcajada. *ABC Cultural*. Madrid, p. 26. <https://www.abc.es/archivo/periodicos/cultural-madrid-20000108-26.html>
 
 ---
 
-<h2 id="2001">2001</h2>
+<h2 id="2001">2001 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
+
 Grau Navarro, José Manuel. (2001, 5 de junio). «Ni yo ni mi Gobierno pensamos que España se opone a la ampliación». Jan Kułakowski. Plenipotenciario del Gobierno para la negociación con la UE. *ABC*. Madrid, p. 33. <https://www.abc.es/archivo/periodicos/abc-madrid-20010605-33.html>
 
 Grau Navarro, José Manuel. (2001, 11 de julio). El presidente polaco pide perdón por la matanza de judíos en Jedwabne. *ABC*. Madrid, p. 30. <https://www.abc.es/archivo/periodicos/abc-madrid-20010711-30.html>
 
 ---
 
-<h2 id="2002">2002</h2>
+<h2 id="2002">2002 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
+
 Grau Navarro, José Manuel. (2002, 18 de junio). Entrevista a Leszek Balcerowicz. Gobernador del Banco Central Polaco. «La ampliación de la Unión Europea es un buen negocio para las dos partes». *ABC*. Madrid, p. 20. <https://www.abc.es/archivo/periodicos/abc-madrid-20020618-20.html>
 
 ---
 
-<h2 id="2003">2003</h2>
+<h2 id="2003">2003 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
+
 Grau Navarro, José Manuel. (2003, 1 de octubre). Entrevista a Aleksander Kwaśniewski. Presidente de Polonia. «Varsovia reclamará la referencia cristiana en la Constitución europea». *ABC*. Madrid, p. 23. <https://www.abc.es/archivo/periodicos/abc-madrid-20031001-23.html>
 
 Grau Navarro, José Manuel. (2003, 26 de octubre). «La nación ha de ser independiente de la religión, raza o lengua de sus ciudadanos». Entrevista a Jürgen Habermas. Premio Príncipe de Asturias de Ciencias Sociales. *ABC*. Madrid, pp. 10-12. <https://www.abc.es/archivo/periodicos/abc-madrid-20031026-11.html>
 
 ---
 
-<h2 id="2004">2004</h2>
+<h2 id="2004">2004 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
+
 Grau Navarro, José Manuel. (2004, 28 de marzo). Entrevista a Claudio Magris. Escritor. «Europa es la medicina para dulcificar las diferencias nacionalistas». *ABC*. Madrid, pp. 10-12. <https://www.abc.es/archivo/periodicos/abc-madrid-20040328-10.html>
 
 Grau Navarro, José Manuel. (2004, 18 de abril). Entrevista a André Glucksmann. Filósofo y ensayista francés. «No se puede decir que, por el 11-M, la política exterior española haya sido mala». *ABC*. Madrid, pp. 10-12. <https://www.abc.es/archivo/periodicos/abc-madrid-20040418-10.html>
@@ -264,7 +279,8 @@ Grau Navarro, José Manuel. (2004, 4 de julio). Entrevista a Giovanni Sartori. C
 
 ---
 
-<h2 id="2005">2005</h2>
+<h2 id="2005">2005 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
+
 Grau Navarro, José Manuel. (2005, 3 de febrero). Entrevista a Ignacio Bosque. Catedrático de Lengua de la Universidad Complutense. Miembro de la Real Academia. «El peligro no son las jergas, sino el desinterés por el idioma». *ABC*. Madrid, pp. 56-57. <https://www.abc.es/archivo/periodicos/abc-madrid-20050203-56.html>
 
 Grau Navarro, José Manuel. (2005, 13 de febrero). Entrevista a Joachim Fest. Historiador, periodista. Autor de *El hundimiento*. «Los líderes de Europa son hombres sin formación histórica». *ABC*. Madrid, pp. 10-12. <https://www.abc.es/archivo/periodicos/abc-madrid-20050213-10.html>
@@ -289,19 +305,21 @@ Grau Navarro, José Manuel. (2005, 17 de julio). Lituania. Las mafias asedian la
 
 ---
 
-<h2 id="2006">2006</h2>
+<h2 id="2006">2006 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
+
 Grau Navarro, José Manuel. (2006, 8 de mayo). Entrevista a Juan Bautista Torelló Barenys. Psiquiatra. Teólogo. Experto en Freud. «La represión freudiana no tiene nada que ver con la continencia cristiana». *ABC*. Madrid, pp. 44-45. <https://www.abc.es/archivo/periodicos/abc-madrid-20060508-44.html>
 
 Grau Navarro, José Manuel. (2006, 23 de octubre). «Valió la pena luchar por la libertad». Hungría. 50.º aniversario de la revolución anticomunista. *ABC*. Madrid, pp. 26-27. <https://www.abc.es/archivo/periodicos/abc-madrid-20061023-26.html>
 
 ---
 
-<h2 id="2009">2009</h2>
+<h2 id="2009">2009 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
+
 Grau Navarro, José Manuel. (2009, 18 de septiembre). «Si significa que Obama da un giro radical a su política, me inquieta». Entrevista a Adam Michnik. Historiador. Director del diario polaco *Gazeta Wyborcza*. *ABC*. Madrid, p. 28. <https://www.abc.es/archivo/periodicos/abc-madrid-20090918-28.html>
 
 ---
 
-<h2 id="2010">2010</h2>
+<h2 id="2010">2010 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
 
 Grau Navarro, José Manuel. (2010, 10 de octubre). Hungría se pone en guardia ante un drama aún mayor. *ABC*. Madrid, p. 12. <https://www.abc.es/archivo/periodicos/abc-madrid-20101010-12.html>
 
@@ -309,19 +327,21 @@ Grau Navarro, José Manuel. (2010, 8 de diciembre). Entrevista a Miguel Ángel G
 
 ---
 
-<h2 id="2011">2011</h2>
+<h2 id="2011">2011 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
+
 Grau Navarro, José Manuel. (2011, 28 de septiembre). El Santander becará las prácticas a 5.000 estudiantes. *ABC*. Madrid, p. 51. <https://www.abc.es/archivo/periodicos/abc-madrid-20110928-51.html>
 
 ---
 
-<h2 id="2012">2012</h2>
+<h2 id="2012">2012 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
+
 Grau Navarro, José Manuel. (2012, 20 de marzo). El secretario personal del Papa, estrella en Múnich en la presentación de un libro homenaje a Benedicto XVI. *ABC*. <https://www.abc.es/sociedad/abci-papa-libro-homenaje-secretario-201203200000_noticia.html>
 
 Grau Navarro, José Manuel. (2012, 12 de abril). «Prominentes sobre el Papa», un regalo a Benedicto XVI por su cumpleaños. *ABC*. <https://www.abc.es/sociedad/abci-papa-libro-homenaje-cumpleanos-201204130000_noticia.html>
 
 Grau Navarro, José Manuel. (2012, 25 de abril). *L'Osservatore Romano* lanza un libro sobre Ratzinger como teólogo y Papa. *ABC*. <https://www.abc.es/sociedad/abci-ratzinger-libro-papa-201204250000_noticia.html>
 
-Grau Navarro, José Manuel. (2012, 23 de mayo). Todos los que iban con camisetas verdes antes, hoy han trabajado. *ABC*. Madrid, p. 20.  <https://www.abc.es/archivo/periodicos/abc-madrid-20120523-20.html>
+Grau Navarro, José Manuel. (2012, 23 de mayo). Todos los que iban con camisetas verdes antes, hoy han trabajado. *ABC*. Madrid, p. 20. <https://www.abc.es/archivo/periodicos/abc-madrid-20120523-20.html>
 
 Grau Navarro, José Manuel. (2012, 25 de septiembre). El método de los grandes libros, una alternativa universitaria en los EE.UU. *ABC*. <https://www.abc.es/sociedad/abci-ensenanza-universidad-metodo-libros-201209250000_noticia.html>
 
