@@ -17,45 +17,57 @@ Artículos publicados por **José Manuel Grau Navarro** (firmados como **José G
 
 Grau Navarro, José Manuel. (1985, 25 de abril). Los nuevos nombramientos en el Politburó refuerzan el poder de la KGB en Moscú. *ABC*. Madrid, p. 36. <https://www.abc.es/archivo/periodicos/abc-madrid-19850425-36.html>
 
-Grau Navarro, José Manuel. (1985, 26 de abril). Primera «cumbre» del Pacto de Varsovia bajo la presidencia de Gorbachov. Extremas medidas de seguridad en la capital polaca. *ABC*. Madrid, p. 36. <https://www.abc.es/archivo/periodicos/abc-madrid-19850426-36.html>
+—. (1985, 26 de abril). Primera «cumbre» del Pacto de Varsovia bajo la presidencia de Gorbachov. Extremas medidas de seguridad en la capital polaca. *ABC*. Madrid, p. 36. <https://www.abc.es/archivo/periodicos/abc-madrid-19850426-36.html>
 
-Grau Navarro, José Manuel. (1985, 27 de abril). Los siete países miembros acuerdan la prórroga del Tratado por veinte años más. [Cumbre del Pacto de Varsovia]. *ABC*. Madrid, p. 28. <https://www.abc.es/archivo/periodicos/abc-madrid-19850427-28.html>
+—. (1985, 27 de abril). Los siete países miembros acuerdan la prórroga del Tratado por veinte años más. [Cumbre del Pacto de Varsovia]. *ABC*. Madrid, p. 28. <https://www.abc.es/archivo/periodicos/abc-madrid-19850427-28.html>
 
-Grau Navarro, José Manuel. (1985, 30 de abril). Pleno apoyo económico y político de Moscú a Managua. *ABC*. Madrid, p. 29. <https://www.abc.es/archivo/periodicos/abc-madrid-19850430-29.html>
+—. (1985, 30 de abril). Pleno apoyo económico y político de Moscú a Managua. *ABC*. Madrid, p. 29. <https://www.abc.es/archivo/periodicos/abc-madrid-19850430-29.html>
 
-Grau Navarro, José Manuel. (1985, 1 de mayo). Se abre una nueva etapa en el apoyo soviético a Managua. *ABC*. Madrid, p. 25. <https://www.abc.es/archivo/periodicos/abc-madrid-19850501-25.html>
+—. (1985, 1 de mayo). Se abre una nueva etapa en el apoyo soviético a Managua. *ABC*. Madrid, p. 25. <https://www.abc.es/archivo/periodicos/abc-madrid-19850501-25.html>
 
-Grau Navarro, José Manuel. (1985, 2 de mayo). Violenta represión en Varsovia de la protesta de Solidaridad. *ABC*. Madrid, p. 31. <https://www.abc.es/archivo/periodicos/abc-madrid-19850502-31.html>
+—. (1985, 2 de mayo). Violenta represión en Varsovia de la protesta de Solidaridad. *ABC*. Madrid, p. 31. <https://www.abc.es/archivo/periodicos/abc-madrid-19850502-31.html>
 
-Grau Navarro, José Manuel. (1985, 3 de mayo). Aumenta el malestar en Serbia y Croacia contra el Gobierno central yugoslavo. *ABC*. Madrid, p. 29. <https://www.abc.es/archivo/periodicos/abc-madrid-19850503-29.html>
+—. (1985, 3 de mayo). Aumenta el malestar en Serbia y Croacia contra el Gobierno central yugoslavo. *ABC*. Madrid, p. 29. <https://www.abc.es/archivo/periodicos/abc-madrid-19850503-29.html>
 
-Grau Navarro, José Manuel. (1985, 7 de mayo). Praga, nueva etapa en la gira de Ortega por la Europa del Este. *ABC*. Madrid, p. 25.
+—. (1985, 7 de mayo). Praga, nueva etapa en la gira de Ortega por la Europa del Este. *ABC*. Madrid, p. 25.
 
 Grau Navarro, José Manuel. (1985, 8 de mayo). Campaña en Moscú contra la reconciliación EE. UU.-RFA. Cuarenta años después de la Gran Guerra. *ABC*. Madrid, p. 30. <https://www.abc.es/archivo/periodicos/abc-madrid-19850508-30.html>
 
-Grau Navarro, José Manuel. (1985, 9 de mayo). Destacado homenaje de Gorbachov a Stalin en Moscú. *ABC*. Madrid, p. 32. <https://www.abc.es/archivo/periodicos/abc-madrid-19850509-32.html>
+—. (1985, 9 de mayo). Destacado homenaje de Gorbachov a Stalin en Moscú. *ABC*. Madrid, p. 32. <https://www.abc.es/archivo/periodicos/abc-madrid-19850509-32.html>
 
-Grau Navarro, José Manuel. (1985, 10 de mayo). Primera aparición de los SS-21 en el desfile de la Plaza Roja. *ABC*. Madrid, p. 31. <https://www.abc.es/archivo/periodicos/abc-madrid-19850510-31.html>
+—. (1985, 10 de mayo). Primera aparición de los SS-21 en el desfile de la Plaza Roja. *ABC*. Madrid, p. 31. <https://www.abc.es/archivo/periodicos/abc-madrid-19850510-31.html>
 
-Grau Navarro, José Manuel. (1985, 13 de mayo). Últimos preparativos en Viena para el encuentro URSS-EE. UU. *ABC*. Madrid, p. 23. <https://www.abc.es/archivo/periodicos/abc-madrid-19850513-23.html>
+—. (1985, 13 de mayo). Últimos preparativos en Viena para el encuentro URSS-EE. UU. *ABC*. Madrid, p. 23. <https://www.abc.es/archivo/periodicos/abc-madrid-19850513-23.html>
 
-Grau Navarro, José Manuel. (1985, 14 de mayo). Expectación en Viena ante el encuentro Shultz-Gromyko. *ABC*. Madrid, p. 32. <https://www.abc.es/archivo/periodicos/abc-madrid-19850514-32.html>
+—. (1985, 14 de mayo). Expectación en Viena ante el encuentro Shultz-Gromyko. *ABC*. Madrid, p. 32. <https://www.abc.es/archivo/periodicos/abc-madrid-19850514-32.html>
 
-Grau Navarro, José Manuel. (1985, 15 de mayo). Shultz y Gromyko no llegaron a un acuerdo sustancial en su reunión. *ABC*. Madrid, p. 27. <https://www.abc.es/archivo/periodicos/abc-madrid-19850515-27.html>
+—. (1985, 15 de mayo). Shultz y Gromyko no llegaron a un acuerdo sustancial en su reunión. *ABC*. Madrid, p. 27. <https://www.abc.es/archivo/periodicos/abc-madrid-19850515-27.html>
 
-Grau Navarro, José Manuel. (1985, 16 de mayo). Conmemoración en Viena de la firma del Tratado de Estado. *ABC*. Madrid, p. 37. <https://www.abc.es/archivo/periodicos/abc-madrid-19850516-37.html>
+—. (1985, 16 de mayo). Conmemoración en Viena de la firma del Tratado de Estado. *ABC*. Madrid, p. 37. <https://www.abc.es/archivo/periodicos/abc-madrid-19850516-37.html>
 
-Grau Navarro, José Manuel. (1985, 16 de mayo). Imprevista visita de Mijaíl Gorbachov a Leningrado. *ABC*. Madrid, p. 37. <https://www.abc.es/archivo/periodicos/abc-madrid-19850516-37.html>
+—. (1985, 16 de mayo). Imprevista visita de Mijaíl Gorbachov a Leningrado. *ABC*. Madrid, p. 37. <https://www.abc.es/archivo/periodicos/abc-madrid-19850516-37.html>
 
-Grau Navarro, José Manuel. (1985, 17 de mayo). Intensos contactos de Oreja durante su estancia en Viena. *ABC*. Madrid, p. 34. <https://www.abc.es/archivo/periodicos/abc-madrid-19850517-34.html>
+—. (1985, 17 de mayo). Intensos contactos de Oreja durante su estancia en Viena. *ABC*. Madrid, p. 34. <https://www.abc.es/archivo/periodicos/abc-madrid-19850517-34.html>
 
-Grau Navarro, José Manuel. (1985, 20 de mayo). Enérgica campaña en la URSS contra el alcoholismo. *ABC*. Madrid, p. 24. <https://www.abc.es/archivo/periodicos/abc-madrid-19850520-24.html>
+—. (1985, 20 de mayo). Enérgica campaña en la URSS contra el alcoholismo. *ABC*. Madrid, p. 24. <https://www.abc.es/archivo/periodicos/abc-madrid-19850520-24.html>
 
-Grau Navarro, José Manuel. (1985, 24 de mayo). Procesados en Gdansk tres dirigentes de Solidaridad. *ABC*. Madrid, p. 45. <https://www.abc.es/archivo/periodicos/abc-madrid-19850524-45.html>
+—. (1985, 24 de mayo). Procesados en Gdansk tres dirigentes de Solidaridad. *ABC*. Madrid, p. 45. <https://www.abc.es/archivo/periodicos/abc-madrid-19850524-45.html>
 
-Grau Navarro, José Manuel. (1985, 25 de mayo). Aplazado el juicio de Gdansk ante la delicada salud de Michnik. Detenidos varios miembros de Solidaridad. *ABC*. Madrid, p. 33. <https://www.abc.es/archivo/periodicos/abc-madrid-19850525-33.html>
+—. (1985, 25 de mayo). Aplazado el juicio de Gdansk ante la delicada salud de Michnik. Detenidos varios miembros de Solidaridad. *ABC*. Madrid, p. 33. <https://www.abc.es/archivo/periodicos/abc-madrid-19850525-33.html>
 
-Grau Navarro, José Manuel. (1985, 4 de julio). Viena exhibe una gran muestra de dibujos y grabados de Durero sobre la naturaleza. *ABC*. Madrid, p. 46. <https://www.abc.es/archivo/periodicos/abc-madrid-19850704-46.html>
+—. (1985, 5 de junio). Expectación en Moscú ante la reunión del Soviet Supremo. *ABC*. Madrid, p. 38. <https://www.abc.es/archivo/periodicos/abc-madrid-19850605-38.html>
+
+—. (1985, 5 de junio).  Wałęsa, enfermo, no compareció en el proceso de Gdańsk. *ABC*. Madrid, p. 40. <https://www.abc.es/archivo/periodicos/abc-madrid-19850605-40.html>
+
+—. (1985, 6 de junio).  Numerosas denuncias de corrupción en la Universidad soviética. *ABC*. Madrid, p. 31. <https://www.abc.es/archivo/periodicos/abc-madrid-19850606-31.html>
+
+—. (1985, 7 de junio).  Kohl destaca en Belgrado la importancia de la estabilidad de Yugoslavia para Europa. *ABC*. Madrid, p. 37. <https://www.abc.es/archivo/periodicos/abc-madrid-19850607-37.html>
+
+—. (1985, 9 de junio).  Veto a los disidentes en las parlamentarias húngaras. *ABC*. Madrid, p. 39. <https://www.abc.es/archivo/periodicos/abc-madrid-19850609-39.html>
+
+—. (1985, 14 de junio).  Olszowski minimiza en Viena el proceso de Gdańsk. *ABC*. Madrid, p. 33. <https://www.abc.es/archivo/periodicos/abc-madrid-19850614-33.html>
+
+—. (1985, 4 de julio). Viena exhibe una gran muestra de dibujos y grabados de Durero sobre la naturaleza. *ABC*. Madrid, p. 46. <https://www.abc.es/archivo/periodicos/abc-madrid-19850704-46.html>
 
 ---
 
