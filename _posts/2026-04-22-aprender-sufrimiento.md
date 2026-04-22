@@ -2,7 +2,7 @@
 layout: post
 title: "Aprender del sufrimiento. Arthur Brooks actualiza a Carl Gustav Jung"
 date: 2026-04-22
-tags: ["Arthur Brooks", "Carl Gustav Jung", Sufrimiento, Dolor]
+tags: ["Arthur Brooks", "Carl Gustav Jung", Sufrimiento, Dolor, Lecturas]
 description: "En la terapia junguiana se trata de aprender del dolor y de lo vivido para comprender hasta qué punto nos engaña, según Brooks."
 image: "/assets/images/aprender-sufrimiento-portada.webp"
 ---
