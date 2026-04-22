@@ -18,11 +18,11 @@ Sobre la base de los últimos datos científicos, Brooks ofrece estrategias para
 
 **Zelda Caldwell** ha entrevistado recientemente a Arthur Brooks en *National Catholic Register* y entre otras cuestiones le [ha preguntado](https://www.ncregister.com/interview/arthur-brooks-on-how-to-find-meaning-and-happiness) por el enfoque psicológico del sufrimiento. La respuesta de Brooks ha sido la siguiente:
 
-> *«En la terapia junguiana, en particular, se trata realmente de aprender de las experiencias. **No se trata de eliminar el dolor, sino de aprender de él**. De aprender de la experiencia que se está viviendo y de comprender **hasta qué punto nos engaña**. El problema es que la mayoría de la psicología en realidad no va en esa dirección. La psicología clínica marcha en una dirección diferente: intenta eliminar el sufrimiento. Y la verdad es que las formas más antiguas [como la junguiana] son muy buenas. Muchas son excelentes*.
+> «En la terapia junguiana, en particular, se trata realmente de aprender de las experiencias. **No se trata de eliminar el dolor, sino de aprender de él**. De aprender de la experiencia que se está viviendo y de comprender **hasta qué punto nos engaña**. El problema es que la mayoría de la psicología en realidad no va en esa dirección. La psicología clínica marcha en una dirección diferente: intenta eliminar el sufrimiento. Y la verdad es que las formas más antiguas [como la junguiana] son muy buenas. Muchas son excelentes.
 > 
-> *»**Los psiquiatras son en gran medida dispensadores de recetas**, no porque quieran serlo, sino porque no tienen tiempo para escuchar realmente a los pacientes. Es **una profesión muy medicalizada**, muy farmacéutica en este punto en particular. Ahora bien, la creencia de que cualquier tipo de incomodidad mental es evidencia de un desequilibrio químico, se está convirtiendo en una visión anacrónica. Y creo que dentro de 20 años, lo veremos de manera completamente diferente a como lo vemos hoy»*.
+> »**Los psiquiatras son en gran medida dispensadores de recetas**, no porque quieran serlo, sino porque no tienen tiempo para escuchar realmente a los pacientes. Es **una profesión muy medicalizada**, muy farmacéutica en este punto en particular. Ahora bien, la creencia de que cualquier tipo de incomodidad mental es evidencia de un desequilibrio químico, se está convirtiendo en una visión anacrónica. Y creo que dentro de 20 años, lo veremos de manera completamente diferente a como lo vemos hoy».
 >
->—*Arthur Brooks*
+>—Arthur Brooks
 
 
 #### Observaciones
