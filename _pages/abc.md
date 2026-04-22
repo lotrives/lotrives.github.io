@@ -65,7 +65,7 @@ Grau Navarro, José Manuel. (1985, 25 de abril). [Los nuevos nombramientos en el
 
 —. (1985, 9 de junio).  [Veto a los disidentes en las parlamentarias húngaras.](https://www.abc.es/archivo/periodicos/abc-madrid-19850609-39.html) *ABC*. Madrid, p. 39.
 
-—. (1985, 14 de junio).  [Olszowski minimiza en Viena el proceso de Gdańsk.](https://www.abc.es/archivo/periodicos/abc-madrid-19850614-33.html) *ABC*. Madrid, p. 33.
+—. (1985, 14 de junio).  [Olszowski minimiza en Viena el proceso de Gdańsk.](https://www.abc.es/archivo/periodicos/abc-madrid-19850614-33.html) *ABC*. Madrid, p. 33. Véase también [aquí](https://lotrives.github.io/1985/06/14/stefan-olszowski-fernando-moran/).
 
 —. (1985, 16 de junio).  [Se endurece la represión en Polonia contra Solidaridad.](https://www.abc.es/archivo/periodicos/abc-madrid-19850616-37.html) *ABC*. Madrid, p. 37.
 
