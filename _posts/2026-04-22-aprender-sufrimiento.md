@@ -7,7 +7,7 @@ description: "En la terapia junguiana se trata de aprender del dolor y de lo viv
 image: "/assets/images/aprender-sufrimiento-portada.webp"
 ---
 
-![*El niño enfermo* (1885-6). Óleo de Edvard Munch (1863–1944). NG.M.00839. National Museum of Art, Architecture and Design (Oslo). Dominio público. Archivo de [Wikimedia Commons]({{ "/assets/images/aprender-sufrimiento-portada.webp" | relative_url }})
+![El niño enfermo. Óleo de Edvard Munch. National Museum of Art, Architecture and Design. Dominio público. Archivo de [Wikimedia Commons]({{ "/assets/images/aprender-sufrimiento-portada.webp" | relative_url }})
 
 
 **Arthur Brooks**, profesor en la Universidad de Harvard y  autor de superventas, es también un católico practicante. Su última obra (2026) se llama *[The Meaning of Your Life](https://www.arthurbrooks.com/the-meaning-of-your-life)
