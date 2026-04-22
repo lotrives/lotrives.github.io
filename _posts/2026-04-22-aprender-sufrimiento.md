@@ -10,12 +10,11 @@ image: "/assets/images/aprender-sufrimiento-portada.webp"
 ![El niño enfermo. Óleo de Edvard Munch. National Museum of Art, Architecture and Design. Dominio público. Vía Wikimedia Commons]({{ "/assets/images/aprender-sufrimiento-portada.webp" | relative_url }})
 
 
-**Arthur Brooks**, profesor en la Universidad de Harvard y  autor de superventas, es también un católico practicante. Su última obra (2026) se llama *[The Meaning of Your Life](https://www.arthurbrooks.com/the-meaning-of-your-life)
-Finding Purpose in an Age of Emptiness* ('El significado de la vida. Encontrar un propósito en una era de vacío').
+**Arthur Brooks**, profesor en la Universidad de Harvard y  autor de superventas, es también un católico practicante. Su última obra (2026) se llama *[The Meaning of Your Life](https://www.arthurbrooks.com/the-meaning-of-your-life). Finding Purpose in an Age of Emptiness* ('El significado de la vida. Encontrar un propósito en una era de vacío').
 
 Millones de personas experimentan hoy una creciente sensación de falta de propósito y significado. Todo es vano y vanidad de vanidades. Según Brooks, las razones de ese malestar son los rápidos cambios culturales, económicos y tecnológicos que han modificado nuestro cerebro y han reducido su capacidad para percibir profundidad y propósito.
 
-Sobre la base de los últimos datos científicos, Brooks ofrece estrategias para liberarse de hábitos personales que dificultan centrarse en el propósito de la vida. Inspirándose en grandes filósofos y en las tradiciones religiosas del mundo, muestra que todos podemos y debemos abordar las preguntas más importantes y misteriosas de la vida, para desembocar en una vida de trascendencia espiritual, amor y verdadera vocación. Antes o después. El orden no es lo decisivo, sino hacerlo.
+Sobre la base de los últimos datos científicos, Brooks ofrece estrategias para liberarse de hábitos personales que dificultan centrarse en el propósito de la vida. Inspirándose en grandes filósofos y en las tradiciones religiosas del mundo, muestra que todos podemos y debemos abordar las preguntas más importantes y misteriosas, para desembocar en una vida de trascendencia espiritual, amor y verdadera vocación. Antes o después. El orden no es lo decisivo, sino hacerlo.
 
 **Zelda Caldwell** ha entrevistado recientemente a Arthur Brooks en *National Catholic Register* y entre otras cuestiones le [ha preguntado](https://www.ncregister.com/interview/arthur-brooks-on-how-to-find-meaning-and-happiness) por el enfoque psicológico del sufrimiento. La respuesta de Brooks ha sido la siguiente:
 
@@ -24,7 +23,8 @@ Sobre la base de los últimos datos científicos, Brooks ofrece estrategias para
 > *»**Los psiquiatras son en gran medida dispensadores de recetas**, no porque quieran serlo, sino porque no tienen tiempo para escuchar realmente a los pacientes. Es **una profesión muy medicalizada**, muy farmacéutica en este punto en particular. Ahora bien, la creencia de que cualquier tipo de incomodidad mental es evidencia de un desequilibrio químico, se está convirtiendo en una visión anacrónica. Y creo que dentro de 20 años, lo veremos de manera completamente diferente a como lo vemos hoy»*.
 >
 >—*Arthur Brooks*
->
+
+
 #### Observaciones
 
 * Se dice *[terapia junguiana](https://www.psychologytoday.com/es/tipos-de-terapia/terapia-junguiana)* en castellano, pero también *psicología analítica*, *análisis junguiano* y *psicoterapia analítica*. 
