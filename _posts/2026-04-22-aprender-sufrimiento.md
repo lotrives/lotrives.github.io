@@ -10,7 +10,7 @@ image: "/assets/images/aprender-sufrimiento-portada.webp"
 ![El niño enfermo. Óleo de Edvard Munch. National Museum of Art, Architecture and Design. Dominio público. Vía Wikimedia Commons]({{ "/assets/images/aprender-sufrimiento-portada.webp" | relative_url }})
 
 
-**Arthur Brooks**, profesor en la Universidad de Harvard y  autor de superventas, es también un católico practicante. Su última obra (2026) se llama *[The Meaning of Your Life](https://www.arthurbrooks.com/the-meaning-of-your-life). Finding Purpose in an Age of Emptiness* ('El significado de la vida. Encontrar un propósito en una era de vacío').
+**Arthur Brooks**, profesor en la Universidad de Harvard y  autor de superventas, es también un católico practicante. Su última obra (2026) se llama *[The Meaning of Your Life](https://www.arthurbrooks.com/the-meaning-of-your-life). Finding Purpose in an Age of Emptiness* ('El significado de la vida. Encontrar propósito en una era de vacío').
 
 Millones de personas experimentan hoy una creciente sensación de falta de propósito y significado. Todo es vano y vanidad de vanidades. Según Brooks, las razones de ese malestar son los rápidos cambios culturales, económicos y tecnológicos que han modificado nuestro cerebro y han reducido su capacidad para percibir profundidad y propósito.
 
