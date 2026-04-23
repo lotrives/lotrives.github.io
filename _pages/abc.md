@@ -109,8 +109,29 @@ Grau Navarro, José Manuel. (1987, 2 de enero). El Comité Central del Partido C
 
 —. (1987, 30 de enero). [La OTAN y el Pacto de Varsovia reanudan el diálogo en Viena](https://www.abc.es/archivo/periodicos/abc-madrid-19870130-25.html). *ABC*. Madrid, p. 25.
 
+—. (1987, 31 de enero). [Checoslovaquia, en vísperas de remodelaciones de Gobierno](https://www.abc.es/archivo/periodicos/abc-madrid-19870131-28.html). *ABC*. Madrid, p. 28.
 
+—. (1987, 3 de febrero). [Panfletos en Bucarest piden la dimisión de Ceaucescu](https://www.abc.es/archivo/periodicos/abc-madrid-19870203-30.html). *ABC*. Madrid, p. 30.
 
+—. (1987, 6 de febrero). [La URSS trata de imponer el estilo Gorbachov al PC checo](https://www.abc.es/archivo/periodicos/abc-madrid-19870206-31.html). *ABC*. Madrid, p. 31.
+
+—. (1987, 9 de febrero). [Ningún cambio en el régimen albanés tras las elecciones](https://www.abc.es/archivo/periodicos/abc-madrid-19870209-22.html). *ABC*. Madrid, p. 22.
+
+—. (1987, 11 de febrero). [Graves conflictos en Hungría entre el partido y los escritores](https://www.abc.es/archivo/periodicos/abc-madrid-19870211-47.html). *ABC*. Madrid, p. 47.
+
+—. (1987, 13 de febrero). [La otra cara de Bertolt Brecht: un cínico egocéntrico que utilizaba a las mujeres](https://www.abc.es/archivo/periodicos/abc-madrid-19870213-39.html). *ABC*. Madrid, p. 39.
+
+—. (1987, 22 de febrero). [Ceaucescu se rebela contra el «heterodoxo» Gorbachov](https://www.abc.es/archivo/periodicos/abc-madrid-19870222-34.html). *ABC*. Madrid, p. 34.
+
+—. (1987, 3 de marzo). [Segunda reunión OTAN-Pacto de Varsovia en Viena sobre armamento convencional](https://www.abc.es/archivo/periodicos/abc-madrid-19870303-30.html). *ABC*. Madrid, p. 30.
+
+—. (1987, 3 de marzo). [La interrupción del embarazo provoca una vida depresiva](https://www.abc.es/archivo/periodicos/abc-madrid-19870303-39.html). *ABC*. Madrid, p. 39.
+
+—. (1987, 8 de marzo). [Moscú vuelve a enviar a Siberia a un sacerdote lituano](https://www.abc.es/archivo/periodicos/abc-madrid-19870308-43.html). *ABC*. Madrid, p. 43.
+
+—. (1987, 8 de marzo). [Los católicos ucranianos reivindican su participación en la evangelización rusa](https://www.abc.es/archivo/periodicos/abc-madrid-19870308-58.html). *ABC*. Madrid, p. 58.
+
+—. (1987, 10 de marzo). [Tercera reunión en Viena sobre armamento convencional](https://www.abc.es/archivo/periodicos/abc-madrid-19870310-27.html). *ABC*. Madrid, p. 27.
 
 ---
 
