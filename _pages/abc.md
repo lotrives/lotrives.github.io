@@ -8,7 +8,7 @@ description: "Artículos publicados por José Manuel Grau Navarro (firmados como
 Artículos publicados por **José Manuel Grau Navarro** (firmados como **José Grau**) en *ABC* entre 1985 y 2013. Archivo en curso de elaboración.
 
 <p id="inicio">
-<a href="#1985">1985</a> · <a href="#1986">1986</a> · <a href="#1989">1989</a> · <a href="#1990">1990</a> · <a href="#1994">1994</a> · <a href="#1997">1997</a> · <a href="#1998">1998</a> · <a href="#1999">1999</a> · <a href="#2000">2000</a> · <a href="#2001">2001</a> · <a href="#2002">2002</a> · <a href="#2003">2003</a> · <a href="#2004">2004</a> · <a href="#2005">2005</a> · <a href="#2006">2006</a> · <a href="#2009">2009</a> · <a href="#2010">2010</a> · <a href="#2011">2011</a> · <a href="#2012">2012</a>
+<a href="#1985">1985</a> · <a href="#1986">1986</a> · <a href="#1986">1987</a> · <a href="#1989">1989</a> · <a href="#1990">1990</a> · <a href="#1994">1994</a> · <a href="#1997">1997</a> · <a href="#1998">1998</a> · <a href="#1999">1999</a> · <a href="#2000">2000</a> · <a href="#2001">2001</a> · <a href="#2002">2002</a> · <a href="#2003">2003</a> · <a href="#2004">2004</a> · <a href="#2005">2005</a> · <a href="#2006">2006</a> · <a href="#2009">2009</a> · <a href="#2010">2010</a> · <a href="#2011">2011</a> · <a href="#2012">2012</a>
 </p>
 
 ---
@@ -80,6 +80,37 @@ Grau Navarro, José Manuel. (1985, 25 de abril). [Los nuevos nombramientos en el
 <h2 id="1986">1986 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
 
 Grau Navarro, José Manuel. (1986, 7 de octubre). [Constante aumento de la capacidad de convocatoria de la Iglesia en Polonia.](https://www.abc.es/archivo/periodicos/abc-madrid-19861007-36.html) *ABC*. Madrid, p. 46.
+
+---
+
+<h2 id="1987">1987 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
+
+Grau Navarro, José Manuel. (1987, 2 de enero). El Comité Central del Partido Comunista húngaro se decide por la remodelación. *ABC*. Madrid, p. 33.
+
+—. (1987, 7 de enero). [Crisis de identidad nacional en Yugoslavia por la Navidad](https://www.abc.es/archivo/periodicos/abc-madrid-19870107-24.html). *ABC*. Madrid, p. 24.
+
+—. (1987, 12 de enero). [Dürrenmatt: «La cultura, vencida por las corrientes de moda, se ha vuelto ineficaz»](https://www.abc.es/archivo/periodicos/abc-madrid-19870112-29.html). *ABC*. Madrid, p. 29.
+
+—. (1987, 13 de enero). [La nieve obstaculiza el tráfico](https://www.abc.es/archivo/periodicos/abc-madrid-19870113-30.html). *ABC*. Madrid, p. 30.
+
+—. (1987, 15 de enero). [Oskar Kokoschka y «Der Sturm», una intensa relación creadora](https://www.abc.es/archivo/periodicos/abc-madrid-19870115-45.html). *ABC*. Madrid, p. 45.
+
+—. (1987, 16 de enero). [Dimite Kreisky, presidente del Partido Socialista austriaco](https://www.abc.es/archivo/periodicos/abc-madrid-19870116-30.html). *ABC*. Madrid, p. 30. 
+
+—. (1987, 22 de enero). [Austria ha constituido nuevo Gobierno de coalición](https://www.abc.es/archivo/periodicos/abc-madrid-19870122-29.html). *ABC*. Madrid, p. 29.
+
+—. (1987, 23 de enero). [García Navarro, entre el Falstaff de Verdi y los bombones Mozart](https://www.abc.es/archivo/periodicos/abc-madrid-19870123-77.html). *ABC*. Madrid, p. 77.
+
+—. (1987, 26 de enero). [Austria: «Las Cámaras, piezas claves en el consenso social»](https://www.abc.es/archivo/periodicos/abc-madrid-19870126-38.html). *ABC*. Madrid, p. 38.
+
+—. (1987, 27 de enero). [La OTAN propondrá a la URSS nuevas negociaciones de desarme convencional](https://www.abc.es/archivo/periodicos/abc-madrid-19870127-22.html). *ABC*. Madrid, p. 22.
+
+—. (1987, 28 de enero). [El Museo de Arte de Viena enriquece sus fondos con un «San Miguel» de Murillo](https://www.abc.es/archivo/periodicos/abc-madrid-19870128-43.html). *ABC*. Madrid, p. 43.
+
+—. (1987, 30 de enero). [La OTAN y el Pacto de Varsovia reanudan el diálogo en Viena](https://www.abc.es/archivo/periodicos/abc-madrid-19870130-25.html). *ABC*. Madrid, p. 25.
+
+
+
 
 ---
 
