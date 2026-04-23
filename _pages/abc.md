@@ -133,6 +133,59 @@ Grau Navarro, José Manuel. (1987, 2 de enero). El Comité Central del Partido C
 
 —. (1987, 10 de marzo). [Tercera reunión en Viena sobre armamento convencional](https://www.abc.es/archivo/periodicos/abc-madrid-19870310-27.html). *ABC*. Madrid, p. 27.
 
+—. (1987, 10 de marzo). [Budapest denuncia la «represión» que vive la minoría húngara en Rumania](https://www.abc.es/archivo/periodicos/abc-madrid-19870310-29.html). *ABC*. Madrid, p. 29.
+
+—. (1987, 11 de marzo). [El juicio de Praga contra músicos de «jazz», golpe bajo a «los nuevos aires»](https://www.abc.es/archivo/periodicos/abc-madrid-19870311-71.html). *ABC*. Madrid, p. 71. 
+
+—. (1987, 16 de marzo). [Huelga de hambre del líder de los católicos ucranianos](https://www.abc.es/archivo/periodicos/abc-madrid-19870316-27.html). *ABC*. Madrid, p. 27.
+
+—. (1987, 24 de marzo). [Belgrado rectifica su política ante la ola de protestas](https://www.abc.es/archivo/periodicos/abc-madrid-19870324-30.html). *ABC*. Madrid, p. 30.
+
+—. (1987, 26 de marzo). [Belgrado, decidido a aplicar medidas contra las huelgas](https://www.abc.es/archivo/periodicos/abc-madrid-19870326-35.html). *ABC*. Madrid, p. 35.
+
+—. (1987, 30 de marzo). Austria desearía, a pesar de la URSS, ingresar en la CEE. *ABC*, p. 26.
+
+—. (1987, 4 de abril). [«Mientras existan ejércitos las mujeres deben compartir las obligaciones»](https://www.abc.es/archivo/periodicos/abc-madrid-19870404-34.html). Carlota Bustelo informa en la ONU sobre la condición femenina. *ABC*. Madrid, p. 34.
+
+—. (1987, 6 de abril). [Austria: El prestigio español, dañado](https://www.abc.es/archivo/periodicos/abc-madrid-19870406-48.html). *ABC*. Madrid, p. 48.
+
+—. (1987, 7 de abril). [Gorbachov retrasa unos días su viaje a Checoslovaquia](https://www.abc.es/archivo/periodicos/abc-madrid-19870407-30.html). *ABC*. Madrid, p. 30.
+
+—. (1987, 10 de abril). [Expectación en el Este tras la llegada de Gorbachov a Praga](https://www.abc.es/archivo/periodicos/abc-madrid-19870410-29.html). *ABC*. Madrid, p. 29.
+
+—. (1987, 11 de abril). [Las tropas rusas seguirán situadas en Checoslovaquia](https://www.abc.es/archivo/periodicos/abc-madrid-19870411-27.html). Moscú deja de fabricar armas químicas. *ABC*. Madrid, p. 27.
+
+—. (1987, 12 de abril). [Crisis de identidad desde la jubilación de Bruno Kreisky](https://www.abc.es/archivo/periodicos/abc-madrid-19870412-37.html). *ABC*. Madrid, p. 37.
+
+—. (1987, 12 de abril). [«Genio, locura y fama», un viejo ensayo pone sobre el tapete el mito del artista enfermo](https://www.abc.es/archivo/periodicos/abc-madrid-19870412-49.html). ABC. Madrid, p. 49.
+
+—. (1987, 12 de abril). [Gorbachov adelanta su regreso a la URSS desde Checoslovaquia](https://www.abc.es/archivo/periodicos/abc-madrid-19870412-33.html). *ABC*. Madrid, p. 33.
+
+—. (1987, 14 de abril). [Expertos de EE UU, de Japón y de la URSS intentan construir un reactor termonuclear de fusión](https://www.abc.es/archivo/periodicos/abc-madrid-19870414-48.html). *ABC*. Madrid, p. 48.
+
+—. (1987, 15 de abril). [Los diarios de Arthur Schnitzler, feroz radiografía de la Viena de entreguerras](https://www.abc.es/archivo/periodicos/abc-madrid-19870415-42.html). *ABC*. Madrid, p. 42.
+
+—. (1987, 15 de abril). [Fuerte polémica en Austria tras el nombramiento de un obispo auxiliar de Viena](https://www.abc.es/archivo/periodicos/abc-madrid-19870415-34.html). *ABC*. Madrid, p. 34.
+
+—. (1987, 16 de abril). [La Unión Soviética continúa utilizando la psiquiatría como arma represiva](https://www.abc.es/archivo/periodicos/abc-madrid-19870416-25.html). *ABC*. Madrid, p. 25.
+
+—. (1987, 19 de abril). [Los Festivales de Viena, con la Caballé y Plácido Domingo](https://www.abc.es/archivo/periodicos/abc-madrid-19870419-72.html). *ABC*. Madrid, p. 72.
+
+—. (1987, 21 de abril). [Extrañas declaraciones de un sacerdote lituano a favor de Gorbachov](https://www.abc.es/archivo/periodicos/abc-madrid-19870421-43.html). ABC. Madrid, p. 43.
+
+—. (1987, 28 de abril). Ligachov, crítico frente a las reformas de Gorbachov. *ABC*, p. 29.
+
+—. (1987, 28 de abril). [El Departamento de Estado USA afirma tener pruebas del pasado nazi de Kurt Waldheim](https://www.abc.es/archivo/periodicos/abc-madrid-19870428-29.html). *ABC*. Madrid, p. 29. [colaboración dentro del artículo].
+
+—. (1987, 29 de abril). [Irritación en Austria por las acusaciones a Waldheim](https://www.abc.es/archivo/periodicos/abc-madrid-19870429-37.html). *ABC*. Madrid, p. 37.
+
+—. (1987, 18 de julio). [Literatura española en alemán: algunas islas en un mar de desconocimiento](https://www.abc.es/archivo/periodicos/abc-madrid-19870718-44.html). *ABC*. Madrid, p. 44.
+
+—. (1987, 26 de julio). [Karajan y Mozart inauguran hoy los Festivales de Salzburgo](https://www.abc.es/archivo/periodicos/abc-madrid-19870726-81.html). *ABC*. Madrid, p. 81.
+
+—. (1987, 28 de julio). [Propuesta de la OTAN sobre desarme convencional](https://www.abc.es/archivo/periodicos/abc-madrid-19870728-25.html). *ABC*. Madrid, p. 25. <>
+
+
 ---
 
 <h2 id="1989">1989 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
