@@ -8,7 +8,7 @@ description: "Artículos publicados por José Manuel Grau Navarro (firmados como
 Artículos publicados por **José Manuel Grau Navarro** (firmados como **José Grau**) en *ABC* entre 1985 y 2013. Archivo en curso de elaboración.
 
 <p id="inicio">
-<a href="#1985">1985</a> · <a href="#1986">1986</a> · <a href="#1986">1987</a> · <a href="#1989">1989</a> · <a href="#1990">1990</a> · <a href="#1994">1994</a> · <a href="#1997">1997</a> · <a href="#1998">1998</a> · <a href="#1999">1999</a> · <a href="#2000">2000</a> · <a href="#2001">2001</a> · <a href="#2002">2002</a> · <a href="#2003">2003</a> · <a href="#2004">2004</a> · <a href="#2005">2005</a> · <a href="#2006">2006</a> · <a href="#2009">2009</a> · <a href="#2010">2010</a> · <a href="#2011">2011</a> · <a href="#2012">2012</a>
+<a href="#1985">1985</a> · <a href="#1986">1986</a> · <a href="#1987">1987</a> · <a href="#1988">1988</a> · <a href="#1989">1989</a> · <a href="#1990">1990</a> · <a href="#1994">1994</a> · <a href="#1997">1997</a> · <a href="#1998">1998</a> · <a href="#1999">1999</a> · <a href="#2000">2000</a> · <a href="#2001">2001</a> · <a href="#2002">2002</a> · <a href="#2003">2003</a> · <a href="#2004">2004</a> · <a href="#2005">2005</a> · <a href="#2006">2006</a> · <a href="#2009">2009</a> · <a href="#2010">2010</a> · <a href="#2011">2011</a> · <a href="#2012">2012</a>
 </p>
 
 ---
@@ -179,11 +179,83 @@ Grau Navarro, José Manuel. (1987, 2 de enero). El Comité Central del Partido C
 
 —. (1987, 29 de abril). [Irritación en Austria por las acusaciones a Waldheim](https://www.abc.es/archivo/periodicos/abc-madrid-19870429-37.html). *ABC*. Madrid, p. 37.
 
+—. (1987, 2 de junio). [La angustia expresionista de Kafka centra un simposio literario en Viena](https://www.abc.es/archivo/periodicos/abc-madrid-19870602-48.html). *ABC*, Madrid, p. 48. 
+
+—. (1987, 2 de junio). Persiste la tensión rumano-húngara por la minoría magiar de Transilvania. *ABC*, p. 35.
+
+—. (1987, 5 de junio). [Esplendor y decadencia del gran sueño imperial austro-húngaro entre dos siglos. Exposición en Viena sobre la época de Francisco José](https://www.abc.es/archivo/periodicos/abc-madrid-19870605-57.html). *ABC*. Madrid, p. 57.
+
+—. (1987, 18 de junio). [España estudia aplicar el decomiso de bienes a los traficantes de drogas](https://www.abc.es/archivo/periodicos/abc-madrid-19870618-59.html). *ABC*. Madrid, p. 59.
+
+—. (1987, 19 de junio). [García Vargas: «La nueva convención sobre drogas no afectará mucho a España»](https://www.abc.es/archivo/periodicos/abc-madrid-19870619-52.html). *ABC*, Madrid, p. 52. 
+
+—. (1987, 24 de junio). [Viena: Se espera llegar a un acuerdo contra la droga](https://www.abc.es/archivo/periodicos/abc-madrid-19870624-50.html). *ABC*, Madrid, p. 50. 
+
+—. (1987, 27 de junio). [Amplia reestructuración del Poder en los órganos de Gobierno húngaros](https://www.abc.es/archivo/periodicos/abc-madrid-19870627-31.html). *ABC*. Madrid, p. 31.
+
+—. (1987, 27 de junio). [Compromiso internacional para financiar la lucha contra el tráfico de estupefacientes](https://www.abc.es/archivo/periodicos/abc-madrid-19870627-42.html). *ABC*. Madrid, p. 42.
+
+—. (1987, 10 de julio). [Austria firma con la URSS cinco acuerdos de cooperación](https://www.abc.es/archivo/periodicos/abc-madrid-19870710-32.html). *ABC*. Madrid, p. 32.
+
 —. (1987, 18 de julio). [Literatura española en alemán: algunas islas en un mar de desconocimiento](https://www.abc.es/archivo/periodicos/abc-madrid-19870718-44.html). *ABC*. Madrid, p. 44.
 
 —. (1987, 26 de julio). [Karajan y Mozart inauguran hoy los Festivales de Salzburgo](https://www.abc.es/archivo/periodicos/abc-madrid-19870726-81.html). *ABC*. Madrid, p. 81.
 
-—. (1987, 28 de julio). [Propuesta de la OTAN sobre desarme convencional](https://www.abc.es/archivo/periodicos/abc-madrid-19870728-25.html). *ABC*. Madrid, p. 25. <>
+—. (1987, 28 de julio). [Propuesta de la OTAN sobre desarme convencional](https://www.abc.es/archivo/periodicos/abc-madrid-19870728-25.html). *ABC*. Madrid, p. 25.
+
+—. (1987, 29 de julio). [Viena: Descubren un presunto autorretrato de Hitler](https://www.abc.es/archivo/periodicos/abc-madrid-19870729-41.html). *ABC*. Madrid, p. 41.
+
+—. (1987, 3 de agosto). [«El libro» de Tabori quedó cerrado en Salzburgo y la polémica abierta](https://www.abc.es/archivo/periodicos/abc-madrid-19870803-63.html). *ABC*. Madrid, p. 63.
+
+—. (1987, 2 de septiembre). [Las arquitecturas fantásticas de Gaudí inundan Viena con la mística del modernismo. La exposición «Gaudí y Barcelona», inaugurada ayer por Maragall](https://www.abc.es/archivo/periodicos/abc-madrid-19870902-29.html). *ABC*. Madrid, p. 29.
+
+—. (1987, 4 de septiembre). [Nuevo suceso milagroso en Ucrania, consecuencia de las que se creen apariciones de la Virgen](https://www.abc.es/archivo/periodicos/abc-madrid-19870904-42.html). *ABC*. Madrid, p. 42.
+
+—. (1987, 8 de septiembre). [Congreso europeo sobre el papel de la Iglesia en Iberoamérica](https://www.abc.es/archivo/periodicos/abc-madrid-19870908-38.html). *ABC*. Madrid, p. 38.
+
+—. (1987, 9 de septiembre). [El XV Congreso Mundial de Cajas de Ahorro comienza hoy en Viena](https://www.abc.es/archivo/periodicos/abc-madrid-19870909-64.html). *ABC*. Madrid, p. 64.
+
+—. (1987, 18 de septiembre). [El escándalo financiero yugoslavo salpica al primer ministro](https://www.abc.es/archivo/periodicos/abc-madrid-19870918-29.html). *ABC*. Madrid, p. 29.
+
+—. (1987, 28 de septiembre). [El español aspira a ser la segunda lengua del Bachillerato austriaco](https://www.abc.es/archivo/periodicos/abc-madrid-19870928-45.html). *ABC*. Madrid, p. 45.
+
+—. (1987, 7 de octubre). [El Partido Comunista rumano, impotente ante la grave crisis energética del país](https://www.abc.es/archivo/periodicos/abc-madrid-19871007-34.html). *ABC*. Madrid, p. 34.
+
+—. (1987, 11 de octubre). [Thomas Mann y Marilyn Monroe en casa de los Freud](https://www.abc.es/archivo/periodicos/abc-madrid-19871011-47.html). *ABC*. Madrid, p. 47.
+
+—. (1987, 18 de octubre). [Europa del Este observa con inquietud y sin entusiasmo la vía reformista](https://www.abc.es/archivo/periodicos/abc-madrid-19871018-53.html). *ABC*, Madrid, p. 53. 
+
+—. (1987, 18 de octubre). [Ceaucescu, el límite de la discrepancia posible](https://www.abc.es/archivo/periodicos/abc-madrid-19871018-53.html). *ABC*, Madrid, p. 53.
+
+—. (1987, 19 de noviembre). [El «caso Waldheim» provoca la dimisión del líder de los conservadores austriacos](https://www.abc.es/archivo/periodicos/abc-madrid-19871119-52.html). *ABC*. Madrid, p. 52.
+
+—. (1987, 20 de noviembre). [Christa Wolf, asediada por el lobo de la crítica](https://www.abc.es/archivo/periodicos/abc-madrid-19871120-49.html). *ABC*. Madrid, p. 49.
+
+—. (1987, 14 de diciembre). [El pleno del PC rumano estudia la inestabilidad del régimen](https://www.abc.es/archivo/periodicos/abc-madrid-19871214-31.html). *ABC*. Madrid, p. 31.
+
+—. (1987, 15 de diciembre). [Ceaucescu aumenta un diez por ciento los salarios para frenar el malestar social](https://www.abc.es/archivo/periodicos/abc-madrid-19871215-39.html). *ABC*. Madrid, p. 39.
+
+—. (1987, 16 de diciembre). [Nicolás Ceaucescu reitera su rechazo a la «perestroika» de Gorbachov](https://www.abc.es/archivo/periodicos/abc-madrid-19871216-35.html). *ABC*. Madrid, p. 35.
+
+—. (1987, 16 de diciembre). [«Patinaje» a la luz de la luna, sin otro lugar para el ocio](https://www.abc.es/archivo/periodicos/abc-madrid-19871216-35.html). *ABC*. Madrid, p. 35.
+
+—. (1987, 17 de diciembre). [Nuevos brotes de agitación en Rumania en la clausura del Congreso comunista](https://www.abc.es/archivo/periodicos/abc-madrid-19871217-44.html). *ABC*. Madrid, p. 44. 
+
+—. (1987, 17 de diciembre). [Desventuras de una máquina de escribir](https://www.abc.es/archivo/periodicos/abc-madrid-19871217-44.html). *ABC*. Madrid, p. 44. 
+
+—. (1987, 19 de diciembre). [El Gobierno rumano borra las señales del levantamiento obrero en Brasov](https://www.abc.es/archivo/periodicos/abc-madrid-19871219-43.html). *ABC*. Madrid, p. 43.
+
+—. (1987, 23 de diciembre). [Paseo por el hambre y la miseria bajo la efigie del Conducator Ceaucescu](https://www.abc.es/archivo/periodicos/abc-madrid-19871223-53.html). *ABC*. Madrid, p. 53.
+
+---
+<h2 id="1988">1988 <a href="#inicio" title="Volver al índice" style="font-size:0.6em; font-weight:normal; text-decoration:none; margin-left:0.5em;">↑ inicio</a></h2>
+
+
+
+Grau Navarro, José Manuel. (1988, 28 de enero). [Thomas Mann contra Hitler: un exiliado que anuncia la inminencia de la catástrofe](https://www.abc.es/archivo/periodicos/abc-madrid-19880128-45.html). *ABC*. Madrid, p. 45.
+
+
+
 
 
 ---
