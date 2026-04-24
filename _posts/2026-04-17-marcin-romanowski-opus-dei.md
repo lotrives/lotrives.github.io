@@ -6,7 +6,7 @@ tags: ["Marcin Romanowski", "Opus Dei", "Numerario", "San Josemaría Escrivá de
 description: "Marcin Romanowski se encuentra refugiado en Hungría y la prensa polaca se pregunta si con el cambio de Gobierno en Budapest será extraditado y cómo actuará el Opus Dei"
 image: "/assets/images/marcin-romanowski.webp"
 canonical_url: "https://lotrives.github.io/2026/04/17/marcin-romanowski-opus-dei/"
-last_modified_at: 2026-04-19
+last_modified_at: 2026-04-24
 ---
 
 #### La prensa polaca se pregunta si con el cambio de Gobierno en Hungría, Romanowski será extraditado a Polonia y cómo actuará el Opus Dei al respecto
@@ -107,6 +107,18 @@ Le [respondo](https://open.substack.com/pub/lotrives/p/poder-control-y-el-caso-r
 Muchas gracias, Antonio, por tu comentario. Sí, hay testimonios contrarios, sin duda. Al margen de que en cualquier institución siempre se produce la tensión entre lo que debe o debería ser, y lo que es, aquí echo de menos esas circulares de las que habla Trías. Sin leer esas circulares, sin saber quién las escribió, por qué las escribió y cuál era el contexto de aquellos textos, al menos yo no me hago una idea cierta de qué pensar de ese pasaje de las memorias de Trías. Lo que afirmo a continuación, no digo que sea lo mismo, pero ilustra mi posición. Yo mismo podría aportar frases sueltas oídas de mis años de numerario que, sacadas de contexto, sonarían dañinas para el Opus Dei, pero sé que las tendría que sacar de contexto, y eso no es justo, me parece. Abrazos.
 
 [No dispongo del libro de Trías. Hay un apunte bibliográfico de él en una página oficial del Opus Dei, [aquí](https://cedejbiblioteca.unav.edu/web/centro-de-estudios-josemaria-escriva/biblioteca-virtual/details.vm?lang=en&s=3&view=global&w=sortAuthorities:%22Polo,+Leonardo%22), y sé que se menciona el mismo pasaje que cita Antonio Díaz en otra web de crítica al Opus Dei, [aquí](https://sinmiedoalopusdei.blogspot.com/2011/05/la-salida-del-opus-dei-de-eugenio-trias.html)]. 
+
+#### Actualización del 24 de abril de 2026
+
+Nueva [contestación](https://open.substack.com/pub/lotrives/p/poder-control-y-el-caso-romanowski?utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=246024605) de Antonio Díaz:
+
+*Parece que Eugenio Trias sí que se hace «una idea cierta de qué pensar» sobre lo que leyó, y fue él quién las leyó, no nosotros.*
+
+*Si uno tiene un juicio previo favorable hacia el Opus Dei, le quita hierro a estas cosas, como se las quita a que —y esto sí que lo puedes leer, y sabes quién es el responsable de esos escritos— desde 1983 los estatutos digan una cosa sobre el régimen económico de TODOS los de la prelatura, y el catecismo, que en teoría explica los estatutos, diga otra cosa distinta sobre el régimen económico de los célibes (una mentira que enriquece a la prelatura y empobrece a los célibes; vamos, lo que viene a ser una estafa, aunque prescrita en muchos casos, a miles de personas).*
+
+*A mí las dos cosas, sobre todo en una entidad que dice querer servir a Dios, me parecen tremendamente graves, pero ya sabes que mi punto de vista es distinto del tuyo. Y en cualquier caso dejo el juicio a Dios que juzgará con rectitud. No voy a reclamar dinero.*
+
+*De todos modos, si admites que Trias dice la verdad, y el escrito venía de Roma, no hace falta ser un genio, conociendo el Opus Dei, para saber quién era el responsable último, lo escribiese quién lo escribiese.*
 
 ---
 
