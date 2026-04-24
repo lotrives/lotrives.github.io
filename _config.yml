@@ -47,3 +47,6 @@ github_username: "lotrives"
 
 sass:
   style: compressed
+
+feed:
+  posts_limit: 100
