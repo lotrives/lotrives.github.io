@@ -50,3 +50,4 @@ sass:
 
 feed:
   posts_limit: 100
+  icon: /apple-touch-icon.png
