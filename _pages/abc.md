@@ -254,9 +254,22 @@ Grau Navarro, José Manuel. (1987, 2 de enero). El Comité Central del Partido C
 
 Grau Navarro, José Manuel. (1988, 28 de enero). [Thomas Mann contra Hitler: un exiliado que anuncia la inminencia de la catástrofe](https://www.abc.es/archivo/periodicos/abc-madrid-19880128-45.html). *ABC*. Madrid, p. 45.
 
+—. (1988, 30 de enero). [Aumenta la actividad religiosa según el Gobierno soviético](https://www.abc.es/archivo/periodicos/abc-madrid-19880130-39.html). *ABC*, Madrid, p. 39. 
 
 
+—. (1988, 2 de febrero). [Polémica en torno a la nueva «prueba» contra Waldheim](https://www.abc.es/archivo/periodicos/abc-madrid-19880202-29.html).  ABC, Madrid, p. 29. 
 
+—. (1988, 4 de febrero). [Clima de revuelta popular en Polonia tras las fuertes subidas de precios](https://www.abc.es/archivo/periodicos/abc-madrid-19880204-41.html). *ABC*, Madrid, p. 41.
+
+—. (1988, 5 de febrero). [El Gobierno austriaco critica la actitud yugoslava en el caso Waldheim](https://www.abc.es/archivo/periodicos/abc-madrid-19880205-29.html). *ABC*, Madrid, p. 29.
+
+—. (1988, 26 de octubre). [Wałęsa no acepta las condiciones del Gobierno polaco para la «mesa redonda»](https://www.abc.es/archivo/periodicos/abc-madrid-19881026-33.html). *ABC*, Madrid, p. 33. 
+
+—. (1988, 30 de octubre). [Varsovia insiste en la idea de mantener la mesa redonda](https://www.abc.es/archivo/periodicos/abc-madrid-19881030-42.html). *ABC*, Madrid, p. 42. 
+
+—. (1988, 1 de noviembre). [El Gobierno polaco ordena el cierre del astillero Lenin, cuna de Solidaridad](https://www.abc.es/archivo/periodicos/abc-madrid-19881101-27.html). *ABC*, Madrid, p. 27.
+
+—. (1988, 3 de noviembre). [Lech Wałęsa convierte el cierre del astillero en «una cuestión de Estado»](https://www.abc.es/archivo/periodicos/abc-madrid-19881103-50.html). *ABC*, Madrid, p. 50. 
 
 ---
 
