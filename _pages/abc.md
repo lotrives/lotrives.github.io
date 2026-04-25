@@ -263,6 +263,28 @@ Grau Navarro, José Manuel. (1988, 28 de enero). [Thomas Mann contra Hitler: un 
 
 —. (1988, 5 de febrero). [El Gobierno austriaco critica la actitud yugoslava en el caso Waldheim](https://www.abc.es/archivo/periodicos/abc-madrid-19880205-29.html). *ABC*, Madrid, p. 29.
 
+—. (1988, 27 de julio). [La Asamblea serbia asumirá funciones de las autonomías del Kosovo y Voivodina](https://www.abc.es/archivo/periodicos/abc-madrid-19880727-26.html). ABC, Madrid, p. 26.
+
+—. (1988, 28 de julio). [Manifestaciones en Eslovenia tras la condena a un militar y tres periodistas](https://www.abc.es/archivo/periodicos/abc-madrid-19880728-30.html). *ABC*, Madrid, p. 30.
+
+—. (1988, 29 de julio). [Duras críticas del jefe del partido de Eslovenia al «centralismo» de Belgrado](https://www.abc.es/archivo/periodicos/abc-madrid-19880729-29.html). *ABC*, Madrid, p. 29.
+
+—. (1988, 30 de julio). [La reunión de los comunistas yugoslavos se prevé tormentosa](https://www.abc.es/archivo/periodicos/abc-madrid-19880730-23.html). *ABC*, Madrid, p. 23.
+
+—. (1988, 31 de julio). [Belgrado reconoce en el problema del Kosovo un riesgo para la unidad del país](https://www.abc.es/archivo/periodicos/abc-madrid-19880731-32.html). *ABC*, Madrid, p. 32.
+
+—. (1988, 2 de agosto). [Violento aniversario de la ocupación nazi de Varsovia](www.abc.es/archivo/periodicos/abc-madrid-19880802-22.html). *ABC*, Madrid, p. 22. 
+
+—. (1988, 5 de agosto). [Autorizan al PEN polaco para reanudar sus actividades](https://www.abc.es/archivo/periodicos/abc-madrid-19880805-24.html%0A). *ABC*, Madrid, p. 24.
+
+—. (1988, 6 de agosto). [Ceaucescu comienza a destruir pueblos en Transilvania](https://www.abc.es/archivo/periodicos/abc-madrid-19880806-23.html). *ABC*, Madrid, p. 23.
+
+—. (1988, 8 de agosto). [Nueva edición austriaca del diario Pravda en alemán](https://www.abc.es/archivo/periodicos/abc-madrid-19880808-26.html). *ABC*, Madrid, p. 26.
+
+—. (1988, 8 de agosto). [La CSCE aplaza para el otoño su documento de derechos civiles](https://www.abc.es/archivo/periodicos/abc-madrid-19880808-24.html). *ABC*, Madrid, p. 24.
+
+—. (1988, 18 de agosto). La huelga polaca se extiende como una mancha de aceite. ABC. https://www.abc.es/archivo/periodicos/abc-madrid-19880818-20.html
+
 —. (1988, 26 de octubre). [Wałęsa no acepta las condiciones del Gobierno polaco para la «mesa redonda»](https://www.abc.es/archivo/periodicos/abc-madrid-19881026-33.html). *ABC*, Madrid, p. 33. 
 
 —. (1988, 30 de octubre). [Varsovia insiste en la idea de mantener la mesa redonda](https://www.abc.es/archivo/periodicos/abc-madrid-19881030-42.html). *ABC*, Madrid, p. 42. 
