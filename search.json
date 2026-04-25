@@ -32,19 +32,23 @@ permalink: /search.json
   }
   {% assign first = false %}
 
+  {% assign excluir = "/search.json|/feed.xml|/sitemap.xml|/robots.txt|/404.html|/buscar/" %}
+
   {% for page in site.pages %}
-    {% if page.url == '/acerca/' or page.url == '/abc/' or page.url == '/etiquetas/' %}
-      {% unless first %},{% endunless %}
-      {
-        "id": {{ page.url | jsonify }},
-        "title": {{ page.title | jsonify }},
-        "url": {{ page.url | relative_url | jsonify }},
-        "date": {{ page.date | default: "" | date_to_string | jsonify }},
-        "excerpt": {{ page.description | default: page.excerpt | default: "" | strip_html | strip_newlines | truncate: 160 | jsonify }},
-        "content": {{ page.content | strip_html | strip_newlines | jsonify }},
-        "tags": {{ page.tags | join: ", " | jsonify }}
-      }
-      {% assign first = false %}
-    {% endif %}
+    {% unless excluir contains page.url %}
+      {% if page.title and page.title != "" %}
+        {% unless first %},{% endunless %}
+        {
+          "id": {{ page.url | jsonify }},
+          "title": {{ page.title | jsonify }},
+          "url": {{ page.url | relative_url | jsonify }},
+          "date": {{ page.date | default: "" | date_to_string | jsonify }},
+          "excerpt": {{ page.description | default: page.excerpt | default: "" | strip_html | strip_newlines | truncate: 160 | jsonify }},
+          "content": {{ page.content | strip_html | strip_newlines | jsonify }},
+          "tags": {{ page.tags | join: ", " | jsonify }}
+        }
+        {% assign first = false %}
+      {% endif %}
+    {% endunless %}
   {% endfor %}
 ]
