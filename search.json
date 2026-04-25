@@ -32,7 +32,7 @@ permalink: /search.json
   }
   {% assign first = false %}
 
-  {% assign excluir = "/search.json|/feed.xml|/sitemap.xml|/robots.txt|/404.html|/buscar/" %}
+  {% assign excluir = "/search.json|/feed.xml|/sitemap.xml|/robots.txt|/404.html|/buscar/|/archivo/|/etiquetas/|/etiquetas-substack/|/newsletter/" %}
 
   {% for page in site.pages %}
     {% unless excluir contains page.url %}
