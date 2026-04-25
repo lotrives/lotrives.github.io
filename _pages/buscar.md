@@ -19,6 +19,7 @@ permalink: /buscar/
   .b-excerpt mark { background:#ffeaa0; border-radius:2px; padding:0 2px; }
   .b-tags { margin-top:0.5rem; font-size:0.75rem; color:#888; }
   .b-nada { font-style:italic; color:#888; }
+  .b-aproximado { font-size:0.85rem; color:#888; font-style:italic; margin-bottom:1rem; padding:0.5rem 0.75rem; border-left:3px solid #e0e0e0; }
 </style>
 
 <script>
@@ -32,13 +33,24 @@ permalink: /buscar/
     return (str||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
   }
 
-  function normalize(str) {
+  // Normalización solo española: elimina tildes y pasa a minúsculas,
+  // pero respeta los caracteres polacos (ł, ą, ę, ś, ź, ż, ć, ń)
+  // y la ó polaca (que coincide con la española, caso ambiguo).
+  function normalizeEs(str) {
+    if (!str) return '';
+    return str
+      .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+      .toLowerCase();
+  }
+
+  // Normalización completa: española + polaca.
+  // Se usa solo como fallback cuando la búsqueda exacta no da resultados.
+  function normalizeFull(str) {
     if (!str) return '';
     return str
       .replace(/ł/g, 'l').replace(/Ł/g, 'l')
       .replace(/ą/g, 'a').replace(/Ą/g, 'a')
       .replace(/ę/g, 'e').replace(/Ę/g, 'e')
-      .replace(/ó/g, 'o').replace(/Ó/g, 'o')
       .replace(/ś/g, 's').replace(/Ś/g, 's')
       .replace(/ź/g, 'z').replace(/Ź/g, 'z')
       .replace(/ż/g, 'z').replace(/Ż/g, 'z')
@@ -48,16 +60,30 @@ permalink: /buscar/
       .toLowerCase();
   }
 
+  function matchEs(p, qn) {
+    return normalizeEs(p.title).indexOf(qn) !== -1 ||
+           normalizeEs(p.content).indexOf(qn) !== -1 ||
+           normalizeEs(p.excerpt).indexOf(qn) !== -1 ||
+           normalizeEs(p.tags).indexOf(qn) !== -1;
+  }
+
+  function matchFull(p, qn) {
+    return normalizeFull(p.title).indexOf(qn) !== -1 ||
+           normalizeFull(p.content).indexOf(qn) !== -1 ||
+           normalizeFull(p.excerpt).indexOf(qn) !== -1 ||
+           normalizeFull(p.tags).indexOf(qn) !== -1;
+  }
+
   function hl(text, q) {
     if (!q) return esc(text);
     var safe = q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     return esc(text).replace(new RegExp('(' + esc(safe) + ')', 'gi'), '<mark>$1</mark>');
   }
 
-  function excerpt(text, q) {
+  function excerpt(text, q, normFn) {
     var src = text || '';
-    var srcNorm = normalize(src);
-    var qNorm = normalize(q);
+    var srcNorm = normFn(src);
+    var qNorm = normFn(q);
     var idx = q ? srcNorm.indexOf(qNorm) : -1;
     var s = idx > 60 ? idx - 60 : 0;
     var chunk = src.slice(s, s + 220);
@@ -72,6 +98,17 @@ permalink: /buscar/
     return isNaN(d) ? raw : d.toLocaleDateString('es-ES', { year:'numeric', month:'long', day:'numeric' });
   }
 
+  function renderCards(matched, q, normFn) {
+    return matched.map(function(p) {
+      return '<div class="b-card">' +
+        '<a href="' + esc(p.url) + '">' + hl(p.title||'', q) + '</a>' +
+        '<div class="b-date">' + fmtDate(p.date) + '</div>' +
+        '<div class="b-excerpt">' + excerpt(p.content||p.excerpt||'', q, normFn) + '</div>' +
+        (p.tags ? '<div class="b-tags">' + (p.tags).split(', ').map(function(t){ return '#' + esc(t.trim()); }).join(' ') + '</div>' : '') +
+        '</div>';
+    }).join('');
+  }
+
   function search(query) {
     var q = query.trim();
     if (!q) {
@@ -79,24 +116,32 @@ permalink: /buscar/
       status.innerHTML = posts.length + ' entradas indexadas';
       return;
     }
-    var qn = normalize(q);
-    var matched = posts.filter(function(p) {
-      return normalize(p.title).indexOf(qn) !== -1 ||
-             normalize(p.content).indexOf(qn) !== -1 ||
-             normalize(p.excerpt).indexOf(qn) !== -1 ||
-             normalize(p.tags).indexOf(qn) !== -1;
-    });
-    var n = matched.length;
-    status.innerHTML = n + ' resultado' + (n !== 1 ? 's' : '') + ' para "<strong>' + esc(q) + '</strong>"';
-    if (!n) { results.innerHTML = '<p class="b-nada">No se encontró nada.</p>'; return; }
-    results.innerHTML = matched.map(function(p) {
-      return '<div class="b-card">' +
-        '<a href="' + esc(p.url) + '">' + hl(p.title||'', q) + '</a>' +
-        '<div class="b-date">' + fmtDate(p.date) + '</div>' +
-        '<div class="b-excerpt">' + excerpt(p.content||p.excerpt||'', q) + '</div>' +
-        (p.tags ? '<div class="b-tags">' + (p.tags).split(', ').map(function(t){ return '#' + esc(t.trim()); }).join(' ') + '</div>' : '') +
-        '</div>';
-    }).join('');
+
+    // Búsqueda exacta (normalización solo española)
+    var qEs = normalizeEs(q);
+    var matched = posts.filter(function(p) { return matchEs(p, qEs); });
+
+    if (matched.length > 0) {
+      var n = matched.length;
+      status.innerHTML = n + ' resultado' + (n !== 1 ? 's' : '') + ' para "<strong>' + esc(q) + '</strong>"';
+      results.innerHTML = renderCards(matched, q, normalizeEs);
+      return;
+    }
+
+    // Fallback: búsqueda aproximada (normalización completa, incluye polaco)
+    var qFull = normalizeFull(q);
+    var matchedFull = posts.filter(function(p) { return matchFull(p, qFull); });
+
+    var nFull = matchedFull.length;
+    if (nFull > 0) {
+      status.innerHTML = nFull + ' resultado' + (nFull !== 1 ? 's' : '') + ' aproximado' + (nFull !== 1 ? 's' : '') + ' para "<strong>' + esc(q) + '</strong>"';
+      results.innerHTML =
+        '<div class="b-aproximado">No se encontraron resultados exactos. Se muestran resultados aproximados (con caracteres equivalentes).</div>' +
+        renderCards(matchedFull, q, normalizeFull);
+    } else {
+      status.innerHTML = '0 resultados para "<strong>' + esc(q) + '</strong>"';
+      results.innerHTML = '<p class="b-nada">No se encontró nada.</p>';
+    }
   }
 
   fetch('/search.json')
