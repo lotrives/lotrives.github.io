@@ -72,8 +72,24 @@ Grau Navarro, José Manuel. (1985, 25 de abril). [Los nuevos nombramientos en el
 —. (1985, 16 de junio).  [La vida cultural y artística de Viena, en una magna exposición.](https://www.abc.es/archivo/periodicos/abc-madrid-19850616-50.html) *ABC*. Madrid, p. 50.
 
 
+—. (1985, 18 de junio).  [Primeros cien días de Gorbachov al frente del PCUS.](https://www.abc.es/archivo/periodicos/abc-madrid-19850618-30.html) *ABC*. Madrid, p. 30.
+
+—. (1985, 19 de junio).  [Se intensifica la campaña en la URSS contra la disidencia.](https://www.abc.es/archivo/periodicos/abc-madrid-19850619-34.html) *ABC*. Madrid, p. 34.
+
+—. (1985, 19 de junio).  [Nuevo proceso de siete militantes de Solidaridad.](https://www.abc.es/archivo/periodicos/abc-madrid-19850623-36.html) *ABC*. Madrid, p. 36.
+
+—. (1985, 27 de junio).  Tijonov se pronuncia por una mayor unión en el Comecon. *ABC*, p. 39.
+
+—. (1985, 1 de julio). [Llamamiento de Wałęsa para secundar la huelga general hoy en Polonia.](https://www.abc.es/archivo/periodicos/abc-madrid-19850701-29.html) *ABC*. Madrid, p. 29.
+
+—. (1985, 2 de julio). [Huelga general en Polonia contra la subida de la carne.](https://www.abc.es/archivo/periodicos/abc-madrid-19850702-27.html) *ABC*. Madrid, p. 27.
+
+
+
 
 —. (1985, 4 de julio). [Viena exhibe una gran muestra de dibujos y grabados de Durero sobre la naturaleza.](https://www.abc.es/archivo/periodicos/abc-madrid-19850704-46.html) *ABC*. Madrid, p. 46.
+
+
 
 ---
 
@@ -283,7 +299,9 @@ Grau Navarro, José Manuel. (1988, 28 de enero). [Thomas Mann contra Hitler: un 
 
 —. (1988, 8 de agosto). [La CSCE aplaza para el otoño su documento de derechos civiles](https://www.abc.es/archivo/periodicos/abc-madrid-19880808-24.html). *ABC*, Madrid, p. 24.
 
-—. (1988, 18 de agosto). La huelga polaca se extiende como una mancha de aceite. ABC. https://www.abc.es/archivo/periodicos/abc-madrid-19880818-20.html
+—. (1988, 18 de agosto). [La huelga polaca se extiende como una mancha de aceite](https://www.abc.es/archivo/periodicos/abc-madrid-19880818-20.html). *ABC*, Madrid, p. 20.
+
+—. (1988, 19 de agosto). [Se extiende el movimiento de protesta social y las huelgas en Polonia](https://www.abc.es/archivo/periodicos/abc-madrid-19880819-22.html). ABC, Madrid, p. 22.
 
 —. (1988, 26 de octubre). [Wałęsa no acepta las condiciones del Gobierno polaco para la «mesa redonda»](https://www.abc.es/archivo/periodicos/abc-madrid-19881026-33.html). *ABC*, Madrid, p. 33. 
 
