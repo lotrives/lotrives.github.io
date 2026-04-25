@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Publicaciones en otros medios"
-nav_title: "Publicaciones"
+title: "Otras publicaciones"
 permalink: /publicaciones/
 description: "Artículos y colaboraciones de José Manuel Grau Navarro en otros medios, firmados en distintas etapas como José Grau o José Manuel Navarro."
 ---
