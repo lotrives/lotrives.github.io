@@ -84,10 +84,27 @@ Grau Navarro, José Manuel. (1985, 25 de abril). [Los nuevos nombramientos en el
 
 —. (1985, 2 de julio). [Huelga general en Polonia contra la subida de la carne.](https://www.abc.es/archivo/periodicos/abc-madrid-19850702-27.html) *ABC*. Madrid, p. 27.
 
+—. (1985, 4 de julio). [Checoslovaquia celebrará, con la ausencia del Papa, las fiestas de San Metodio.](https://www.abc.es/archivo/periodicos/abc-madrid-19850704-53.html) *ABC*. Madrid, p. 53.
 
-
+—. (1985, 4 de julio). [OPEP: Arabia trata de imponer una limitación de producción.](https://www.abc.es/archivo/periodicos/abc-madrid-19850706-59.html) *ABC*. Madrid, p. 59.
 
 —. (1985, 4 de julio). [Viena exhibe una gran muestra de dibujos y grabados de Durero sobre la naturaleza.](https://www.abc.es/archivo/periodicos/abc-madrid-19850704-46.html) *ABC*. Madrid, p. 46.
+
+—. (1985, 8 de julio). [El Este de Europa, entre el desastre económico y el desencanto ideológico.](https://www.abc.es/archivo/periodicos/abc-madrid-19850708-27.html) *ABC*. Madrid, p. 27.
+
+—. (1985, 9 de julio). [Asistencia masiva en Checoslovaquia a los actos en honor de San Metodio.](https://www.abc.es/archivo/periodicos/abc-madrid-19850709-38.html) *ABC*. Madrid, p. 38.
+
+—. (1985, 11 de julio). Jaruzelski pide en Belgrado apoyo para los nuevos sindicatos oficiales. *ABC*, p. 32.
+
+—. (1985, 17 de julio). [Ayer murió en Colonia el escritor alemán Böll.](https://www.abc.es/archivo/periodicos/abc-madrid-19850717-39.html) *ABC*. Madrid, p. 39.
+
+—. (1985, 23 de julio). [Malestar yugoslavo por la nueva alza de precios.](https://www.abc.es/archivo/periodicos/abc-madrid-19850723-22.html) *ABC*. Madrid, p. 22.
+
+—. (1985, 27 de julio). [Descubiertas sustancias tóxicas en la mayoría de los vinos austriacos.](https://www.abc.es/archivo/periodicos/abc-madrid-19850727-66.html) *ABC*. Madrid, p. 66.
+
+—. (1985, 28 de julio). [Campaña del KGB contra la disidencia en Letonia, Lituania y Estonia.](https://www.abc.es/archivo/periodicos/abc-madrid-19850728-27.html) *ABC*. Madrid, p. 27.
+
+
 
 
 
