@@ -29,6 +29,8 @@ include:
 header_pages:
   - _pages/acerca.md
   - _pages/archivo.md
+  - _pages/publicaciones.md
+  - _pages/libros.md
   - _pages/etiquetas.md
   - _pages/buscar.md
   - _pages/newsletter.md
@@ -47,3 +49,7 @@ github_username: "lotrives"
 
 sass:
   style: compressed
+
+feed:
+  posts_limit: 100
+  icon: /apple-touch-icon.png
