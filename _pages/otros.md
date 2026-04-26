@@ -33,6 +33,11 @@ Grau, J. (1988, julio). Conflictos con la «cultura oficial» en Checoslovaquia.
 
 Grau, J. (1988, agosto–septiembre). Juan Pablo II en Austria. *Palabra*, n.º 278–279, pp. 14–16. (Sección «Mundo»)
 
+
+## *Época* (Madrid)
+
+Grau, J. (1985, 19-25 de agosto). Clan Ceausescu: el nepotismo al poder. *Época*, pp. 74-6.
+
 ## *Panorama* (Milán)
 
 Grau, J. (1987, 15 de marzo). Husak è più realista del re [Entrevista con Zdenek Mlynar]. *Panorama*, XXV(1109). (Sección internacional; corresponsal en Viena)
