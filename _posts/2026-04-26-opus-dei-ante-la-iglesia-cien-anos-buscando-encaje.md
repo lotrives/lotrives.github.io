@@ -70,13 +70,16 @@ En *Ad charisma tuendum* se determina que «los Estatutos propios de la Prelatur
 ### Observaciones
 
 Léase de nuevo el primer texto de todos, el de **Escrivá de Balaguer**. Toda su vida buscó, como dice, una aprobación oficial eclesiástica para el Opus Dei que no desvirtuara «nuestra *vocación divina*». No lo consiguió. No le fue posible que la jerarquía de la Iglesia aceptara estos tres factores como él quería:
+
 —Que se trate de cristianos corrientes.
-—Radicalidad en la aspiración a la santidad de esos cristianos corrientes sin ser religiosos. Es decir, que aspiren a un vida contemplativa en medio del mundo, se santifiquen con el trabajo ordinario y realicen un apostolado de amistad y confidencia.
-—Ligarlos con un vínculo sólido al Opus Dei sin que el Opus Dei se convierta en una orden religiosa, como los jesuitas o los dominicos, por decir algo.
 
-Su sucesor, **Álvaro del Portillo**, en cambio, sí que llegó a esa meta. El Opus Dei consideraba que la solución de la **prelatura personal** era la adecuada a su espíritu. Escrivá de Balaguer falleció en 1975, pero muy probablemente al fundador también le habría gustado, como se ha visto en los textos de arriba.
+—Radicalidad en el deseo de santidad de esos cristianos corrientes sin ser religiosos. Es decir, que aspiren a un vida contemplativa en medio del mundo, se santifiquen con el trabajo ordinario y realicen un apostolado de amistad y confidencia.
 
-El papa Francisco cambió de nuevo el curso. En 2026, jurídicamente, el Opus Dei, desde la perspectiva de los textos oficiales aquí citados, es como si volviera al año de la fundación, a 1928. Hay un carisma del fundador que sigue sin hallar adecuación en la estructura oficial eclesiástica.
+—Ligarlos con un vínculo sólido y estable al Opus Dei sin que el Opus Dei se convierta en una orden religiosa, como los jesuitas o los salesianos, por decir algo.
+
+Su sucesor, **Álvaro del Portillo**, en cambio, sí que llegó a esa meta. El Opus Dei bajo el mando de Del Portillo y de **Javier Echevarría** consideraba que la solución de la **prelatura personal** era la adecuada a su espíritu. Escrivá de Balaguer falleció en 1975, pero muy probablemente al fundador también le habría gustado en encaje de Juan Pablo II para el Opus Dei, como se ha visto en los textos de arriba.
+
+El **papa Francisco** cambió el curso. En 2026, jurídicamente, el Opus Dei, desde la perspectiva de los textos oficiales aquí citados y todo lo que significan y hay destrás de ellos, es como si volviera al año de la fundación, a 1928. Hay un carisma del fundador que sigue sin hallar adecuación en la estructura oficial eclesiástica.
 
 Véanse también estos artículos de Lotrives:
 
