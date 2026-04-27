@@ -4,13 +4,14 @@ title: "El Opus Dei ante la Iglesia: cien años buscando encaje"
 date: 2026-04-26
 tags: [Opus Dei, Lecturas, San Josemaría Escrivá de Balaguer, Iglesia]
 description: "Del carisma fundacional de Escrivá de Balaguer a la prelatura personal y los decretos del papa Francisco: el itinerario jurídico del Opus Dei en sus documentos."
+last_modified_at: 2026-04-27
 ---
 
-Lo que sigue son notas de lectura sobre *Historia del Opus Dei* de González Gullón y Coverdale (Rialp, 5.ª ed., 2025) y *Cartas* de Escrivá de Balaguer (Rialp, 2020), centradas en un único hilo: el encaje jurídico del Opus Dei dentro de la Iglesia, desde la fundación hasta los decretos del papa Francisco. Se añaden al final algunas observaciones propias.
+Lo que sigue son notas de lectura tomadas de *Historia del Opus Dei* de González Gullón y Coverdale (Rialp, 5.ª ed., 2025) y de *Cartas* de Escrivá de Balaguer (Rialp, 2020), centradas en un único hilo: el encaje jurídico del Opus Dei dentro de la Iglesia, desde la fundación hasta los decretos del papa Francisco. Se añaden al final algunas observaciones propias.
 
 ---
 
-Dejó escrito Escrivá de Balaguer con fecha 1932:
+Redactó Escrivá de Balaguer con fecha 1932:
 
 > «Os he expuesto razones bien sobrenaturales, que me mueven a rezar con fe y a esperar, en vez de buscar ahora una aprobación oficial eclesiástica, que tendría el seguro peligro de empezar a desvirtuar nuestra *vocación divina* [cursiva en el original], confundiéndola con la vocación de los religiosos. Y esto, no: porque mi Señor Jesús me pedirá cuenta, y -es también seguro— vosotros desertaríais en masa, y haríais bien, no tolerando que fueran violentadas vuestras conciencias de hijos de Dios en la Obra de Dios».
 >
@@ -68,13 +69,20 @@ En *Ad charisma tuendum* se determina que «los Estatutos propios de la Prelatur
 
 ### Observaciones
 
-Léase de nuevo el primer texto de todos, el de Escrivá de Balaguer. Toda su vida buscó, como dice, una aprobación oficial eclesiástica para el Opus Dei que no desvirtuara «nuestra *vocación divina*». No lo consiguió en vida.
+Léase de nuevo el primer texto de todos, el de **Escrivá de Balaguer**. Toda su vida buscó, como dice, una aprobación oficial eclesiástica para el Opus Dei que no desvirtuara «nuestra *vocación divina*». No lo consiguió. No le fue posible que la jerarquía de la Iglesia aceptara estos tres factores como él quería:
+—Que se trate de cristianos corrientes.
+—Radicalidad en la aspiración a la santidad de esos cristianos corrientes sin ser religiosos. Es decir, que aspiren a un vida contemplativa en medio del mundo, se santifiquen con el trabajo ordinario y realicen un apostolado de amistad y confidencia.
+—Ligarlos con un vínculo sólido al Opus Dei sin que el Opus Dei se convierta en una orden religiosa, como los jesuitas o los dominicos, por decir algo.
 
-Su sucesor, Álvaro del Portillo, en cambio, sí. El Opus Dei consideraba que la solución de la prelatura personal era la adecuada a su espíritu. Probablemente (Escrivá de Balaguer falleció en 1975) al fundador también le habría gustado.
+Su sucesor, **Álvaro del Portillo**, en cambio, sí que llegó a esa meta. El Opus Dei consideraba que la solución de la **prelatura personal** era la adecuada a su espíritu. Escrivá de Balaguer falleció en 1975, pero muy probablemente al fundador también le habría gustado, como se ha visto en los textos de arriba.
 
-En 2026, jurídicamente, el Opus Dei, desde la perspectiva de los textos oficiales aquí citados, es como si volviera al año de la fundación. Hay un carisma del fundador que no encuentra adecuación —esa diría que es la perspectiva de los textos oficiales del Opus Dei— en la estructura oficial eclesiástica.
+El papa Francisco cambió de nuevo el curso. En 2026, jurídicamente, el Opus Dei, desde la perspectiva de los textos oficiales aquí citados, es como si volviera al año de la fundación, a 1928. Hay un carisma del fundador que sigue sin hallar adecuación en la estructura oficial eclesiástica.
 
-Véanse también estos artículos de Lotrives: [Relaciones Iglesia-Opus Dei. Una fábula](https://open.substack.com/pub/lotrives/p/relaciones-iglesia-opus-dei?utm_campaign=post-expanded-share&utm_medium=web) y [Hans Urs von Balthasar y el Opus Dei](https://open.substack.com/pub/lotrives/p/hans-urs-von-balthasar-y-el-opus-dei?utm_campaign=post-expanded-share&utm_medium=web).
+Véanse también estos artículos de Lotrives:
+
+* [¿Convendría que la Iglesia católica aboliera todas las órdenes religiosas?](https://lotrives.com/2025/11/27/iglesia-ordenes-opus-dei-abolicion/)
+* [Relaciones Iglesia-Opus Dei. Una fábula](https://open.substack.com/pub/lotrives/p/relaciones-iglesia-opus-dei?utm_campaign=post-expanded-share&utm_medium=web).
+* [Hans Urs von Balthasar y el Opus Dei](https://open.substack.com/pub/lotrives/p/hans-urs-von-balthasar-y-el-opus-dei?utm_campaign=post-expanded-share&utm_medium=web).
 
 ---
 
