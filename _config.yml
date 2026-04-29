@@ -44,9 +44,6 @@ minima:
       icon: github
       url: "https://github.com/lotrives"
 
-twitter_username: "jmgraunavarro"
-github_username: "lotrives"
-
 sass:
   style: compressed
 
