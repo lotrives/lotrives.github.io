@@ -37,7 +37,7 @@ Si alguien lee la escena 2 y no la entiende, le recomiendo este artículo: [El O
 
 **Escena 4**
 
-Vuelvo a María Pereda. No tengo su libro. No lo he leído aún, pero me atrevo a adelantar dos ideas. 
+Vuelvo a Marina Pereda. No tengo su libro. No lo he leído aún, pero me atrevo a adelantar dos ideas. 
 
 La primera: hay muchos aspectos que mejorar en la vida práctica del Opus Dei, tras casi un siglo de andadura desde su fundación. Yo mismo he señalado algunos aquí, en [Sociología del Opus Dei: España, Austria y Polonia](https://open.substack.com/pub/lotrives/p/sociologia-del-opus-dei-espana-austria-polonia). Yo mismo fui [numerario](https://opusdei.org/es/article/solteros-y-casados-numerarios-agregados-supernumerarios-en-el-opus-dei/), lo dejé, me casé, tengo tres hijos, escribí artículos como ese siendo cooperador del Opus Dei y sin embargo, el pasado 25 de diciembre de 2025 pedí la admisión como supernumerario y seguiré señalando todas las deficiencias que vea.
 
