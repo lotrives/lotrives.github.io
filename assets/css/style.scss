@@ -19,11 +19,13 @@ a:hover {
   color: #0076df;
 }
 
-/* --- ICONO X: oculta el SVG del pájaro y lo sustituye --- */
+/* --- ICONO X: oculta el pájaro y lo sustituye --- */
+.social-media-list a[href*="twitter.com"] .svg-icon,
 .social-media-list a[href*="x.com"] .svg-icon {
   display: none !important;
 }
 
+.social-media-list a[href*="twitter.com"]::before,
 .social-media-list a[href*="x.com"]::before {
   content: "";
   display: inline-block;
@@ -38,6 +40,7 @@ a:hover {
   mask-size: contain;
 }
 
+.social-media-list a[href*="twitter.com"]:hover::before,
 .social-media-list a[href*="x.com"]:hover::before {
   background-color: #000;
 }
