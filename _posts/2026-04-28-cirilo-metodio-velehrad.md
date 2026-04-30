@@ -9,7 +9,7 @@ image: "/assets/images/cirilo-metodio-velehrad-respostero.webp"
 
 ![Respostero con la inscripción КРЕЩЕНИЕ ГОСПОДНЕ en la Parroquia María Virgen Madre, Madrid, abril de 2026. Foto: © José Manuel Grau Navarro](/assets/images/cirilo-metodio-velehrad-respostero.webp)
 
-En la [Parroquia María Virgen Madre](https://open.substack.com/pub/lotrives/p/santiago-martin-de-abc-a-franciscanos?utm_campaign=post-expanded-share&utm_medium=web), mi parroquia, en Madrid, acaban de colgar el respostero que se ve en la imagen. No sé todavía a qué se ha debido pero me ha llamado mucho la atención y seguro que nuestro párroco lo explicará en breve. 
+En la [Parroquia María Virgen Madre](https://open.substack.com/pub/lotrives/p/santiago-martin-de-abc-a-franciscanos?utm_campaign=post-expanded-share&utm_medium=web), mi parroquia, en Madrid, acaban de colgar el repostero que se ve en la imagen. No sé todavía a qué se ha debido pero me ha llamado mucho la atención y seguro que nuestro párroco lo explicará en breve. 
 
 El letrero dice КРЕЩЕНИЕ ГОСПОДНЕ. Es ruso (alfabeto cirílico). Significa *Bautismo del Señor*. Крещение Господне, transliterado, es *Kreščenie Gospodne*, pronunciado en castellano así: 'kresh-che-nie gos-pod-ne'.
 
