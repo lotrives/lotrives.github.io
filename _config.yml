@@ -19,7 +19,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-last-modified-at
 
-google_analytics: G-BT8CB5X306
+# google_analytics: G-BT8CB5X306
 
 og_image: /assets/images/og-default.webp
 
